@@ -1,0 +1,10 @@
+.env
+*.env
+.env.*
+__pycache__/
+*.pyc
+node_modules/
+*.log
+audit-app/.env
+audit-app/__pycache__/
+audit-app/api/__pycache__/

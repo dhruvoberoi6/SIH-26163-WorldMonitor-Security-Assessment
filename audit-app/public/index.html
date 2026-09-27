@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>World Monitor Audit</title>
+<style>body{font-family:sans-serif;background:#0d1117;color:#e6edf3;padding:40px;margin:0}h1{color:#58a6ff}button{background:#238636;color:white;border:none;padding:12px 24px;font-size:15px;border-radius:6px;cursor:pointer}.stat{background:#161b22;border:1px solid #30363d;padding:18px;border-radius:8px;text-align:center;display:inline-block;margin:8px}.val{font-size:28px;color:#58a6ff;font-weight:700}.lbl{font-size:12px;color:#8b949e}.finding{background:#161b22;border:1px solid #30363d;padding:16px;border-radius:8px;margin:12px 0}.badge{background:#1a4d2e;color:#7ee787;padding:4px 10px;border-radius:10px;font-size:10px;font-weight:700}.risk{background:#5c1f1f;color:#ff7b72}.cfg{background:#1f3d5c;color:#79c0ff}</style>
+</head><body>
+<h1>World Monitor - Security Audit</h1>
+<p>SIH 2026 | PS 26163 | NTRO</p>
+<button onclick="runAudit()">Run Audit</button>
+<div id="results" style="display:none">
+<div id="stats"></div>
+<div id="findings"></div>
+<p id="ts" style="font-size:11px;color:#8b949e"></p>
+</div>
+<script>
+async function runAudit(){
+var r=await fetch('/api/audit');
+var d=await r.json();
+var s=document.getElementById('stats');
+s.innerHTML='<div class="stat"><div class="val">'+d.summary.total+'</div><div class="lbl">Total</div></div><div class="stat"><div class="val">'+d.summary.patched+'</div><div class="lbl">Patched</div></div><div class="stat"><div class="val">'+d.summary.residual_risk+'</div><div class="lbl">Residual Risk</div></div>';
+var h='';
+for(var i=0;i<d.findings.length;i++){
+var v=d.findings[i];
+var c=v.status.indexOf('RESIDUAL')>=0?'risk':(v.status.indexOf('CONFIG')>=0?'cfg':'');
+h+='<div class="finding"><b>'+v.name+'</b> <span class="badge '+c+'">'+v.status+'</span><p style="font-size:13px;color:#c9d1d9">'+v.description+'</p><p style="font-size:11px;color:#8b949e"><b>Component:</b> '+v.component+'<br><b>Evidence:</b> '+v.evidence+'<br><b>Severity:</b> '+v.severity+'</p></div>';
+}
+document.getElementById('findings').innerHTML=h;
+document.getElementById('ts').textContent='Audit run: '+d.timestamp;
+document.getElementById('results').style.display='block';
+}
+</script>
+</body></html>
