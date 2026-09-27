@@ -6,7 +6,23 @@
 **Organization:** NTRO
 
 ---
+## Target Application
 
+This security assessment was performed against **World Monitor v2.10.0**.
+
+- **Upstream repository:** https://github.com/koala73/worldmonitor
+- **License:** AGPL-3.0-only
+- **Copyright:** © 2024-2026 Elie Habib
+- **Author:** Elie Habib
+
+The `worldmonitor-source/` folder in this repository contains a **curated
+subset** of World Monitor's source code — only the files relevant to our
+security findings (CORS middleware, rate limiter, CSV export function,
+MCP proxy). The complete upstream source is available at the original
+repository.
+
+**Attribution:** All World Monitor source code remains the property of
+Elie Habib and contributors, licensed under AGPL-3.0-only.
 ## What This Project Is
 
 A security assessment toolkit for the World Monitor platform
