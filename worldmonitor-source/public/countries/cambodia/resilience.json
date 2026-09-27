@@ -1,0 +1,48 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KH",
+  "countryName": "Cambodia",
+  "slug": "cambodia",
+  "rank": 105,
+  "overallScore": 50.5,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Cambodia launches US$30mil initiative to reduce e-waste in five years",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/cambodia-launches-us30mil-initiative-to-reduce-e-waste-in-five-years",
+        "publishedAt": "2026-09-20T05:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "GAC Group begins vehicle assembly in Cambodia with planned annual capacity of 10,000 units",
+        "source": "gasgoo.com",
+        "url": "https://autonews.gasgoo.com/articles/market-industry/gac-group-begins-vehicle-assembly-in-cambodia-with-planned-annual-capacity-of-10000-units-2101515971679682561",
+        "publishedAt": "2026-09-20T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Foreign investment crucial for Cambodia's socio-economic growth, poverty alleviation, officials, experts say-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20260919/7a5bbccdbdf8472ba3b578709e43ed0c/c.html",
+        "publishedAt": "2026-09-19T14:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

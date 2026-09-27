@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BZ",
+  "countryName": "Belize",
+  "slug": "belize",
+  "rank": 62,
+  "overallScore": 56.6,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Belize National Orchestra Marks First Year",
+        "source": "greaterbelize.com",
+        "url": "https://www.greaterbelize.com/belize-national-orchestra-marks-first-year/",
+        "publishedAt": "2026-09-19T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "UN Questions Belize on Missing Persons",
+        "source": "greaterbelize.com",
+        "url": "https://www.greaterbelize.com/un-questions-belize-on-missing-persons/",
+        "publishedAt": "2026-09-19T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "7 News Belize",
+        "source": "7newsbelize.com",
+        "url": "https://7newsbelize.com/sstory.php?nid=79956",
+        "publishedAt": "2026-09-19T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "7 News Belize",
+        "source": "7newsbelize.com",
+        "url": "https://7newsbelize.com/sstory.php?nid=79957",
+        "publishedAt": "2026-09-19T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "7 News Belize",
+        "source": "7newsbelize.com",
+        "url": "https://7newsbelize.com/sstory.php?nid=79958",
+        "publishedAt": "2026-09-19T09:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

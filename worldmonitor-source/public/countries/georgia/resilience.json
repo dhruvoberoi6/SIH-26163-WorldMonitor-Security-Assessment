@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GE",
+  "countryName": "Georgia",
+  "slug": "georgia",
+  "rank": 59,
+  "overallScore": 56.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Remittances from Russia to Azerbaijan rise despite sanctions",
+        "source": "OC Media",
+        "url": "https://oc-media.org/remittances-from-russia-to-azerbaijan-rise-despite-sanctions/",
+        "publishedAt": "2026-09-18T13:54:03.000Z"
+      },
+      {
+        "title": "“Whoever stands against the people will not go unpunished” | Video podcast “Protests in Georgia”, day 661",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/whoever-stands-against-the-people-will-not-go-unpunished-video-podcast-protests-in-georgia-day-661/",
+        "publishedAt": "2026-09-20T05:25:00.000Z"
+      },
+      {
+        "title": "Georgia Records 6.9% GDP Growth in Q2 2026",
+        "source": "Civil.ge",
+        "url": "https://civil.ge/archives/751757",
+        "publishedAt": "2026-09-18T09:53:37.000Z"
+      },
+      {
+        "title": "Georgia Court Sentences Ex-Security Chief to 13 Years in Prison in Corruption Case",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/georgia-entences-ex-security-chief-to-13-years",
+        "publishedAt": "2026-09-18T08:46:00.000Z"
+      },
+      {
+        "title": "EU does not recognise “presidential election” in Georgia’s Russian-occupied Tskhinvali region",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/eu-condemns-russia-and-south-ossetia-election/",
+        "publishedAt": "2026-09-18T18:17:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nGeorgia recorded 6.9% GDP growth in Q2 2026. [3]\nA Georgia court sentenced an ex-security chief to 13 years in prison in a corruption case. [4]\n\nWHAT THIS MEANS FOR GEORGIA\nThe EU does not recognise the presidential election in Georgia's Russian-occupied Tskhinvali region. [5]\n\nWATCH ITEMS\nA video podcast titled “Protests in Georgia”, day 661, indicates ongoing protests. [2]",
+      "generatedAt": "2026-09-21T04:56:16.407Z",
+      "sources": [
+        {
+          "title": "Remittances from Russia to Azerbaijan rise despite sanctions",
+          "source": "OC Media",
+          "url": "https://oc-media.org/remittances-from-russia-to-azerbaijan-rise-despite-sanctions/",
+          "publishedAt": "2026-09-18T13:54:03.000Z"
+        },
+        {
+          "title": "“Whoever stands against the people will not go unpunished” | Video podcast “Protests in Georgia”, day 661",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/whoever-stands-against-the-people-will-not-go-unpunished-video-podcast-protests-in-georgia-day-661/",
+          "publishedAt": "2026-09-20T05:25:00.000Z"
+        },
+        {
+          "title": "Georgia Records 6.9% GDP Growth in Q2 2026",
+          "source": "Civil.ge",
+          "url": "https://civil.ge/archives/751757",
+          "publishedAt": "2026-09-18T09:53:37.000Z"
+        },
+        {
+          "title": "Georgia Court Sentences Ex-Security Chief to 13 Years in Prison in Corruption Case",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/georgia-entences-ex-security-chief-to-13-years",
+          "publishedAt": "2026-09-18T08:46:00.000Z"
+        },
+        {
+          "title": "EU does not recognise “presidential election” in Georgia’s Russian-occupied Tskhinvali region",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/eu-condemns-russia-and-south-ossetia-election/",
+          "publishedAt": "2026-09-18T18:17:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

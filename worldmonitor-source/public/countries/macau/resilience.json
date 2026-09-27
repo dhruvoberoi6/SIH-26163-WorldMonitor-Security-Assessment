@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MO",
+  "countryName": "Macau",
+  "slug": "macau",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.61,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "DSF expands digital payment notifications | MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/dsf-expands-digital-payment-notifications.html",
+        "publishedAt": "2026-09-21T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Macau cyber forum targets AI, data and supply-chain risks | MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/macau-cyber-forum-targets-ai-data-and-supply-chain-risks.html",
+        "publishedAt": "2026-09-21T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Macau raises key rate to 4.25% after Fed hike | MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/macau-raises-key-rate-to-4-25-after-fed-hike.html",
+        "publishedAt": "2026-09-21T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Maybe it's all a dream | MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/maybe-its-all-a-dream.html",
+        "publishedAt": "2026-09-21T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Monday, September 21, 2026 – edition no. 5040 | MACAU DAILY TIMES 澳門每日時報",
+        "source": "macaudailytimes.com.mo",
+        "url": "https://macaudailytimes.com.mo/monday-september-21-2026-edition-no-5040.html",
+        "publishedAt": "2026-09-21T02:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

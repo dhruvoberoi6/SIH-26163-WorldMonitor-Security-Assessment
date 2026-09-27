@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AT",
+  "countryName": "Austria",
+  "slug": "austria",
+  "rank": 20,
+  "overallScore": 64,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "How Austria can loosen China’s grip over a key critical mineral - The Japan Times",
+        "source": "China Mineral Policy",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDliM3pSSjZEb1U5TjE5Yjg0QVBkejVzYWJXOTY1NlB6SFlOTUFhVmc2cjByMHB6VHd4dUdOYndwbFRHTjJPcnBHd0gzWDNnVjV5alFzZXUxNkYwMkdULThFSW1pdGNOd3pyWDR4eUlwS3lNTkVfbWJoVThyZmJ2UEI2cFZ5dU9hYTVBYg?oc=5",
+        "publishedAt": "2026-09-19T02:12:00.000Z"
+      },
+      {
+        "title": "Acosta outruns Martin to claim maiden MotoGP victory in Austria",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/sports/motorsports/acosta-outruns-martin-to-claim-maiden-motogp-victory-in-austria",
+        "publishedAt": "2026-09-20T13:36:00.000Z"
+      },
+      {
+        "title": "ÖBAG Appoints Telekom Austria Deputy CEO Thomas Arnoldner as CEO",
+        "source": "thefastmode.com",
+        "url": "https://www.thefastmode.com/technology-solutions/50670-obag-appoints-telekom-austria-deputy-ceo-thomas-arnoldner-as-ceo",
+        "publishedAt": "2026-09-21T04:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Resurgent Acosta Beats Martin for Maiden MotoGP Win in Austria",
+        "source": "aawsat.com",
+        "url": "https://english.aawsat.com/sports/5320544-resurgent-acosta-beats-martin-maiden-motogp-win-austria",
+        "publishedAt": "2026-09-20T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "MotoGP Austria LIVE: Reaction as Pedro Acosta wins",
+        "source": "crash.net",
+        "url": "https://www.crash.net/motogp/live/1044232/motogp-austria-live-updates-pedro-acosta-looks-rebound-after-sprint-disaster",
+        "publishedAt": "2026-09-20T14:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe article discusses how Austria can loosen China’s grip over a key critical mineral. [1]\nÖBAG appointed Telekom Austria Deputy CEO Thomas Arnoldner as CEO. [3]\n\nWHAT THIS MEANS FOR AUSTRIA\nThe appointment of Thomas Arnoldner as CEO of ÖBAG may influence the management of state-owned holdings in Austria. [3]",
+      "generatedAt": "2026-09-21T04:53:51.905Z",
+      "sources": [
+        {
+          "title": "How Austria can loosen China’s grip over a key critical mineral - The Japan Times",
+          "source": "China Mineral Policy",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDliM3pSSjZEb1U5TjE5Yjg0QVBkejVzYWJXOTY1NlB6SFlOTUFhVmc2cjByMHB6VHd4dUdOYndwbFRHTjJPcnBHd0gzWDNnVjV5alFzZXUxNkYwMkdULThFSW1pdGNOd3pyWDR4eUlwS3lNTkVfbWJoVThyZmJ2UEI2cFZ5dU9hYTVBYg?oc=5",
+          "publishedAt": "2026-09-19T02:12:00.000Z"
+        },
+        {
+          "title": "Acosta outruns Martin to claim maiden MotoGP victory in Austria",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/sports/motorsports/acosta-outruns-martin-to-claim-maiden-motogp-victory-in-austria",
+          "publishedAt": "2026-09-20T13:36:00.000Z"
+        },
+        {
+          "title": "ÖBAG Appoints Telekom Austria Deputy CEO Thomas Arnoldner as CEO",
+          "source": "thefastmode.com",
+          "url": "https://www.thefastmode.com/technology-solutions/50670-obag-appoints-telekom-austria-deputy-ceo-thomas-arnoldner-as-ceo",
+          "publishedAt": "2026-09-21T04:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Resurgent Acosta Beats Martin for Maiden MotoGP Win in Austria",
+          "source": "aawsat.com",
+          "url": "https://english.aawsat.com/sports/5320544-resurgent-acosta-beats-martin-maiden-motogp-win-austria",
+          "publishedAt": "2026-09-20T18:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "MotoGP Austria LIVE: Reaction as Pedro Acosta wins",
+          "source": "crash.net",
+          "url": "https://www.crash.net/motogp/live/1044232/motogp-austria-live-updates-pedro-acosta-looks-rebound-after-sprint-disaster",
+          "publishedAt": "2026-09-20T14:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

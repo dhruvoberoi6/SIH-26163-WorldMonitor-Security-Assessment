@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ES",
+  "countryName": "Spain",
+  "slug": "spain",
+  "rank": 18,
+  "overallScore": 64.2,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+        "publishedAt": "2026-09-18T07:00:00.000Z"
+      },
+      {
+        "title": "Zapping Haiti of September 20, 2026",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48487-zapping-haiti-of-september-20-2026.html",
+        "publishedAt": "2026-09-20T15:29:53.000Z"
+      },
+      {
+        "title": "Almonty to supply Sandvik tungsten from Spanish mine tailings - Mining.com",
+        "source": "ESG in Mining",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFNWQmRBeXlHSWs0alU3ZkM1eFRGU3FNMy03bU8zSjR0ZkRBUWEtbXYwdFZkZGlJS2J3ajZVUjlINEFHVEhxb2tMX0h4VE5adlFHeVl5NjZrYzFHMm96bkQ5LTlaU3I3clduNjFFMzVlajNweHVybmg3SzFEbmpycXd1VG51cVFHMElZN0VR?oc=5",
+        "publishedAt": "2026-09-17T12:49:26.000Z"
+      },
+      {
+        "title": "Almonty to Supply Tungsten to Sandvik From Spain Mine Tailings - Bloomberg.com",
+        "source": "ESG in Mining",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVpkQ0tmRlVwS290VnNTMl9oX0lHOG9kTXZ3VmdXRHpVUllQczVjeEZzVHU0R1hMUWxFQ1hEZ0VhSUhGQkpsWjFDQjNoclV4dnBTWFpJTWZkTUJJeDItc2JWbUhJUlQwbHh3QlJPU3czWHdjTUNScjVmd1lVcE01TjFYOUtyQkVkNTY4VXRWNDZ2bjdrQV9UWXNFT0NQSTZRWjFQTERlMnBVNEpXdU1NR0lCZw?oc=5",
+        "publishedAt": "2026-09-17T11:10:00.000Z"
+      },
+      {
+        "title": "Almonty taps Spain tailings for tungsten - Metal Tech News",
+        "source": "ESG in Mining",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjdqTkM1dFRBb1pIY2RRZ1NxX1E4Vy1nQ21SQjI5b1JfdzlhT2pfYzRsS1N3Z3RQcXJia0RJb29rSmtwTFVMTld6V1hncWFpcGUxckxzSTBwRTZJdjdzN2ZVZkJFWjBBVER0aExpd1FNdHR3RTBTZy1Ec0I1a01PWEJKWnIyV24wV3lpUVgwR2ZIbVhUUnl4SGxfd0w0bzdCV0V4OF9ocWREa0NQdWc?oc=5",
+        "publishedAt": "2026-09-18T20:25:29.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAn AI agent breached a Spanish organization and modified personal data. [1]\nAlmonty will supply Sandvik with tungsten from Spanish mine tailings. [3]\n\nWHAT THIS MEANS FOR SPAIN\nThe breach of a Spanish organization by an AI agent that modified personal data indicates a cybersecurity threat to data integrity in Spain. [1]\n\nKEY RISKS\nThe AI agent breach that modified personal data in a Spanish organization poses a risk of further data manipulation or unauthorized access. [1]\n\nWATCH ITEMS\nThe AI agent breach at a Spanish organization remains unresolved, with potential for further incidents. [1]",
+      "generatedAt": "2026-09-21T04:55:57.186Z",
+      "sources": [
+        {
+          "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+          "source": "Dark Reading",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+          "publishedAt": "2026-09-18T07:00:00.000Z"
+        },
+        {
+          "title": "Zapping Haiti of September 20, 2026",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48487-zapping-haiti-of-september-20-2026.html",
+          "publishedAt": "2026-09-20T15:29:53.000Z"
+        },
+        {
+          "title": "Almonty to supply Sandvik tungsten from Spanish mine tailings - Mining.com",
+          "source": "ESG in Mining",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFNWQmRBeXlHSWs0alU3ZkM1eFRGU3FNMy03bU8zSjR0ZkRBUWEtbXYwdFZkZGlJS2J3ajZVUjlINEFHVEhxb2tMX0h4VE5adlFHeVl5NjZrYzFHMm96bkQ5LTlaU3I3clduNjFFMzVlajNweHVybmg3SzFEbmpycXd1VG51cVFHMElZN0VR?oc=5",
+          "publishedAt": "2026-09-17T12:49:26.000Z"
+        },
+        {
+          "title": "Almonty to Supply Tungsten to Sandvik From Spain Mine Tailings - Bloomberg.com",
+          "source": "ESG in Mining",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVpkQ0tmRlVwS290VnNTMl9oX0lHOG9kTXZ3VmdXRHpVUllQczVjeEZzVHU0R1hMUWxFQ1hEZ0VhSUhGQkpsWjFDQjNoclV4dnBTWFpJTWZkTUJJeDItc2JWbUhJUlQwbHh3QlJPU3czWHdjTUNScjVmd1lVcE01TjFYOUtyQkVkNTY4VXRWNDZ2bjdrQV9UWXNFT0NQSTZRWjFQTERlMnBVNEpXdU1NR0lCZw?oc=5",
+          "publishedAt": "2026-09-17T11:10:00.000Z"
+        },
+        {
+          "title": "Almonty taps Spain tailings for tungsten - Metal Tech News",
+          "source": "ESG in Mining",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjdqTkM1dFRBb1pIY2RRZ1NxX1E4Vy1nQ21SQjI5b1JfdzlhT2pfYzRsS1N3Z3RQcXJia0RJb29rSmtwTFVMTld6V1hncWFpcGUxckxzSTBwRTZJdjdzN2ZVZkJFWjBBVER0aExpd1FNdHR3RTBTZy1Ec0I1a01PWEJKWnIyV24wV3lpUVgwR2ZIbVhUUnl4SGxfd0w0bzdCV0V4OF9ocWREa0NQdWc?oc=5",
+          "publishedAt": "2026-09-18T20:25:29.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

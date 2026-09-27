@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BW",
+  "countryName": "Botswana",
+  "slug": "botswana",
+  "rank": 129,
+  "overallScore": 44.6,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "HM’s state visit to solidify ties, say Batswana and Angolans",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196501/oman/community/hms-state-visit-to-solidify-ties-say-batswana-and-angolans",
+        "publishedAt": "2026-09-20T11:19:20.000Z"
+      },
+      {
+        "title": "Botswana fails to protect research elephants from trophy hunters",
+        "source": "dailymaverick.co.za",
+        "url": "https://www.dailymaverick.co.za/article/2026-09-20-a-collar-was-not-enough-botswanas-failure-to-protect-its-research-elephants-from-trophy-hunters/",
+        "publishedAt": "2026-09-20T09:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Oman, Botswana broaden cooperation across key sectors",
+        "source": "muscatdaily.com",
+        "url": "https://www.muscatdaily.com/2026/09/19/oman-botswana-broaden-cooperation-across-key-sectors/",
+        "publishedAt": "2026-09-19T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Solid Core Pool Noodles EPE Swimming Float Stick, Flexible Pool Training Botswana Floating Stick",
+        "source": "roarmag.org",
+        "url": "https://roarmag.org/EPE-Swimming-Float-Stick-Flexible-Pool-Training-Botswana-b-1127651",
+        "publishedAt": "2026-09-19T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "His Majesty's visits to Botswana and Angola opens up new avenues",
+        "source": "timesofoman.com",
+        "url": "https://timesofoman.com/article/177123-his-majestys-visits-to-botswana-and-angola-opens-up-new-avenues",
+        "publishedAt": "2026-09-19T12:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe HM's state visit is expected to solidify ties, according to Batswana and Angolans. [1]\nBotswana fails to protect research elephants from trophy hunters. [2]\n\nWHAT THIS MEANS FOR BOTSWANA\nOman and Botswana broaden cooperation across key sectors. [3]\nHis Majesty's visits to Botswana and Angola open up new avenues. [5]\n\nKEY RISKS\nBotswana fails to protect research elephants from trophy hunters. [2]\n\nWATCH ITEMS\nBotswana fails to protect research elephants from trophy hunters. [2]",
+      "generatedAt": "2026-09-21T04:54:37.854Z",
+      "sources": [
+        {
+          "title": "HM’s state visit to solidify ties, say Batswana and Angolans",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196501/oman/community/hms-state-visit-to-solidify-ties-say-batswana-and-angolans",
+          "publishedAt": "2026-09-20T11:19:20.000Z"
+        },
+        {
+          "title": "Botswana fails to protect research elephants from trophy hunters",
+          "source": "dailymaverick.co.za",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-20-a-collar-was-not-enough-botswanas-failure-to-protect-its-research-elephants-from-trophy-hunters/",
+          "publishedAt": "2026-09-20T09:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Oman, Botswana broaden cooperation across key sectors",
+          "source": "muscatdaily.com",
+          "url": "https://www.muscatdaily.com/2026/09/19/oman-botswana-broaden-cooperation-across-key-sectors/",
+          "publishedAt": "2026-09-19T21:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Solid Core Pool Noodles EPE Swimming Float Stick, Flexible Pool Training Botswana Floating Stick",
+          "source": "roarmag.org",
+          "url": "https://roarmag.org/EPE-Swimming-Float-Stick-Flexible-Pool-Training-Botswana-b-1127651",
+          "publishedAt": "2026-09-19T13:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "His Majesty's visits to Botswana and Angola opens up new avenues",
+          "source": "timesofoman.com",
+          "url": "https://timesofoman.com/article/177123-his-majestys-visits-to-botswana-and-angola-opens-up-new-avenues",
+          "publishedAt": "2026-09-19T12:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

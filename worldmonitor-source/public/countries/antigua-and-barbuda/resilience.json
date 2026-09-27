@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AG",
+  "countryName": "Antigua and Barbuda",
+  "slug": "antigua-and-barbuda",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "22 member SVG delegation to attend 19th Annual OECS Credit Union Summit in Antigua and Barbuda",
+        "source": "nbcsvg.com",
+        "url": "https://www.nbcsvg.com/2026/09/18/22-member-svg-delegation-to-attend-19th-annual-oecs-credit-union-summit-in-antigua/",
+        "publishedAt": "2026-09-18T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Antigua and Barbuda Delegation Participates in Third CARICOM Regional Conference on Reparations",
+        "source": "abstvradio.com",
+        "url": "https://abstvradio.com/antigua-and-barbuda-delegation-participates-in-third-caricom-regional-conference-on-reparations/",
+        "publishedAt": "2026-09-18T19:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Antigua and Barbuda – When Power Meets The Law: Who Bows? - Grenada Chronicle – Daily Grenada And Caribbean News",
+        "source": "grenadachronicle.com",
+        "url": "https://grenadachronicle.com/antigua-and-barbuda-when-power-meets-the-law-who-bows/",
+        "publishedAt": "2026-09-16T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Antigua and Barbuda – When Power Meets The Law: Who Bows? - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
+        "source": "dominicanrepublicpost.com",
+        "url": "https://dominicanrepublicpost.com/antigua-and-barbuda-when-power-meets-the-law-who-bows/",
+        "publishedAt": "2026-09-16T21:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Antigua and Barbuda extends free universal education from preschool to university",
+        "source": "voice-online.co.uk",
+        "url": "https://www.voice-online.co.uk/news/world-news/2026/09/15/antigua-and-barbuda-extends-free-universal-education-from-preschool-to-university/",
+        "publishedAt": "2026-09-15T09:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

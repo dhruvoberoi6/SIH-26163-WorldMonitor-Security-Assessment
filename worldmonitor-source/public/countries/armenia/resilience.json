@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AM",
+  "countryName": "Armenia",
+  "slug": "armenia",
+  "rank": 79,
+  "overallScore": 54.1,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russian opposition politician Ilya Yashin cancels trip to Armenia for the final day of Russia’s State Duma elections after being warned of what he called a ‘physical threat’",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/news/2026/09/20/russian-opposition-politician-ilya-yashin-cancels-trip-to-armenia-for-the-final-day-of-russia-s-state-duma-elections-after-being-warned-of-what-he-called-a-physical-threat",
+        "publishedAt": "2026-09-19T23:16:00.000Z"
+      },
+      {
+        "title": "Pashinyan’s salary to nearly double as Armenian civil servants set for pay rises from 2027",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/pashinyans-salary-to-nearly-double-as-armenian-civil-servants-set-for-pay-rises-from-2027/",
+        "publishedAt": "2026-09-18T18:12:38.000Z"
+      },
+      {
+        "title": "Moscow claims Armenia wants ‘hostile takeover’ of Russian businesses",
+        "source": "OC Media",
+        "url": "https://oc-media.org/moscow-claims-armenia-wants-hostile-takeover-of-russian-businesses/",
+        "publishedAt": "2026-09-18T13:43:57.000Z"
+      },
+      {
+        "title": "Armenia moves to double salaries of high-ranking officials",
+        "source": "OC Media",
+        "url": "https://oc-media.org/armenia-moves-to-double-salaries-of-high-ranking-officials/",
+        "publishedAt": "2026-09-18T13:30:41.000Z"
+      },
+      {
+        "title": "Armenia’s anti-corruption campaign: law on confiscating illicit assets takes effect",
+        "source": "JAMnews",
+        "url": "https://jam-news.net/armenias-anti-corruption-campaign-law-on-confiscating-illicit-assets-takes-effect/",
+        "publishedAt": "2026-09-18T13:21:10.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRussian opposition politician Ilya Yashin cancelled a trip to Armenia for the final day of Russia’s State Duma elections after being warned of what he called a threat. [1]\nMoscow claims Armenia wants a 'hostile takeover' of Russian businesses. [3]\nArmenia’s law on confiscating illicit assets takes effect as part of its anti-corruption campaign. [5]\n\nWHAT THIS MEANS FOR ARMENIA\nPashinyan’s salary will nearly double as Armenian civil servants are set for pay rises from 2027. [2]\nArmenia moves to double salaries of high-ranking officials. [4]\n\nKEY RISKS\nMoscow claims Armenia wants a 'hostile takeover' of Russian businesses, indicating potential bilateral tension. [3]\n\nWATCH ITEMS\nIlya Yashin cancelled a trip to Armenia after being warned of a threat, leaving the security situation unresolved. [1]",
+      "generatedAt": "2026-09-21T04:53:39.938Z",
+      "sources": [
+        {
+          "title": "Russian opposition politician Ilya Yashin cancels trip to Armenia for the final day of Russia’s State Duma elections after being warned of what he called a ‘ph...",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/news/2026/09/20/russian-opposition-politician-ilya-yashin-cancels-trip-to-armenia-for-the-final-day-of-russia-s-state-duma-elections-after-being-warned-of-what-he-called-a-physical-threat",
+          "publishedAt": "2026-09-19T23:16:00.000Z"
+        },
+        {
+          "title": "Pashinyan’s salary to nearly double as Armenian civil servants set for pay rises from 2027",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/pashinyans-salary-to-nearly-double-as-armenian-civil-servants-set-for-pay-rises-from-2027/",
+          "publishedAt": "2026-09-18T18:12:38.000Z"
+        },
+        {
+          "title": "Moscow claims Armenia wants ‘hostile takeover’ of Russian businesses",
+          "source": "OC Media",
+          "url": "https://oc-media.org/moscow-claims-armenia-wants-hostile-takeover-of-russian-businesses/",
+          "publishedAt": "2026-09-18T13:43:57.000Z"
+        },
+        {
+          "title": "Armenia moves to double salaries of high-ranking officials",
+          "source": "OC Media",
+          "url": "https://oc-media.org/armenia-moves-to-double-salaries-of-high-ranking-officials/",
+          "publishedAt": "2026-09-18T13:30:41.000Z"
+        },
+        {
+          "title": "Armenia’s anti-corruption campaign: law on confiscating illicit assets takes effect",
+          "source": "JAMnews",
+          "url": "https://jam-news.net/armenias-anti-corruption-campaign-law-on-confiscating-illicit-assets-takes-effect/",
+          "publishedAt": "2026-09-18T13:21:10.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

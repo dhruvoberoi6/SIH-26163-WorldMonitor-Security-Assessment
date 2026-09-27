@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PE",
+  "countryName": "Peru",
+  "slug": "peru",
+  "rank": 42,
+  "overallScore": 60.4,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Marta Maccaglia: The Italian Architect Transforming Lives Through Design in Peru",
+        "source": "outlookindia.com",
+        "url": "https://luxe.outlookindia.com/art-design/architecture/marta-maccaglia-the-italian-architect-transforming-lives-through-design-in-peru",
+        "publishedAt": "2026-09-20T18:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Peru Election 2026: Candidate and Journalist Susy Aponte Polo Shot Dead",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/peru-election-2026-susy-aponte-polo-shot-dead-caraz/",
+        "publishedAt": "2026-09-20T09:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mercedes-AMG CLA45 fire incident in Peru",
+        "source": "inautonews.com",
+        "url": "https://www.inautonews.com/mercedes-amg-cla45-goes-up-in-flames-in-peru",
+        "publishedAt": "2026-09-20T06:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Liceo Naval Case Leads Peru to Take Over Navy School",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/peru-liceo-naval-guise-preventive-detention-minedu-reorganisation-2026/",
+        "publishedAt": "2026-09-20T02:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Andrea Vidal case archived by Peru prosecutors | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/andrea-vidal-case-archived-peru-2026/",
+        "publishedAt": "2026-09-19T19:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

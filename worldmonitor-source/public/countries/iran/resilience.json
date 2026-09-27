@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IR",
+  "countryName": "Iran",
+  "slug": "iran",
+  "rank": 162,
+  "overallScore": 34.5,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war - Reuters",
+        "source": "Reuters Business",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
+        "publishedAt": "2026-09-20T22:10:00.000Z"
+      },
+      {
+        "title": "The next Iran strike: How legal, economic, and diplomatic pressures are priming the region for war - Bulletin of the Atomic Scientists",
+        "source": "Bulletin of Atomic Scientists",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVFBemVSQkVySzlVSzBKcHFuWWdLTDEtNHZNQmRaakNBR0FDY3FlREt3T1dmcjg1aXFhSmtWamxzQUlGTzRSeXVFSVJlLTRxMDdkN3diVzVqWVo1NWR1ZVhqNlVzdzQwSjBwMjlRaG4wM0hMSVNnNS1iN2R4VUdnTldVU3U2c0lIUEhvZExiT0NaY1RNSEU5cUJlcFdraXZfcDNGYnJVcGhNX0tETUY3X2l5QnV1SGp3UWJweGZ1Rlc4QnRTaThN?oc=5",
+        "publishedAt": "2026-09-18T10:55:01.000Z"
+      },
+      {
+        "title": "Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met - The Times of India",
+        "source": "Shipping & Freight",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXM4SmJIZ0lwMHlmTi1YSi1ldzhEamVfd0pJdUlaelNUYVhMZ1FXSkFFSjlPamZCQkNWcGtlNXY0bk9LNU9ieFBmVTRZcWtQY0J0c3AwalI3czVBbHBuMHd2U0JxcXRaOXAtaHVNWlpwUHpfb0l5SGFjZ3NwZG9QaTUxNnJqV3NyWkVLbXcxNjEyc194MFV4OFpxTlY3Q3BRTXI0N252aVRXZ1ZWQUdLaWdIRGdVSjE2NlUyRlNyWDF2SzRrOF84M0c4X3BiMVhPT0I0UUFFSG1NS0kxS25tR3UyY0llMEotdG55UWVfTFExMTU2UVJ30gH8AUFVX3lxTE1KV3JlY2x5eW05V01ZNEtBc2c4cjI4MDVnT3hkendwOFkydGlLVzJuM2dTcjlRRU54TzZObXh5ZnZqZFZlb1pPVURGOENQOUU2Mkh5OTI1MlB0RW1yM2htbUgxV0dZejdlYUVrVTFHdmNXanZBWEI5WUVyVlBEb0JCTlRoTlZqWXlkVTVvcTFmSVhqYjFTa1ZTZi00Rzd2ekczTk15UzhhMUEtNnhTY0R4VUFsZHJnZ2VIZ09XbmsxV3lBM1V3VERhMUl5Q29YRWlsZmVSYjVBaHdRQXFDMDE2OUVXdEJ1R1RWOGswRUtJS0w1alJNd2pnWFB2WQ?oc=5",
+        "publishedAt": "2026-09-21T01:36:00.000Z"
+      },
+      {
+        "title": "Live - US leaves Iran war open-ended as Qatar pushes to revive talks - Iran International",
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
+        "publishedAt": "2026-09-19T05:12:16.000Z"
+      },
+      {
+        "title": "Trump announces 'big things' in war with Iran - Ukrinform",
+        "source": "Ukrinform",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWZvR3hXVTFVMFpmSUtjTWVXOXpFZzhTamVUdEtvQzlYV0szX1NXNllCZjVyVWxjVlZRSXhiNnVqY3h5UUFJbmVGOWhoNy0xemNsQTFoWElfV3J0VFh2ZTl4WUNxbVpZaFNzWWYtUjBIWC00ZWp4TmdUVlhveGFpNEJuYWdERDBsYWtnNzhSMzNtQnpvV2ttX9IBngFBVV95cUxQTjBwUTkwNzFSdjM2azdmVl9WNEdsd1dZV2ladUhFa09HN3JFU1J5Z0VFLWxxRmdGS21BOWdYWU5sUXlYT2xFOFZ4a2xkR0hKWWdBM2h1SF9HY25iS2Q3a0VMMElwNWlDc3hHQ01tTEppY3pWRUc3YmVjaEhLc1pKdV9JTXJKUWJNNTdqRDA3T3Q5Mi1DOEhodnI2SVNxUQ?oc=5",
+        "publishedAt": "2026-09-20T18:38:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOil hits over 1-week low on hopes of boost to diplomacy in Iran war. [1]\nIran rules out reopening Strait of Hormuz, returning to US talks until conditions met. [3]\n\nWHAT THIS MEANS FOR IRAN\nLegal, economic, and diplomatic pressures are priming the region for war. [2]\nThe US leaves Iran war open-ended as Qatar pushes to revive talks. [4]\n\nKEY RISKS\nThe next Iran strike is being primed by legal, economic, and diplomatic pressures. [2]\n\nWATCH ITEMS\nTrump announces 'big things' in war with Iran. [5]",
+      "generatedAt": "2026-09-21T04:57:15.019Z",
+      "sources": [
+        {
+          "title": "Oil hits over 1-week low on hopes of boost to diplomacy in Iran war - Reuters",
+          "source": "Reuters Business",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
+          "publishedAt": "2026-09-20T22:10:00.000Z"
+        },
+        {
+          "title": "The next Iran strike: How legal, economic, and diplomatic pressures are priming the region for war - Bulletin of the Atomic Scientists",
+          "source": "Bulletin of Atomic Scientists",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVFBemVSQkVySzlVSzBKcHFuWWdLTDEtNHZNQmRaakNBR0FDY3FlREt3T1dmcjg1aXFhSmtWamxzQUlGTzRSeXVFSVJlLTRxMDdkN3diVzVqWVo1NWR1ZVhqNlVzdzQwSjBwMjlRaG4wM0hMSVNnNS1iN2R4VUdnTldVU3U2c0lIUEhvZExiT0NaY1RNSEU5cUJlcFdraXZfcDNGYnJVcGhNX0tETUY3X2l5QnV1SGp3UWJweGZ1Rlc4QnRTaThN?oc=5",
+          "publishedAt": "2026-09-18T10:55:01.000Z"
+        },
+        {
+          "title": "Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met - The Times of India",
+          "source": "Shipping & Freight",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXM4SmJIZ0lwMHlmTi1YSi1ldzhEamVfd0pJdUlaelNUYVhMZ1FXSkFFSjlPamZCQkNWcGtlNXY0bk9LNU9ieFBmVTRZcWtQY0J0c3AwalI3czVBbHBuMHd2U0JxcXRaOXAtaHVNWlpwUHpfb0l5SGFjZ3NwZG9QaTUxNnJqV3NyWkVLbXcxNjEyc194MFV4OFpxTlY3Q3BRTXI0N252aVRXZ1ZWQUdLaWdIRGdVSjE2NlUyRlNyWDF2SzRrOF84M0c4X3BiMVhPT0I0UUFFSG1NS0kxS25tR3UyY0llMEotdG55UWVfTFExMTU2UVJ30gH8AUFVX3lxTE1KV3JlY2x5eW05V01ZNEtBc2c4cjI4MDVnT3hkendwOFkydGlLVzJuM2dTcjlRRU54TzZObXh5ZnZqZFZlb1pPVURGOENQOUU2Mkh5OTI1MlB0RW1yM2htbUgxV0dZejdlYUVrVTFHdmNXanZBWEI5WUVyVlBEb0JCTlRoTlZqWXlkVTVvcTFmSVhqYjFTa1ZTZi00Rzd2ekczTk15UzhhMUEtNnhTY0R4VUFsZHJnZ2VIZ09XbmsxV3lBM1V3VERhMUl5Q29YRWlsZmVSYjVBaHdRQXFDMDE2OUVXdEJ1R1RWOGswRUtJS0w1alJNd2pnWFB2WQ?oc=5",
+          "publishedAt": "2026-09-21T01:36:00.000Z"
+        },
+        {
+          "title": "Live - US leaves Iran war open-ended as Qatar pushes to revive talks - Iran International",
+          "source": "Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
+          "publishedAt": "2026-09-19T05:12:16.000Z"
+        },
+        {
+          "title": "Trump announces 'big things' in war with Iran - Ukrinform",
+          "source": "Ukrinform",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWZvR3hXVTFVMFpmSUtjTWVXOXpFZzhTamVUdEtvQzlYV0szX1NXNllCZjVyVWxjVlZRSXhiNnVqY3h5UUFJbmVGOWhoNy0xemNsQTFoWElfV3J0VFh2ZTl4WUNxbVpZaFNzWWYtUjBIWC00ZWp4TmdUVlhveGFpNEJuYWdERDBsYWtnNzhSMzNtQnpvV2ttX9IBngFBVV95cUxQTjBwUTkwNzFSdjM2azdmVl9WNEdsd1dZV2ladUhFa09HN3JFU1J5Z0VFLWxxRmdGS21BOWdYWU5sUXlYT2xFOFZ4a2xkR0hKWWdBM2h1SF9HY25iS2Q3a0VMMElwNWlDc3hHQ01tTEppY3pWRUc3YmVjaEhLc1pKdV9JTXJKUWJNNTdqRDA3T3Q5Mi1DOEhodnI2SVNxUQ?oc=5",
+          "publishedAt": "2026-09-20T18:38:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

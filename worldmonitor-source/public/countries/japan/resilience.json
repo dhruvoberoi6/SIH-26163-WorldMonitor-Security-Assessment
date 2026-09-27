@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JP",
+  "countryName": "Japan",
+  "slug": "japan",
+  "rank": 5,
+  "overallScore": 71.3,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Typhoon approaches eastern Japan, prompting flood and landslide warnings",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/east-asia/japan-typhoon-dujuan-approaches-prompting-flood-landslide-warnings-6398486",
+        "publishedAt": "2026-09-21T03:16:16.000Z"
+      },
+      {
+        "title": "North Korea has fired around 150 ballistic missiles at Ukraine, learning from each one. Same missiles threaten Japan, and Kyiv just shows its speaker what is inside them - Euromaidan Press",
+        "source": "Ukrainska Pravda EN",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU3BBRWl6aGtBRmJHWjlRMXY3dXA0d1JFcVgzU2g3ajR5RG1ILXdxa1JhVW1OUFZYV2tDaHJPTWJSdWNnM2xyNzRxa2xmRk0wakpaRGY2aldhVHZodU9xZmR4Z05HUWJ2dVVuWjJNR211NGJRUHJ1elR6ZGZFV0dfVGtnNGVCbDVlY2lsdV9nR3hHZS1LMUJibTF6NlU5UlBfRm1tVGpHRGFrZklsUDhTaTVVSEE4YWU0V2NiOEp4Mk1udE1zS25QM1U5MWtrTkp3b0FHUFN6X21JT2MtREFvb2lVRWdIRzNCS2NNTWFXUmhmR0JSRkFiSzVyNnpXTmFmSTRQTllNaVFvU241aDdXcUtXcHE3U2NTbGJnUi1xN1dGSFcyNndHWGFzNUpsZjg?oc=5",
+        "publishedAt": "2026-09-20T07:57:15.000Z"
+      },
+      {
+        "title": "China’s trade limits continue to bite into Japan’s rare earth imports - South China Morning Post",
+        "source": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2lNdzNOMzJtOUhFQ3I1YzRYTEdVenJuOVg1RXpoV0RFZUU5bmhJRG9qMENHdUJOWVhCQ1pVSm51OUNWWWlrZ3g5b0hWcWQ5SWFNVTRPcGxacXRfUElHenlnVm01UGVaaExjQXRLMGpKMnJPcTFWNkZ2dUQ2Z0pXSkJuQXNBeEZ3NXpad3htbkdtUXJQc1hrZFRVQVJMSlEwT0wyUGdZWHJvTlJDa21teGFFSlRLak1lNzFxedIBvAFBVV95cUxNNzNQOUVxZXowak5RaEViRGZKTzA3QWM4YXA0TWoxTlRhRU9QUW1CVm5HSFhtZjVsUkdwQVh2aEJOekhjSHRyNzVudVM1a1p4YzJBVUNyblJNNVZpT2tweDNZZEd3dkNBdEJ5RUV3N01XZWVZRnZvcHdBdHFLWVNzLTNmYXFvQXlTX0JYVXJQNWFYenNLZHNUYVJYMGVuY3NuMU90YXoxeDJPRDl3VTRudlZhTUtuaE9wTlRDbw?oc=5",
+        "publishedAt": "2026-09-20T09:30:25.000Z"
+      },
+      {
+        "title": "Japan accelerates urban mining to secure critical metals amid supply chain concerns - Global Sources",
+        "source": "Trade Routes",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSm5RZzBuVEVUTlVXQ1NkbWV3dENTUWRkM2NNZWVxNzE3RVFZc0FHWkdiWUJCQWIwaEtQTE9nMjMzN3FQSzBYLVpabEtVelkzbjNjRnN1QTdTM0xLSXI3UklCcmR0X2E1ZkF0aFBacVlhU0xQOHdnaXNCQkdPaktSaWpORXJSTXZMR1FtSGtEdFBMUHdIbXo2OWNuYXBQWVNRTjZ5TVFQSWEtRjRBOW1iLW95SEVvbDlwTkRZSGRldmEyNjlWcHQxTFMxTjhvQnBZdV9lbkJXbkZEWURxRUVROHJ0ajI?oc=5",
+        "publishedAt": "2026-09-21T02:23:30.000Z"
+      },
+      {
+        "title": "I felt confident in my appearance and how I dressed. Then, I moved to Japan.",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/moving-to-japan-feel-out-of-place-dislike-appearance-body-2026-9",
+        "publishedAt": "2026-09-20T22:42:01.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA typhoon is approaching eastern Japan, prompting flood and landslide warnings. [1]\nNorth Korea has fired around 150 ballistic missiles at Ukraine, and the same missiles threaten Japan. [2]\nChina’s trade limits continue to bite into Japan’s rare earth imports. [3]\nJapan is accelerating urban mining to secure critical metals amid supply chain concerns. [4]\n\nWHAT THIS MEANS FOR JAPAN\nThe approaching typhoon poses immediate risks of flooding and landslides in eastern Japan. [1]\nNorth Korean ballistic missiles fired at Ukraine represent a threat to Japan, as the same missiles are capable of reaching the country. [2]\n\nKEY RISKS\nChina’s trade limits on rare earths continue to disrupt Japan’s imports of these critical materials. [3]\n\nWATCH ITEMS\nThe typhoon approaching eastern Japan may cause further flood and landslide warnings to be issued. [1]\nNorth Korea’s ongoing missile firings at Ukraine suggest continued development of missiles that threaten Japan. [2]",
+      "generatedAt": "2026-09-21T04:57:29.283Z",
+      "sources": [
+        {
+          "title": "Typhoon approaches eastern Japan, prompting flood and landslide warnings",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/east-asia/japan-typhoon-dujuan-approaches-prompting-flood-landslide-warnings-6398486",
+          "publishedAt": "2026-09-21T03:16:16.000Z"
+        },
+        {
+          "title": "North Korea has fired around 150 ballistic missiles at Ukraine, learning from each one. Same missiles threaten Japan, and Kyiv just shows its speaker what is i...",
+          "source": "Ukrainska Pravda EN",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU3BBRWl6aGtBRmJHWjlRMXY3dXA0d1JFcVgzU2g3ajR5RG1ILXdxa1JhVW1OUFZYV2tDaHJPTWJSdWNnM2xyNzRxa2xmRk0wakpaRGY2aldhVHZodU9xZmR4Z05HUWJ2dVVuWjJNR211NGJRUHJ1elR6ZGZFV0dfVGtnNGVCbDVlY2lsdV9nR3hHZS1LMUJibTF6NlU5UlBfRm1tVGpHRGFrZklsUDhTaTVVSEE4YWU0V2NiOEp4Mk1udE1zS25QM1U5MWtrTkp3b0FHUFN6X21JT2MtREFvb2lVRWdIRzNCS2NNTWFXUmhmR0JSRkFiSzVyNnpXTmFmSTRQTllNaVFvU241aDdXcUtXcHE3U2NTbGJnUi1xN1dGSFcyNndHWGFzNUpsZjg?oc=5",
+          "publishedAt": "2026-09-20T07:57:15.000Z"
+        },
+        {
+          "title": "China’s trade limits continue to bite into Japan’s rare earth imports - South China Morning Post",
+          "source": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2lNdzNOMzJtOUhFQ3I1YzRYTEdVenJuOVg1RXpoV0RFZUU5bmhJRG9qMENHdUJOWVhCQ1pVSm51OUNWWWlrZ3g5b0hWcWQ5SWFNVTRPcGxacXRfUElHenlnVm01UGVaaExjQXRLMGpKMnJPcTFWNkZ2dUQ2Z0pXSkJuQXNBeEZ3NXpad3htbkdtUXJQc1hrZFRVQVJMSlEwT0wyUGdZWHJvTlJDa21teGFFSlRLak1lNzFxedIBvAFBVV95cUxNNzNQOUVxZXowak5RaEViRGZKTzA3QWM4YXA0TWoxTlRhRU9QUW1CVm5HSFhtZjVsUkdwQVh2aEJOekhjSHRyNzVudVM1a1p4YzJBVUNyblJNNVZpT2tweDNZZEd3dkNBdEJ5RUV3N01XZWVZRnZvcHdBdHFLWVNzLTNmYXFvQXlTX0JYVXJQNWFYenNLZHNUYVJYMGVuY3NuMU90YXoxeDJPRDl3VTRudlZhTUtuaE9wTlRDbw?oc=5",
+          "publishedAt": "2026-09-20T09:30:25.000Z"
+        },
+        {
+          "title": "Japan accelerates urban mining to secure critical metals amid supply chain concerns - Global Sources",
+          "source": "Trade Routes",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSm5RZzBuVEVUTlVXQ1NkbWV3dENTUWRkM2NNZWVxNzE3RVFZc0FHWkdiWUJCQWIwaEtQTE9nMjMzN3FQSzBYLVpabEtVelkzbjNjRnN1QTdTM0xLSXI3UklCcmR0X2E1ZkF0aFBacVlhU0xQOHdnaXNCQkdPaktSaWpORXJSTXZMR1FtSGtEdFBMUHdIbXo2OWNuYXBQWVNRTjZ5TVFQSWEtRjRBOW1iLW95SEVvbDlwTkRZSGRldmEyNjlWcHQxTFMxTjhvQnBZdV9lbkJXbkZEWURxRUVROHJ0ajI?oc=5",
+          "publishedAt": "2026-09-21T02:23:30.000Z"
+        },
+        {
+          "title": "I felt confident in my appearance and how I dressed. Then, I moved to Japan.",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/moving-to-japan-feel-out-of-place-dislike-appearance-body-2026-9",
+          "publishedAt": "2026-09-20T22:42:01.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

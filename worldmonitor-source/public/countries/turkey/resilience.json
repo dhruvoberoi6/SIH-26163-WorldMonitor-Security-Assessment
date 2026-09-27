@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "slug": "turkey",
+  "rank": 125,
+  "overallScore": 45.1,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Erdogan to sidestep Turkey’s constitutional term limits in early 2028 vote, adviser says",
+        "source": "France 24 Asia Pacific",
+        "url": "https://www.france24.com/en/asia-pacific/20260917-turkey-s-erdogan-to-run-in-early-2028-vote-sidestepping-constitutional-term-limit",
+        "publishedAt": "2026-09-17T13:12:06.000Z"
+      },
+      {
+        "title": "Türkiye’s CHP targets mayors in cleaning up corruption",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/turkiyes-chp-targets-mayors-in-cleaning-up-corruption/news",
+        "publishedAt": "2026-09-20T13:38:00.000Z"
+      },
+      {
+        "title": "Uganda suspends military ties with Turkey over extradition of Museveni critic",
+        "source": "RFI Afrique",
+        "url": "https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye",
+        "publishedAt": "2026-09-20T10:29:02.000Z"
+      },
+      {
+        "title": "Turkish intelligence chief visits Pakistan after Taliban talks",
+        "source": "Amu TV",
+        "url": "https://amu.tv/252573/",
+        "publishedAt": "2026-09-18T11:06:04.000Z"
+      },
+      {
+        "title": "Turkey Arrests Fund Managers Over Stock Market Manipulation Scandal",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/turkey-arrests-fund-managers-over-stock-market-manipulation-scandal/bi/",
+        "publishedAt": "2026-09-18T10:26:58.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Turkish intelligence chief visits Pakistan after Taliban talks. [4]\nUganda suspends military ties with Turkey over extradition of Museveni critic. [3]\n\nWHAT THIS MEANS FOR TURKEY\nErdogan is expected to sidestep Turkey's constitutional term limits in an early 2028 vote, according to an adviser. [1]\n\nKEY RISKS\nTurkey arrests fund managers over a stock market manipulation scandal. [5]\n\nWATCH ITEMS\nUganda has suspended military ties with Turkey over the extradition of a Museveni critic. [3]",
+      "generatedAt": "2026-09-21T05:00:58.338Z",
+      "sources": [
+        {
+          "title": "Erdogan to sidestep Turkey’s constitutional term limits in early 2028 vote, adviser says",
+          "source": "France 24 Asia Pacific",
+          "url": "https://www.france24.com/en/asia-pacific/20260917-turkey-s-erdogan-to-run-in-early-2028-vote-sidestepping-constitutional-term-limit",
+          "publishedAt": "2026-09-17T13:12:06.000Z"
+        },
+        {
+          "title": "Türkiye’s CHP targets mayors in cleaning up corruption",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/turkiyes-chp-targets-mayors-in-cleaning-up-corruption/news",
+          "publishedAt": "2026-09-20T13:38:00.000Z"
+        },
+        {
+          "title": "Uganda suspends military ties with Turkey over extradition of Museveni critic",
+          "source": "RFI Afrique",
+          "url": "https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye",
+          "publishedAt": "2026-09-20T10:29:02.000Z"
+        },
+        {
+          "title": "Turkish intelligence chief visits Pakistan after Taliban talks",
+          "source": "Amu TV",
+          "url": "https://amu.tv/252573/",
+          "publishedAt": "2026-09-18T11:06:04.000Z"
+        },
+        {
+          "title": "Turkey Arrests Fund Managers Over Stock Market Manipulation Scandal",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/turkey-arrests-fund-managers-over-stock-market-manipulation-scandal/bi/",
+          "publishedAt": "2026-09-18T10:26:58.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

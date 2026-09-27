@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CZ",
+  "countryName": "Czechia",
+  "slug": "czechia",
+  "rank": 7,
+  "overallScore": 68.8,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
+        "publishedAt": "2026-09-18T11:01:43.000Z"
+      },
+      {
+        "title": "Latvia to buy Czech artillery system instead of original Swedish option",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/defence/18.09.2026-latvia-to-buy-czech-artillery-system-instead-of-original-swedish-option.a663716/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-18T06:02:00.000Z"
+      },
+      {
+        "title": "US envoy to NATO criticizes Czech Republic's 'disappointing' spending on defense | News, Sports, Jobs",
+        "source": "lahainanews.com",
+        "url": "https://www.lahainanews.com/wire/?category=5041&ID=399125",
+        "publishedAt": "2026-09-19T08:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US envoy to NATO criticizes Czech Republic's 'disappointing' spending on defense",
+        "source": "mymotherlode.com",
+        "url": "https://mymotherlode.com/news/national/11150516/us-envoy-to-nato-criticizes-czech-republics-disappointing-spending-on-defense.html",
+        "publishedAt": "2026-09-18T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US Envoy to NATO Criticizes Czech Republic's 'Disappointing' Spending on Defense",
+        "source": "military.com",
+        "url": "https://www.military.com/us-envoy-to-nato-criticizes-czech-republics-disappointing-spending-on-defense",
+        "publishedAt": "2026-09-18T19:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US envoy to NATO criticized the Czech Republic's 'disappointing' spending on defense. [3]\nLatvia chose Czech howitzers over the Swedish Archer offer. [1]\n\nWHAT THIS MEANS FOR CZECHIA\nLatvia will buy a Czech artillery system instead of the original Swedish option. [2]\n\nWATCH ITEMS\nThe US envoy to NATO criticized the Czech Republic's 'disappointing' spending on defense. [4]",
+      "generatedAt": "2026-09-21T04:55:18.655Z",
+      "sources": [
+        {
+          "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
+          "publishedAt": "2026-09-18T11:01:43.000Z"
+        },
+        {
+          "title": "Latvia to buy Czech artillery system instead of original Swedish option",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/society/defence/18.09.2026-latvia-to-buy-czech-artillery-system-instead-of-original-swedish-option.a663716/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-18T06:02:00.000Z"
+        },
+        {
+          "title": "US envoy to NATO criticizes Czech Republic's 'disappointing' spending on defense | News, Sports, Jobs",
+          "source": "lahainanews.com",
+          "url": "https://www.lahainanews.com/wire/?category=5041&ID=399125",
+          "publishedAt": "2026-09-19T08:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "US envoy to NATO criticizes Czech Republic's 'disappointing' spending on defense",
+          "source": "mymotherlode.com",
+          "url": "https://mymotherlode.com/news/national/11150516/us-envoy-to-nato-criticizes-czech-republics-disappointing-spending-on-defense.html",
+          "publishedAt": "2026-09-18T21:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "US Envoy to NATO Criticizes Czech Republic's 'Disappointing' Spending on Defense",
+          "source": "military.com",
+          "url": "https://www.military.com/us-envoy-to-nato-criticizes-czech-republics-disappointing-spending-on-defense",
+          "publishedAt": "2026-09-18T19:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

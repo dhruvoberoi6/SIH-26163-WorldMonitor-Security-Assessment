@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CV",
+  "countryName": "Cape Verde",
+  "slug": "cape-verde",
+  "rank": 83,
+  "overallScore": 54,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Infantino invited to African summit as he faces challenge to FIFA leadership",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/infantino-invited-to-african-summit-as-he-faces-challenge-to-fifa-leadership/",
+        "publishedAt": "2026-09-21T04:14:00.000Z"
+      },
+      {
+        "title": "Cape Verde's President Announces Re-election Bid",
+        "source": "africa.com",
+        "url": "https://www.africa.com/top-10-news/cape-verdes-president-announces-re-election-bid",
+        "publishedAt": "2026-09-17T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cape Verde President Neves Seeks a Second Term",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/cape-verde-neves-second-term-candidacy-2026/",
+        "publishedAt": "2026-09-16T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cape Verde President to seek re-election in November polls",
+        "source": "ghanaiantimes.com.gh",
+        "url": "https://ghanaiantimes.com.gh/cape-verde-president-to-seek-re-election-in-november-polls/",
+        "publishedAt": "2026-09-16T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cape Verde's President Neves to run for re-election in November",
+        "source": "africanews.com",
+        "url": "https://www.africanews.com/2026/09/15/cape-verdes-president-neves-to-run-for-re-election-in-november/",
+        "publishedAt": "2026-09-15T07:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCape Verde's President announced a re-election bid. [2]\nCape Verde President Neves seeks a second term. [3]\nCape Verde President Neves will run for re-election in November polls. [5]",
+      "generatedAt": "2026-09-21T04:55:15.463Z",
+      "sources": [
+        {
+          "title": "Infantino invited to African summit as he faces challenge to FIFA leadership",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/infantino-invited-to-african-summit-as-he-faces-challenge-to-fifa-leadership/",
+          "publishedAt": "2026-09-21T04:14:00.000Z"
+        },
+        {
+          "title": "Cape Verde's President Announces Re-election Bid",
+          "source": "africa.com",
+          "url": "https://www.africa.com/top-10-news/cape-verdes-president-announces-re-election-bid",
+          "publishedAt": "2026-09-17T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cape Verde President Neves Seeks a Second Term",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/cape-verde-neves-second-term-candidacy-2026/",
+          "publishedAt": "2026-09-16T18:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cape Verde President to seek re-election in November polls",
+          "source": "ghanaiantimes.com.gh",
+          "url": "https://ghanaiantimes.com.gh/cape-verde-president-to-seek-re-election-in-november-polls/",
+          "publishedAt": "2026-09-16T09:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cape Verde's President Neves to run for re-election in November",
+          "source": "africanews.com",
+          "url": "https://www.africanews.com/2026/09/15/cape-verdes-president-neves-to-run-for-re-election-in-november/",
+          "publishedAt": "2026-09-15T07:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

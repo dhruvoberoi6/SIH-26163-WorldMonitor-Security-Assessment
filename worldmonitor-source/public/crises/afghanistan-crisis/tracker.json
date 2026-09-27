@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "afghanistan-crisis",
+  "title": "Afghanistan crisis tracker",
+  "shortTitle": "Afghanistan crisis",
+  "description": "Monthly conflict pulse for Afghanistan: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a bounded country-level view.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Afghanistan, aggregated from subnational records. Economic collapse, returnee flows and restrictions on women are central to the humanitarian picture and are not captured by conflict-event counts.",
+  "coverage": [
+    {
+      "code": "AF",
+      "name": "Afghanistan"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 68,
+    "fatalities": 54,
+    "politicalViolenceEvents": 66,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "AF",
+        "name": "Afghanistan",
+        "events": 68,
+        "fatalities": 54,
+        "political": 66,
+        "demonstrations": 2,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

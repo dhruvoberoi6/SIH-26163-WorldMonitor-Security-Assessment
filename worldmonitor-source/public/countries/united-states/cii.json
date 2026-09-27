@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "US",
+  "countryName": "United States",
+  "methodologyVersion": "v8",
+  "score": 29,
+  "approximate24HourMovement": -1,
+  "instabilityLevel": "Low",
+  "observedAt": "2026-09-21T04:46:14.034Z",
+  "capturedAt": "2026-09-21",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-09-21.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

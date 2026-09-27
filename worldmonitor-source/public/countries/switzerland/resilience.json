@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CH",
+  "countryName": "Switzerland",
+  "slug": "switzerland",
+  "rank": 1,
+  "overallScore": 76.8,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Switzerland follows EU by introducing additional sanctions against Belarus - Interfax",
+        "source": "Interfax EN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adGtWczFZbDdTXzFGakllQ21ZVllHRVNFbDc2SVM2Ui15SVhqYmdtakE4VHYzMHRWeGYzVXJhVmk4TmRBSS1OSUc3V1lWb1UtbFYxaVFGZ1diTDEyLVE?oc=5",
+        "publishedAt": "2026-09-18T17:28:10.000Z"
+      },
+      {
+        "title": "Estonia's defense agency takes Datasel dispute to Swiss arbitration",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610143246/estonia-s-defense-agency-takes-datasel-dispute-to-swiss-arbitration",
+        "publishedAt": "2026-09-20T13:22:00.000Z"
+      },
+      {
+        "title": "jaishankar: EAM Jaishankar arrives in Switzerland en route to New York for UNGA 2026",
+        "source": "indiatimes.com",
+        "url": "https://economictimes.indiatimes.com/news/india/eam-jaishankar-arrives-in-switzerland-en-route-to-new-york-for-unga-2026/articleshow/134379109.cms",
+        "publishedAt": "2026-09-21T04:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jaishankar arrives in Switzerland en route to New York for UNGA 2026",
+        "source": "aninews.in",
+        "url": "https://aninews.in/news/world/europe/jaishankar-arrives-in-switzerland-en-route-to-new-york-for-unga-202620260921030738/",
+        "publishedAt": "2026-09-21T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jaishankar arrives in Switzerland en route to New York for UNGA 2026",
+        "source": "webindia123.com",
+        "url": "https://news.webindia123.com/news/Articles/World/20260921/4501220.html",
+        "publishedAt": "2026-09-20T23:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSwitzerland follows the EU by introducing additional sanctions against Belarus. [1]\nEstonia's defense agency takes a Datasel dispute to Swiss arbitration. [2]\nEAM Jaishankar arrives in Switzerland en route to New York for UNGA 2026. [3]",
+      "generatedAt": "2026-09-21T04:54:51.896Z",
+      "sources": [
+        {
+          "title": "Switzerland follows EU by introducing additional sanctions against Belarus - Interfax",
+          "source": "Interfax EN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adGtWczFZbDdTXzFGakllQ21ZVllHRVNFbDc2SVM2Ui15SVhqYmdtakE4VHYzMHRWeGYzVXJhVmk4TmRBSS1OSUc3V1lWb1UtbFYxaVFGZ1diTDEyLVE?oc=5",
+          "publishedAt": "2026-09-18T17:28:10.000Z"
+        },
+        {
+          "title": "Estonia's defense agency takes Datasel dispute to Swiss arbitration",
+          "source": "ERR News",
+          "url": "https://news.err.ee/1610143246/estonia-s-defense-agency-takes-datasel-dispute-to-swiss-arbitration",
+          "publishedAt": "2026-09-20T13:22:00.000Z"
+        },
+        {
+          "title": "jaishankar: EAM Jaishankar arrives in Switzerland en route to New York for UNGA 2026",
+          "source": "indiatimes.com",
+          "url": "https://economictimes.indiatimes.com/news/india/eam-jaishankar-arrives-in-switzerland-en-route-to-new-york-for-unga-2026/articleshow/134379109.cms",
+          "publishedAt": "2026-09-21T04:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Jaishankar arrives in Switzerland en route to New York for UNGA 2026",
+          "source": "aninews.in",
+          "url": "https://aninews.in/news/world/europe/jaishankar-arrives-in-switzerland-en-route-to-new-york-for-unga-202620260921030738/",
+          "publishedAt": "2026-09-21T01:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Jaishankar arrives in Switzerland en route to New York for UNGA 2026",
+          "source": "webindia123.com",
+          "url": "https://news.webindia123.com/news/Articles/World/20260921/4501220.html",
+          "publishedAt": "2026-09-20T23:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

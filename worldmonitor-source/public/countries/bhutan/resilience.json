@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BT",
+  "countryName": "Bhutan",
+  "slug": "bhutan",
+  "rank": 77,
+  "overallScore": 54.5,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "India, Bhutan discuss strengthening sporting ties during Asian Games sidelines",
+        "source": "prokerala.com",
+        "url": "https://www.prokerala.com/news/articles/a1814523.html",
+        "publishedAt": "2026-09-20T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "In hydropowered Bhutan, solar starts to rise",
+        "source": "taipeitimes.com",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2026/09/20/2003864554",
+        "publishedAt": "2026-09-19T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "4.9-magnitude quake hits Bhutan-Assam border; tremors felt in Guwahati",
+        "source": "indiatimes.com",
+        "url": "https://timesofindia.indiatimes.com/city/guwahati/4-9-magnitude-quake-hits-bhutan-assam-border-tremors-felt-in-guwahati/articleshow/134353119.cms",
+        "publishedAt": "2026-09-19T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "India, Bhutan commend progress in bilateral development cooperation",
+        "source": "dailyexcelsior.com",
+        "url": "https://www.dailyexcelsior.com/india-bhutan-commend-progress-in-bilateral-development-cooperation/",
+        "publishedAt": "2026-09-18T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bhutan to launch anti-drug campaign modelled on Keralam's operation Toofan",
+        "source": "aninews.in",
+        "url": "https://aninews.in/news/world/asia/bhutan-to-launch-anti-drug-campaign-modelled-on-keralam8217s-operation-toofan20260919010807/",
+        "publishedAt": "2026-09-18T20:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

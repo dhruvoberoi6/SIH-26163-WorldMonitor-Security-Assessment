@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MA",
+  "countryName": "Morocco",
+  "slug": "morocco",
+  "rank": 102,
+  "overallScore": 50.7,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "I fell for my surf instructor in Morocco. We got married and turned an abandoned riad into a hotel.",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/couple-restored-abandoned-riad-rabat-morocco-opened-surf-school-hotel-2026-9",
+        "publishedAt": "2026-09-21T04:10:34.000Z"
+      },
+      {
+        "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
+        "source": "Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/world/2026/09/20/young-people-in-morocco-split-over-whether-politics-can-deliver-change-as-election-draws-near",
+        "publishedAt": "2026-09-21T03:12:57.000Z"
+      },
+      {
+        "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
+        "source": "messenger-inquirer.com",
+        "url": "https://www.messenger-inquirer.com/ap/elections/young-people-in-morocco-split-over-whether-politics-can-deliver-change-as-election-draws-near/article_e7bd062f-7df9-5ccb-9a03-ae0f81a04414.html",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Young people in Morocco split over whether politics can deliver change as election draws near – KSEV Radio",
+        "source": "ksevradio.com",
+        "url": "https://ksevradio.com/young-people-in-morocco-split-over-whether-politics-can-deliver-change-as-election-draws-near/",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Envision Energy Powers Morocco's First Large-Scale Battery Storage System at OCP's Benguerir Mining Site",
+        "source": "prnewswire.com",
+        "url": "https://www.prnewswire.com/news-releases/envision-energy-powers-moroccos-first-large-scale-battery-storage-system-at-ocps-benguerir-mining-site-302884224.html",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nYoung people in Morocco are split over whether politics can deliver change as an election draws near. [2]\n\nWATCH ITEMS\nThe upcoming election in Morocco will test whether young people's split views on political change translate into electoral outcomes. [2]",
+      "generatedAt": "2026-09-21T04:58:14.423Z",
+      "sources": [
+        {
+          "title": "I fell for my surf instructor in Morocco. We got married and turned an abandoned riad into a hotel.",
+          "source": "Business Insider",
+          "url": "https://www.businessinsider.com/couple-restored-abandoned-riad-rabat-morocco-opened-surf-school-hotel-2026-9",
+          "publishedAt": "2026-09-21T04:10:34.000Z"
+        },
+        {
+          "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
+          "source": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/09/20/young-people-in-morocco-split-over-whether-politics-can-deliver-change-as-election-draws-near",
+          "publishedAt": "2026-09-21T03:12:57.000Z"
+        },
+        {
+          "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
+          "source": "messenger-inquirer.com",
+          "url": "https://www.messenger-inquirer.com/ap/elections/young-people-in-morocco-split-over-whether-politics-can-deliver-change-as-election-draws-near/article_e7bd062f-7df9-5ccb-9a03-ae0f81a04414.html",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Young people in Morocco split over whether politics can deliver change as election draws near – KSEV Radio",
+          "source": "ksevradio.com",
+          "url": "https://ksevradio.com/young-people-in-morocco-split-over-whether-politics-can-deliver-change-as-election-draws-near/",
+          "publishedAt": "2026-09-21T04:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Envision Energy Powers Morocco's First Large-Scale Battery Storage System at OCP's Benguerir Mining Site",
+          "source": "prnewswire.com",
+          "url": "https://www.prnewswire.com/news-releases/envision-energy-powers-moroccos-first-large-scale-battery-storage-system-at-ocps-benguerir-mining-site-302884224.html",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

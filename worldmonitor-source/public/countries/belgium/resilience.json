@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BE",
+  "countryName": "Belgium",
+  "slug": "belgium",
+  "rank": 45,
+  "overallScore": 59.6,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
+        "publishedAt": "2026-09-17T13:59:00.000Z"
+      },
+      {
+        "title": "Manic Monday: Watch the John Coltrane Quartet's Ferocious 1965 Performance in Belgium",
+        "source": "glidemagazine.com",
+        "url": "https://glidemagazine.com/330447/manic-monday-watch-the-john-coltrane-quartets-ferocious-1965-performance-in-belgium/",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Orange Belgium Chief Consumer Officer Christophe Dujardin to Leave for RTBF",
+        "source": "thefastmode.com",
+        "url": "https://www.thefastmode.com/leadership-and-management/50674-orange-belgium-chief-consumer-officer-christophe-dujardin-to-leave-for-rtbf",
+        "publishedAt": "2026-09-20T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cycling: Victorious continue Belgium race series",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1406957/Victorious-continue-Belgium-race-series",
+        "publishedAt": "2026-09-19T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "BT Belgium - Telecompaper",
+        "source": "telecompaper.com",
+        "url": "https://www.telecompaper.com/research/bt-belgium--1583151",
+        "publishedAt": "2026-09-18T19:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA Belgian court ruled that the treasury lacked authority to reject the release of Russian assets. [1]\nOrange Belgium Chief Consumer Officer Christophe Dujardin is to leave for RTBF. [3]\n\nWHAT THIS MEANS FOR BELGIUM\nThe court ruling may affect the handling of Russian assets in Belgium. [1]\nThe departure of Christophe Dujardin could impact Orange Belgium's consumer operations. [3]\n\nWATCH ITEMS\nThe Belgian court's decision on Russian assets remains unresolved regarding its implementation. [1]",
+      "generatedAt": "2026-09-21T04:54:14.595Z",
+      "sources": [
+        {
+          "title": "Belgian Court Rules Treasury Lacked Authority to Reject Release of Russian Assets",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/belgian-court-rules-treasury-lacked-authority-to-reject-release-of-russian-assets",
+          "publishedAt": "2026-09-17T13:59:00.000Z"
+        },
+        {
+          "title": "Manic Monday: Watch the John Coltrane Quartet's Ferocious 1965 Performance in Belgium",
+          "source": "glidemagazine.com",
+          "url": "https://glidemagazine.com/330447/manic-monday-watch-the-john-coltrane-quartets-ferocious-1965-performance-in-belgium/",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Orange Belgium Chief Consumer Officer Christophe Dujardin to Leave for RTBF",
+          "source": "thefastmode.com",
+          "url": "https://www.thefastmode.com/leadership-and-management/50674-orange-belgium-chief-consumer-officer-christophe-dujardin-to-leave-for-rtbf",
+          "publishedAt": "2026-09-20T23:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cycling: Victorious continue Belgium race series",
+          "source": "gdnonline.com",
+          "url": "https://www.gdnonline.com/Details/1406957/Victorious-continue-Belgium-race-series",
+          "publishedAt": "2026-09-19T01:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "BT Belgium - Telecompaper",
+          "source": "telecompaper.com",
+          "url": "https://www.telecompaper.com/research/bt-belgium--1583151",
+          "publishedAt": "2026-09-18T19:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

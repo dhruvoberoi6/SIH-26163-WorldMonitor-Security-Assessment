@@ -1,0 +1,25 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "bosphorus",
+  "displayName": "Bosporus Strait",
+  "slug": "bosporus-strait",
+  "lat": 41.1,
+  "lon": 29,
+  "region": "Black Sea ↔ Sea of Marmara",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [
+    {
+      "id": "russia-med-oil",
+      "name": "Russia → Mediterranean (Oil)",
+      "volumeDesc": "140M+ tonnes/year",
+      "category": "energy"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

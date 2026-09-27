@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KG",
+  "countryName": "Kyrgyzstan",
+  "slug": "kyrgyzstan",
+  "rank": 87,
+  "overallScore": 53.5,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Kyrgyzstan China Move Toward Mutual Recognition of Organic Certificates",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/kyrgyzstan-china-mutual-recognition-organic-certificates/",
+        "publishedAt": "2026-09-18T11:01:22.000Z"
+      },
+      {
+        "title": "Kyrgyzstan Pharmaceutical Logistics Complex Begins Construction in Bishkek",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/kyrgyzstan-pharmaceutical-logistics-complex-bishkek/",
+        "publishedAt": "2026-09-17T12:45:23.000Z"
+      },
+      {
+        "title": "Construction becomes primary driver of Kyrgyzstan's economic growth in 2025-2026 - expert",
+        "source": "akipress.com",
+        "url": "https://akipress.com/news:919909:Construction_becomes_primary_driver_of_Kyrgyzstan_s_economic_growth_in_2025-2026_-_expert/",
+        "publishedAt": "2026-09-20T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Inflation in Kyrgyzstan projected at 11% in 2026 - Ministry of Economy",
+        "source": "akipress.com",
+        "url": "https://akipress.com/news:919904:Inflation_in_Kyrgyzstan_projected_at_11__in_2026_-_Ministry_of_Economy/",
+        "publishedAt": "2026-09-20T09:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bankruptcy proceedings in Kyrgyzstan can drag on for decades - deputy director of Department for Bankruptcy Affairs",
+        "source": "akipress.com",
+        "url": "https://akipress.com/news:919895:Bankruptcy_proceedings_in_Kyrgyzstan_can_drag_on_for_decades_-_deputy_director_of_Department_for_Bankruptcy_Affairs/",
+        "publishedAt": "2026-09-20T05:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nKyrgyzstan and China are moving toward mutual recognition of organic certificates. [1]\nConstruction of a pharmaceutical logistics complex has begun in Bishkek. [2]\nConstruction has become the primary driver of Kyrgyzstan's economic growth in 2025-2026, according to an expert. [3]\nInflation in Kyrgyzstan is projected at 11% in 2026 by the Ministry of Economy. [4]\nBankruptcy proceedings in Kyrgyzstan can drag on for decades, according to the deputy director of the Department for Bankruptcy Affairs. [5]\n\nWHAT THIS MEANS FOR KYRGYZSTAN\nThe mutual recognition of organic certificates with China may facilitate bilateral trade in organic products. [1]\nThe new pharmaceutical logistics complex in Bishkek could improve medical supply chains in the country. [2]\n\nKEY RISKS\nProjected 11% inflation in 2026 may erode household purchasing power and increase business costs. [4]\n\nWATCH ITEMS\nThe progress of the mutual recognition agreement for organic certificates between Kyrgyzstan and China remains to be finalized. [1]",
+      "generatedAt": "2026-09-21T04:57:38.350Z",
+      "sources": [
+        {
+          "title": "Kyrgyzstan China Move Toward Mutual Recognition of Organic Certificates",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/kyrgyzstan-china-mutual-recognition-organic-certificates/",
+          "publishedAt": "2026-09-18T11:01:22.000Z"
+        },
+        {
+          "title": "Kyrgyzstan Pharmaceutical Logistics Complex Begins Construction in Bishkek",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/kyrgyzstan-pharmaceutical-logistics-complex-bishkek/",
+          "publishedAt": "2026-09-17T12:45:23.000Z"
+        },
+        {
+          "title": "Construction becomes primary driver of Kyrgyzstan's economic growth in 2025-2026 - expert",
+          "source": "akipress.com",
+          "url": "https://akipress.com/news:919909:Construction_becomes_primary_driver_of_Kyrgyzstan_s_economic_growth_in_2025-2026_-_expert/",
+          "publishedAt": "2026-09-20T22:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Inflation in Kyrgyzstan projected at 11% in 2026 - Ministry of Economy",
+          "source": "akipress.com",
+          "url": "https://akipress.com/news:919904:Inflation_in_Kyrgyzstan_projected_at_11__in_2026_-_Ministry_of_Economy/",
+          "publishedAt": "2026-09-20T09:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bankruptcy proceedings in Kyrgyzstan can drag on for decades - deputy director of Department for Bankruptcy Affairs",
+          "source": "akipress.com",
+          "url": "https://akipress.com/news:919895:Bankruptcy_proceedings_in_Kyrgyzstan_can_drag_on_for_decades_-_deputy_director_of_Department_for_Bankruptcy_Affairs/",
+          "publishedAt": "2026-09-20T05:00:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

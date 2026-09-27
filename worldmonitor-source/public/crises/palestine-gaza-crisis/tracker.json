@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "palestine-gaza-crisis",
+  "title": "Palestine crisis tracker",
+  "shortTitle": "Palestine crisis",
+  "description": "Monthly conflict pulse for the Occupied Palestinian Territory: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a bounded scope.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for the Occupied Palestinian Territory, aggregated from subnational records covering Gaza and the West Bank together. Recorded event counts are not casualty estimates and are known to lag and undercount during periods of restricted access.",
+  "coverage": [
+    {
+      "code": "PS",
+      "name": "Palestine"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 678,
+    "fatalities": 83,
+    "politicalViolenceEvents": 670,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "PS",
+        "name": "Palestinian Territories",
+        "events": 678,
+        "fatalities": 83,
+        "political": 670,
+        "demonstrations": 8,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

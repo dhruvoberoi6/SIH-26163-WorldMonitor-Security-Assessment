@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BB",
+  "countryName": "Barbados",
+  "slug": "barbados",
+  "rank": 35,
+  "overallScore": 61.2,
+  "dimensionCoverage": 0.66,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Josh Read takes lead in Barbados Rally2 Championship",
+        "source": "cbc.bb",
+        "url": "https://www.cbc.bb/main-stories/josh-read-takes-lead-in-barbados-rally2-championship/",
+        "publishedAt": "2026-09-21T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The flavours that made us: Barbados is on the menu",
+        "source": "barbadostoday.bb",
+        "url": "https://barbadostoday.bb/2026/09/20/the-flavours-that-made-us-barbados-is-on-the-menu/",
+        "publishedAt": "2026-09-20T22:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Youth urged to resist exploitation - Barbados Today",
+        "source": "barbadostoday.bb",
+        "url": "https://barbadostoday.bb/2026/09/20/youth-urged-to-resist-exploitation/",
+        "publishedAt": "2026-09-20T22:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Barbados celebrates newest centenarian",
+        "source": "cbc.bb",
+        "url": "https://www.cbc.bb/main-stories/barbados-celebrates-newest-centenarian/",
+        "publishedAt": "2026-09-20T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sugar arrangement in limbo - Barbados Today",
+        "source": "barbadostoday.bb",
+        "url": "https://barbadostoday.bb/2026/09/19/sugar-arrangement-in-limbo/",
+        "publishedAt": "2026-09-19T22:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

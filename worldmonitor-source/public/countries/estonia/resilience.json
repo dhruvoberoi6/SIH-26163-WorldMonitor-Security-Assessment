@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "EE",
+  "countryName": "Estonia",
+  "slug": "estonia",
+  "rank": 41,
+  "overallScore": 60.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Estonia's defense agency takes Datasel dispute to Swiss arbitration",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610143246/estonia-s-defense-agency-takes-datasel-dispute-to-swiss-arbitration",
+        "publishedAt": "2026-09-20T13:22:00.000Z"
+      },
+      {
+        "title": "Estonia considers delaying Rail Baltica completion to 2034",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3056093/estonia-considers-delaying-rail-baltica-completion-to-2034",
+        "publishedAt": "2026-09-18T07:05:00.000Z"
+      },
+      {
+        "title": "International interest mounts in Estonian scientists' drug-detection meter",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610143195/international-interest-mounts-in-estonian-scientists-drug-detection-meter",
+        "publishedAt": "2026-09-20T08:39:00.000Z"
+      },
+      {
+        "title": "Estonia's Niina Petrõkina wins Bergamo figure skating round",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610143183/estonia-s-niina-petrokina-wins-bergamo-figure-skating-round",
+        "publishedAt": "2026-09-20T07:16:00.000Z"
+      },
+      {
+        "title": "Estonian experts say social media should be improved for children instead of banned",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610142781/estonian-experts-say-social-media-should-be-improved-for-children-instead-of-banned",
+        "publishedAt": "2026-09-20T07:15:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEstonia's defense agency takes Datasel dispute to Swiss arbitration. [1]\nEstonia considers delaying Rail Baltica completion to 2034. [2]\nInternational interest mounts in Estonian scientists' drug-detection meter. [3]\nEstonia's Niina Petrõkina wins Bergamo figure skating round. [4]\nEstonian experts say social media should be improved for children instead of banned. [5]\n\nWHAT THIS MEANS FOR ESTONIA\nThe Datasel dispute being taken to Swiss arbitration may affect Estonia's defense procurement or contractual relations. [1]\nA delay of Rail Baltica completion to 2034 could alter Estonia's transport infrastructure timeline and associated funding. [2]\n\nKEY RISKS\nThe arbitration process in the Datasel dispute could result in financial or operational consequences for Estonia's defense agency. [1]\n\nWATCH ITEMS\nThe outcome of the Swiss arbitration in the Datasel dispute remains unresolved. [1]\nWhether Estonia will formally decide to delay Rail Baltica to 2034 is pending. [2]",
+      "generatedAt": "2026-09-21T04:55:45.153Z",
+      "sources": [
+        {
+          "title": "Estonia's defense agency takes Datasel dispute to Swiss arbitration",
+          "source": "ERR News",
+          "url": "https://news.err.ee/1610143246/estonia-s-defense-agency-takes-datasel-dispute-to-swiss-arbitration",
+          "publishedAt": "2026-09-20T13:22:00.000Z"
+        },
+        {
+          "title": "Estonia considers delaying Rail Baltica completion to 2034",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3056093/estonia-considers-delaying-rail-baltica-completion-to-2034",
+          "publishedAt": "2026-09-18T07:05:00.000Z"
+        },
+        {
+          "title": "International interest mounts in Estonian scientists' drug-detection meter",
+          "source": "ERR News",
+          "url": "https://news.err.ee/1610143195/international-interest-mounts-in-estonian-scientists-drug-detection-meter",
+          "publishedAt": "2026-09-20T08:39:00.000Z"
+        },
+        {
+          "title": "Estonia's Niina Petrõkina wins Bergamo figure skating round",
+          "source": "ERR News",
+          "url": "https://news.err.ee/1610143183/estonia-s-niina-petrokina-wins-bergamo-figure-skating-round",
+          "publishedAt": "2026-09-20T07:16:00.000Z"
+        },
+        {
+          "title": "Estonian experts say social media should be improved for children instead of banned",
+          "source": "ERR News",
+          "url": "https://news.err.ee/1610142781/estonian-experts-say-social-media-should-be-improved-for-children-instead-of-banned",
+          "publishedAt": "2026-09-20T07:15:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

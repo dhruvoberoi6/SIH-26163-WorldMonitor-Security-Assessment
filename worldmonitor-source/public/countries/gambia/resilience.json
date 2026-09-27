@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GM",
+  "countryName": "Gambia",
+  "slug": "gambia",
+  "rank": 118,
+  "overallScore": 47.1,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Gambia Central Bank Orders Access, GTBank, FirstBank, Ecobank, Zenith, Others to Phase Out Non-Gambian Staff",
+        "source": "ThisDay",
+        "url": "https://www.thisdaylive.com/2026/09/21/gambia-central-bank-orders-access-gtbank-firstbank-ecobank-zenith-others-to-phase-out-non-gambian-staff/",
+        "publishedAt": "2026-09-21T02:12:00.000Z"
+      },
+      {
+        "title": "Gambia Remittances Hit a Record US$872 Million",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/gambia-remittances-record-economy-2026/",
+        "publishedAt": "2026-09-20T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ambassador Liu Jin bids farewell, leaves behind China's remarkable support to Gambia",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/ambassador-liu-jin-bids-farewell-leaves-behind-chinas-remarkable-support-to-gambia",
+        "publishedAt": "2026-09-18T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gambia's fishers struggle with constant power outages",
+        "source": "dw.com",
+        "url": "https://www.dw.com/en/gambias-fishers-struggle-with-constant-power-outages/g-79312664",
+        "publishedAt": "2026-09-17T16:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "New study finds heat exposure may increase risk of stillbirth in Gambia",
+        "source": "thepoint.gm",
+        "url": "https://thepoint.gm/africa/gambia/headlines/new-study-finds-heat-exposure-may-increase-risk-of-stillbirth-in-gambia",
+        "publishedAt": "2026-09-17T15:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Gambia Central Bank ordered Access, GTBank, FirstBank, Ecobank, Zenith, and others to phase out non-Gambian staff. [1]\nGambia remittances hit a record US$872 million. [2]\nAmbassador Liu Jin bid farewell, leaving behind China's remarkable support to Gambia. [3]\nGambia's fishers struggle with constant power outages. [4]\nA new study finds heat exposure may increase the risk of stillbirth in Gambia. [5]\n\nWHAT THIS MEANS FOR GAMBIA\nThe phase-out of non-Gambian staff at major banks may affect their workforce composition. [1]\nRecord remittances of US$872 million may boost household incomes and foreign exchange inflows. [2]\n\nKEY RISKS\nConstant power outages threaten the livelihoods of Gambia's fishers. [4]\nHeat exposure may increase the risk of stillbirth in Gambia. [5]\n\nWATCH ITEMS\nThe implementation of the Central Bank's order to phase out non-Gambian staff at multiple banks remains unresolved. [1]",
+      "generatedAt": "2026-09-21T04:56:25.210Z",
+      "sources": [
+        {
+          "title": "Gambia Central Bank Orders Access, GTBank, FirstBank, Ecobank, Zenith, Others to Phase Out Non-Gambian Staff",
+          "source": "ThisDay",
+          "url": "https://www.thisdaylive.com/2026/09/21/gambia-central-bank-orders-access-gtbank-firstbank-ecobank-zenith-others-to-phase-out-non-gambian-staff/",
+          "publishedAt": "2026-09-21T02:12:00.000Z"
+        },
+        {
+          "title": "Gambia Remittances Hit a Record US$872 Million",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/gambia-remittances-record-economy-2026/",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Ambassador Liu Jin bids farewell, leaves behind China's remarkable support to Gambia",
+          "source": "thepoint.gm",
+          "url": "https://thepoint.gm/africa/gambia/headlines/ambassador-liu-jin-bids-farewell-leaves-behind-chinas-remarkable-support-to-gambia",
+          "publishedAt": "2026-09-18T15:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Gambia's fishers struggle with constant power outages",
+          "source": "dw.com",
+          "url": "https://www.dw.com/en/gambias-fishers-struggle-with-constant-power-outages/g-79312664",
+          "publishedAt": "2026-09-17T16:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "New study finds heat exposure may increase risk of stillbirth in Gambia",
+          "source": "thepoint.gm",
+          "url": "https://thepoint.gm/africa/gambia/headlines/new-study-finds-heat-exposure-may-increase-risk-of-stillbirth-in-gambia",
+          "publishedAt": "2026-09-17T15:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BF",
+  "countryName": "Burkina Faso",
+  "slug": "burkina-faso",
+  "rank": 160,
+  "overallScore": 36.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Volontariat national : Le Burkina Faso ambitionne de constituer un vivier d'un million de réservistes en cinq ans",
+        "source": "leFaso.net",
+        "url": "https://lefaso.net/spip.php?article149349",
+        "publishedAt": "2026-09-20T21:50:00.000Z"
+      },
+      {
+        "title": "Burkina Faso : La Gendarmerie nationale annonce l'interpellation de Pierre Zida après l'avis de recherche lancé",
+        "source": "leFaso.net",
+        "url": "https://lefaso.net/spip.php?article149362",
+        "publishedAt": "2026-09-20T18:12:17.000Z"
+      },
+      {
+        "title": "Burkina Faso Adopts a US$63bn Five-Year Plan",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/burkina-faso-development-plan-kiaka-gold-2026/",
+        "publishedAt": "2026-09-20T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "A farmer in Burkina Faso revived an abandoned technique of digging shallow pits, filling them with manure and letting termites tunnel underneath to open the hardpan. Land that had been written off as",
+        "source": "spacedaily.com",
+        "url": "https://spacedaily.com/k-a-farmer-in-burkina-faso-revived-an-abandoned-technique-of-digging-shallow-pits-filling-them-with-manure-and-letting-termites-tunnel-underneath-to-open-the-hardpan-land-that-had-been-written-off-as/",
+        "publishedAt": "2026-09-16T06:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Black Maidens thrash Burkina Faso 4-0 in WAFU B opener",
+        "source": "ghanafa.org",
+        "url": "https://www.ghanafa.org/black-maidens-thrash-burkina-faso-4-0-in-wafu-b-opener",
+        "publishedAt": "2026-09-16T02:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Burkina Faso ambitionne de constituer un vivier d'un million de réservistes en cinq ans via le volontariat national. [1]\nThe Gendarmerie nationale annonce l'interpellation de Pierre Zida après l'avis de recherche lancé. [2]\nThe Burkina Faso Adopts a US$63bn Five-Year Plan. [3]\nA farmer in Burkina Faso revived an abandoned technique of digging shallow pits, filling them with manure and letting termites tunnel underneath to open the ha... [4]\nThe Black Maidens thrash Burkina Faso 4-0 in WAFU B opener. [5]\n\nWHAT THIS MEANS FOR BURKINA FASO\nThe interpellation of Pierre Zida follows a wanted notice issued by the Gendarmerie nationale. [2]\n\nWATCH ITEMS\nThe Gendarmerie nationale's interpellation of Pierre Zida after the wanted notice remains an unresolved event. [2]",
+      "generatedAt": "2026-09-21T04:54:19.524Z",
+      "sources": [
+        {
+          "title": "Volontariat national : Le Burkina Faso ambitionne de constituer un vivier d'un million de réservistes en cinq ans",
+          "source": "leFaso.net",
+          "url": "https://lefaso.net/spip.php?article149349",
+          "publishedAt": "2026-09-20T21:50:00.000Z"
+        },
+        {
+          "title": "Burkina Faso : La Gendarmerie nationale annonce l'interpellation de Pierre Zida après l'avis de recherche lancé",
+          "source": "leFaso.net",
+          "url": "https://lefaso.net/spip.php?article149362",
+          "publishedAt": "2026-09-20T18:12:17.000Z"
+        },
+        {
+          "title": "Burkina Faso Adopts a US$63bn Five-Year Plan",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/burkina-faso-development-plan-kiaka-gold-2026/",
+          "publishedAt": "2026-09-20T00:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "A farmer in Burkina Faso revived an abandoned technique of digging shallow pits, filling them with manure and letting termites tunnel underneath to open the ha...",
+          "source": "spacedaily.com",
+          "url": "https://spacedaily.com/k-a-farmer-in-burkina-faso-revived-an-abandoned-technique-of-digging-shallow-pits-filling-them-with-manure-and-letting-termites-tunnel-underneath-to-open-the-hardpan-land-that-had-been-written-off-as/",
+          "publishedAt": "2026-09-16T06:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Black Maidens thrash Burkina Faso 4-0 in WAFU B opener",
+          "source": "ghanafa.org",
+          "url": "https://www.ghanafa.org/black-maidens-thrash-burkina-faso-4-0-in-wafu-b-opener",
+          "publishedAt": "2026-09-16T02:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: kawowo.com",
+        "sourceUrl": "https://kawowo.com/2026/09/19/2026-national-pool-league-upper-volta-braces-for-greater-mukono-tie/",
+        "occurredAt": "2026-09-19T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: whbl.com",
+        "sourceUrl": "https://whbl.com/2026/09/11/austria-reports-encouraging-news-about-release-of-hostage-in-niger/",
+        "occurredAt": "2026-09-11T11:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: whbl.com",
+        "sourceUrl": "https://whbl.com/2026/09/11/austria-reports-encouraging-news-about-release-of-hostage-in-niger/",
+        "occurredAt": "2026-09-11T11:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: whbl.com",
+        "sourceUrl": "https://whbl.com/2026/09/11/austria-reports-encouraging-news-about-release-of-hostage-in-niger/",
+        "occurredAt": "2026-09-11T11:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Burkina Faso",
+        "summary": "source: whbl.com",
+        "sourceUrl": "https://whbl.com/2026/09/11/austria-reports-encouraging-news-about-release-of-hostage-in-niger/",
+        "occurredAt": "2026-09-11T11:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

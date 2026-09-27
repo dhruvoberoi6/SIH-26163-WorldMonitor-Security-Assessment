@@ -1,0 +1,48 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LA",
+  "countryName": "Laos",
+  "slug": "laos",
+  "rank": 100,
+  "overallScore": 50.8,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "\"Peace Train-2026\" medical team conducts academic exchanges in Laos-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260920/b6d4a1ea76464be48273bfe92e069c34/c.html",
+        "publishedAt": "2026-09-20T06:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "China-Laos \"Peace Train-2026\" Medical Team Deepens Friendship through Exchange Activities",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260918-prc-mnd01.htm",
+        "publishedAt": "2026-09-19T10:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Localities work to expand Laos–Việt Nam–Thailand tourism links",
+        "source": "vietnamnews.vn",
+        "url": "https://vietnamnews.vn/life-style/1800067/localities-work-to-expand-laos-viet-nam-thailand-tourism-links.html",
+        "publishedAt": "2026-09-18T14:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

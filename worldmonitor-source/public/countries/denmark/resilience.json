@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DK",
+  "countryName": "Denmark",
+  "slug": "denmark",
+  "rank": 4,
+  "overallScore": 72.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "US and Denmark reach Greenland security deal",
+        "source": "France 24 LatAm",
+        "url": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal",
+        "publishedAt": "2026-09-20T09:40:12.000Z"
+      },
+      {
+        "title": "Denmark Speeds Up Ukraine Aid Package After Russian Warship Fires Flares At Helicopter",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/denmark-speeds-up-ukraine-aid-package-after-russian-warship-fires-flares-at-helicopter/",
+        "publishedAt": "2026-09-20T14:52:32.000Z"
+      },
+      {
+        "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+        "publishedAt": "2026-09-21T03:48:23.000Z"
+      },
+      {
+        "title": "What the Greenland deal means for the transatlantic alliance",
+        "source": "Atlantic Council",
+        "url": "https://www.atlanticcouncil.org/content-series/fastthinking/what-the-greenland-deal-means-for-the-transatlantic-alliance/",
+        "publishedAt": "2026-09-19T14:36:12.000Z"
+      },
+      {
+        "title": "Denmark says Greenland deal with Trump respects sovereignty and is ‘good for NATO and Europe’",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/denmark-greenland-trump-deal-sovereignty-nato-europe",
+        "publishedAt": "2026-09-20T14:05:54.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US and Denmark reach Greenland security deal. [1]\nDenmark speeds up Ukraine aid package after Russian warship fires flares at helicopter. [2]\nRevolut starts EURR rollout with Bridge as regulated issuer. [3]\n\nWHAT THIS MEANS FOR DENMARK\nDenmark says Greenland deal with Trump respects sovereignty and is good for NATO and Europe. [5]\n\nWATCH ITEMS\nThe Greenland deal means for the transatlantic alliance. [4]",
+      "generatedAt": "2026-09-21T04:55:30.029Z",
+      "sources": [
+        {
+          "title": "US and Denmark reach Greenland security deal",
+          "source": "France 24 LatAm",
+          "url": "https://www.france24.com/en/us-and-denmark-reach-greenland-security-deal",
+          "publishedAt": "2026-09-20T09:40:12.000Z"
+        },
+        {
+          "title": "Denmark Speeds Up Ukraine Aid Package After Russian Warship Fires Flares At Helicopter",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/denmark-speeds-up-ukraine-aid-package-after-russian-warship-fires-flares-at-helicopter/",
+          "publishedAt": "2026-09-20T14:52:32.000Z"
+        },
+        {
+          "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+          "source": "The Defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+          "publishedAt": "2026-09-21T03:48:23.000Z"
+        },
+        {
+          "title": "What the Greenland deal means for the transatlantic alliance",
+          "source": "Atlantic Council",
+          "url": "https://www.atlanticcouncil.org/content-series/fastthinking/what-the-greenland-deal-means-for-the-transatlantic-alliance/",
+          "publishedAt": "2026-09-19T14:36:12.000Z"
+        },
+        {
+          "title": "Denmark says Greenland deal with Trump respects sovereignty and is ‘good for NATO and Europe’",
+          "source": "National Post",
+          "url": "https://nationalpost.com/news/denmark-greenland-trump-deal-sovereignty-nato-europe",
+          "publishedAt": "2026-09-20T14:05:54.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

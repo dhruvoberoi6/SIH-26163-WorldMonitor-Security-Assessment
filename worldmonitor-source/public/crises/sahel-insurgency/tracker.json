@@ -1,0 +1,65 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "sahel-insurgency",
+  "title": "Sahel insurgency tracker",
+  "shortTitle": "Sahel insurgency",
+  "description": "Monthly conflict pulse for Burkina Faso, Mali and Niger: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a fixed three-country scope.",
+  "overview": "This tracker covers the central Sahel states of Burkina Faso, Mali and Niger, whose insurgencies cross shared borders. Totals are aggregated from subnational humanitarian records and are not a territorial control map, a displacement estimate, or a forecast.",
+  "coverage": [
+    {
+      "code": "BF",
+      "name": "Burkina Faso"
+    },
+    {
+      "code": "ML",
+      "name": "Mali"
+    },
+    {
+      "code": "NE",
+      "name": "Niger"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 117,
+    "fatalities": 247,
+    "politicalViolenceEvents": 108,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "BF",
+        "name": "Burkina Faso",
+        "events": 12,
+        "fatalities": 17,
+        "political": 12,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "ML",
+        "name": "Mali",
+        "events": 74,
+        "fatalities": 190,
+        "political": 74,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "NE",
+        "name": "Niger",
+        "events": 31,
+        "fatalities": 40,
+        "political": 22,
+        "demonstrations": 9,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

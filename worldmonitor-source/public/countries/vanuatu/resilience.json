@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VU",
+  "countryName": "Vanuatu",
+  "slug": "vanuatu",
+  "rank": 81,
+  "overallScore": 54.1,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Pacific.scoop.co.nz » Vanuatu Signs The Declaration On Children, Youth, And Climate Action",
+        "source": "scoop.co.nz",
+        "url": "https://pacific.scoop.co.nz/2026/09/vanuatu-signs-the-declaration-on-children-youth-and-climate-action/",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Vanuatu Signs The Declaration On Children, Youth, And Climate Action",
+        "source": "scoop.co.nz",
+        "url": "https://www.scoop.co.nz/stories/WO2609/S00163/vanuatu-signs-the-declaration-on-children-youth-and-climate-action.htm",
+        "publishedAt": "2026-09-21T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ashfall-hit communities in Penama receive Vanuatu government support",
+        "source": "rnz.co.nz",
+        "url": "https://www.rnz.co.nz/news/pacific/1483930/ashfall-hit-communities-in-penama-receive-vanuatu-government-support",
+        "publishedAt": "2026-09-20T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mum describes 'harrowing' ordeal on ferry MV Matui that later sank in Vanuatu - 19-Sep-2026",
+        "source": "nzcity.co.nz",
+        "url": "https://home.nzcity.co.nz/news/article.aspx?id=454316",
+        "publishedAt": "2026-09-19T03:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Seasonal work agents support Vanuatu's Flying Doctor after MV Matui tragedy | News",
+        "source": "dailypost.vu",
+        "url": "https://www.dailypost.vu/news/seasonal-work-agents-support-vanuatu-s-flying-doctor-after-mv-matui-tragedy/article_abe65d42-160b-5463-8251-b40770252599.html",
+        "publishedAt": "2026-09-18T23:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

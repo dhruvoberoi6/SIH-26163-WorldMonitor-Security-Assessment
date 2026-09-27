@@ -1,0 +1,137 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ML",
+  "countryName": "Mali",
+  "slug": "mali",
+  "rank": 166,
+  "overallScore": 32,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Multiple unions threaten strikes at Barrick's flagship Mali gold mine, documents show - TradingView",
+        "source": "Gold Majors",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd1U3TEhYVGdyTnJyNjlNcHhSNUVodWh5RE9sOGd5YUEybmxmUnJuMkxSSjl6RS1TQjZrcHlCaUJFU1prNlJJZTM4ZG9qQ3ZZRUU3V1BQMlV3aVBpb29oblVFX3BYSEtmN2E4N1NZVC1OZXRNNWVIMC1kWm9pZ3RHSTZhS2dUSnZON3dyRGtDRk5QMXpQdXV0Y1VMdVpxaXc0TTR2OVVYd2JwWnNkOUd2Qm1RWTdGbVF2RTZNMU9ncDRDb0RGdERoQ2p3Q3ZHS0FhYmlia0NKV3hwZW9lOU8wOWZRa1Q3WU1EYUE?oc=5",
+        "publishedAt": "2026-09-18T19:29:05.000Z"
+      },
+      {
+        "title": "Multiple unions threaten strikes at Barrick’s flagship Mali gold mine, documents show",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/multiple-unions-threaten-strikes-at-barricks-flagship-mali-gold-mine-documents-show/",
+        "publishedAt": "2026-09-21T04:25:00.000Z"
+      },
+      {
+        "title": "Mali : Le budget 2027 prévoit environ 3 900 milliards FCFA de recettes et réduit le déficit",
+        "source": "leFaso.net",
+        "url": "https://lefaso.net/spip.php?article149369",
+        "publishedAt": "2026-09-20T20:30:00.000Z"
+      },
+      {
+        "title": "Guerre des drones au Mali, interview exclusive de Fouzi Lekjaâ, les secrets du renseignement camerounais… Les 5 infos qu’il ne fallait pas manquer",
+        "source": "Jeune Afrique",
+        "url": "https://www.jeuneafrique.com/1843111/politique/guerre-des-drones-au-mali-interview-exclusive-de-fouzi-lekjaa-les-secrets-du-renseignement-camerounais-les-5-infos-quil-ne-fallait-pas-manquer/",
+        "publishedAt": "2026-09-19T08:30:00.000Z"
+      },
+      {
+        "title": "Multiple unions threaten strikes at Barrick's flagship Mali gold mine, documents show",
+        "source": "mining.com",
+        "url": "https://www.mining.com/web/multiple-unions-threaten-strikes-at-barricks-flagship-mali-gold-mine-documents-show/",
+        "publishedAt": "2026-09-20T23:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMultiple unions threaten strikes at Barrick's flagship Mali gold mine, documents show. [1]\n\nWHAT THIS MEANS FOR MALI\nThe threatened strikes at Barrick's flagship Mali gold mine could disrupt operations at the site. [2]\n\nKEY RISKS\nThe threatened strikes at Barrick's flagship Mali gold mine pose a risk of production stoppage. [5]",
+      "generatedAt": "2026-09-21T04:58:32.434Z",
+      "sources": [
+        {
+          "title": "Multiple unions threaten strikes at Barrick's flagship Mali gold mine, documents show - TradingView",
+          "source": "Gold Majors",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd1U3TEhYVGdyTnJyNjlNcHhSNUVodWh5RE9sOGd5YUEybmxmUnJuMkxSSjl6RS1TQjZrcHlCaUJFU1prNlJJZTM4ZG9qQ3ZZRUU3V1BQMlV3aVBpb29oblVFX3BYSEtmN2E4N1NZVC1OZXRNNWVIMC1kWm9pZ3RHSTZhS2dUSnZON3dyRGtDRk5QMXpQdXV0Y1VMdVpxaXc0TTR2OVVYd2JwWnNkOUd2Qm1RWTdGbVF2RTZNMU9ncDRDb0RGdERoQ2p3Q3ZHS0FhYmlia0NKV3hwZW9lOU8wOWZRa1Q3WU1EYUE?oc=5",
+          "publishedAt": "2026-09-18T19:29:05.000Z"
+        },
+        {
+          "title": "Multiple unions threaten strikes at Barrick’s flagship Mali gold mine, documents show",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/multiple-unions-threaten-strikes-at-barricks-flagship-mali-gold-mine-documents-show/",
+          "publishedAt": "2026-09-21T04:25:00.000Z"
+        },
+        {
+          "title": "Mali : Le budget 2027 prévoit environ 3 900 milliards FCFA de recettes et réduit le déficit",
+          "source": "leFaso.net",
+          "url": "https://lefaso.net/spip.php?article149369",
+          "publishedAt": "2026-09-20T20:30:00.000Z"
+        },
+        {
+          "title": "Guerre des drones au Mali, interview exclusive de Fouzi Lekjaâ, les secrets du renseignement camerounais… Les 5 infos qu’il ne fallait pas manquer",
+          "source": "Jeune Afrique",
+          "url": "https://www.jeuneafrique.com/1843111/politique/guerre-des-drones-au-mali-interview-exclusive-de-fouzi-lekjaa-les-secrets-du-renseignement-camerounais-les-5-infos-quil-ne-fallait-pas-manquer/",
+          "publishedAt": "2026-09-19T08:30:00.000Z"
+        },
+        {
+          "title": "Multiple unions threaten strikes at Barrick's flagship Mali gold mine, documents show",
+          "source": "mining.com",
+          "url": "https://www.mining.com/web/multiple-unions-threaten-strikes-at-barricks-flagship-mali-gold-mine-documents-show/",
+          "publishedAt": "2026-09-20T23:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/mali-dioura-attack-death-toll-2026/",
+        "occurredAt": "2026-09-20T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/mali-dioura-attack-death-toll-2026/",
+        "occurredAt": "2026-09-20T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/mali-dioura-attack-death-toll-2026/",
+        "occurredAt": "2026-09-20T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/news/sahel-instability-pushes-algeria-rethink-its-long-standing-non-intervention-doctrine",
+        "occurredAt": "2026-09-18T16:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/news/sahel-instability-pushes-algeria-rethink-its-long-standing-non-intervention-doctrine",
+        "occurredAt": "2026-09-18T16:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mali",
+        "summary": "source: www.middleeasteye.net",
+        "sourceUrl": "https://www.middleeasteye.net/news/sahel-instability-pushes-algeria-rethink-its-long-standing-non-intervention-doctrine",
+        "occurredAt": "2026-09-18T16:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

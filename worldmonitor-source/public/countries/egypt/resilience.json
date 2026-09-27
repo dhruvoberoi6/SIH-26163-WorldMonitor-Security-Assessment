@@ -1,0 +1,94 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "slug": "egypt",
+  "rank": 112,
+  "overallScore": 48.7,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Egypt stands firm on Arab security and Gaza ceasefire: Sisi to CIA Director",
+        "source": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/egypt-stands-firm-on-arab-security-and-gaza-ceasefire-sisi-to-cia-director/",
+        "publishedAt": "2026-09-20T10:33:04.000Z"
+      },
+      {
+        "title": "El-Sisi and CIA chief discuss Sudan war",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/el-sisi-and-cia-chief-discuss-sudan-war",
+        "publishedAt": "2026-09-20T16:58:47.000Z"
+      },
+      {
+        "title": "Egypt says it agreed to South Sudan’s Fula dam",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
+        "publishedAt": "2026-09-21T00:50:00.000Z"
+      },
+      {
+        "title": "Egyptian physicist Ahmed Al-Gendy wins global Marie Curie Medal for nanotech cancer treatment",
+        "source": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/egyptian-physicist-ahmed-al-gendy-wins-global-marie-curie-medal-for-nanotech-cancer-treatment/",
+        "publishedAt": "2026-09-20T10:04:18.000Z"
+      },
+      {
+        "title": "Egypt sees broad prospects for water management cooperation with China: minister-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/africa/20260921/719e39f024b7467eb80558f3c2584726/c.html",
+        "publishedAt": "2026-09-21T00:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEgypt stands firm on Arab security and Gaza ceasefire, as stated by Sisi to the CIA Director. [1]\nEl-Sisi and the CIA chief discussed the Sudan war. [2]\nEgypt says it agreed to South Sudan’s Fula dam. [3]\nEgyptian physicist Ahmed Al-Gendy won the global Marie Curie Medal for nanotech cancer treatment. [4]",
+      "generatedAt": "2026-09-21T04:55:49.090Z",
+      "sources": [
+        {
+          "title": "Egypt stands firm on Arab security and Gaza ceasefire: Sisi to CIA Director",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/egypt-stands-firm-on-arab-security-and-gaza-ceasefire-sisi-to-cia-director/",
+          "publishedAt": "2026-09-20T10:33:04.000Z"
+        },
+        {
+          "title": "El-Sisi and CIA chief discuss Sudan war",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/el-sisi-and-cia-chief-discuss-sudan-war",
+          "publishedAt": "2026-09-20T16:58:47.000Z"
+        },
+        {
+          "title": "Egypt says it agreed to South Sudan’s Fula dam",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
+          "publishedAt": "2026-09-21T00:50:00.000Z"
+        },
+        {
+          "title": "Egyptian physicist Ahmed Al-Gendy wins global Marie Curie Medal for nanotech cancer treatment",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/egyptian-physicist-ahmed-al-gendy-wins-global-marie-curie-medal-for-nanotech-cancer-treatment/",
+          "publishedAt": "2026-09-20T10:04:18.000Z"
+        },
+        {
+          "title": "Egypt sees broad prospects for water management cooperation with China: minister-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/africa/20260921/719e39f024b7467eb80558f3c2584726/c.html",
+          "publishedAt": "2026-09-21T00:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

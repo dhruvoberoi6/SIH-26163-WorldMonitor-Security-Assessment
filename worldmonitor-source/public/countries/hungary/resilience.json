@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HU",
+  "countryName": "Hungary",
+  "slug": "hungary",
+  "rank": 37,
+  "overallScore": 61.2,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Democracy Digest: Hungary Opens Way for Adoption by Gay Couples",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/democracy-digest-hungary-opens-way-for-adoption-by-gay-couples/rd/",
+        "publishedAt": "2026-09-18T05:51:00.000Z"
+      },
+      {
+        "title": "From the streets to the ballot box: What Hungary can teach Serbia",
+        "source": "globalvoices.org",
+        "url": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
+        "publishedAt": "2026-09-20T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain News: Youth Minister discusses boosting youth cooperation with officials during Brain Bar 2026 in Hungary",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407001/Youth-Minister-discusses-boosting-youth-cooperation-with-officials-during-Brain-Bar-2026-in-Hungary",
+        "publishedAt": "2026-09-19T16:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain News: Youth Minister discusses boosting youth cooperation with officials during Brain Bar 2026 in Hungary",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407001",
+        "publishedAt": "2026-09-19T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Hungary's New Government to Repeal the Gay-Propaganda Law",
+        "source": "thecolu.mn",
+        "url": "https://thecolu.mn/5218/hungarys-new-government-to-repeal-the-gay-propaganda-law/",
+        "publishedAt": "2026-09-19T09:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nHungary opens way for adoption by gay couples. [1]\nHungary's new government plans to repeal the gay-propaganda law. [5]\n\nWHAT THIS MEANS FOR HUNGARY\nThe new government's repeal of the gay-propaganda law suggests a change in policy direction from the previous administration. [5]",
+      "generatedAt": "2026-09-21T04:56:49.899Z",
+      "sources": [
+        {
+          "title": "Democracy Digest: Hungary Opens Way for Adoption by Gay Couples",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/democracy-digest-hungary-opens-way-for-adoption-by-gay-couples/rd/",
+          "publishedAt": "2026-09-18T05:51:00.000Z"
+        },
+        {
+          "title": "From the streets to the ballot box: What Hungary can teach Serbia",
+          "source": "globalvoices.org",
+          "url": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
+          "publishedAt": "2026-09-20T09:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bahrain News: Youth Minister discusses boosting youth cooperation with officials during Brain Bar 2026 in Hungary",
+          "source": "gdnonline.com",
+          "url": "https://www.gdnonline.com/Details/1407001/Youth-Minister-discusses-boosting-youth-cooperation-with-officials-during-Brain-Bar-2026-in-Hungary",
+          "publishedAt": "2026-09-19T16:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bahrain News: Youth Minister discusses boosting youth cooperation with officials during Brain Bar 2026 in Hungary",
+          "source": "gdnonline.com",
+          "url": "https://www.gdnonline.com/Details/1407001",
+          "publishedAt": "2026-09-19T15:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Hungary's New Government to Repeal the Gay-Propaganda Law",
+          "source": "thecolu.mn",
+          "url": "https://thecolu.mn/5218/hungarys-new-government-to-repeal-the-gay-propaganda-law/",
+          "publishedAt": "2026-09-19T09:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

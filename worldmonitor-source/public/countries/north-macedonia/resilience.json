@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MK",
+  "countryName": "North Macedonia",
+  "slug": "north-macedonia",
+  "rank": 84,
+  "overallScore": 53.9,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Macedonia ‘Putting Youth at Risk’ by Scrapping Sex Education Rollout",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/17/north-macedonia-putting-youth-at-risk-by-scrapping-sex-education-rollout/bi/",
+        "publishedAt": "2026-09-17T05:59:36.000Z"
+      },
+      {
+        "title": "Kyuchyuk: Relations with North Macedonia are deteriorating, we aim to share borders with countries that uphold our values",
+        "source": "albeu.com",
+        "url": "https://albeu.com/english/kyuchyuk-relations-with-north-macedonia-are-deteriorating-we-aim-to-share-borders-with-countries-that-uphold-our-values/1017175/",
+        "publishedAt": "2026-09-18T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "North Macedonia Opposition Urges Deeper Probe into Independence Day Spending",
+        "source": "balkaninsight.com",
+        "url": "https://balkaninsight.com/2026/09/16/north-macedonia-opposition-urges-deeper-probe-into-independence-day-spending/bi/",
+        "publishedAt": "2026-09-16T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Call for Refugee Protection and Access to Justice in North Macedonia",
+        "source": "fundsforngos.org",
+        "url": "https://www2.fundsforngos.org/refugee-asylum-seekers-2/call-for-refugee-protection-and-access-to-justice-in-north-macedonia/",
+        "publishedAt": "2026-09-15T08:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Windtech International - Štip wind farm reaches financial close in North Macedonia",
+        "source": "windtech-international.com",
+        "url": "https://www.windtech-international.com/projects-and-contracts/stip-wind-farm-reaches-financial-close-in-north-macedonia",
+        "publishedAt": "2026-09-14T10:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNorth Macedonia is putting youth at risk by scrapping the rollout of sex education. [1]\nRelations with North Macedonia are deteriorating, according to Kyuchyuk. [2]\nThe opposition in North Macedonia is urging a deeper probe into Independence Day spending. [3]\nThere is a call for refugee protection and access to justice in North Macedonia. [4]\nThe Štip wind farm in North Macedonia has reached financial close. [5]\n\nWHAT THIS MEANS FOR NORTH MACEDONIA\nThe aim is to share borders with countries that uphold our values, implying a potential shift in foreign relations. [2]\n\nKEY RISKS\nScrapping sex education rollout puts youth at risk in North Macedonia. [1]\n\nWATCH ITEMS\nThe opposition urges a deeper probe into Independence Day spending, indicating unresolved scrutiny. [3]\nThe call for refugee protection and access to justice remains an ongoing concern. [4]",
+      "generatedAt": "2026-09-21T04:58:29.305Z",
+      "sources": [
+        {
+          "title": "North Macedonia ‘Putting Youth at Risk’ by Scrapping Sex Education Rollout",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/17/north-macedonia-putting-youth-at-risk-by-scrapping-sex-education-rollout/bi/",
+          "publishedAt": "2026-09-17T05:59:36.000Z"
+        },
+        {
+          "title": "Kyuchyuk: Relations with North Macedonia are deteriorating, we aim to share borders with countries that uphold our values",
+          "source": "albeu.com",
+          "url": "https://albeu.com/english/kyuchyuk-relations-with-north-macedonia-are-deteriorating-we-aim-to-share-borders-with-countries-that-uphold-our-values/1017175/",
+          "publishedAt": "2026-09-18T14:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "North Macedonia Opposition Urges Deeper Probe into Independence Day Spending",
+          "source": "balkaninsight.com",
+          "url": "https://balkaninsight.com/2026/09/16/north-macedonia-opposition-urges-deeper-probe-into-independence-day-spending/bi/",
+          "publishedAt": "2026-09-16T14:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Call for Refugee Protection and Access to Justice in North Macedonia",
+          "source": "fundsforngos.org",
+          "url": "https://www2.fundsforngos.org/refugee-asylum-seekers-2/call-for-refugee-protection-and-access-to-justice-in-north-macedonia/",
+          "publishedAt": "2026-09-15T08:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Windtech International - Štip wind farm reaches financial close in North Macedonia",
+          "source": "windtech-international.com",
+          "url": "https://www.windtech-international.com/projects-and-contracts/stip-wind-farm-reaches-financial-close-in-north-macedonia",
+          "publishedAt": "2026-09-14T10:00:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

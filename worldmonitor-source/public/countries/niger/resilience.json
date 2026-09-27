@@ -1,0 +1,165 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NE",
+  "countryName": "Niger",
+  "slug": "niger",
+  "rank": 164,
+  "overallScore": 33.8,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Niger Govt Unaware Of Miners’ Arrest Before Deaths In NSCDC Custody – Bago",
+        "source": "Channels TV",
+        "url": "https://www.channelstv.com/2026/09/20/niger-govt-unaware-of-miners-arrest-before-deaths-in-nscdc-custody-bago/",
+        "publishedAt": "2026-09-20T22:17:55.000Z"
+      },
+      {
+        "title": "Niger Miners’ Deaths: Gov Bago Seeks Executive Order To Ban Mining In Some Areas",
+        "source": "Channels TV",
+        "url": "https://www.channelstv.com/2026/09/20/niger-miners-deaths-gov-bago-seeks-executive-order-to-ban-mining-in-some-areas/",
+        "publishedAt": "2026-09-20T20:31:53.000Z"
+      },
+      {
+        "title": "Uproar in Niger state, 37 die in custody",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/uproar-in-niger-state-37-die-in-custody",
+        "publishedAt": "2026-09-18T20:52:51.000Z"
+      },
+      {
+        "title": "Niger : qui sont les personnalités déchues de leur nationalité par Abdourahamane Tiani ?",
+        "source": "Jeune Afrique",
+        "url": "https://www.jeuneafrique.com/1844579/politique/niger-qui-sont-les-personnalites-dechues-de-leur-nationalite-par-abdourahamane-tiani/",
+        "publishedAt": "2026-09-18T17:45:18.000Z"
+      },
+      {
+        "title": "US former captive details 6 years of horror during Niger kidnapping",
+        "source": "nypost.com",
+        "url": "https://nypost.com/2026/09/20/us-news/us-former-captive-details-6-years-of-horror-during-niger-kidnapping/",
+        "publishedAt": "2026-09-20T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Niger government was unaware of the miners' arrest before their deaths in NSCDC custody, according to Bago. [1]\n37 people died in custody in Niger state, causing an uproar. [3]\n\nWATCH ITEMS\nThe identities of personalities stripped of their nationality by Abdourahamane Tiani remain a point of interest. [4]\nA US former captive detailed 6 years of horror during a kidnapping in Niger. [5]",
+      "generatedAt": "2026-09-21T04:58:49.617Z",
+      "sources": [
+        {
+          "title": "Niger Govt Unaware Of Miners’ Arrest Before Deaths In NSCDC Custody – Bago",
+          "source": "Channels TV",
+          "url": "https://www.channelstv.com/2026/09/20/niger-govt-unaware-of-miners-arrest-before-deaths-in-nscdc-custody-bago/",
+          "publishedAt": "2026-09-20T22:17:55.000Z"
+        },
+        {
+          "title": "Niger Miners’ Deaths: Gov Bago Seeks Executive Order To Ban Mining In Some Areas",
+          "source": "Channels TV",
+          "url": "https://www.channelstv.com/2026/09/20/niger-miners-deaths-gov-bago-seeks-executive-order-to-ban-mining-in-some-areas/",
+          "publishedAt": "2026-09-20T20:31:53.000Z"
+        },
+        {
+          "title": "Uproar in Niger state, 37 die in custody",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/uproar-in-niger-state-37-die-in-custody",
+          "publishedAt": "2026-09-18T20:52:51.000Z"
+        },
+        {
+          "title": "Niger : qui sont les personnalités déchues de leur nationalité par Abdourahamane Tiani ?",
+          "source": "Jeune Afrique",
+          "url": "https://www.jeuneafrique.com/1844579/politique/niger-qui-sont-les-personnalites-dechues-de-leur-nationalite-par-abdourahamane-tiani/",
+          "publishedAt": "2026-09-18T17:45:18.000Z"
+        },
+        {
+          "title": "US former captive details 6 years of horror during Niger kidnapping",
+          "source": "nypost.com",
+          "url": "https://nypost.com/2026/09/20/us-news/us-former-captive-details-6-years-of-horror-during-niger-kidnapping/",
+          "publishedAt": "2026-09-20T16:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: punchng.com",
+        "sourceUrl": "https://punchng.com/artisanal-mining-president-demands-probe-into-death-of-niger-miners/",
+        "occurredAt": "2026-09-20T19:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Niger",
+        "summary": "source: thesun.ng",
+        "sourceUrl": "https://thesun.ng/niger-prp-knocks-rescue-of-dekara-abduction-victims/",
+        "occurredAt": "2026-09-20T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Niger",
+        "summary": "source: nypost.com",
+        "sourceUrl": "https://nypost.com/2026/09/20/us-news/us-former-captive-details-6-years-of-horror-during-niger-kidnapping/",
+        "occurredAt": "2026-09-20T16:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Niger",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/article-16134117/California-man-kidnapped-captive-SIX-YEARS-reveals-locked-box.html",
+        "occurredAt": "2026-09-19T16:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Niger",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/article-16134117/California-man-kidnapped-captive-SIX-YEARS-reveals-locked-box.html",
+        "occurredAt": "2026-09-19T16:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Niger",
+        "summary": "source: dailypost.ng",
+        "sourceUrl": "https://dailypost.ng/2026/09/19/bandits-abduct-sarkin-fulani-son-relative-in-niger/",
+        "occurredAt": "2026-09-19T16:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: leadership.ng",
+        "sourceUrl": "https://leadership.ng/niger-miners-parents-demand-compensation-after-deaths-in-custody/",
+        "occurredAt": "2026-09-19T11:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: leadership.ng",
+        "sourceUrl": "https://leadership.ng/niger-miners-parents-demand-compensation-after-deaths-in-custody/",
+        "occurredAt": "2026-09-19T11:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Niger",
+        "summary": "source: www.hindustantimes.com",
+        "sourceUrl": "https://www.hindustantimes.com/world-news/us-news/nigerian-police-use-tear-gas-during-protests-over-the-deaths-in-custody-of-37-miners-101789759718496.html",
+        "occurredAt": "2026-09-18T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Niger",
+        "summary": "source: www.nigerianeye.com",
+        "sourceUrl": "https://www.nigerianeye.com/2026/09/many-feared-dead-as-mining-pit.html",
+        "occurredAt": "2026-09-18T19:15:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

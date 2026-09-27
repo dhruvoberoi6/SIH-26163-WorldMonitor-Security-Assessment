@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HK",
+  "countryName": "Hong Kong",
+  "slug": "hong-kong",
+  "rank": 78,
+  "overallScore": 54.2,
+  "dimensionCoverage": 0.7,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Four Chinese firms seek to raise up to $1.83 billion in Hong Kong offerings",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/four-chinese-firms-seek-raise-up-183-billion-in-hong-kong-offerings-6398226",
+        "publishedAt": "2026-09-21T00:24:14.000Z"
+      },
+      {
+        "title": "Opinion | Hong Kong's 5-year plan plays it too safe | South China Morning Post",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367992/hong-kongs-five-year-plan-plays-it-too-safe",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Letters | What Hong Kong educators can learn from Yidan Prize winners",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/opinion/letters/article/3367999/what-hong-kong-educators-can-learn-yidan-prize-winners",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nearly 50% rise in drug seizures by Hong Kong customs in first half of year",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368156/nearly-50-rise-drug-seizures-hong-kong-customs-first-half-year",
+        "publishedAt": "2026-09-21T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Barristers dismiss calls for solicitors to gain senior counsel status in Hong Kong",
+        "source": "scmp.com",
+        "url": "https://www.scmp.com/news/hong-kong/society/article/3368150/barristers-dismiss-calls-solicitors-gain-senior-counsel-status-hong-kong",
+        "publishedAt": "2026-09-20T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFour Chinese firms seek to raise up to $1.83 billion in Hong Kong offerings. [1]\nHong Kong customs reported nearly a 50% rise in drug seizures in the first half of the year. [4]\n\nWHAT THIS MEANS FOR HONG KONG\nThe opinion piece suggests Hong Kong's 5-year plan plays it too safe. [2]\nBarristers have dismissed calls for solicitors to gain senior counsel status in Hong Kong. [5]\n\nKEY RISKS\nThe nearly 50% rise in drug seizures by Hong Kong customs in the first half of the year indicates increased drug trafficking activity. [4]\n\nWATCH ITEMS\nThe outcome of the four Chinese firms seeking to raise up to $1.83 billion in Hong Kong offerings remains unresolved. [1]",
+      "generatedAt": "2026-09-21T04:56:42.064Z",
+      "sources": [
+        {
+          "title": "Four Chinese firms seek to raise up to $1.83 billion in Hong Kong offerings",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/business/four-chinese-firms-seek-raise-up-183-billion-in-hong-kong-offerings-6398226",
+          "publishedAt": "2026-09-21T00:24:14.000Z"
+        },
+        {
+          "title": "Opinion | Hong Kong's 5-year plan plays it too safe | South China Morning Post",
+          "source": "scmp.com",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3367992/hong-kongs-five-year-plan-plays-it-too-safe",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Letters | What Hong Kong educators can learn from Yidan Prize winners",
+          "source": "scmp.com",
+          "url": "https://www.scmp.com/opinion/letters/article/3367999/what-hong-kong-educators-can-learn-yidan-prize-winners",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Nearly 50% rise in drug seizures by Hong Kong customs in first half of year",
+          "source": "scmp.com",
+          "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368156/nearly-50-rise-drug-seizures-hong-kong-customs-first-half-year",
+          "publishedAt": "2026-09-21T01:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Barristers dismiss calls for solicitors to gain senior counsel status in Hong Kong",
+          "source": "scmp.com",
+          "url": "https://www.scmp.com/news/hong-kong/society/article/3368150/barristers-dismiss-calls-solicitors-gain-senior-counsel-status-hong-kong",
+          "publishedAt": "2026-09-20T23:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LV",
+  "countryName": "Latvia",
+  "slug": "latvia",
+  "rank": 25,
+  "overallScore": 62.8,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "European Commission Approves Grants for 3 Cross-Border RE Projects",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/european_commission_approves_grants_for_3_crossborder_re_projects-20-sep-2026-184655-article/?rss=true",
+        "publishedAt": "2026-09-20T11:00:00.000Z"
+      },
+      {
+        "title": "WATCH AGAIN: Latvia versus Poland international volleyball",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/culture/sport/19.09.2026-watch-again-latvia-versus-poland-international-volleyball.a663732/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-19T12:45:00.000Z"
+      },
+      {
+        "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
+        "publishedAt": "2026-09-18T11:01:43.000Z"
+      },
+      {
+        "title": "Latvian border guards stop more illegal crossers",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/crime/18.09.2026-latvian-border-guards-stop-more-illegal-crossers.a663786/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-18T11:12:10.000Z"
+      },
+      {
+        "title": "Extra NATO jets coming to Latvia during election period",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/defence/18.09.2026-extra-nato-jets-coming-to-latvia-during-election-period.a663747/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-18T08:01:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe European Commission approves grants for 3 cross-border renewable energy projects. [1]\nLatvia chooses Czech howitzers over the Swedish Archer offer. [3]\nLatvian border guards stop more illegal crossers. [4]\n\nWHAT THIS MEANS FOR LATVIA\nExtra NATO jets are coming to Latvia during the election period. [5]\n\nWATCH ITEMS\nThe Latvia versus Poland international volleyball match is available to watch again. [2]",
+      "generatedAt": "2026-09-21T04:58:10.848Z",
+      "sources": [
+        {
+          "title": "European Commission Approves Grants for 3 Cross-Border RE Projects",
+          "source": "Rigzone",
+          "url": "https://www.rigzone.com/news/european_commission_approves_grants_for_3_crossborder_re_projects-20-sep-2026-184655-article/?rss=true",
+          "publishedAt": "2026-09-20T11:00:00.000Z"
+        },
+        {
+          "title": "WATCH AGAIN: Latvia versus Poland international volleyball",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/culture/sport/19.09.2026-watch-again-latvia-versus-poland-international-volleyball.a663732/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-19T12:45:00.000Z"
+        },
+        {
+          "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
+          "publishedAt": "2026-09-18T11:01:43.000Z"
+        },
+        {
+          "title": "Latvian border guards stop more illegal crossers",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/society/crime/18.09.2026-latvian-border-guards-stop-more-illegal-crossers.a663786/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-18T11:12:10.000Z"
+        },
+        {
+          "title": "Extra NATO jets coming to Latvia during election period",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/society/defence/18.09.2026-extra-nato-jets-coming-to-latvia-during-election-period.a663747/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-18T08:01:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

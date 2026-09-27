@@ -1,0 +1,61 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "malacca_strait",
+  "displayName": "Strait of Malacca",
+  "slug": "strait-of-malacca",
+  "lat": 2.5,
+  "lon": 101.5,
+  "region": "Indian Ocean ↔ South China Sea",
+  "shockModelSupported": true,
+  "modelledTradeRoutes": [
+    {
+      "id": "china-europe-suez",
+      "name": "China → Europe (Suez)",
+      "volumeDesc": "47M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "china-us-east-suez",
+      "name": "China → US East Coast (Suez)",
+      "volumeDesc": "12M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "gulf-asia-oil",
+      "name": "Persian Gulf → Asia (Oil)",
+      "volumeDesc": "15M+ bpd",
+      "category": "energy"
+    },
+    {
+      "id": "qatar-asia-lng",
+      "name": "Qatar LNG → Asia",
+      "volumeDesc": "40M+ tonnes/year",
+      "category": "energy"
+    },
+    {
+      "id": "india-se-asia",
+      "name": "India → SE Asia",
+      "volumeDesc": "4M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "china-africa",
+      "name": "China → Africa",
+      "volumeDesc": "5M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "cpec-route",
+      "name": "CPEC Route",
+      "volumeDesc": "1M+ TEU/year",
+      "category": "container"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

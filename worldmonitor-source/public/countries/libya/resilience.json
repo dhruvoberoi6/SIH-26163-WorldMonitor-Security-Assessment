@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LY",
+  "countryName": "Libya",
+  "slug": "libya",
+  "rank": 126,
+  "overallScore": 45,
+  "dimensionCoverage": 0.68,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Libya asks ICC to support probe into attacks on civilian facilities",
+        "source": "sundayworld.co.za",
+        "url": "https://sundayworld.co.za/africa/libya-asks-icc-to-support-probe-into-attacks-on-civilian-facilities/",
+        "publishedAt": "2026-09-20T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Libya asks ICC to support probe into attacks on civilian facilities-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260920/fbe8c328f35248f6acb13ac0d4ef865a/c.html",
+        "publishedAt": "2026-09-20T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Libya asks ICC to support probe into attacks on civilian facilities-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/africa/20260920/89df7b3ad29d46c69fa02f9d45aa773a/c.html",
+        "publishedAt": "2026-09-20T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "MedSky restores Libya–France flights after 15-year suspension – The North Africa Post",
+        "source": "northafricapost.com",
+        "url": "https://northafricapost.com/100393-medsky-restores-libya-france-flights-after-15-year-suspension.html",
+        "publishedAt": "2026-09-19T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Libya power cuts: 36-hour outages strain Tripoli firms | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/libya-power-cuts-tripoli-businesses-2026/",
+        "publishedAt": "2026-09-18T23:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 181 — in Libya",
+        "summary": "source: www.pambazuka.org",
+        "sourceUrl": "https://www.pambazuka.org/T%C3%BCrkiye-UAE-and-the-Imperialist-Chain",
+        "occurredAt": "2026-09-19T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Libya",
+        "summary": "source: www.riotimesonline.com",
+        "sourceUrl": "https://www.riotimesonline.com/libya-executions-halt-unsmil-east-2026/",
+        "occurredAt": "2026-09-18T21:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Libya",
+        "summary": "source: www.cbsnews.com",
+        "sourceUrl": "https://www.cbsnews.com/news/egypt-ancient-war-horse-honorific-burial-remains-3000-years-old/",
+        "occurredAt": "2026-09-16T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Libya",
+        "summary": "source: www.cbsnews.com",
+        "sourceUrl": "https://www.cbsnews.com/news/egypt-ancient-war-horse-honorific-burial-remains-3000-years-old/",
+        "occurredAt": "2026-09-16T17:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Libya",
+        "summary": "source: www.niagarafallsreview.ca",
+        "sourceUrl": "https://www.niagarafallsreview.ca/news/world/united-states/us-judge-eyes-january-trial-date-for-libyan-man-charged-in-1988-bombing-of-pan-am-flight-103/article_01731bcc-43c5-5d05-953e-2040eabfab26.html",
+        "occurredAt": "2026-09-16T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Libya",
+        "summary": "source: www.winnipegfreepress.com",
+        "sourceUrl": "https://www.winnipegfreepress.com/world/2026/09/15/us-judge-eyes-january-trial-date-for-libyan-man-charged-in-1988-bombing-of-pan-am-flight-103",
+        "occurredAt": "2026-09-15T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Libya",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/world/icc-trial-of-angel-of-death-libya-prison-boss-to-start-may-4-court-3001735",
+        "occurredAt": "2026-09-15T01:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Libya",
+        "summary": "source: saharareporters.com",
+        "sourceUrl": "https://saharareporters.com/2026/09/14/aircraft-crashes-catches-fire-libya-airport-all-occupants-survive",
+        "occurredAt": "2026-09-14T19:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Libya",
+        "summary": "source: www.justiceinfo.net",
+        "sourceUrl": "https://www.justiceinfo.net/en/165105-icc-trial-of-angel-of-death-libya-prison-boss-to-start-may-4-court.html",
+        "occurredAt": "2026-09-14T16:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Libya",
+        "summary": "source: gulfnews.com",
+        "sourceUrl": "https://gulfnews.com/world/asia/philippines/philippines-barmm-votes-13-parties-battle-for-power-in-historic-poll-1.500673281",
+        "occurredAt": "2026-09-14T04:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

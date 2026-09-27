@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TM",
+  "countryName": "Turkmenistan",
+  "slug": "turkmenistan",
+  "rank": 109,
+  "overallScore": 49.6,
+  "dimensionCoverage": 0.66,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Turkmenistan moves to boost Tejenkarbamid urea output",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/turkmenistan/4225716.html",
+        "publishedAt": "2026-09-19T08:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkmenistan seeks to improve innovation and intellectual property system",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/turkmenistan/4225729.html",
+        "publishedAt": "2026-09-19T08:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkmenistan seeks foreign companies to modernize its rail freight sector",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/turkmenistan/4225738.html",
+        "publishedAt": "2026-09-19T08:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkmenistan advances housing projects near Galkynysh gas field",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/turkmenistan/4225704.html",
+        "publishedAt": "2026-09-19T07:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "UNEP highlights successful methane mitigation in Turkmenistan (Exclusive)",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/turkmenistan/4225470.html",
+        "publishedAt": "2026-09-19T04:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

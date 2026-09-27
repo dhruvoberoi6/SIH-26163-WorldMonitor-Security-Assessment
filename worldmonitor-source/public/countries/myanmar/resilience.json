@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MM",
+  "countryName": "Myanmar",
+  "slug": "myanmar",
+  "rank": 140,
+  "overallScore": 42.2,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Giant boulder rolls down mountain in Myanmar's Shan State, damaging building and two vehicles",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/21/giant-boulder-rolls-down-mountain-in-myanmar039s-shan-state-damaging-building-and-two-vehicles",
+        "publishedAt": "2026-09-21T04:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Myanmar Military Kills Baptist Pastor Amid Growing Christian Persecution",
+        "source": "worthynews.com",
+        "url": "https://www.worthynews.com/117653-myanmar-military-kills-baptist-pastor-amid-growing-christian-persecution",
+        "publishedAt": "2026-09-20T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Myanmar Junta Launches 1,000-Troop Offensive Along Sittwe-Ponnagyun Border",
+        "source": "bnionline.net",
+        "url": "https://www.bnionline.net/en/news/myanmar-junta-launches-1000-troop-offensive-along-sittwe-ponnagyun-border",
+        "publishedAt": "2026-09-20T12:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Over 5,000 Displaced Civilians Face Urgent Food Shortage in Western Myanmar",
+        "source": "bnionline.net",
+        "url": "https://www.bnionline.net/en/news/over-5000-displaced-civilians-face-urgent-food-shortage-western-myanmar",
+        "publishedAt": "2026-09-20T12:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Paddy Prices Surge in Myanmar's Mon State Ahead of Monsoon Harvest",
+        "source": "bnionline.net",
+        "url": "https://www.bnionline.net/en/news/paddy-prices-surge-myanmars-mon-state-ahead-monsoon-harvest",
+        "publishedAt": "2026-09-20T12:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.worthynews.com",
+        "sourceUrl": "https://www.worthynews.com/117653-myanmar-military-kills-baptist-pastor-amid-growing-christian-persecution",
+        "occurredAt": "2026-09-20T21:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: pjmedia.com",
+        "sourceUrl": "https://pjmedia.com/catherinesalgado/2026/09/19/myanmar-military-murders-pastor-and-fulani-muslims-kill-11-nigerians-n4957434",
+        "occurredAt": "2026-09-20T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: pjmedia.com",
+        "sourceUrl": "https://pjmedia.com/catherinesalgado/2026/09/19/myanmar-military-murders-pastor-and-fulani-muslims-kill-11-nigerians-n4957434",
+        "occurredAt": "2026-09-20T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: pjmedia.com",
+        "sourceUrl": "https://pjmedia.com/catherinesalgado/2026/09/19/myanmar-military-murders-pastor-and-fulani-muslims-kill-11-nigerians-n4957434",
+        "occurredAt": "2026-09-20T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Myanmar",
+        "summary": "source: www.thestar.com.my",
+        "sourceUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/clashes-break-out-in-central-myanmar-local-residents-flee-to-safety-with-casualties-reported",
+        "occurredAt": "2026-09-20T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Myanmar",
+        "summary": "source: www.thestar.com.my",
+        "sourceUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/clashes-break-out-in-central-myanmar-local-residents-flee-to-safety-with-casualties-reported",
+        "occurredAt": "2026-09-20T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.thestar.com.my",
+        "sourceUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/clashes-break-out-in-central-myanmar-local-residents-flee-to-safety-with-casualties-reported",
+        "occurredAt": "2026-09-20T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.thestar.com.my",
+        "sourceUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/clashes-break-out-in-central-myanmar-local-residents-flee-to-safety-with-casualties-reported",
+        "occurredAt": "2026-09-20T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.thestar.com.my",
+        "sourceUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/clashes-break-out-in-central-myanmar-local-residents-flee-to-safety-with-casualties-reported",
+        "occurredAt": "2026-09-20T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Myanmar",
+        "summary": "source: www.thestar.com.my",
+        "sourceUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/clashes-break-out-in-central-myanmar-local-residents-flee-to-safety-with-casualties-reported",
+        "occurredAt": "2026-09-20T04:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

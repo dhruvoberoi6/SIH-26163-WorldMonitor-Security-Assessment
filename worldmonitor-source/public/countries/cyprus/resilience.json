@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CY",
+  "countryName": "Cyprus",
+  "slug": "cyprus",
+  "rank": 29,
+  "overallScore": 61.9,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Food safety in Cyprus: how safe is our food chain?",
+        "source": "cyprus-mail.com",
+        "url": "https://cyprus-mail.com/2026/09/21/cyprus-food-safety-tested-by-drought-fmd-and-imports",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
+        "source": "insidermonkey.com",
+        "url": "https://www.insidermonkey.com/news/halliburton-hal-wins-integrated-cyprus-contract-can-broader-services-improve-returns-1838910/",
+        "publishedAt": "2026-09-20T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Turkish Republic of Northern Cyprus urges global communitıy to reaffirm sovereign equality, equal international status",
+        "source": "aa.com.tr",
+        "url": "https://aa.com.tr/en/world/turkish-republic-of-northern-cyprus-urges-global-communitiy-to-reaffirm-sovereign-equality-equal-international-status/4062736",
+        "publishedAt": "2026-09-20T19:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Letymbiotis: Cyprus problem effort 'aims to turn Cyprus into normal, modern state'",
+        "source": "cyprus-mail.com",
+        "url": "https://cyprus-mail.com/2026/09/20/letymbiotis-cyprus-problem-effort-aims-to-turn-cyprus-into-normal-modern-state",
+        "publishedAt": "2026-09-20T16:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Would Israel risk a Turkish conflict over Cyprus?",
+        "source": "financialmirror.com",
+        "url": "https://www.financialmirror.com/2026/09/20/would-israel-risk-a-turkish-conflict-over-cyprus/",
+        "publishedAt": "2026-09-20T11:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

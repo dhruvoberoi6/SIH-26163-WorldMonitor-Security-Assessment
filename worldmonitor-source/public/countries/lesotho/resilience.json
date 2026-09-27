@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LS",
+  "countryName": "Lesotho",
+  "slug": "lesotho",
+  "rank": 101,
+  "overallScore": 50.8,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Lesotho Polihali Dam Passes Halfway Mark at 56.7%",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/lesotho-polihali-dam-progress-court-setback/",
+        "publishedAt": "2026-09-20T09:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chiefs duo on target as Amajita thrash Lesotho",
+        "source": "kickoff.com",
+        "url": "https://www.kickoff.com/psl/premiership/cosafa-u20-championship-1",
+        "publishedAt": "2026-09-19T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Court hands Mosito keys to NUL - Lesotho Times",
+        "source": "lestimes.com",
+        "url": "https://lestimes.com/?p=91583",
+        "publishedAt": "2026-09-17T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Killer Mabusane trial stalls - Lesotho Times",
+        "source": "lestimes.com",
+        "url": "https://lestimes.com/?p=91584",
+        "publishedAt": "2026-09-17T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Relief for livestock farmers - Lesotho Times",
+        "source": "lestimes.com",
+        "url": "https://lestimes.com/?p=91586",
+        "publishedAt": "2026-09-17T13:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

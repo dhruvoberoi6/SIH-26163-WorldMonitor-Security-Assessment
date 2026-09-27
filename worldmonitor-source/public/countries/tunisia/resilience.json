@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TN",
+  "countryName": "Tunisia",
+  "slug": "tunisia",
+  "rank": 133,
+  "overallScore": 43.5,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Oman participates in ASBU executive council meeting in Tunisia",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196536/oman/oman-participates-in-asbu-executive-council-meeting-in-tunisia",
+        "publishedAt": "2026-09-20T12:59:20.000Z"
+      },
+      {
+        "title": "Tunisia’s booming boat industry: From pleasure craft to luxury yachts",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/tunisia-s-booming-boat-industry-from-pleasure-craft-to-luxury-yachts",
+        "publishedAt": "2026-09-19T12:40:40.000Z"
+      },
+      {
+        "title": "Oman participates in ASBU Executive Council meeting in Tunisia",
+        "source": "timesofoman.com",
+        "url": "https://timesofoman.com/article/177172-oman-participates-in-asbu-executive-council-meeting-in-tunisia",
+        "publishedAt": "2026-09-20T16:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Voluntary Return or Pushed Out Against their Will? Migrants in Tunisia Go Home",
+        "source": "aawsat.com",
+        "url": "https://english.aawsat.com/features/5320317-voluntary-return-or-pushed-out-against-their-will-migrants-tunisia-go-home",
+        "publishedAt": "2026-09-20T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Arab News | 'Like we're not human': migrants in Tunisia pressured to go home",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/middle-east/like-were-not-human-migrants-in-tunisia-pressured-to-go-home-3002373",
+        "publishedAt": "2026-09-19T21:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe ASBU executive council meeting was held in Tunisia with Oman participating. [1]\nTunisia's boat industry is booming, producing vessels from pleasure craft to luxury yachts. [2]\nMigrants in Tunisia are being pressured to go home, facing conditions described as voluntary return or being pushed out against their will. [5]\n\nWHAT THIS MEANS FOR TUNISIA\nThe ASBU meeting in Tunisia indicates regional aviation cooperation involving the country. [3]\nThe growth in Tunisia's boat industry suggests expanding manufacturing and export capacity for marine vessels. [2]\n\nKEY RISKS\nMigrants in Tunisia face pressure to leave, with reports of being pushed out against their will. [4]\n\nWATCH ITEMS\nThe treatment of migrants in Tunisia, including whether returns are voluntary or forced, remains unresolved. [5]",
+      "generatedAt": "2026-09-21T05:00:51.406Z",
+      "sources": [
+        {
+          "title": "Oman participates in ASBU executive council meeting in Tunisia",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196536/oman/oman-participates-in-asbu-executive-council-meeting-in-tunisia",
+          "publishedAt": "2026-09-20T12:59:20.000Z"
+        },
+        {
+          "title": "Tunisia’s booming boat industry: From pleasure craft to luxury yachts",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/tunisia-s-booming-boat-industry-from-pleasure-craft-to-luxury-yachts",
+          "publishedAt": "2026-09-19T12:40:40.000Z"
+        },
+        {
+          "title": "Oman participates in ASBU Executive Council meeting in Tunisia",
+          "source": "timesofoman.com",
+          "url": "https://timesofoman.com/article/177172-oman-participates-in-asbu-executive-council-meeting-in-tunisia",
+          "publishedAt": "2026-09-20T16:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Voluntary Return or Pushed Out Against their Will? Migrants in Tunisia Go Home",
+          "source": "aawsat.com",
+          "url": "https://english.aawsat.com/features/5320317-voluntary-return-or-pushed-out-against-their-will-migrants-tunisia-go-home",
+          "publishedAt": "2026-09-20T06:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Arab News | 'Like we're not human': migrants in Tunisia pressured to go home",
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/middle-east/like-were-not-human-migrants-in-tunisia-pressured-to-go-home-3002373",
+          "publishedAt": "2026-09-19T21:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

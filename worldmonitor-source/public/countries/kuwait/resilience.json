@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KW",
+  "countryName": "Kuwait",
+  "slug": "kuwait",
+  "rank": 15,
+  "overallScore": 64.6,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Cultural event in Kuwait highlights traditions, tourism resources of China's Hebei",
+        "source": "globaltimes.cn",
+        "url": "https://www.globaltimes.cn/page/202609/1371001.shtml",
+        "publishedAt": "2026-09-21T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Kuwait Army law gains new recruitment and leave flexibility",
+        "source": "arabtimesonline.com",
+        "url": "https://www.arabtimesonline.com/news/kuwait-army-law-gains-new-recruitment-and-leave-flexibility/",
+        "publishedAt": "2026-09-20T22:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Kuwait Arrests Iraqi, Bedoun in Major 700,000-Captagon Seizure",
+        "source": "arabtimesonline.com",
+        "url": "https://www.arabtimesonline.com/news/kuwait-arrests-iraqi-bedoun-in-major-700000-captagon-seizure/",
+        "publishedAt": "2026-09-20T22:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Kuwait Massage Parlor Prostitution Ring: 13 Expats Get 5 Years, Kuwaiti Gets 7 Years + KD 7,000 Fine",
+        "source": "arabtimesonline.com",
+        "url": "https://www.arabtimesonline.com/news/kuwait-massage-parlor-prostitution-ring-13-expats-get-5-years-kuwaiti-gets-7-years-kd-7000-fine/",
+        "publishedAt": "2026-09-20T22:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "New Burial Hours Across Kuwait: What You Need to Know",
+        "source": "arabtimesonline.com",
+        "url": "https://www.arabtimesonline.com/news/new-burial-hours-across-kuwait-what-you-need-to-know/",
+        "publishedAt": "2026-09-20T22:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

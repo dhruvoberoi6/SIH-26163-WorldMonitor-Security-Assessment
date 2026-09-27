@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MX",
+  "countryName": "Mexico",
+  "slug": "mexico",
+  "rank": 120,
+  "overallScore": 46.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Why pozole is more than just a Mexican stew",
+        "source": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/lifestyle/food/guerrero-pozole-mexican-stew/",
+        "publishedAt": "2026-09-20T22:00:22.000Z"
+      },
+      {
+        "title": "El Jalapeño: Guest who said ‘bueno, ya me voy’ at 9:14 p.m. reaches front gate at 1:37 a.m.",
+        "source": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-guest-who-said-bueno-ya-me-voy-at-914-pm-reaches-front-gate-at-137-am/",
+        "publishedAt": "2026-09-20T20:00:58.000Z"
+      },
+      {
+        "title": "Mexico City’s invisible recyclers fight for rights — and a share of the profits",
+        "source": "Mexico News Daily",
+        "url": "https://mexiconewsdaily.com/news/mexico-citys-invisible-recyclers/",
+        "publishedAt": "2026-09-20T16:00:38.000Z"
+      },
+      {
+        "title": "Bison Return to Mexico’s Historic Range",
+        "source": "Human Progress",
+        "url": "https://humanprogress.org/bison-return-to-mexicos-historic-range/",
+        "publishedAt": "2026-09-18T18:54:52.000Z"
+      },
+      {
+        "title": "Tropical Storm Polo forms off southwestern Mexico",
+        "source": "Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/09/20/tropical-storm-polo-forms-off-southwestern-mexico",
+        "publishedAt": "2026-09-21T03:15:41.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTropical Storm Polo has formed off southwestern Mexico. [5]\n\nWATCH ITEMS\nThe development of Tropical Storm Polo off southwestern Mexico may require monitoring for potential impacts. [5]",
+      "generatedAt": "2026-09-21T04:58:42.244Z",
+      "sources": [
+        {
+          "title": "Why pozole is more than just a Mexican stew",
+          "source": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/lifestyle/food/guerrero-pozole-mexican-stew/",
+          "publishedAt": "2026-09-20T22:00:22.000Z"
+        },
+        {
+          "title": "El Jalapeño: Guest who said ‘bueno, ya me voy’ at 9:14 p.m. reaches front gate at 1:37 a.m.",
+          "source": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-guest-who-said-bueno-ya-me-voy-at-914-pm-reaches-front-gate-at-137-am/",
+          "publishedAt": "2026-09-20T20:00:58.000Z"
+        },
+        {
+          "title": "Mexico City’s invisible recyclers fight for rights — and a share of the profits",
+          "source": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/news/mexico-citys-invisible-recyclers/",
+          "publishedAt": "2026-09-20T16:00:38.000Z"
+        },
+        {
+          "title": "Bison Return to Mexico’s Historic Range",
+          "source": "Human Progress",
+          "url": "https://humanprogress.org/bison-return-to-mexicos-historic-range/",
+          "publishedAt": "2026-09-18T18:54:52.000Z"
+        },
+        {
+          "title": "Tropical Storm Polo forms off southwestern Mexico",
+          "source": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/09/20/tropical-storm-polo-forms-off-southwestern-mexico",
+          "publishedAt": "2026-09-21T03:15:41.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

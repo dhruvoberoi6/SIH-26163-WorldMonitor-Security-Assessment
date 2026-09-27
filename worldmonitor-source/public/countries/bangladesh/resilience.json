@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BD",
+  "countryName": "Bangladesh",
+  "slug": "bangladesh",
+  "rank": 148,
+  "overallScore": 40.8,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge - Reuters",
+        "source": "Oil & Gas",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVJYzB5aVJ2VU1DelhrTTlyZ0hoY3NTTllWTlc0TE9JM3dxd0JVZ3NlS2hIUmw4cnN5VDE5STR5UjNpSDhxYWpWQXFuTVk2WS1JMFpoVVhoVlMxbEdNZ3hybnQ1UWkyaUlWQVVxcE1xZ2ZDMk0zQ3lRbndQX2Z2aEVfalJuY1BMbFMxV0gwY2RrZlFTQWV2MThMTWdUeXQ2WXRWREIzcVlOVmU5RFNPZ05RRG1QRXRzWHc?oc=5",
+        "publishedAt": "2026-09-21T02:04:00.000Z"
+      },
+      {
+        "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/bangladesh-raises-fuel-prices-by-up-to-17-amid-global-oil-price-surge/article71490007.ece",
+        "publishedAt": "2026-09-21T03:46:25.000Z"
+      },
+      {
+        "title": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/world/2026/sep/18/i-spend-a-bagful-of-money-and-dont-fill-a-bag-the-energy-crisis-hits-bangladesh",
+        "publishedAt": "2026-09-18T09:00:14.000Z"
+      },
+      {
+        "title": "7 killed, 13 injured in Bangladesh gas cylinder blast-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260921/70763ecf33cd492e94aa5484c2fbc125/c.html",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge",
+        "source": "indiatimes.com",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-raises-fuel-prices-by-up-to-17-amid-global-oil-price-surge/articleshow/134378455.cms",
+        "publishedAt": "2026-09-21T03:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nBangladesh raises fuel prices by up to 17% amid global oil price surge. [1]\n7 killed, 13 injured in Bangladesh gas cylinder blast. [4]\n\nWATCH ITEMS\nThe gas cylinder blast in Bangladesh resulted in 7 killed and 13 injured. [4]",
+      "generatedAt": "2026-09-21T04:54:10.850Z",
+      "sources": [
+        {
+          "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge - Reuters",
+          "source": "Oil & Gas",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUVJYzB5aVJ2VU1DelhrTTlyZ0hoY3NTTllWTlc0TE9JM3dxd0JVZ3NlS2hIUmw4cnN5VDE5STR5UjNpSDhxYWpWQXFuTVk2WS1JMFpoVVhoVlMxbEdNZ3hybnQ1UWkyaUlWQVVxcE1xZ2ZDMk0zQ3lRbndQX2Z2aEVfalJuY1BMbFMxV0gwY2RrZlFTQWV2MThMTWdUeXQ2WXRWREIzcVlOVmU5RFNPZ05RRG1QRXRzWHc?oc=5",
+          "publishedAt": "2026-09-21T02:04:00.000Z"
+        },
+        {
+          "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge",
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/bangladesh-raises-fuel-prices-by-up-to-17-amid-global-oil-price-surge/article71490007.ece",
+          "publishedAt": "2026-09-21T03:46:25.000Z"
+        },
+        {
+          "title": "‘I spend a bagful of money and don’t fill a bag’: the energy crisis hits Bangladesh",
+          "source": "Guardian ME",
+          "url": "https://www.theguardian.com/world/2026/sep/18/i-spend-a-bagful-of-money-and-dont-fill-a-bag-the-energy-crisis-hits-bangladesh",
+          "publishedAt": "2026-09-18T09:00:14.000Z"
+        },
+        {
+          "title": "7 killed, 13 injured in Bangladesh gas cylinder blast-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20260921/70763ecf33cd492e94aa5484c2fbc125/c.html",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bangladesh raises fuel prices by up to 17% amid global oil price surge",
+          "source": "indiatimes.com",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-raises-fuel-prices-by-up-to-17-amid-global-oil-price-surge/articleshow/134378455.cms",
+          "publishedAt": "2026-09-21T03:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

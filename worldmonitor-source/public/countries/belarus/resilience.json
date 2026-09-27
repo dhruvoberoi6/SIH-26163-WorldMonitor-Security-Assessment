@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BY",
+  "countryName": "Belarus",
+  "slug": "belarus",
+  "rank": 72,
+  "overallScore": 55.2,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Switzerland follows EU by introducing additional sanctions against Belarus - Interfax",
+        "source": "Interfax EN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adGtWczFZbDdTXzFGakllQ21ZVllHRVNFbDc2SVM2Ui15SVhqYmdtakE4VHYzMHRWeGYzVXJhVmk4TmRBSS1OSUc3V1lWb1UtbFYxaVFGZ1diTDEyLVE?oc=5",
+        "publishedAt": "2026-09-18T17:28:10.000Z"
+      },
+      {
+        "title": "How Belarusians still find hope in a silenced country",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3056350/how-belarusians-still-find-hope-in-a-silenced-country",
+        "publishedAt": "2026-09-18T14:30:00.000Z"
+      },
+      {
+        "title": "Kulbergs and Braže meet U.S. envoy to Belarus",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/politics/diplomacy/18.09.2026-kulbergs-and-braze-meet-us-envoy-to-belarus.a663780/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-18T10:52:04.000Z"
+      },
+      {
+        "title": "Omani silver treasures showcased in Belarus",
+        "source": "muscatdaily.com",
+        "url": "https://www.muscatdaily.com/2026/09/20/omani-silver-treasures-showcased-in-belarus/",
+        "publishedAt": "2026-09-20T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "'Splendour of Silver' exhibition opens in Belarus",
+        "source": "omanobserver.om",
+        "url": "https://www.omanobserver.om/article/1196438/oman/splendour-of-silver-exhibition-opens-in-belarus",
+        "publishedAt": "2026-09-19T16:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSwitzerland follows the EU by introducing additional sanctions against Belarus. [1]\nThe 'Splendour of Silver' exhibition opens in Belarus. [5]\n\nWHAT THIS MEANS FOR BELARUS\nThe additional sanctions from Switzerland and the EU may further isolate Belarus economically. [1]",
+      "generatedAt": "2026-09-21T04:54:41.034Z",
+      "sources": [
+        {
+          "title": "Switzerland follows EU by introducing additional sanctions against Belarus - Interfax",
+          "source": "Interfax EN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adGtWczFZbDdTXzFGakllQ21ZVllHRVNFbDc2SVM2Ui15SVhqYmdtakE4VHYzMHRWeGYzVXJhVmk4TmRBSS1OSUc3V1lWb1UtbFYxaVFGZ1diTDEyLVE?oc=5",
+          "publishedAt": "2026-09-18T17:28:10.000Z"
+        },
+        {
+          "title": "How Belarusians still find hope in a silenced country",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3056350/how-belarusians-still-find-hope-in-a-silenced-country",
+          "publishedAt": "2026-09-18T14:30:00.000Z"
+        },
+        {
+          "title": "Kulbergs and Braže meet U.S. envoy to Belarus",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/politics/diplomacy/18.09.2026-kulbergs-and-braze-meet-us-envoy-to-belarus.a663780/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-18T10:52:04.000Z"
+        },
+        {
+          "title": "Omani silver treasures showcased in Belarus",
+          "source": "muscatdaily.com",
+          "url": "https://www.muscatdaily.com/2026/09/20/omani-silver-treasures-showcased-in-belarus/",
+          "publishedAt": "2026-09-20T06:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "'Splendour of Silver' exhibition opens in Belarus",
+          "source": "omanobserver.om",
+          "url": "https://www.omanobserver.om/article/1196438/oman/splendour-of-silver-exhibition-opens-in-belarus",
+          "publishedAt": "2026-09-19T16:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

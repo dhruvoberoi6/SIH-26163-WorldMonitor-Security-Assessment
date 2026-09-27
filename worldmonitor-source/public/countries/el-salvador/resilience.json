@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SV",
+  "countryName": "El Salvador",
+  "slug": "el-salvador",
+  "rank": 82,
+  "overallScore": 54,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Is El Salvador Safe for Expats 2026 — Crime Data and Rules",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/is-el-salvador-safe-expats-2026/",
+        "publishedAt": "2026-09-18T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Digicel Agrees Sale of El Salvador Business as It Refocuses on Caribbean",
+        "source": "thefastmode.com",
+        "url": "https://www.thefastmode.com/mobile-network-operators-m-a/50636-digicel-agrees-sale-of-el-salvador-business-as-it-refocuses-on-caribbean",
+        "publishedAt": "2026-09-17T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "El Salvador Hands Down First Life Sentence for Feminicide",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/el-salvador-hands-down-first-life-sentence-for-feminicide/",
+        "publishedAt": "2026-09-15T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "El Salvador issues first life sentence for femicide",
+        "source": "justiceinfo.net",
+        "url": "https://www.justiceinfo.net/en/165174-el-salvador-issues-first-life-sentence-for-femicide.html",
+        "publishedAt": "2026-09-15T11:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "El Salvador court hands down 1st life sentence for femicide",
+        "source": "dw.com",
+        "url": "https://www.dw.com/en/el-salvador-court-hands-down-first-life-sentence-for-femicide/a-79268746",
+        "publishedAt": "2026-09-15T08:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

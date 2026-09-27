@@ -1,0 +1,59 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TD",
+  "countryName": "Chad",
+  "slug": "chad",
+  "rank": 161,
+  "overallScore": 35.7,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Zapping Haiti of September 20, 2026",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48487-zapping-haiti-of-september-20-2026.html",
+        "publishedAt": "2026-09-20T15:29:53.000Z"
+      },
+      {
+        "title": "New Found Glory guitarist Chad Gilbert dies at 45",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/entertainment/new-found-glory-chad-gilbert-dead-cancer-6398496",
+        "publishedAt": "2026-09-21T02:36:17.000Z"
+      },
+      {
+        "title": "New Found Glory founder and guitarist Chad Gilbert dead at 45",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/chad-gilbert-new-found-glory-founder-guitarist-dies-rcna598857",
+        "publishedAt": "2026-09-20T22:10:06.000Z"
+      },
+      {
+        "title": "New Found Glory's Chad Gilbert dies aged 45 after long battle with cancer",
+        "source": "asiaone.com",
+        "url": "https://www.asiaone.com/entertainment/new-found-glorys-chad-gilbert-dies-aged-45-after-long-battle-cancer",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "New Found Glory's Chad Gilbert has died at the age of 45 - 21-Sep-2026",
+        "source": "nzcity.co.nz",
+        "url": "https://home.nzcity.co.nz/news/article.aspx?id=454406&fm=psp,tst",
+        "publishedAt": "2026-09-21T04:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "empty",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

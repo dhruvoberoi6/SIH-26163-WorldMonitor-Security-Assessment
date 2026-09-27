@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IL",
+  "countryName": "Israel",
+  "slug": "israel",
+  "rank": 53,
+  "overallScore": 57.7,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Iran executes man it accused of spying for Israel on missile sites - Iran International",
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mM2ZoeHF2UnVfZWFJVEowSzduTXlQQ3gtMlJIWTZKeG1NczcxdWpMX29EOE9yMFk0YWkzcHEtSFdKVkZnX21XR0pJSzJIWkE5bGc?oc=5",
+        "publishedAt": "2026-09-19T06:31:42.000Z"
+      },
+      {
+        "title": "Israeli forces prevent 104 teachers from reaching schools in northern Jordan Valley - WAFA Agency",
+        "source": "WAFA English",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9helVzUUZPekJMNS04a1QtOXE3ODFBSXcyVmduMEJwUDllV2ppNko4WUpneFBwVUNyMXZKRVBaTzVVWlAzcmY5Mmd2N2laenYyeXRmS0lGUQ?oc=5",
+        "publishedAt": "2026-09-20T18:14:07.000Z"
+      },
+      {
+        "title": "European Commissioner discussed EU-Israel relationship, Gaza with Israeli minister - Reuters",
+        "source": "Reuters Commodities",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWJqeXlJTjQxcDVjYU03Q09mYWE3clFzVVBpRENyRGoydU1BVzl2dHlxR3Y0Zm83WjJOVmJJaEhuQlVnUEtLNTZxcXlsbDhQeUlja2lGNHozV3M1Ym5UTUxCQ1ZBamtILVBqSlo4QUQ2YjNvNE9saE1tN1BKTUU0U245dzBOYWIzYzMzZC1OZVdPMElfZHllUHY4TmtLU19VdU1nM0k2d0pBR0dicU92ZHlhZXk1SS1uVXZCVENCQktYVWpv?oc=5",
+        "publishedAt": "2026-09-20T11:55:54.000Z"
+      },
+      {
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-20T04:49:11.000Z"
+      },
+      {
+        "title": "UAE official source responds to claims that Israel was warned of October 7 attack - thenationalnews.com",
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHNTR1dXcldtcWRQMTEwcTRwWVNURnpLV0g1S25wV1UwU1NwSjhacDE2UWxqNzQtd0xlaVYtT29OTW9FaEs1RlJyWnYyMFhlVXQzT1RrWjZwVXZ4YUtZNHhiUGNYcnhsTzNjcExJaGJGNXNUN3J4YjZSNWRqS3VBNjAyNHhvbExQcHhRZUE1YW5vSDZNR1E3QldvbmlRc3lEZFRWa0I1eFRGQ2VGZk4yWDJXRFl3SnBjaW1OX3RpZExKaFQ4V3c4TThneUFXVWs?oc=5",
+        "publishedAt": "2026-09-19T21:00:27.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIran executed a man it accused of spying for Israel on missile sites. [1]\nIsraeli forces prevented 104 teachers from reaching schools in the northern Jordan Valley. [2]\n\nWHAT THIS MEANS FOR ISRAEL\nThe European Commissioner discussed the EU-Israel relationship and Gaza with an Israeli minister. [3]\n\nWATCH ITEMS\nA UAE official source responded to claims that Israel was warned of the October 7 attack. [5]",
+      "generatedAt": "2026-09-21T04:57:01.703Z",
+      "sources": [
+        {
+          "title": "Iran executes man it accused of spying for Israel on missile sites - Iran International",
+          "source": "Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mM2ZoeHF2UnVfZWFJVEowSzduTXlQQ3gtMlJIWTZKeG1NczcxdWpMX29EOE9yMFk0YWkzcHEtSFdKVkZnX21XR0pJSzJIWkE5bGc?oc=5",
+          "publishedAt": "2026-09-19T06:31:42.000Z"
+        },
+        {
+          "title": "Israeli forces prevent 104 teachers from reaching schools in northern Jordan Valley - WAFA Agency",
+          "source": "WAFA English",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9helVzUUZPekJMNS04a1QtOXE3ODFBSXcyVmduMEJwUDllV2ppNko4WUpneFBwVUNyMXZKRVBaTzVVWlAzcmY5Mmd2N2laenYyeXRmS0lGUQ?oc=5",
+          "publishedAt": "2026-09-20T18:14:07.000Z"
+        },
+        {
+          "title": "European Commissioner discussed EU-Israel relationship, Gaza with Israeli minister - Reuters",
+          "source": "Reuters Commodities",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWJqeXlJTjQxcDVjYU03Q09mYWE3clFzVVBpRENyRGoydU1BVzl2dHlxR3Y0Zm83WjJOVmJJaEhuQlVnUEtLNTZxcXlsbDhQeUlja2lGNHozV3M1Ym5UTUxCQ1ZBamtILVBqSlo4QUQ2YjNvNE9saE1tN1BKTUU0U245dzBOYWIzYzMzZC1OZVdPMElfZHllUHY4TmtLU19VdU1nM0k2d0pBR0dicU92ZHlhZXk1SS1uVXZCVENCQktYVWpv?oc=5",
+          "publishedAt": "2026-09-20T11:55:54.000Z"
+        },
+        {
+          "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-20T04:49:11.000Z"
+        },
+        {
+          "title": "UAE official source responds to claims that Israel was warned of October 7 attack - thenationalnews.com",
+          "source": "The National",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHNTR1dXcldtcWRQMTEwcTRwWVNURnpLV0g1S25wV1UwU1NwSjhacDE2UWxqNzQtd0xlaVYtT29OTW9FaEs1RlJyWnYyMFhlVXQzT1RrWjZwVXZ4YUtZNHhiUGNYcnhsTzNjcExJaGJGNXNUN3J4YjZSNWRqS3VBNjAyNHhvbExQcHhRZUE1YW5vSDZNR1E3QldvbmlRc3lEZFRWa0I1eFRGQ2VGZk4yWDJXRFl3SnBjaW1OX3RpZExKaFQ4V3c4TThneUFXVWs?oc=5",
+          "publishedAt": "2026-09-19T21:00:27.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ID",
+  "countryName": "Indonesia",
+  "slug": "indonesia",
+  "rank": 96,
+  "overallScore": 51.7,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/indonesia-continues-search-for-hundreds-missing-in-capsized-ship/",
+        "publishedAt": "2026-09-20T22:18:57.000Z"
+      },
+      {
+        "title": "Indonesia Commits to Help Achieve Nigeria’s 3m Barrels Daily Oil Production Target",
+        "source": "ThisDay",
+        "url": "https://www.thisdaylive.com/2026/09/21/indonesia-commits-to-help-achieve-nigerias-3m-barrels-daily-oil-production-target/",
+        "publishedAt": "2026-09-21T02:18:00.000Z"
+      },
+      {
+        "title": "SG-based 01Fintech invests in Indonesian digital wallet Dana",
+        "source": "Tech in Asia",
+        "url": "https://www.techinasia.com/news/01fintech-invests-indonesian-digital-wallet-dana",
+        "publishedAt": "2026-09-21T03:06:26.000Z"
+      },
+      {
+        "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/indonesia-got-a-free-aircraft-carrier-fixes-will-cost-millions/",
+        "publishedAt": "2026-09-20T15:27:02.000Z"
+      },
+      {
+        "title": "01F Group backs Indonesia's DANA in growth equity fintech bet - Dealroom",
+        "source": "Fintech News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEY2YWRLaDNDZXh4d2UwTVFuMFBqNDdzZW1tSzZWQ2R1cWE4UmM0czM1VlRmMm5xMEFtQS1GUjI4U3NWdzREZjhOeVBZSkxxZ01BV1QySkxjQVdjNWZGdTBxUlRkY1pkT0w2VTc5cWxDQ1lLRWY4bEJWQTRnNVFIcUVtSnhoanFrOVR2bGhDZVo5Z0FVYUJsQWxEcw?oc=5",
+        "publishedAt": "2026-09-21T00:35:23.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIndonesia continues search for hundreds missing in capsized ship. [1]\nIndonesia commits to help achieve Nigeria’s 3m barrels daily oil production target. [2]\nSG-based 01Fintech invests in Indonesian digital wallet Dana. [3]\nIndonesia got a free aircraft carrier; fixes will cost millions. [4]\n01F Group backs Indonesia's DANA in growth equity fintech bet. [5]\n\nWHAT THIS MEANS FOR INDONESIA\nThe investment from SG-based 01Fintech into Indonesian digital wallet Dana signals foreign fintech interest in Indonesia's digital payment sector. [3]\nThe free aircraft carrier will require millions in fixes, imposing a financial cost on Indonesia. [4]\n\nKEY RISKS\nHundreds remain missing from the capsized ship, posing ongoing search and rescue challenges. [1]\n\nWATCH ITEMS\nThe search for hundreds missing in the capsized ship continues unresolved. [1]",
+      "generatedAt": "2026-09-21T04:56:54.656Z",
+      "sources": [
+        {
+          "title": "Indonesia Continues Search For Hundreds Missing In Capsized Ship",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/indonesia-continues-search-for-hundreds-missing-in-capsized-ship/",
+          "publishedAt": "2026-09-20T22:18:57.000Z"
+        },
+        {
+          "title": "Indonesia Commits to Help Achieve Nigeria’s 3m Barrels Daily Oil Production Target",
+          "source": "ThisDay",
+          "url": "https://www.thisdaylive.com/2026/09/21/indonesia-commits-to-help-achieve-nigerias-3m-barrels-daily-oil-production-target/",
+          "publishedAt": "2026-09-21T02:18:00.000Z"
+        },
+        {
+          "title": "SG-based 01Fintech invests in Indonesian digital wallet Dana",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/01fintech-invests-indonesian-digital-wallet-dana",
+          "publishedAt": "2026-09-21T03:06:26.000Z"
+        },
+        {
+          "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/indonesia-got-a-free-aircraft-carrier-fixes-will-cost-millions/",
+          "publishedAt": "2026-09-20T15:27:02.000Z"
+        },
+        {
+          "title": "01F Group backs Indonesia's DANA in growth equity fintech bet - Dealroom",
+          "source": "Fintech News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEY2YWRLaDNDZXh4d2UwTVFuMFBqNDdzZW1tSzZWQ2R1cWE4UmM0czM1VlRmMm5xMEFtQS1GUjI4U3NWdzREZjhOeVBZSkxxZ01BV1QySkxjQVdjNWZGdTBxUlRkY1pkT0w2VTc5cWxDQ1lLRWY4bEJWQTRnNVFIcUVtSnhoanFrOVR2bGhDZVo5Z0FVYUJsQWxEcw?oc=5",
+          "publishedAt": "2026-09-21T00:35:23.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

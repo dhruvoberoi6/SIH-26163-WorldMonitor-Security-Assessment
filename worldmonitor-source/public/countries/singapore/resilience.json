@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SG",
+  "countryName": "Singapore",
+  "slug": "singapore",
+  "rank": 57,
+  "overallScore": 57.4,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Singapore retrenchments rise sharply in Q2 amid falling vacancies and fewer laid-off workers finding jobs",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/singapore/singapore-workers-retrenchments-jobs-q2-2026-6398481",
+        "publishedAt": "2026-09-21T04:00:03.000Z"
+      },
+      {
+        "title": "Singapore’s Temasek unit Xora leads US$53 million funding round in AI startup Hang Ten - Asia Asset Management",
+        "source": "VC News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGc1UjVyU1I2U1ZYbVEza1VBSUNKeS1OR1h2a2dRMDE3bDNWSGVEdk14cEZHUDRSU0tsbkczeWRhM2xMaUwyeWNRSUh2OE1UaWZlZ2cyWERLR25pNHpqYXBvbm4zTVRXWVpoZzJYRms0ZWJBZHhIN0VmdlpYLTRoNmsxdDgtRE5PbG1rVFltS1NCQm4wQU5SdG1FS1NyUlppVXVwNEdxRG00QmIwTjNwRmVWZlA0NGhnMGhoVWhncw?oc=5",
+        "publishedAt": "2026-09-20T16:11:27.000Z"
+      },
+      {
+        "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+        "source": "Hacker News",
+        "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+        "publishedAt": "2026-09-20T15:18:05.000Z"
+      },
+      {
+        "title": "Beyond the attractions: The people shaping Singapore’s visitor experience",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/brand-studio/beyond-attractions-people-shaping-singapores-visitor-experience-6390766",
+        "publishedAt": "2026-09-21T02:15:00.000Z"
+      },
+      {
+        "title": "Facebook and Instagram hit by global outage, some users in Singapore affected",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/facebook-instagram-down-website-6398446",
+        "publishedAt": "2026-09-21T01:59:40.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSingapore retrenchments rise sharply in Q2 amid falling vacancies and fewer laid-off workers finding jobs. [1]\nSingapore’s Temasek unit Xora leads a US$53 million funding round in AI startup Hang Ten. [2]\n\nWHAT THIS MEANS FOR SINGAPORE\nThe sharp rise in retrenchments and falling vacancies indicate a weakening labor market in Singapore. [1]\n\nKEY RISKS\nFewer laid-off workers finding jobs suggests a risk of prolonged unemployment or underemployment in Singapore. [1]\n\nWATCH ITEMS\nThe global outage of Facebook and Instagram affected some users in Singapore. [5]",
+      "generatedAt": "2026-09-21T05:00:03.550Z",
+      "sources": [
+        {
+          "title": "Singapore retrenchments rise sharply in Q2 amid falling vacancies and fewer laid-off workers finding jobs",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-workers-retrenchments-jobs-q2-2026-6398481",
+          "publishedAt": "2026-09-21T04:00:03.000Z"
+        },
+        {
+          "title": "Singapore’s Temasek unit Xora leads US$53 million funding round in AI startup Hang Ten - Asia Asset Management",
+          "source": "VC News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGc1UjVyU1I2U1ZYbVEza1VBSUNKeS1OR1h2a2dRMDE3bDNWSGVEdk14cEZHUDRSU0tsbkczeWRhM2xMaUwyeWNRSUh2OE1UaWZlZ2cyWERLR25pNHpqYXBvbm4zTVRXWVpoZzJYRms0ZWJBZHhIN0VmdlpYLTRoNmsxdDgtRE5PbG1rVFltS1NCQm4wQU5SdG1FS1NyUlppVXVwNEdxRG00QmIwTjNwRmVWZlA0NGhnMGhoVWhncw?oc=5",
+          "publishedAt": "2026-09-20T16:11:27.000Z"
+        },
+        {
+          "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+          "source": "Hacker News",
+          "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+          "publishedAt": "2026-09-20T15:18:05.000Z"
+        },
+        {
+          "title": "Beyond the attractions: The people shaping Singapore’s visitor experience",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/brand-studio/beyond-attractions-people-shaping-singapores-visitor-experience-6390766",
+          "publishedAt": "2026-09-21T02:15:00.000Z"
+        },
+        {
+          "title": "Facebook and Instagram hit by global outage, some users in Singapore affected",
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/business/facebook-instagram-down-website-6398446",
+          "publishedAt": "2026-09-21T01:59:40.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

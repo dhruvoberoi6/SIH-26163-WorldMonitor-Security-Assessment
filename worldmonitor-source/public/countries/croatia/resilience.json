@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HR",
+  "countryName": "Croatia",
+  "slug": "croatia",
+  "rank": 38,
+  "overallScore": 60.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Pilot killed in forced landing in eastern Croatia",
+        "source": "en.apa.az",
+        "url": "https://en.apa.az/europe/pilot-killed-in-forced-landing-in-eastern-croatia-525028",
+        "publishedAt": "2026-09-18T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Pilot killed in forced landing in eastern Croatia-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260918/87b656d2e3aa47238debbd8084c091ac/c.html",
+        "publishedAt": "2026-09-18T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Pilot killed in forced landing in eastern Croatia-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/europe/20260918/b87d9da40ca54869a822c74efed0b0e7/c.html",
+        "publishedAt": "2026-09-18T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "News - Roman Necropolis in Croatia Yields Inhumation and Cremation Burials",
+        "source": "archaeology.org",
+        "url": "https://archaeology.org/news/2026/09/17/roman-necropolis-in-croatia-yields-inhumation-and-cremation-burials/",
+        "publishedAt": "2026-09-18T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Croatia: LELEK releases new single 'Ruke Moje Majke'",
+        "source": "esctoday.com",
+        "url": "https://esctoday.com/207919/croatia-lelek-releases-new-single-ruke-moje-majke/",
+        "publishedAt": "2026-09-17T16:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

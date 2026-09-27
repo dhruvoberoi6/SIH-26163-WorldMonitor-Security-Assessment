@@ -1,0 +1,79 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "red-sea-security",
+  "title": "Red Sea security tracker",
+  "shortTitle": "Red Sea security",
+  "description": "Monthly conflict pulse for Yemen, Saudi Arabia, Djibouti and Eritrea — the fixed four-country boundary around the Red Sea and the Bab el-Mandeb strait.",
+  "overview": "This tracker uses a fixed four-country boundary around the Red Sea and Bab el-Mandeb. It provides country-level humanitarian conflict context; maritime warnings and vessel disruptions remain separate live signals on the chokepoint pages and dashboard.",
+  "coverage": [
+    {
+      "code": "YE",
+      "name": "Yemen"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti"
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 659,
+    "fatalities": 960,
+    "politicalViolenceEvents": 593,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "DJ",
+        "name": "Djibouti",
+        "events": 0,
+        "fatalities": 0,
+        "political": 0,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "ER",
+        "name": "Eritrea",
+        "events": 0,
+        "fatalities": 0,
+        "political": 0,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "events": 33,
+        "fatalities": 146,
+        "political": 33,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "YE",
+        "name": "Yemen",
+        "events": 626,
+        "fatalities": 814,
+        "political": 560,
+        "demonstrations": 66,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

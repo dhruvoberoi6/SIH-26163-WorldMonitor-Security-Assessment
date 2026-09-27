@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ZA",
+  "countryName": "South Africa",
+  "slug": "south-africa",
+  "rank": 114,
+  "overallScore": 48.2,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Disappearance of 2 Journalists in Djibouti Raises Concerns for Their Safety",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/disappearnce-journalist-djibouti-raises-concerns",
+        "publishedAt": "2026-09-20T20:05:00.000Z"
+      },
+      {
+        "title": "Nine women found dead near Johannesburg sends shockwaves through South Africa",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/nine-women-found-dead-near-johannesburg-sends-shockwaves-through-south-africa",
+        "publishedAt": "2026-09-20T10:00:02.000Z"
+      },
+      {
+        "title": "Giyani draws $1.8M from South Africa's IDC for EV battery materials push - Dealroom",
+        "source": "EV Battery Supply",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWdCTkxHV1ZJQ25MS2VfRFdKQWdhbW95eFg0bE1ORGR4WHlxMEN1WDlKMjVDVDBOeENiR1MwZE9Pdm1RWmdSQ1lmWmlGektQNm84eVZhSVpscHJfVDlhTEIybktlYVZSd0VyR21GQnM4aWs2M2lHZW1MX2RzaGhTSVRaS1JpWWtwSUROSWxOVUR4SXBrR1JyWDZJSGgyQTF0RnR0dlBZcjQ?oc=5",
+        "publishedAt": "2026-09-20T14:01:08.000Z"
+      },
+      {
+        "title": "Nine women in South Africa have been murdered since July. We are being told to be vigilant – but where are the warnings to men? | Nolethu Ndude",
+        "source": "Guardian Africa",
+        "url": "https://www.theguardian.com/global-development/2026/sep/19/nine-women-in-south-africa-have-been-murdered-since-july-we-are-being-told-to-be-vigilant-but-where-are-the-warnings-to-men",
+        "publishedAt": "2026-09-19T06:00:39.000Z"
+      },
+      {
+        "title": "Grim discoveries of murdered women spark fear in South Africa",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T23:04:41.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNine women found dead near Johannesburg sends shockwaves through South Africa. [2]\nGiyani draws $1.8M from South Africa's IDC for EV battery materials push. [3]\n\nWHAT THIS MEANS FOR SOUTH AFRICA\nThe grim discoveries of murdered women spark fear in South Africa. [5]\n\nWATCH ITEMS\nNine women in South Africa have been murdered since July, with calls for warnings to men. [4]",
+      "generatedAt": "2026-09-21T05:02:29.082Z",
+      "sources": [
+        {
+          "title": "Disappearance of 2 Journalists in Djibouti Raises Concerns for Their Safety",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/disappearnce-journalist-djibouti-raises-concerns",
+          "publishedAt": "2026-09-20T20:05:00.000Z"
+        },
+        {
+          "title": "Nine women found dead near Johannesburg sends shockwaves through South Africa",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/nine-women-found-dead-near-johannesburg-sends-shockwaves-through-south-africa",
+          "publishedAt": "2026-09-20T10:00:02.000Z"
+        },
+        {
+          "title": "Giyani draws $1.8M from South Africa's IDC for EV battery materials push - Dealroom",
+          "source": "EV Battery Supply",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYWdCTkxHV1ZJQ25MS2VfRFdKQWdhbW95eFg0bE1ORGR4WHlxMEN1WDlKMjVDVDBOeENiR1MwZE9Pdm1RWmdSQ1lmWmlGektQNm84eVZhSVpscHJfVDlhTEIybktlYVZSd0VyR21GQnM4aWs2M2lHZW1MX2RzaGhTSVRaS1JpWWtwSUROSWxOVUR4SXBrR1JyWDZJSGgyQTF0RnR0dlBZcjQ?oc=5",
+          "publishedAt": "2026-09-20T14:01:08.000Z"
+        },
+        {
+          "title": "Nine women in South Africa have been murdered since July. We are being told to be vigilant – but where are the warnings to men? | Nolethu Ndude",
+          "source": "Guardian Africa",
+          "url": "https://www.theguardian.com/global-development/2026/sep/19/nine-women-in-south-africa-have-been-murdered-since-july-we-are-being-told-to-be-vigilant-but-where-are-the-warnings-to-men",
+          "publishedAt": "2026-09-19T06:00:39.000Z"
+        },
+        {
+          "title": "Grim discoveries of murdered women spark fear in South Africa",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-18T23:04:41.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IS",
+  "countryName": "Iceland",
+  "slug": "iceland",
+  "rank": 3,
+  "overallScore": 74.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Ukraine Says Iceland Is Preparing Unmanned Systems Agreement",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/news/iceland-ukraine-unmanned-systems-drone-agreement-2026/",
+        "publishedAt": "2026-09-20T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "South Iceland Health Inspection Starts Staff Terminations Before 2027 Reform",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/news/south-iceland-health-inspection-staff-terminations-2027/",
+        "publishedAt": "2026-09-20T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Iceland's torturous route to Rio | IceNews",
+        "source": "icenews.is",
+        "url": "https://icenews.is/2013/11/18/icelands-torturous-route-to-rio/",
+        "publishedAt": "2026-09-20T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Man Confesses to Series of Iceland Farm Break-Ins",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/news/iceland-farm-break-ins-confession-stjornugris-reykjabu-2026/",
+        "publishedAt": "2026-09-19T16:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Youth Health Report Flags Loneliness, Caffeine and Violence Risks in Iceland",
+        "source": "icelandreview.com",
+        "url": "https://www.icelandreview.com/news/iceland-youth-public-health-report-loneliness-caffeine-2026/",
+        "publishedAt": "2026-09-19T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

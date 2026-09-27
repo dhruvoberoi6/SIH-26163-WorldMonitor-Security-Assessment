@@ -1,0 +1,37 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "cape_of_good_hope",
+  "displayName": "Cape of Good Hope",
+  "slug": "cape-of-good-hope",
+  "lat": -34.36,
+  "lon": 18.49,
+  "region": "Atlantic ↔ Indian Ocean",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [
+    {
+      "id": "brazil-china-bulk",
+      "name": "Brazil → China (Bulk)",
+      "volumeDesc": "350M+ tonnes/year",
+      "category": "bulk"
+    },
+    {
+      "id": "gulf-americas-cape",
+      "name": "Persian Gulf → Americas (Cape Route)",
+      "volumeDesc": "2M+ bpd",
+      "category": "energy"
+    },
+    {
+      "id": "asia-europe-cape",
+      "name": "Asia → Europe (Cape Route)",
+      "volumeDesc": "5M+ TEU/year",
+      "category": "container"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

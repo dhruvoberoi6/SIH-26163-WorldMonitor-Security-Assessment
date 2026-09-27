@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PY",
+  "countryName": "Paraguay",
+  "slug": "paraguay",
+  "rank": 60,
+  "overallScore": 56.7,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Paraguay Beef Shipments to U.S. Jump by 46%",
+        "source": "rfdtv.com",
+        "url": "https://www.rfdtv.com/paraguay-beef-shipments-to-u-s-jump-by-46-percent",
+        "publishedAt": "2026-09-21T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Statement from the Government of Paraguay | Company Announcement",
+        "source": "investegate.co.uk",
+        "url": "https://www.investegate.co.uk/announcement/rns/atome-energy--atom/statement-from-the-government-of-paraguay/9779686",
+        "publishedAt": "2026-09-18T11:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Moving to Paraguay in 2026 What the First Year Costs",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/moving-to-paraguay-2026/",
+        "publishedAt": "2026-09-16T12:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "What's Behind the 40% Surge in Paraguay's FDI?",
+        "source": "nearshoreamericas.com",
+        "url": "https://nearshoreamericas.com/whats-behind-the-40-surge-in-paraguays-fdi/",
+        "publishedAt": "2026-09-15T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "HWS graduate helps plant 500 trees during Peace Corps service in Paraguay",
+        "source": "fingerlakes1.com",
+        "url": "https://www.fingerlakes1.com/2026/09/18/hws-graduate-helps-plant-500-trees-during-peace-corps-service-in-paraguay/",
+        "publishedAt": "2026-09-19T00:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

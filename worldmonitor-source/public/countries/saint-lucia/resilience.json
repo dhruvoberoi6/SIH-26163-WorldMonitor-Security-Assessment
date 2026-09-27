@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LC",
+  "countryName": "Saint Lucia",
+  "slug": "saint-lucia",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.72,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Saint Lucia Prepares to Host CONCACAF Nations League Matches - The Voice St. Lucia News",
+        "source": "thevoiceslu.com",
+        "url": "https://thevoiceslu.com/2026/09/saint-lucia-prepares-to-host-concacaf-nations-league-matches/",
+        "publishedAt": "2026-09-19T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "CDB-Supported Water Project to Strengthen Climate Resilience in Saint Lucia",
+        "source": "caribank.org",
+        "url": "https://www.caribank.org/newsroom/news-and-events/cdb-supported-water-project-strengthen-climate-resilience-saint-lucia",
+        "publishedAt": "2026-09-18T14:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Catherine Edmund Named CIBC Caribbean Saint Lucia Unsung Hero 2026",
+        "source": "thevoiceslu.com",
+        "url": "https://thevoiceslu.com/2026/09/catherine-edmund-named-cibc-caribbean-saint-lucia-unsung-hero-2026/",
+        "publishedAt": "2026-09-16T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Submit Applications for International Scholarships Programme (Saint Lucia)",
+        "source": "fundsforngos.org",
+        "url": "https://www2.fundsforngos.org/leadership/submit-applications-for-international-scholarships-programme-saint-lucia/",
+        "publishedAt": "2026-09-16T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "There Will Be Water? - The Voice St. Lucia News",
+        "source": "thevoiceslu.com",
+        "url": "https://thevoiceslu.com/2026/09/there-will-be-water/",
+        "publishedAt": "2026-09-19T19:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

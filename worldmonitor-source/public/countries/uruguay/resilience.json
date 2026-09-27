@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UY",
+  "countryName": "Uruguay",
+  "slug": "uruguay",
+  "rank": 13,
+  "overallScore": 65.3,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Uruguay port strike set for 21 September over port rule | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/uruguay-port-strike-minimum-services-2026/",
+        "publishedAt": "2026-09-19T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Uruguay vs Paraguay for Expats 2026 — Costs, Visas, Taxes",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/uruguay-vs-paraguay-expats-2026/",
+        "publishedAt": "2026-09-18T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Uruguay Residency Visa and the 12 Percent Foreign Income Tax",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/uruguay-visa-residency/",
+        "publishedAt": "2026-09-16T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Record-breaking electric vessel delivered to Uruguay",
+        "source": "maritimejournal.com",
+        "url": "https://www.maritimejournal.com/news/other-news/record-breaking-electric-vessel-delivered-to-uruguay/",
+        "publishedAt": "2026-09-16T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "In Uruguay, 'EcoFranciscans' and other church groups are fighting for environmental justice",
+        "source": "americamagazine.org",
+        "url": "https://www.americamagazine.org/politics-society/dispatches/2026/09/15/uruguay-row-against-the-current-franciscans-ecology/",
+        "publishedAt": "2026-09-16T00:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

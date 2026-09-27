@@ -1,0 +1,48 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TJ",
+  "countryName": "Tajikistan",
+  "slug": "tajikistan",
+  "rank": 48,
+  "overallScore": 59.2,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tajikistan, Rothschild & Co discuss further financial cooperation",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/tajikistan/4225842.html",
+        "publishedAt": "2026-09-19T12:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tajikistan, EBRD discuss priority areas for further cooperation",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/tajikistan/4225823.html",
+        "publishedAt": "2026-09-19T11:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tajikistan celebrates its 35th independence anniversary",
+        "source": "euronews.com",
+        "url": "https://www.euronews.com/2026/09/18/tajikistan-celebrates-its-35th-independence-anniversary",
+        "publishedAt": "2026-09-18T15:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IE",
+  "countryName": "Ireland",
+  "slug": "ireland",
+  "rank": 22,
+  "overallScore": 63.5,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Remittances from Russia to Azerbaijan rise despite sanctions",
+        "source": "OC Media",
+        "url": "https://oc-media.org/remittances-from-russia-to-azerbaijan-rise-despite-sanctions/",
+        "publishedAt": "2026-09-18T13:54:03.000Z"
+      },
+      {
+        "title": "No body, no arrest: What happened to kidnapped Irish racehorse Shergar? | 60 Minutes",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/video/shergar-kidnapping-60-minutes-video-2026-09-20/",
+        "publishedAt": "2026-09-20T23:00:00.000Z"
+      },
+      {
+        "title": "Internet provider Siro targets companies stuck in Ireland's 'fibre broadband deserts' – The Irish Times",
+        "source": "irishtimes.com",
+        "url": "https://www.irishtimes.com/business/2026/09/21/internet-provider-siro-targets-companies-stuck-in-irelands-fibre-broadband-deserts/",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Fearless! Vincent Browne's Magill and Ireland in the 1980s: Skilful acknowledgment of a valuable legacy – The Irish Times",
+        "source": "irishtimes.com",
+        "url": "https://www.irishtimes.com/culture/books/review/2026/09/21/fearless-magill-vincent-browne-and-ireland-in-the-80s-skilful-acknowledgment-of-a-valuable-legacy/",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Low pay 'endemic' in Ireland's labour market",
+        "source": "rte.ie",
+        "url": "https://www.rte.ie/news/business/2026/0921/1592267-business-pay-ireland/",
+        "publishedAt": "2026-09-21T02:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nInternet provider Siro targets companies stuck in Ireland's 'fibre broadband deserts'. [3]\nLow pay is described as 'endemic' in Ireland's labour market. [5]\n\nWHAT THIS MEANS FOR IRELAND\nSiro's targeting of companies in fibre broadband deserts may improve connectivity for underserved businesses in Ireland. [3]\nThe endemic nature of low pay in Ireland's labour market suggests widespread wage challenges for workers. [5]",
+      "generatedAt": "2026-09-21T04:56:58.428Z",
+      "sources": [
+        {
+          "title": "Remittances from Russia to Azerbaijan rise despite sanctions",
+          "source": "OC Media",
+          "url": "https://oc-media.org/remittances-from-russia-to-azerbaijan-rise-despite-sanctions/",
+          "publishedAt": "2026-09-18T13:54:03.000Z"
+        },
+        {
+          "title": "No body, no arrest: What happened to kidnapped Irish racehorse Shergar? | 60 Minutes",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/shergar-kidnapping-60-minutes-video-2026-09-20/",
+          "publishedAt": "2026-09-20T23:00:00.000Z"
+        },
+        {
+          "title": "Internet provider Siro targets companies stuck in Ireland's 'fibre broadband deserts' – The Irish Times",
+          "source": "irishtimes.com",
+          "url": "https://www.irishtimes.com/business/2026/09/21/internet-provider-siro-targets-companies-stuck-in-irelands-fibre-broadband-deserts/",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Fearless! Vincent Browne's Magill and Ireland in the 1980s: Skilful acknowledgment of a valuable legacy – The Irish Times",
+          "source": "irishtimes.com",
+          "url": "https://www.irishtimes.com/culture/books/review/2026/09/21/fearless-magill-vincent-browne-and-ireland-in-the-80s-skilful-acknowledgment-of-a-valuable-legacy/",
+          "publishedAt": "2026-09-21T04:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Low pay 'endemic' in Ireland's labour market",
+          "source": "rte.ie",
+          "url": "https://www.rte.ie/news/business/2026/0921/1592267-business-pay-ireland/",
+          "publishedAt": "2026-09-21T02:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AR",
+  "countryName": "Argentina",
+  "slug": "argentina",
+  "rank": 103,
+  "overallScore": 50.7,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Lithium Argentina Closes $180 Million Ganfeng Investment To Strengthen Balance Sheet And Advance Lithium Projects - Pulse 2.0",
+        "source": "Benchmark Mineral",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcmd1dTc2bUZyZ3E4MlQ4Y05GVmRIYXFNUkFwck5fX1p1dmJzcmp5VzRMdkRGU2s1VXlnbnlJSGVOdVUxOVRKaHhJeEZBU0JDYzFDdWNnb1dYQTFFUHFWVFU2WWVUNDF5NHFLMDRNUVlDMjdYNTZFaW9HV2xxUmx2ck5DQ1Ixc1pHdkxuRGZvYldIUnN0eEZaVXpRVGZueS13OF9pY3FSNEU3akJIWjBhYTJhT1dPMDZfVDRSaFJHcEltbzhYN0FuVDgxX2jSAdIBQVVfeXFMTTUwY2U2VjRkdjUwY2k5OC0xNFVQMV9qNTM2ZVh0RERPRG5NeUNwSDhwcnNnZC0xRFBqMjZSaUJCOFJDLW1RMlFnOHZVcGpkOVZUUjdubTNXeF9tQ21fUjgxNHZYMTlEQTlQREpOZ0xtSUdxRGEtUTc5eVhaRHdWZGdwRE9CZG11NUJpcDBGTl8yd1FNZjVVUGtZd29FaDVqN1NyNDhENXRRVzVwYUgzQ1RPa2pEOGNCNzh0OUFtRGVVTUpCdzByQ3lIVXdvYnhlM3dn?oc=5",
+        "publishedAt": "2026-09-21T00:49:51.000Z"
+      },
+      {
+        "title": "Lithium Boom: Can Chile, Argentina & Brazil Keep the Profits in South America? - Latin Times",
+        "source": "Lithium Market",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWM4NGIwNkdoTlA4eks0MERWTG9aOVRYZXM4UjViQjVvaWxhczhISTNvajF0cjVGTGVMZ0RrZVVXTXg3UHhCUWZYTEdiS3FSdThEUUJwNFp5SzFEN3N1bVI5MGhiWVJYdUs5NjFGY1k0dGpQZWFlUTI0bUNQS0l0ZXVlbFVyTTQyQ0ljWF90ZU9IZEJSeWRtRGRmZkZ3ZEd4dEE?oc=5",
+        "publishedAt": "2026-09-20T23:16:48.000Z"
+      },
+      {
+        "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+        "publishedAt": "2026-09-20T20:58:01.000Z"
+      },
+      {
+        "title": "Lionel Messi offered farewell by Argentina after international retirement",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/lionel-messi-offered-farewell-by-argentina-after-international-retirement/",
+        "publishedAt": "2026-09-18T09:30:11.000Z"
+      },
+      {
+        "title": "‘It’s beautiful when it’s clean’: the Argentine neighbourhood saving a contaminated river",
+        "source": "Guardian Americas",
+        "url": "https://www.theguardian.com/environment/2026/sep/17/its-beautiful-when-its-clean-the-argentine-neighbourhood-saving-a-contaminated-river",
+        "publishedAt": "2026-09-17T08:00:44.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nLithium Argentina closes a $180 million Ganfeng investment to strengthen its balance sheet and advance lithium projects. [1]\nArgentina’s Left stages a ‘March of Anger’ over Milei’s austerity measures. [3]\n\nWHAT THIS MEANS FOR ARGENTINA\nThe investment may help Argentina retain more profits from its lithium boom alongside Chile and Brazil. [2]\n\nKEY RISKS\nThe ‘March of Anger’ signals potential social unrest against austerity policies. [3]\n\nWATCH ITEMS\nLionel Messi is offered a farewell by Argentina after international retirement. [4]\nAn Argentine neighbourhood is saving a contaminated river. [5]",
+      "generatedAt": "2026-09-21T04:53:48.948Z",
+      "sources": [
+        {
+          "title": "Lithium Argentina Closes $180 Million Ganfeng Investment To Strengthen Balance Sheet And Advance Lithium Projects - Pulse 2.0",
+          "source": "Benchmark Mineral",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcmd1dTc2bUZyZ3E4MlQ4Y05GVmRIYXFNUkFwck5fX1p1dmJzcmp5VzRMdkRGU2s1VXlnbnlJSGVOdVUxOVRKaHhJeEZBU0JDYzFDdWNnb1dYQTFFUHFWVFU2WWVUNDF5NHFLMDRNUVlDMjdYNTZFaW9HV2xxUmx2ck5DQ1Ixc1pHdkxuRGZvYldIUnN0eEZaVXpRVGZueS13OF9pY3FSNEU3akJIWjBhYTJhT1dPMDZfVDRSaFJHcEltbzhYN0FuVDgxX2jSAdIBQVVfeXFMTTUwY2U2VjRkdjUwY2k5OC0xNFVQMV9qNTM2ZVh0RERPRG5NeUNwSDhwcnNnZC0xRFBqMjZSaUJCOFJDLW1RMlFnOHZVcGpkOVZUUjdubTNXeF9tQ21fUjgxNHZYMTlEQTlQREpOZ0xtSUdxRGEtUTc5eVhaRHdWZGdwRE9CZG11NUJpcDBGTl8yd1FNZjVVUGtZd29FaDVqN1NyNDhENXRRVzVwYUgzQ1RPa2pEOGNCNzh0OUFtRGVVTUpCdzByQ3lIVXdvYnhlM3dn?oc=5",
+          "publishedAt": "2026-09-21T00:49:51.000Z"
+        },
+        {
+          "title": "Lithium Boom: Can Chile, Argentina & Brazil Keep the Profits in South America? - Latin Times",
+          "source": "Lithium Market",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWM4NGIwNkdoTlA4eks0MERWTG9aOVRYZXM4UjViQjVvaWxhczhISTNvajF0cjVGTGVMZ0RrZVVXTXg3UHhCUWZYTEdiS3FSdThEUUJwNFp5SzFEN3N1bVI5MGhiWVJYdUs5NjFGY1k0dGpQZWFlUTI0bUNQS0l0ZXVlbFVyTTQyQ0ljWF90ZU9IZEJSeWRtRGRmZkZ3ZEd4dEE?oc=5",
+          "publishedAt": "2026-09-20T23:16:48.000Z"
+        },
+        {
+          "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+          "publishedAt": "2026-09-20T20:58:01.000Z"
+        },
+        {
+          "title": "Lionel Messi offered farewell by Argentina after international retirement",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/lionel-messi-offered-farewell-by-argentina-after-international-retirement/",
+          "publishedAt": "2026-09-18T09:30:11.000Z"
+        },
+        {
+          "title": "‘It’s beautiful when it’s clean’: the Argentine neighbourhood saving a contaminated river",
+          "source": "Guardian Americas",
+          "url": "https://www.theguardian.com/environment/2026/sep/17/its-beautiful-when-its-clean-the-argentine-neighbourhood-saving-a-contaminated-river",
+          "publishedAt": "2026-09-17T08:00:44.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

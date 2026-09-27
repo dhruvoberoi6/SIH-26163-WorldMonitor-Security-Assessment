@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PT",
+  "countryName": "Portugal",
+  "slug": "portugal",
+  "rank": 21,
+  "overallScore": 63.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+        "publishedAt": "2026-09-21T03:48:23.000Z"
+      },
+      {
+        "title": "Portugal This Week: Breaking News, Travel Updates & Top Stories",
+        "source": "theportugalnews.com",
+        "url": "https://www.theportugalnews.com/news/2026-09-20/portugal-this-week-breaking-news-travel-updates-top-stories/1089194",
+        "publishedAt": "2026-09-20T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+        "source": "flipso.com",
+        "url": "https://flipso.com/p/ooznypfs0",
+        "publishedAt": "2026-09-20T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Portugal city to have new parking policy",
+        "source": "theportugalnews.com",
+        "url": "https://www.theportugalnews.com/news/2026-09-20/portugal-city-to-have-new-parking-policy/1087553",
+        "publishedAt": "2026-09-20T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Portugal inaugurated new dock",
+        "source": "theportugalnews.com",
+        "url": "https://www.theportugalnews.com/news/2026-09-20/portugal-inaugurated-new-dock/1087581",
+        "publishedAt": "2026-09-20T18:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRevolut started its EURR rollout with a bridge as a regulated issuer. [1]\nPortugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy. [3]\nA Portugal city is to have a new parking policy. [4]\nPortugal inaugurated a new dock. [5]\n\nWHAT THIS MEANS FOR PORTUGAL\nThe new parking policy in a Portugal city could change local traffic and parking conditions. [4]\nThe inauguration of a new dock may enhance port infrastructure in Portugal. [5]",
+      "generatedAt": "2026-09-21T04:59:24.552Z",
+      "sources": [
+        {
+          "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+          "source": "The Defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+          "publishedAt": "2026-09-21T03:48:23.000Z"
+        },
+        {
+          "title": "Portugal This Week: Breaking News, Travel Updates & Top Stories",
+          "source": "theportugalnews.com",
+          "url": "https://www.theportugalnews.com/news/2026-09-20/portugal-this-week-breaking-news-travel-updates-top-stories/1089194",
+          "publishedAt": "2026-09-20T23:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+          "source": "flipso.com",
+          "url": "https://flipso.com/p/ooznypfs0",
+          "publishedAt": "2026-09-20T20:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Portugal city to have new parking policy",
+          "source": "theportugalnews.com",
+          "url": "https://www.theportugalnews.com/news/2026-09-20/portugal-city-to-have-new-parking-policy/1087553",
+          "publishedAt": "2026-09-20T18:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Portugal inaugurated new dock",
+          "source": "theportugalnews.com",
+          "url": "https://www.theportugalnews.com/news/2026-09-20/portugal-inaugurated-new-dock/1087581",
+          "publishedAt": "2026-09-20T18:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

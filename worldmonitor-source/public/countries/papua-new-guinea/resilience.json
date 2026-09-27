@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PG",
+  "countryName": "Papua New Guinea",
+  "slug": "papua-new-guinea",
+  "rank": 98,
+  "overallScore": 51.6,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Strong 6.4-Magnitude earthquake strikes Papua New Guinea; No Tsunami Threat",
+        "source": "postcourier.com.pg",
+        "url": "https://www.postcourier.com.pg/strong-6-4-magnitude-earthquake-strikes-papua-new-guinea-no-tsunami-threat-0/",
+        "publishedAt": "2026-09-20T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Magnitude 6.4 earthquake rattles Papua New Guinea",
+        "source": "nypost.com",
+        "url": "https://nypost.com/2026/09/20/world-news/magnitude-6-4-earthquake-rattles-papua-new-guinea/",
+        "publishedAt": "2026-09-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Strong 6.4-Magnitude earthquake strikes Papua New Guinea; No Tsunami Threat",
+        "source": "postcourier.com.pg",
+        "url": "https://www.postcourier.com.pg/strong-6-4-magnitude-earthquake-strikes-papua-new-guinea-no-tsunami-threat/",
+        "publishedAt": "2026-09-20T16:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "BBC Two - Wilderness with Simon Reeve, Series 2, Papua New Guinea, A Papua New Guinea sing sing",
+        "source": "bbc.co.uk",
+        "url": "https://www.bbc.co.uk/programmes/p0p9kbd9",
+        "publishedAt": "2026-09-20T12:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "A tiny fish was last recorded by scientists in 1985; 40 years later, an Indigenous fisherwoman caught the 'lost' species in Papua New Guinea's Sepik River",
+        "source": "indiatimes.com",
+        "url": "https://timesofindia.indiatimes.com/science/wildlife/a-tiny-fish-was-last-recorded-by-scientists-in-1985-40-years-later-an-indigenous-fisherwoman-caught-the-lost-species-in-papua-new-guineas-sepik-river/articleshow/134282255.cms",
+        "publishedAt": "2026-09-16T11:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BN",
+  "countryName": "Brunei",
+  "slug": "brunei",
+  "rank": 46,
+  "overallScore": 59.5,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/daywise.php?date=2026-09-21",
+        "publishedAt": "2026-09-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/post/Katok-Secondary-School-triumphs-in-traditional-dance,-singing-competition",
+        "publishedAt": "2026-09-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei air quality remains moderate nationwide",
+        "source": "thestar.com.my",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/brunei-air-quality-remains-moderate-nationwide",
+        "publishedAt": "2026-09-20T07:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/daywise.php?date=2026-09-20",
+        "publishedAt": "2026-09-19T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Brunei's No.1 News Website",
+        "source": "brudirect.com",
+        "url": "https://brudirect.com/post/%E2%80%98Employees-need-to-foster-culture-built-on-trust,-accountability%E2%80%99",
+        "publishedAt": "2026-09-19T20:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

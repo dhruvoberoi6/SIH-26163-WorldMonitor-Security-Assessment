@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TG",
+  "countryName": "Togo",
+  "slug": "togo",
+  "rank": 138,
+  "overallScore": 42.6,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Expanding Agricultural Information Services in Togo",
+        "source": "ifdc.org",
+        "url": "https://ifdc.org/2026/09/18/agrimarket-insights-vol-2-expanding-agricultural-information-services-in-togo/",
+        "publishedAt": "2026-09-18T16:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "African lab scientists gather in Togo to discuss challenges amid Ebola crisis",
+        "source": "africanews.com",
+        "url": "https://www.africanews.com/2026/09/17/african-lab-scientists-gather-in-togo-to-discuss-challenges-amid-ebola-crisis/",
+        "publishedAt": "2026-09-17T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Togo E-Invoicing Reform Tells Firms to Get Ready",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/togo-certified-e-invoicing-businesses-prepare/",
+        "publishedAt": "2026-09-20T09:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Iran says it struck Togo-flagged tanker in Strait of Hormuz",
+        "source": "aa.com.tr",
+        "url": "https://aa.com.tr/en/middle-east/iran-says-it-struck-togo-flagged-tanker-in-strait-of-hormuz/4060682",
+        "publishedAt": "2026-09-18T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Togo Ex-Armed Forces Minister Held a Year Without Trial",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/togo-ex-army-minister-gnakade-detained-one-year-2026/",
+        "publishedAt": "2026-09-17T21:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

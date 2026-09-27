@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LK",
+  "countryName": "Sri Lanka",
+  "slug": "sri-lanka",
+  "rank": 111,
+  "overallScore": 48.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "IFC Calls on Sri Lanka's Spice Industry to Embrace AI and Value Addition to Unlock Export Potential",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/21/ifc-calls-on-sri-lanka-s-spice-industry-to-embrace-ai-and-value-addition-to-unlock-export-potential",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Major Landslide Blocks Hatton-Bogawantalawa Road, Stranding Travellers in Sri Lanka's Hill Country",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/21/major-landslide-blocks-hatton-bogawantalawa-road-stranding-travellers-in-sri-lanka-s-hill-country",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sri Lanka's Easter Sunday Bombing Trial Reaches Historic Moment as Verdict Set for Tomorrow",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/21/sri-lanka-s-easter-sunday-bombing-trial-reaches-historic-moment-as-verdict-set-for-tomorrow",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sri Lanka Secures 35th Place in Global Welcoming Ranking",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/21/sri-lanka-secures-35th-place-in-global-welcoming-ranking",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Silent Epidemic: How Professional Ghosting Is Draining Sri Lanka's Workforce",
+        "source": "lankanewspapers.com",
+        "url": "https://www.lankanewspapers.com/2026/09/21/the-silent-epidemic-how-professional-ghosting-is-draining-sri-lanka-s-workforce",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

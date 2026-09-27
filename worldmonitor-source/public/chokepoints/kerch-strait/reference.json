@@ -1,0 +1,18 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "kerch_strait",
+  "displayName": "Kerch Strait",
+  "slug": "kerch-strait",
+  "lat": 45.3,
+  "lon": 36.6,
+  "region": "Black Sea ↔ Sea of Azov",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

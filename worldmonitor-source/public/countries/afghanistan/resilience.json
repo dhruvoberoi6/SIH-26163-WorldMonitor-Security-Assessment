@@ -1,0 +1,165 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AF",
+  "countryName": "Afghanistan",
+  "slug": "afghanistan",
+  "rank": 163,
+  "overallScore": 34,
+  "dimensionCoverage": 0.69,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "3 killed in Pakistani airstrikes in Afghanistan: media-Xinhua - 新华网",
+        "source": "Xinhua",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0hEejZ3ZlRoTkZ6eXN4MDYxNlNMQnlyTjNUX3JLa2lOSGhRUkJLSDhzWU93elpqbFBYWDlodG1KNnFIUEZUbFk1QUJWdE5RdFJGd3k3d3ZBQWdvazJpUzY4ajNqd3NFS0lSczA0Z0Qxa3hyRjdOeW11NE1rMXZEUmlDNDk4RlJS?oc=5",
+        "publishedAt": "2026-09-21T04:16:00.000Z"
+      },
+      {
+        "title": "Masood Gurbaz hopes to face brother Rahmanullah and Afghanistan after switching allegiance to UAE - thenationalnews.com",
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcEkzWlcyX1BTSlQzcjFrRG1LY1RESkxwQlhyYVdtOXJTb2kzd2dzd3dWdkRJYXplTUpKUU5OTUkzbVdyNkVtX3hYamtDVmtId0NFVkhLaUpEcWFSalljTVZNUjZqNU9vN1gwSldCSWNQRGdtQlFCU3YxMG1udlpkWVcxaDN1RHEtTUNrN1dOY0xGaFpkRlBDUTZZWXlnQmRpdmRDcm9VbUFMdm5mZjNDMEtoQ21nWVpBOHZFTzhETXdZbWdfVkFHVlU2VE9tQzRIQnhJb3MtMFBsY3hWSEZWYjA4Rk9KbGxHTEE0?oc=5",
+        "publishedAt": "2026-09-18T03:56:53.000Z"
+      },
+      {
+        "title": "Punjab steps up deportations of Afghans without valid visas",
+        "source": "Amu TV",
+        "url": "https://amu.tv/252719/",
+        "publishedAt": "2026-09-19T15:25:59.000Z"
+      },
+      {
+        "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
+        "source": "BBC Asia",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-17T23:31:43.000Z"
+      },
+      {
+        "title": "At least three killed in Pakistani airstrike on Afghanistan: Report",
+        "source": "indiatimes.com",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-three-killed-in-pakistani-airstrike-on-afghanistan-report/articleshow/134379204.cms",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe 3 killed in Pakistani airstrikes in Afghanistan according to media reports. [1]\nPunjab steps up deportations of Afghans without valid visas. [3]\n\nWHAT THIS MEANS FOR AFGHANISTAN\nAfghan female medical students in Pakistan fear being sent home, expressing 'complete despair'. [4]\n\nWATCH ITEMS\nAt least three killed in a Pakistani airstrike on Afghanistan, per a report. [5]",
+      "generatedAt": "2026-09-21T04:53:31.636Z",
+      "sources": [
+        {
+          "title": "3 killed in Pakistani airstrikes in Afghanistan: media-Xinhua - 新华网",
+          "source": "Xinhua",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0hEejZ3ZlRoTkZ6eXN4MDYxNlNMQnlyTjNUX3JLa2lOSGhRUkJLSDhzWU93elpqbFBYWDlodG1KNnFIUEZUbFk1QUJWdE5RdFJGd3k3d3ZBQWdvazJpUzY4ajNqd3NFS0lSczA0Z0Qxa3hyRjdOeW11NE1rMXZEUmlDNDk4RlJS?oc=5",
+          "publishedAt": "2026-09-21T04:16:00.000Z"
+        },
+        {
+          "title": "Masood Gurbaz hopes to face brother Rahmanullah and Afghanistan after switching allegiance to UAE - thenationalnews.com",
+          "source": "The National",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcEkzWlcyX1BTSlQzcjFrRG1LY1RESkxwQlhyYVdtOXJTb2kzd2dzd3dWdkRJYXplTUpKUU5OTUkzbVdyNkVtX3hYamtDVmtId0NFVkhLaUpEcWFSalljTVZNUjZqNU9vN1gwSldCSWNQRGdtQlFCU3YxMG1udlpkWVcxaDN1RHEtTUNrN1dOY0xGaFpkRlBDUTZZWXlnQmRpdmRDcm9VbUFMdm5mZjNDMEtoQ21nWVpBOHZFTzhETXdZbWdfVkFHVlU2VE9tQzRIQnhJb3MtMFBsY3hWSEZWYjA4Rk9KbGxHTEE0?oc=5",
+          "publishedAt": "2026-09-18T03:56:53.000Z"
+        },
+        {
+          "title": "Punjab steps up deportations of Afghans without valid visas",
+          "source": "Amu TV",
+          "url": "https://amu.tv/252719/",
+          "publishedAt": "2026-09-19T15:25:59.000Z"
+        },
+        {
+          "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
+          "source": "BBC Asia",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-17T23:31:43.000Z"
+        },
+        {
+          "title": "At least three killed in Pakistani airstrike on Afghanistan: Report",
+          "source": "indiatimes.com",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-three-killed-in-pakistani-airstrike-on-afghanistan-report/articleshow/134379204.cms",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.khaama.com",
+        "sourceUrl": "https://www.khaama.com/pakistan-conducts-overnight-airstrikes-in-kunar-and-paktika/",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.khaama.com",
+        "sourceUrl": "https://www.khaama.com/pakistan-conducts-overnight-airstrikes-in-kunar-and-paktika/",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.khaama.com",
+        "sourceUrl": "https://www.khaama.com/pakistan-conducts-overnight-airstrikes-in-kunar-and-paktika/",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.khaama.com",
+        "sourceUrl": "https://www.khaama.com/pakistan-conducts-overnight-airstrikes-in-kunar-and-paktika/",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.khaama.com",
+        "sourceUrl": "https://www.khaama.com/pakistan-conducts-overnight-airstrikes-in-kunar-and-paktika/",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: newswithviews.com",
+        "sourceUrl": "https://newswithviews.com/what-are-you-waiting-for-why-keep-screwing-around/",
+        "occurredAt": "2026-09-21T00:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.lhrtimes.com",
+        "sourceUrl": "https://www.lhrtimes.com/2026/09/20/maryam-nawaz-hails-kalat-hostage-rescue-condemns-kohat-suicide-attack/",
+        "occurredAt": "2026-09-20T22:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Afghanistan",
+        "summary": "source: www.lhrtimes.com",
+        "sourceUrl": "https://www.lhrtimes.com/2026/09/21/six-martyred-eight-militants-killed-in-hangu-convoy-clash/",
+        "occurredAt": "2026-09-20T22:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Afghanistan",
+        "summary": "source: www.ariananews.af",
+        "sourceUrl": "https://www.ariananews.af/sorkh-poshan-khafi-beat-toofan-herat-3-1-in-afghanistan-champions-league/",
+        "occurredAt": "2026-09-20T18:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 181 — in Afghanistan",
+        "summary": "source: pajhwok.com",
+        "sourceUrl": "https://pajhwok.com/2026/09/20/waziristan-court-official-abducted-in-tank/",
+        "occurredAt": "2026-09-20T11:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GR",
+  "countryName": "Greece",
+  "slug": "greece",
+  "rank": 40,
+  "overallScore": 60.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-20T21:17:22.000Z"
+      },
+      {
+        "title": "Sea Wolf maritime drill begins amid tensions between Greece, Türkiye",
+        "source": "Daily Sabah",
+        "url": "https://www.dailysabah.com/politics/sea-wolf-maritime-drill-begins-amid-tensions-between-greece-turkiye/news",
+        "publishedAt": "2026-09-20T12:26:00.000Z"
+      },
+      {
+        "title": "‘Last hurrah’ for Nutty Greek Bake Shop bittersweet for regulars",
+        "source": "Ottawa Citizen",
+        "url": "https://ottawacitizen.com/news/local-news/last-hurrah-nutty-greek-bake-shop",
+        "publishedAt": "2026-09-19T22:41:33.000Z"
+      },
+      {
+        "title": "Greece Mourns Margarita Papandreou, Pioneering Feminist",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/margarita-papandreou-pioneer-greek-feminist-passes-away/bi/",
+        "publishedAt": "2026-09-18T12:10:21.000Z"
+      },
+      {
+        "title": "Expelled by Greece’s Ruling Party, Ex-PM Samaras Plots His Revenge",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/expelled-by-greeces-ruling-party-ex-pm-samaras-plots-his-revenge/bi/",
+        "publishedAt": "2026-09-18T05:53:34.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAn 82-year-old man died after a beach fight with a 76-year-old over a sunlounger in Greece. [1]\nThe Sea Wolf maritime drill has begun amid tensions between Greece and Türkiye. [2]\nGreece mourns Margarita Papandreou, a pioneering feminist. [4]\nExpelled by Greece’s ruling party, ex-PM Samaras plots his revenge. [5]\n\nWHAT THIS MEANS FOR GREECE\nThe death from a beach fight over a sunlounger may reflect heightened local tensions in tourist areas. [1]\nThe Sea Wolf drill indicates ongoing maritime tensions between Greece and Türkiye. [2]\n\nWATCH ITEMS\nEx-PM Samaras, expelled by Greece’s ruling party, is plotting revenge. [5]",
+      "generatedAt": "2026-09-21T04:56:33.266Z",
+      "sources": [
+        {
+          "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-20T21:17:22.000Z"
+        },
+        {
+          "title": "Sea Wolf maritime drill begins amid tensions between Greece, Türkiye",
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/politics/sea-wolf-maritime-drill-begins-amid-tensions-between-greece-turkiye/news",
+          "publishedAt": "2026-09-20T12:26:00.000Z"
+        },
+        {
+          "title": "‘Last hurrah’ for Nutty Greek Bake Shop bittersweet for regulars",
+          "source": "Ottawa Citizen",
+          "url": "https://ottawacitizen.com/news/local-news/last-hurrah-nutty-greek-bake-shop",
+          "publishedAt": "2026-09-19T22:41:33.000Z"
+        },
+        {
+          "title": "Greece Mourns Margarita Papandreou, Pioneering Feminist",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/margarita-papandreou-pioneer-greek-feminist-passes-away/bi/",
+          "publishedAt": "2026-09-18T12:10:21.000Z"
+        },
+        {
+          "title": "Expelled by Greece’s Ruling Party, Ex-PM Samaras Plots His Revenge",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/expelled-by-greeces-ruling-party-ex-pm-samaras-plots-his-revenge/bi/",
+          "publishedAt": "2026-09-18T05:53:34.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

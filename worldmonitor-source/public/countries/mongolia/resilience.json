@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MN",
+  "countryName": "Mongolia",
+  "slug": "mongolia",
+  "rank": 55,
+  "overallScore": 57.4,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mongolia's national book festival opens in Ulan Bator-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260919/866442270c734a59b88f3c07968a0a40/c.html",
+        "publishedAt": "2026-09-19T03:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mongolia's national book festival opens in Ulan Bator-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20260919/b41359c285b048f5bf78cce7d58909dd/c.html",
+        "publishedAt": "2026-09-19T03:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Delegation from Mongolia attends 70th session of IAEA General Conference",
+        "source": "akipress.com",
+        "url": "https://akipress.com/news:919590:Delegation_from_Mongolia_attends_70th_session_of_IAEA_General_Conference/",
+        "publishedAt": "2026-09-17T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mongolia's average age at first marriage rises in 25 years-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260917/c0165daa49804ccaad2d3bb0c8bc467e/c.html",
+        "publishedAt": "2026-09-17T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mongolia's average age at first marriage rises in 25 years-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/asiapacific/20260917/a4af0d000e3149919a8d051729842dd0/c.html",
+        "publishedAt": "2026-09-17T15:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

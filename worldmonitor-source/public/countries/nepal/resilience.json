@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NP",
+  "countryName": "Nepal",
+  "slug": "nepal",
+  "rank": 107,
+  "overallScore": 49.9,
+  "dimensionCoverage": 0.8,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Nepal’s White-Rumped Vulture Population Continues to Rise",
+        "source": "Human Progress",
+        "url": "https://humanprogress.org/nepals-white-rumped-vulture-population-continues-to-rise/",
+        "publishedAt": "2026-09-18T18:52:21.000Z"
+      },
+      {
+        "title": "Nepal floods: ‘Apocalyptic’ destruction signals wider climate threat across Himalayas",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168365",
+        "publishedAt": "2026-09-18T12:00:00.000Z"
+      },
+      {
+        "title": "Search continues for 6,000 people nearly four weeks after Nepal floods",
+        "source": "theshillongtimes.com",
+        "url": "https://theshillongtimes.com/2026/09/21/search-continues-for-6000-people-nearly-four-weeks-after-nepal-floods/",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "World Heart Day in Nepal: Building a Heart-Healthy Society through HeartNet, Public Awareness and Partnership",
+        "source": "spotlightnepal.com",
+        "url": "https://www.spotlightnepal.com/2026/09/21/world-heart-day-nepal-building-heart-healthy-society-through-heartnet-public-awareness-and-partnership/",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nepal and China agree to study lakes near border after Taklakot talks",
+        "source": "peoplesreview.com.np",
+        "url": "https://peoplesreview.com.np/2026/09/21/nepal-and-china-agree-to-study-lakes-near-border-after-taklakot-talks/",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNepal’s White-Rumped Vulture population continues to rise. [1]\nThe search continues for 6,000 people nearly four weeks after Nepal floods. [3]\n\nWHAT THIS MEANS FOR NEPAL\nThe floods signal a wider climate threat across the Himalayas. [2]\nWorld Heart Day in Nepal focuses on building a heart-healthy society through HeartNet, public awareness and partnership. [4]\n\nKEY RISKS\nThe floods caused ‘apocalyptic’ destruction in Nepal. [2]\n\nOUTLOOK\nNepal and China agree to study lakes near their border after Taklakot talks. [5]\n\nWATCH ITEMS\nThe search for 6,000 people nearly four weeks after Nepal floods is ongoing. [3]",
+      "generatedAt": "2026-09-21T04:59:04.066Z",
+      "sources": [
+        {
+          "title": "Nepal’s White-Rumped Vulture Population Continues to Rise",
+          "source": "Human Progress",
+          "url": "https://humanprogress.org/nepals-white-rumped-vulture-population-continues-to-rise/",
+          "publishedAt": "2026-09-18T18:52:21.000Z"
+        },
+        {
+          "title": "Nepal floods: ‘Apocalyptic’ destruction signals wider climate threat across Himalayas",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168365",
+          "publishedAt": "2026-09-18T12:00:00.000Z"
+        },
+        {
+          "title": "Search continues for 6,000 people nearly four weeks after Nepal floods",
+          "source": "theshillongtimes.com",
+          "url": "https://theshillongtimes.com/2026/09/21/search-continues-for-6000-people-nearly-four-weeks-after-nepal-floods/",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "World Heart Day in Nepal: Building a Heart-Healthy Society through HeartNet, Public Awareness and Partnership",
+          "source": "spotlightnepal.com",
+          "url": "https://www.spotlightnepal.com/2026/09/21/world-heart-day-nepal-building-heart-healthy-society-through-heartnet-public-awareness-and-partnership/",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Nepal and China agree to study lakes near border after Taklakot talks",
+          "source": "peoplesreview.com.np",
+          "url": "https://peoplesreview.com.np/2026/09/21/nepal-and-china-agree-to-study-lakes-near-border-after-taklakot-talks/",
+          "publishedAt": "2026-09-21T04:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

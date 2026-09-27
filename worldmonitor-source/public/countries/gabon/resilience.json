@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GA",
+  "countryName": "Gabon",
+  "slug": "gabon",
+  "rank": 119,
+  "overallScore": 46.8,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Gabon Backs Port-Gentil Steel, 50 MW and Rare Earths",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/gabon-port-gentil-cabinet-steel-power-rare-earths/",
+        "publishedAt": "2026-09-20T09:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Oilserv enters Gabon oil, gas market with new hydrocarbon deal",
+        "source": "thesun.ng",
+        "url": "https://thesun.ng/oilserv-enters-gabon-oil-gas-market-with-new-hydrocarbon-deal-2/",
+        "publishedAt": "2026-09-19T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gabon Bonds Surge on Debt Audit Findings Still Unpublished",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/gabon-debt-audit-bonds-surge-2026/",
+        "publishedAt": "2026-09-17T21:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gabon Turns to Cameroon for Practical AfCFTA Experience",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/public-management/1809-16777-gabon-turns-to-cameroon-for-practical-afcfta-experience",
+        "publishedAt": "2026-09-18T15:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Oilserv enters Gabon oil, gas market with new hydrocarbon deal",
+        "source": "thesun.ng",
+        "url": "https://thesun.ng/oilserv-enters-gabon-oil-gas-market-with-new-hydrocarbon-deal/",
+        "publishedAt": "2026-09-18T12:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

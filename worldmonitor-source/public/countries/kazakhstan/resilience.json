@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KZ",
+  "countryName": "Kazakhstan",
+  "slug": "kazakhstan",
+  "rank": 54,
+  "overallScore": 57.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Asian Games Open in Nagoya as Kazakhstan Targets Bigger Medal Haul",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/09/asian-games-open-in-nagoya-as-kazakhstan-targets-bigger-medal-haul/",
+        "publishedAt": "2026-09-19T12:18:17.000Z"
+      },
+      {
+        "title": "Kazakhstan Mining Royalty System Delayed Until 2029",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/kazakhstan-mining-royalty-system-delayed-2029/",
+        "publishedAt": "2026-09-18T10:50:15.000Z"
+      },
+      {
+        "title": "Kazakhstan Eyes Cross-Border QR Payments as India’s UPI Offers Blueprint",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/09/kazakhstan-eyes-cross-border-qr-payments-as-indias-upi-offers-blueprint/",
+        "publishedAt": "2026-09-19T04:30:35.000Z"
+      },
+      {
+        "title": "News Digest: Rybakina’s US Open Triumph, Kazakhstan-South Korea Ties and Oil Export Strategy",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/09/news-digest-rybakinas-us-open-triumph-kazakhstan-south-korea-ties-and-oil-export-strategy/",
+        "publishedAt": "2026-09-18T14:13:25.000Z"
+      },
+      {
+        "title": "Apple TV Launches in Kazakhstan",
+        "source": "The Astana Times",
+        "url": "https://astanatimes.com/2026/09/apple-tv-officially-launches-in-kazakhstan/",
+        "publishedAt": "2026-09-18T12:20:43.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Asian Games open in Nagoya as Kazakhstan targets a bigger medal haul. [1]\nKazakhstan's mining royalty system has been delayed until 2029. [2]\n\nWHAT THIS MEANS FOR KAZAKHSTAN\nKazakhstan eyes cross-border QR payments as India's UPI offers a blueprint. [3]\nApple TV has launched in Kazakhstan. [5]\n\nWATCH ITEMS\nThe delay of the mining royalty system until 2029 remains unresolved. [2]",
+      "generatedAt": "2026-09-21T04:57:53.515Z",
+      "sources": [
+        {
+          "title": "Asian Games Open in Nagoya as Kazakhstan Targets Bigger Medal Haul",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/09/asian-games-open-in-nagoya-as-kazakhstan-targets-bigger-medal-haul/",
+          "publishedAt": "2026-09-19T12:18:17.000Z"
+        },
+        {
+          "title": "Kazakhstan Mining Royalty System Delayed Until 2029",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/kazakhstan-mining-royalty-system-delayed-2029/",
+          "publishedAt": "2026-09-18T10:50:15.000Z"
+        },
+        {
+          "title": "Kazakhstan Eyes Cross-Border QR Payments as India’s UPI Offers Blueprint",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/09/kazakhstan-eyes-cross-border-qr-payments-as-indias-upi-offers-blueprint/",
+          "publishedAt": "2026-09-19T04:30:35.000Z"
+        },
+        {
+          "title": "News Digest: Rybakina’s US Open Triumph, Kazakhstan-South Korea Ties and Oil Export Strategy",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/09/news-digest-rybakinas-us-open-triumph-kazakhstan-south-korea-ties-and-oil-export-strategy/",
+          "publishedAt": "2026-09-18T14:13:25.000Z"
+        },
+        {
+          "title": "Apple TV Launches in Kazakhstan",
+          "source": "The Astana Times",
+          "url": "https://astanatimes.com/2026/09/apple-tv-officially-launches-in-kazakhstan/",
+          "publishedAt": "2026-09-18T12:20:43.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MU",
+  "countryName": "Mauritius",
+  "slug": "mauritius",
+  "rank": 67,
+  "overallScore": 55.9,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Why mighty Mauritius remains a high-society haven, decades after the first jet-set boom",
+        "source": "tatler.com",
+        "url": "https://www.tatler.com/article/why-mighty-mauritius-remains-a-high-society-haven-decades-after-its-first-heyday",
+        "publishedAt": "2026-09-19T02:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ched William on 'Towards Ether', Mauritius & Family Heritage",
+        "source": "desiblitz.com",
+        "url": "https://www.desiblitz.com/content/ched-william-on-towards-ether-mauritius-family-heritage",
+        "publishedAt": "2026-09-18T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ched William on 'Talking Ether', Mauritius & Family Heritage",
+        "source": "desiblitz.com",
+        "url": "https://www.desiblitz.com/content/ched-william-on-talking-ether-mauritius-family-heritage",
+        "publishedAt": "2026-09-18T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "[Blog] Mauritius: A Society at Risk",
+        "source": "defimedia.info",
+        "url": "https://defimedia.info/blog-mauritius-society-risk",
+        "publishedAt": "2026-09-18T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mauritius-based Soach Global to make 25 times return from NSE IPO",
+        "source": "indiatimes.com",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mauritius-based-soach-global-to-make-25-times-return-from-nse-ipo/articleshow/134312583.cms",
+        "publishedAt": "2026-09-17T13:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

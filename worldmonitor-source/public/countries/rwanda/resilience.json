@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RW",
+  "countryName": "Rwanda",
+  "slug": "rwanda",
+  "rank": 130,
+  "overallScore": 44.4,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "China is now Rwanda’s biggest export market – now comes the hard part",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
+        "publishedAt": "2026-09-19T13:30:55.000Z"
+      },
+      {
+        "title": "Rwanda economy records 9.4% growth in second quarter of 2026 – Channel Africa",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/rwanda-economy-records-9-4-growth-in-second-quarter-of-2026/",
+        "publishedAt": "2026-09-20T17:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Rwanda-Pakistan Business Forum to open new avenues for trade, investment: Hamid Asghar",
+        "source": "arynews.tv",
+        "url": "https://arynews.tv/rwanda-pakistan-business-forum-to-open-new-avenues-for-trade-investment-hamid-asghar",
+        "publishedAt": "2026-09-19T19:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Business team to attend Rwanda investment forum",
+        "source": "tribune.com.pk",
+        "url": "https://tribune.com.pk/story/2630110/business-team-to-attend-rwanda-investment-forum",
+        "publishedAt": "2026-09-19T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Rwanda: Sunrise Hold Rayon As Ingabire's Late Strike Powers Police Past Mukura",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609180558.html",
+        "publishedAt": "2026-09-18T17:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nChina is now Rwanda’s biggest export market. [1]\nThe Rwanda economy recorded 9.4% growth in the second quarter of 2026. [2]\n\nWHAT THIS MEANS FOR RWANDA\nThe Rwanda-Pakistan Business Forum is expected to open new avenues for trade and investment. [3]\nA business team is scheduled to attend a Rwanda investment forum. [4]",
+      "generatedAt": "2026-09-21T04:59:47.238Z",
+      "sources": [
+        {
+          "title": "China is now Rwanda’s biggest export market – now comes the hard part",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/video/20260919-china-is-now-rwanda-s-biggest-export-market-%E2%80%93-now-comes-the-hard-part",
+          "publishedAt": "2026-09-19T13:30:55.000Z"
+        },
+        {
+          "title": "Rwanda economy records 9.4% growth in second quarter of 2026 – Channel Africa",
+          "source": "channelafrica.co.za",
+          "url": "https://www.channelafrica.co.za/channelafrica/news/rwanda-economy-records-9-4-growth-in-second-quarter-of-2026/",
+          "publishedAt": "2026-09-20T17:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Rwanda-Pakistan Business Forum to open new avenues for trade, investment: Hamid Asghar",
+          "source": "arynews.tv",
+          "url": "https://arynews.tv/rwanda-pakistan-business-forum-to-open-new-avenues-for-trade-investment-hamid-asghar",
+          "publishedAt": "2026-09-19T19:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Business team to attend Rwanda investment forum",
+          "source": "tribune.com.pk",
+          "url": "https://tribune.com.pk/story/2630110/business-team-to-attend-rwanda-investment-forum",
+          "publishedAt": "2026-09-19T06:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Rwanda: Sunrise Hold Rayon As Ingabire's Late Strike Powers Police Past Mukura",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202609180558.html",
+          "publishedAt": "2026-09-18T17:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

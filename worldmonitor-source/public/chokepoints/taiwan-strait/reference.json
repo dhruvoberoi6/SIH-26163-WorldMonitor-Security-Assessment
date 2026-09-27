@@ -1,0 +1,31 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "taiwan_strait",
+  "displayName": "Taiwan Strait",
+  "slug": "taiwan-strait",
+  "lat": 24,
+  "lon": 119.5,
+  "region": "East China Sea ↔ South China Sea",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [
+    {
+      "id": "china-us-west",
+      "name": "China → US West Coast",
+      "volumeDesc": "24M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "intra-asia-container",
+      "name": "Intra-Asia Container",
+      "volumeDesc": "30M+ TEU/year",
+      "category": "container"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SN",
+  "countryName": "Senegal",
+  "slug": "senegal",
+  "rank": 139,
+  "overallScore": 42.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Senegal job an ‘absolute dream’ for new boss Vieira",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/senegal-job-an-absolute-dream-for-new-boss-vieira/",
+        "publishedAt": "2026-09-21T00:25:00.000Z"
+      },
+      {
+        "title": "Dette du Sénégal : John McIntire appelle à une restructuration profonde",
+        "source": "leFaso.net",
+        "url": "https://lefaso.net/spip.php?article149367",
+        "publishedAt": "2026-09-20T20:28:00.000Z"
+      },
+      {
+        "title": "Au Sénégal, Bassirou Diomaye Faye cultive le mystère autour des élections locales",
+        "source": "Jeune Afrique",
+        "url": "https://www.jeuneafrique.com/1841114/politique/au-senegal-bassirou-diomaye-faye-cultive-le-mystere-autour-des-locales/",
+        "publishedAt": "2026-09-18T19:04:43.000Z"
+      },
+      {
+        "title": "Senegal job an 'absolute dream' for new boss Vieira",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T17:01:59.000Z"
+      },
+      {
+        "title": "Senegal farmers turn to fish and rice farming",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/senegal-farmers-turn-to-fish-and-rice-farming",
+        "publishedAt": "2026-09-17T13:28:56.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe new boss Vieira describes the Senegal job as an 'absolute dream'. [1]\nJohn McIntire calls for a deep restructuring of Senegal's debt. [2]\nBassirou Diomaye Faye cultivates mystery around local elections in Senegal. [3]\nSenegal farmers turn to fish and rice farming. [5]\n\nWHAT THIS MEANS FOR SENEGAL\nThe call for deep debt restructuring suggests financial strain in Senegal. [2]\nThe shift to fish and rice farming indicates adaptation by Senegal farmers. [5]\n\nKEY RISKS\nThe mystery around local elections may create uncertainty in Senegal. [3]\n\nWATCH ITEMS\nThe call for deep debt restructuring by John McIntire remains unresolved. [2]",
+      "generatedAt": "2026-09-21T05:00:17.559Z",
+      "sources": [
+        {
+          "title": "Senegal job an ‘absolute dream’ for new boss Vieira",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/senegal-job-an-absolute-dream-for-new-boss-vieira/",
+          "publishedAt": "2026-09-21T00:25:00.000Z"
+        },
+        {
+          "title": "Dette du Sénégal : John McIntire appelle à une restructuration profonde",
+          "source": "leFaso.net",
+          "url": "https://lefaso.net/spip.php?article149367",
+          "publishedAt": "2026-09-20T20:28:00.000Z"
+        },
+        {
+          "title": "Au Sénégal, Bassirou Diomaye Faye cultive le mystère autour des élections locales",
+          "source": "Jeune Afrique",
+          "url": "https://www.jeuneafrique.com/1841114/politique/au-senegal-bassirou-diomaye-faye-cultive-le-mystere-autour-des-locales/",
+          "publishedAt": "2026-09-18T19:04:43.000Z"
+        },
+        {
+          "title": "Senegal job an 'absolute dream' for new boss Vieira",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-18T17:01:59.000Z"
+        },
+        {
+          "title": "Senegal farmers turn to fish and rice farming",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/senegal-farmers-turn-to-fish-and-rice-farming",
+          "publishedAt": "2026-09-17T13:28:56.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

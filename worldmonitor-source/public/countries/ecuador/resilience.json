@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "EC",
+  "countryName": "Ecuador",
+  "slug": "ecuador",
+  "rank": 89,
+  "overallScore": 52.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "The Tiguerones: US Terrorist Label Meets a Fracturing Gang in Ecuador",
+        "source": "InSight Crime",
+        "url": "https://insightcrime.org/news/the-tiguerones-us-terrorist-label-meets-a-fracturing-gang-in-ecuador/",
+        "publishedAt": "2026-09-18T17:42:42.000Z"
+      },
+      {
+        "title": "Secure Border Strategy Strengthens Ecuador's Border Security - Analysis",
+        "source": "eurasiareview.com",
+        "url": "https://www.eurasiareview.com/21092026-secure-border-strategy-strengthens-ecuadors-border-security-analysis/",
+        "publishedAt": "2026-09-21T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "UCLA students provide free medical care during Ecuador service trip",
+        "source": "dailybruin.com",
+        "url": "https://dailybruin.com/2026/09/17/ucla-students-provide-free-medical-care-during-ecuador-service-trip",
+        "publishedAt": "2026-09-19T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "GB take command of Ecuador Davis Cup tie on Arthur Fery's London return",
+        "source": "aol.co.uk",
+        "url": "https://www.aol.co.uk/articles/gb-command-ecuador-davis-cup-162715000.html",
+        "publishedAt": "2026-09-19T17:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Major wildfire threatens Ecuador's capital as firefighters battle flames",
+        "source": "news.az",
+        "url": "https://news.az/news/major-wildfire-threatens-ecuador-s-capital-as-firefighters-battle-flames",
+        "publishedAt": "2026-09-19T09:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Tiguerones gang in Ecuador is fracturing and has been labeled a terrorist organization by the US. [1]\nA major wildfire threatens Ecuador's capital as firefighters battle flames. [5]\n\nWHAT THIS MEANS FOR ECUADOR\nThe US terrorist label on the fracturing Tiguerones gang may affect security dynamics in Ecuador. [1]\nA secure border strategy is being implemented to strengthen Ecuador's border security. [2]\n\nKEY RISKS\nThe fracturing of the Tiguerones gang could lead to increased violence or fragmentation in Ecuador. [1]\n\nWATCH ITEMS\nThe major wildfire threatening Ecuador's capital remains ongoing as firefighters battle the flames. [5]",
+      "generatedAt": "2026-09-21T04:55:39.590Z",
+      "sources": [
+        {
+          "title": "The Tiguerones: US Terrorist Label Meets a Fracturing Gang in Ecuador",
+          "source": "InSight Crime",
+          "url": "https://insightcrime.org/news/the-tiguerones-us-terrorist-label-meets-a-fracturing-gang-in-ecuador/",
+          "publishedAt": "2026-09-18T17:42:42.000Z"
+        },
+        {
+          "title": "Secure Border Strategy Strengthens Ecuador's Border Security - Analysis",
+          "source": "eurasiareview.com",
+          "url": "https://www.eurasiareview.com/21092026-secure-border-strategy-strengthens-ecuadors-border-security-analysis/",
+          "publishedAt": "2026-09-21T02:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "UCLA students provide free medical care during Ecuador service trip",
+          "source": "dailybruin.com",
+          "url": "https://dailybruin.com/2026/09/17/ucla-students-provide-free-medical-care-during-ecuador-service-trip",
+          "publishedAt": "2026-09-19T18:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "GB take command of Ecuador Davis Cup tie on Arthur Fery's London return",
+          "source": "aol.co.uk",
+          "url": "https://www.aol.co.uk/articles/gb-command-ecuador-davis-cup-162715000.html",
+          "publishedAt": "2026-09-19T17:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Major wildfire threatens Ecuador's capital as firefighters battle flames",
+          "source": "news.az",
+          "url": "https://news.az/news/major-wildfire-threatens-ecuador-s-capital-as-firefighters-battle-flames",
+          "publishedAt": "2026-09-19T09:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

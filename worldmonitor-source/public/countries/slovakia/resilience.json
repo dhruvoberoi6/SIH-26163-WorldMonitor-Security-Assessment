@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SK",
+  "countryName": "Slovakia",
+  "slug": "slovakia",
+  "rank": 34,
+  "overallScore": 61.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Slovakia Seeks to Overturn Conviction of Fugitive Who Claimed Asylum in Bosnia",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/17/slovakia-seeks-to-overturn-conviction-of-fugitive-who-claimed-asylum-in-bosnia/rd/",
+        "publishedAt": "2026-09-17T13:37:41.000Z"
+      },
+      {
+        "title": "Oatelier draws on rural architecture for timber home in Slovakia",
+        "source": "dezeen.com",
+        "url": "https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/",
+        "publishedAt": "2026-09-20T02:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Slovakia records 3rd-warmest summer since 1931-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260918/99cc094dff04480f8969a7d1feae6b8e/c.html",
+        "publishedAt": "2026-09-18T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Slovakia records 3rd-warmest summer since 1931-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/europe/20260918/af581db7b221410197fbfe8c1d769045/c.html",
+        "publishedAt": "2026-09-18T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "President Renews Invitation to Pope Leo XIV to Visit Slovakia - News - Rádio RSI English",
+        "source": "enrsi.stvr.sk",
+        "url": "https://enrsi.stvr.sk/articles/news/461137/president-renews-invitation-to-pope-leo-xiv-to-visit-slovakia",
+        "publishedAt": "2026-09-18T12:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe government of Slovakia seeks to overturn the conviction of a fugitive who claimed asylum in Bosnia. [1]\nSlovakia recorded its 3rd-warmest summer since 1931. [3]\nThe President of Slovakia renewed an invitation to Pope Leo XIV to visit the country. [5]\n\nWHAT THIS MEANS FOR SLOVAKIA\nThe warm summer may affect local climate patterns and agriculture in Slovakia. [3]\n\nWATCH ITEMS\nThe outcome of Slovakia's effort to overturn the fugitive's conviction remains unresolved. [1]",
+      "generatedAt": "2026-09-21T05:00:12.432Z",
+      "sources": [
+        {
+          "title": "Slovakia Seeks to Overturn Conviction of Fugitive Who Claimed Asylum in Bosnia",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/17/slovakia-seeks-to-overturn-conviction-of-fugitive-who-claimed-asylum-in-bosnia/rd/",
+          "publishedAt": "2026-09-17T13:37:41.000Z"
+        },
+        {
+          "title": "Oatelier draws on rural architecture for timber home in Slovakia",
+          "source": "dezeen.com",
+          "url": "https://www.dezeen.com/2026/09/10/oatelier-husarik-hut-timber-home-slovakia/",
+          "publishedAt": "2026-09-20T02:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Slovakia records 3rd-warmest summer since 1931-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20260918/99cc094dff04480f8969a7d1feae6b8e/c.html",
+          "publishedAt": "2026-09-18T14:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Slovakia records 3rd-warmest summer since 1931-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/europe/20260918/af581db7b221410197fbfe8c1d769045/c.html",
+          "publishedAt": "2026-09-18T14:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "President Renews Invitation to Pope Leo XIV to Visit Slovakia - News - Rádio RSI English",
+          "source": "enrsi.stvr.sk",
+          "url": "https://enrsi.stvr.sk/articles/news/461137/president-renews-invitation-to-pope-leo-xiv-to-visit-slovakia",
+          "publishedAt": "2026-09-18T12:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

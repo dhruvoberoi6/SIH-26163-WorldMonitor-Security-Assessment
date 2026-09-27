@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ZW",
+  "countryName": "Zimbabwe",
+  "slug": "zimbabwe",
+  "rank": 156,
+  "overallScore": 38.3,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Zimbabwe farmers brace for El Niño by saving water",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/video/20260917-zimbabwe-farmers-brace-for-el-ni%C3%B1o-by-saving-water",
+        "publishedAt": "2026-09-17T13:33:33.000Z"
+      },
+      {
+        "title": "Chinese experts honored for contributions to Zimbabwe's agriculture",
+        "source": "newzimbabwe.com",
+        "url": "https://www.newzimbabwe.com/chinese-experts-honored-for-contributions-to-zimbabwes-agriculture/",
+        "publishedAt": "2026-09-21T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Why Zimbabwe's parastatals are collapsing",
+        "source": "insiderzim.com",
+        "url": "https://insiderzim.com/why-zimbabwes-parastatals-are-collapsing/",
+        "publishedAt": "2026-09-21T02:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Zimbabwe gazettes new regulations on the use of forex- here is how they affect you",
+        "source": "insiderzim.com",
+        "url": "https://insiderzim.com/zimbabwe-gazettes-new-regulations-on-the-use-of-forex-here-is-how-they-affect-you/",
+        "publishedAt": "2026-09-21T02:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Zimbabwe says not all teachers are on strike",
+        "source": "insiderzim.com",
+        "url": "https://insiderzim.com/zimbabwe-says-not-all-teachers-are-on-strike/",
+        "publishedAt": "2026-09-21T02:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Zimbabwe farmers brace for El Niño by saving water. [1]\nChinese experts are honored for contributions to Zimbabwe's agriculture. [2]\n\nWHAT THIS MEANS FOR ZIMBABWE\nThe new regulations on the use of forex affect individuals in Zimbabwe. [4]\n\nKEY RISKS\nZimbabwe's parastatals are collapsing. [3]\n\nWATCH ITEMS\nZimbabwe says not all teachers are on strike. [5]",
+      "generatedAt": "2026-09-21T05:02:40.361Z",
+      "sources": [
+        {
+          "title": "Zimbabwe farmers brace for El Niño by saving water",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/video/20260917-zimbabwe-farmers-brace-for-el-ni%C3%B1o-by-saving-water",
+          "publishedAt": "2026-09-17T13:33:33.000Z"
+        },
+        {
+          "title": "Chinese experts honored for contributions to Zimbabwe's agriculture",
+          "source": "newzimbabwe.com",
+          "url": "https://www.newzimbabwe.com/chinese-experts-honored-for-contributions-to-zimbabwes-agriculture/",
+          "publishedAt": "2026-09-21T03:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Why Zimbabwe's parastatals are collapsing",
+          "source": "insiderzim.com",
+          "url": "https://insiderzim.com/why-zimbabwes-parastatals-are-collapsing/",
+          "publishedAt": "2026-09-21T02:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Zimbabwe gazettes new regulations on the use of forex- here is how they affect you",
+          "source": "insiderzim.com",
+          "url": "https://insiderzim.com/zimbabwe-gazettes-new-regulations-on-the-use-of-forex-here-is-how-they-affect-you/",
+          "publishedAt": "2026-09-21T02:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Zimbabwe says not all teachers are on strike",
+          "source": "insiderzim.com",
+          "url": "https://insiderzim.com/zimbabwe-says-not-all-teachers-are-on-strike/",
+          "publishedAt": "2026-09-21T02:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

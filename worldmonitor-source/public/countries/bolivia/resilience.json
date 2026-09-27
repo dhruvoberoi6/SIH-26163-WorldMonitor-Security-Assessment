@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BO",
+  "countryName": "Bolivia",
+  "slug": "bolivia",
+  "rank": 124,
+  "overallScore": 46,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Tiny wild cat newly identified as a species draws curious visitors in Bolivia",
+        "source": "Winnipeg Free Press",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/09/20/tiny-wild-cat-newly-identified-as-a-species-draws-curious-visitors-in-bolivia",
+        "publishedAt": "2026-09-21T03:17:30.000Z"
+      },
+      {
+        "title": "New cat species identified for first time in more than a century in Bolivia",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+        "publishedAt": "2026-09-17T20:43:38.000Z"
+      },
+      {
+        "title": "Bolivia's new wild cat species draws visitors",
+        "source": "koat.com",
+        "url": "https://www.koat.com/article/bolivia-new-wild-cat-species-tigrino-draws-visitors/73814999",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bolivia's new wild cat species draws visitors",
+        "source": "wmtw.com",
+        "url": "https://www.wmtw.com/article/bolivia-new-wild-cat-species-tigrino-draws-visitors/73814999",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bolivia's new wild cat species draws visitors",
+        "source": "kcra.com",
+        "url": "https://www.kcra.com/article/bolivia-new-wild-cat-species-tigrino-draws-visitors/73814999",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA tiny wild cat newly identified as a species draws curious visitors in Bolivia. [1]",
+      "generatedAt": "2026-09-21T04:54:26.429Z",
+      "sources": [
+        {
+          "title": "Tiny wild cat newly identified as a species draws curious visitors in Bolivia",
+          "source": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/09/20/tiny-wild-cat-newly-identified-as-a-species-draws-curious-visitors-in-bolivia",
+          "publishedAt": "2026-09-21T03:17:30.000Z"
+        },
+        {
+          "title": "New cat species identified for first time in more than a century in Bolivia",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+          "publishedAt": "2026-09-17T20:43:38.000Z"
+        },
+        {
+          "title": "Bolivia's new wild cat species draws visitors",
+          "source": "koat.com",
+          "url": "https://www.koat.com/article/bolivia-new-wild-cat-species-tigrino-draws-visitors/73814999",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bolivia's new wild cat species draws visitors",
+          "source": "wmtw.com",
+          "url": "https://www.wmtw.com/article/bolivia-new-wild-cat-species-tigrino-draws-visitors/73814999",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Bolivia's new wild cat species draws visitors",
+          "source": "kcra.com",
+          "url": "https://www.kcra.com/article/bolivia-new-wild-cat-species-tigrino-draws-visitors/73814999",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

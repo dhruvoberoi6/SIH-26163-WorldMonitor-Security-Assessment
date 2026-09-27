@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TT",
+  "countryName": "Trinidad and Tobago",
+  "slug": "trinidad-and-tobago",
+  "rank": 80,
+  "overallScore": 54.1,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Strange new twists as pandemic reading booms - Trinidad and Tobago Newsday",
+        "source": "newsday.co.tt",
+        "url": "https://newsday.co.tt/2021/12/14/strange-new-twists-as-pandemic-reading-booms/",
+        "publishedAt": "2026-09-19T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Adrian Chandler, events guru of Strictly FX - Trinidad and Tobago Newsday",
+        "source": "newsday.co.tt",
+        "url": "https://newsday.co.tt/2019/10/27/adrian-chandler-events-guru-of-strictly-fx/",
+        "publishedAt": "2026-09-15T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Trinidad: Touchstone Exploration provides an update on its recent operational activities in the Republic of Trinidad and Tobago",
+        "source": "energy-pedia.com",
+        "url": "https://www.energy-pedia.com/news/trinidad/touchstone-exploration-has-provided-an-update-on-its-recent-operational-activities-in-the-republic-of-trinidad-and-tobago--operational-activities-duri",
+        "publishedAt": "2026-09-14T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Trinidad and Tobago ends long state of emergency as anger mounts over arrests",
+        "source": "jamaica-gleaner.com",
+        "url": "https://jamaica-gleaner.com/article/world-news/20260917/trinidad-and-tobago-ends-long-state-emergency-anger-mounts-over-arrests",
+        "publishedAt": "2026-09-18T10:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
+        "source": "dominicanrepublicpost.com",
+        "url": "https://dominicanrepublicpost.com/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests/",
+        "publishedAt": "2026-09-18T02:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CO",
+  "countryName": "Colombia",
+  "slug": "colombia",
+  "rank": 93,
+  "overallScore": 51.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Naturbrand nærmer sig turistby i Colombia",
+        "source": "DR Nyheder",
+        "url": "https://www.dr.dk/nyheder/seneste/naturbrand-naermer-sig-turistby-i-colombia",
+        "publishedAt": "2026-09-21T03:45:54.000Z"
+      },
+      {
+        "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+        "source": "Guardian Caribbean",
+        "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+        "publishedAt": "2026-09-20T20:17:44.000Z"
+      },
+      {
+        "title": "FIFA U20 Women’s World Cup: Late Colombia goal ends Falconets’ semi-final dream",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/sports/football/911059-fifa-u20-womens-world-cup-late-colombia-goal-ends-falconets-semi-final-dream.html",
+        "publishedAt": "2026-09-20T17:15:48.000Z"
+      },
+      {
+        "title": "UAE sends aid to Colombia under $10 million earthquake relief drive",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/uae/2026/09/20/uae-sends-aid-to-colombia-under-10m-earthquake-relief-drive/",
+        "publishedAt": "2026-09-20T16:02:35.000Z"
+      },
+      {
+        "title": "The Lives Built on Colombia’s Peace Deal Are at Risk",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/09/17/colombia-farc-peace-agreement-espriella-armed-groups-transitional-justice/",
+        "publishedAt": "2026-09-17T19:06:44.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA wildfire is approaching a tourist town in Colombia. [1]\nThe UAE sent aid to Colombia under a $10 million earthquake relief drive. [4]\n\nWHAT THIS MEANS FOR COLOMBIA\nThe lives built on Colombia's peace deal are at risk. [5]\n\nKEY RISKS\nThe wildfire near the tourist town may cause damage or require evacuation. [1]\n\nWATCH ITEMS\nA late Colombia goal ended the Falconets' semi-final dream at the FIFA U20 Women's World Cup. [3]",
+      "generatedAt": "2026-09-21T04:55:08.564Z",
+      "sources": [
+        {
+          "title": "Naturbrand nærmer sig turistby i Colombia",
+          "source": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/seneste/naturbrand-naermer-sig-turistby-i-colombia",
+          "publishedAt": "2026-09-21T03:45:54.000Z"
+        },
+        {
+          "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+          "source": "Guardian Caribbean",
+          "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+          "publishedAt": "2026-09-20T20:17:44.000Z"
+        },
+        {
+          "title": "FIFA U20 Women’s World Cup: Late Colombia goal ends Falconets’ semi-final dream",
+          "source": "Premium Times",
+          "url": "https://www.premiumtimesng.com/sports/football/911059-fifa-u20-womens-world-cup-late-colombia-goal-ends-falconets-semi-final-dream.html",
+          "publishedAt": "2026-09-20T17:15:48.000Z"
+        },
+        {
+          "title": "UAE sends aid to Colombia under $10 million earthquake relief drive",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/uae/2026/09/20/uae-sends-aid-to-colombia-under-10m-earthquake-relief-drive/",
+          "publishedAt": "2026-09-20T16:02:35.000Z"
+        },
+        {
+          "title": "The Lives Built on Colombia’s Peace Deal Are at Risk",
+          "source": "Foreign Policy",
+          "url": "https://foreignpolicy.com/2026/09/17/colombia-farc-peace-agreement-espriella-armed-groups-transitional-justice/",
+          "publishedAt": "2026-09-17T19:06:44.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

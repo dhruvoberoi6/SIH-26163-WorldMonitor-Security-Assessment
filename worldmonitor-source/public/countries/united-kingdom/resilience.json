@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GB",
+  "countryName": "United Kingdom",
+  "slug": "united-kingdom",
+  "rank": 33,
+  "overallScore": 61.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "UK Sovereign AI Fund in talks to back £500m raise for drug discovery startup",
+        "source": "Sifted (Europe)",
+        "url": "https://sifted.eu/articles/uk-sovereign-ai-fund-in-talks-to-back-500m-raise-for-drug-discovery-startup/",
+        "publishedAt": "2026-09-18T16:51:46.000Z"
+      },
+      {
+        "title": "Couple Fosters 59 Dogs in Retirement: ‘We love to get them out of the kennels’",
+        "source": "Good News Network",
+        "url": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
+        "publishedAt": "2026-09-20T22:48:46.000Z"
+      },
+      {
+        "title": "Our understanding of the slave trade is still evolving | Letters",
+        "source": "Guardian Caribbean",
+        "url": "https://www.theguardian.com/world/2026/sep/20/our-understanding-of-the-slave-trade-is-still-evolving",
+        "publishedAt": "2026-09-20T15:43:17.000Z"
+      },
+      {
+        "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
+        "publishedAt": "2026-09-20T23:00:00.000Z"
+      },
+      {
+        "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout - Yahoo Finance",
+        "source": "Bond Market",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTnljQlkwOS0xVkJtd3l4bDYxMGtJa0ZkOUM0YXh5cGJtbjZrVHk4eXd5LUF1RmF2QkJ6MVFuV0RZVHRIdmp1c0dKZTMzV242dklYc3dJaDRsZWZFMHdKZnhuOUMzSHNQX2M2S1N4bWZzTmZOM1Qxcm9hMHdwdlJqWW52dm1BNk9hbTRFOEFpMk9jQQ?oc=5",
+        "publishedAt": "2026-09-20T21:27:11.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe UK Sovereign AI Fund is in talks to back a £500m raise for a drug discovery startup. [1]\nAmazon tapped the UK bond market for the first time to help fund its AI buildout. [5]\n\nWHAT THIS MEANS FOR UNITED KINGDOM\nAmazon's first use of the UK bond market for AI funding suggests growing corporate reliance on UK capital markets for technology investment. [5]",
+      "generatedAt": "2026-09-21T04:56:12.640Z",
+      "sources": [
+        {
+          "title": "UK Sovereign AI Fund in talks to back £500m raise for drug discovery startup",
+          "source": "Sifted (Europe)",
+          "url": "https://sifted.eu/articles/uk-sovereign-ai-fund-in-talks-to-back-500m-raise-for-drug-discovery-startup/",
+          "publishedAt": "2026-09-18T16:51:46.000Z"
+        },
+        {
+          "title": "Couple Fosters 59 Dogs in Retirement: ‘We love to get them out of the kennels’",
+          "source": "Good News Network",
+          "url": "https://www.goodnewsnetwork.org/couple-fosters-59-dogs-in-retirement-we-love-to-get-them-out-of-the-kennels/",
+          "publishedAt": "2026-09-20T22:48:46.000Z"
+        },
+        {
+          "title": "Our understanding of the slave trade is still evolving | Letters",
+          "source": "Guardian Caribbean",
+          "url": "https://www.theguardian.com/world/2026/sep/20/our-understanding-of-the-slave-trade-is-still-evolving",
+          "publishedAt": "2026-09-20T15:43:17.000Z"
+        },
+        {
+          "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+          "source": "OilPrice.com",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
+          "publishedAt": "2026-09-20T23:00:00.000Z"
+        },
+        {
+          "title": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout - Yahoo Finance",
+          "source": "Bond Market",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTnljQlkwOS0xVkJtd3l4bDYxMGtJa0ZkOUM0YXh5cGJtbjZrVHk4eXd5LUF1RmF2QkJ6MVFuV0RZVHRIdmp1c0dKZTMzV242dklYc3dJaDRsZWZFMHdKZnhuOUMzSHNQX2M2S1N4bWZzTmZOM1Qxcm9hMHdwdlJqWW52dm1BNk9hbTRFOEFpMk9jQQ?oc=5",
+          "publishedAt": "2026-09-20T21:27:11.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "iran-israel-escalation",
+  "title": "Iran–Israel escalation tracker",
+  "shortTitle": "Iran–Israel escalation",
+  "description": "Monthly conflict pulse for Iran and Israel: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a fixed two-country scope.",
+  "overview": "This tracker keeps a deliberately narrow geographic boundary: it compares the latest available monthly conflict summaries for Iran and Israel. It does not claim to capture every regional spillover event, diplomatic development, or military movement.",
+  "coverage": [
+    {
+      "code": "IR",
+      "name": "Iran"
+    },
+    {
+      "code": "IL",
+      "name": "Israel"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 343,
+    "fatalities": 85,
+    "politicalViolenceEvents": 77,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "IR",
+        "name": "Iran",
+        "events": 310,
+        "fatalities": 84,
+        "political": 76,
+        "demonstrations": 234,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "IL",
+        "name": "Israel",
+        "events": 33,
+        "fatalities": 1,
+        "political": 1,
+        "demonstrations": 32,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "hormuz_strait",
+  "displayName": "Strait of Hormuz",
+  "slug": "strait-of-hormuz",
+  "lat": 26.5,
+  "lon": 56.5,
+  "region": "Persian Gulf ↔ Gulf of Oman",
+  "shockModelSupported": true,
+  "modelledTradeRoutes": [
+    {
+      "id": "gulf-europe-oil",
+      "name": "Persian Gulf → Europe (Oil)",
+      "volumeDesc": "6.5M+ bpd",
+      "category": "energy"
+    },
+    {
+      "id": "gulf-asia-oil",
+      "name": "Persian Gulf → Asia (Oil)",
+      "volumeDesc": "15M+ bpd",
+      "category": "energy"
+    },
+    {
+      "id": "qatar-europe-lng",
+      "name": "Qatar LNG → Europe",
+      "volumeDesc": "77M+ tonnes/year",
+      "category": "energy"
+    },
+    {
+      "id": "qatar-asia-lng",
+      "name": "Qatar LNG → Asia",
+      "volumeDesc": "40M+ tonnes/year",
+      "category": "energy"
+    },
+    {
+      "id": "gulf-americas-cape",
+      "name": "Persian Gulf → Americas (Cape Route)",
+      "volumeDesc": "2M+ bpd",
+      "category": "energy"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

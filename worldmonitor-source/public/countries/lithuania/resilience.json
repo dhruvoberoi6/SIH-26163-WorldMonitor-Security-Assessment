@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LT",
+  "countryName": "Lithuania",
+  "slug": "lithuania",
+  "rank": 26,
+  "overallScore": 62.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "European Commission Approves Grants for 3 Cross-Border RE Projects",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/european_commission_approves_grants_for_3_crossborder_re_projects-20-sep-2026-184655-article/?rss=true",
+        "publishedAt": "2026-09-20T11:00:00.000Z"
+      },
+      {
+        "title": "Lithuania seeks full CERN membership as Vilnius hosts particle physics community",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3054146/lithuania-seeks-full-cern-membership-as-vilnius-hosts-particle-physics-community",
+        "publishedAt": "2026-09-20T07:00:00.000Z"
+      },
+      {
+        "title": "Perelozai: The vanished Old Believer village hidden in Lithuania’s forests",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3056329/perelozai-the-vanished-old-believer-village-hidden-in-lithuania-s-forests",
+        "publishedAt": "2026-09-20T05:00:00.000Z"
+      },
+      {
+        "title": "Lithuania’s government proposed €770m family package – but how will it pay for it?",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3056198/lithuania-s-government-proposed-eur770m-family-package-but-how-will-it-pay-for-it",
+        "publishedAt": "2026-09-19T07:00:00.000Z"
+      },
+      {
+        "title": "Lithuania’s Jewish history museum draws more than 100,000 visitors in first year",
+        "source": "LRT English",
+        "url": "https://www.lrt.lt/en/news-in-english/19/3056087/lithuania-s-jewish-history-museum-draws-more-than-100-000-visitors-in-first-year",
+        "publishedAt": "2026-09-18T06:54:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe European Commission has approved grants for three cross-border renewable energy projects. [1]\nLithuania is seeking full CERN membership as Vilnius hosts the particle physics community. [2]\n\nWATCH ITEMS\nLithuania’s Jewish history museum has drawn more than 100,000 visitors in its first year. [5]",
+      "generatedAt": "2026-09-21T04:58:03.776Z",
+      "sources": [
+        {
+          "title": "European Commission Approves Grants for 3 Cross-Border RE Projects",
+          "source": "Rigzone",
+          "url": "https://www.rigzone.com/news/european_commission_approves_grants_for_3_crossborder_re_projects-20-sep-2026-184655-article/?rss=true",
+          "publishedAt": "2026-09-20T11:00:00.000Z"
+        },
+        {
+          "title": "Lithuania seeks full CERN membership as Vilnius hosts particle physics community",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3054146/lithuania-seeks-full-cern-membership-as-vilnius-hosts-particle-physics-community",
+          "publishedAt": "2026-09-20T07:00:00.000Z"
+        },
+        {
+          "title": "Perelozai: The vanished Old Believer village hidden in Lithuania’s forests",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3056329/perelozai-the-vanished-old-believer-village-hidden-in-lithuania-s-forests",
+          "publishedAt": "2026-09-20T05:00:00.000Z"
+        },
+        {
+          "title": "Lithuania’s government proposed €770m family package – but how will it pay for it?",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3056198/lithuania-s-government-proposed-eur770m-family-package-but-how-will-it-pay-for-it",
+          "publishedAt": "2026-09-19T07:00:00.000Z"
+        },
+        {
+          "title": "Lithuania’s Jewish history museum draws more than 100,000 visitors in first year",
+          "source": "LRT English",
+          "url": "https://www.lrt.lt/en/news-in-english/19/3056087/lithuania-s-jewish-history-museum-draws-more-than-100-000-visitors-in-first-year",
+          "publishedAt": "2026-09-18T06:54:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

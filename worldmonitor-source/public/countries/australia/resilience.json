@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AU",
+  "countryName": "Australia",
+  "slug": "australia",
+  "rank": 43,
+  "overallScore": 60.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Apple's Tim Cook sees Australia's social media curbs as 'world-leading', PM says - Reuters",
+        "source": "Reuters World",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUJnR1EzS1lNTHZiU1RIcTlkZGs0WjFzelNoQjRBTGV3RF84czJyb3dQeldRaExyYlRPOTlpMXZQa2t1czVWRWVKLW5GTEtDREJLZWpCckFSZ1VKaUxUQXVpc2NJVlhwYWk3bjk2SG5NMXp4MjhzVHVaQ0pTTm92a2hIZHd5SUo1YVVmR2puTHM1c3pFcTFKUGFPS0x6UTJ1MzVUXy00SnQwOWpIOE9oMWVtejYxWWhSSHNoZU52RWp6TWo5dkRUbmNaRnNodw?oc=5",
+        "publishedAt": "2026-09-20T05:44:49.000Z"
+      },
+      {
+        "title": "Firmus Seeks to Raise $5 Billion in Landmark Australian IPO - Bloomberg.com",
+        "source": "IPO News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamVzYzZINzFKUGc3WGNfVnQwMGdCOUJNVG1pZmx0aXAzSXVXdDJSeDdoaGlOTEllT1h6dG80WVRUNHFBUXl1bEdyR1E5X21RV2FLeVc5aG9pbkRQMjJRMFBfV2lhTlVVY3hZZ2F3amF1NE8xSnFEajlSOXUtazBPZGZ6R2d5TjAycWF0VW5vVUZsLWxvVEVzSDRNbEhJLUc0SzZFU2NUVVpjX243TWc?oc=5",
+        "publishedAt": "2026-09-21T02:33:00.000Z"
+      },
+      {
+        "title": "Australian trading firm BDX Markets launches blockchain platform",
+        "source": "Tech in Asia",
+        "url": "https://www.techinasia.com/news/australian-trading-firm-bdx-markets-launches-blockchain-platform",
+        "publishedAt": "2026-09-21T02:47:33.000Z"
+      },
+      {
+        "title": "Australian Dollar to US Dollar Exchange Rate September 21 2026 - Robinhood",
+        "source": "Forex News",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUVuYnFtOHRrMnRXSnZUSlJVRDZvLVAxVHVaNXcwNUIyalZJVnZfVDU3VUN2Z2hLYXRWNmk0TThpQndEYi1Damhja2RPNUdWRER0ZHkyYTJhcU51QU44TklGc2cyZ1FxQkVwNkltX29LRklSTmxfdS1hRV81WGktUVBKVkNNRVg5bWNmazZmZXRaMERTVVhYYjg0cy12dmd6YVpzNFNBT3VCU1o0TlpFVzZORm1KaVlWcF9qQ2R6ay0wcEhsRzdhRkpRNEI?oc=5",
+        "publishedAt": "2026-09-21T02:59:45.000Z"
+      },
+      {
+        "title": "Regis expands growth opportunity at Rosemont with “very encouraging” results",
+        "source": "Australian Mining",
+        "url": "https://www.australianmining.com.au/regis-expands-growth-opportunity-at-rosemont/",
+        "publishedAt": "2026-09-21T01:25:07.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nFirmus seeks to raise $5 billion in a landmark Australian IPO. [2]\nAustralian trading firm BDX Markets has launched a blockchain platform. [3]\nThe Australian Dollar to US Dollar exchange rate is reported for September 21 2026. [4]\nRegis has expanded its growth opportunity at Rosemont with 'very encouraging' results. [5]\n\nWHAT THIS MEANS FOR AUSTRALIA\nThe $5 billion IPO target by Firmus signals a significant capital-raising event in the Australian market. [2]\n\nWATCH ITEMS\nThe outcome of Firmus's attempt to raise $5 billion in its Australian IPO remains to be seen. [2]",
+      "generatedAt": "2026-09-21T04:53:56.289Z",
+      "sources": [
+        {
+          "title": "Apple's Tim Cook sees Australia's social media curbs as 'world-leading', PM says - Reuters",
+          "source": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUJnR1EzS1lNTHZiU1RIcTlkZGs0WjFzelNoQjRBTGV3RF84czJyb3dQeldRaExyYlRPOTlpMXZQa2t1czVWRWVKLW5GTEtDREJLZWpCckFSZ1VKaUxUQXVpc2NJVlhwYWk3bjk2SG5NMXp4MjhzVHVaQ0pTTm92a2hIZHd5SUo1YVVmR2puTHM1c3pFcTFKUGFPS0x6UTJ1MzVUXy00SnQwOWpIOE9oMWVtejYxWWhSSHNoZU52RWp6TWo5dkRUbmNaRnNodw?oc=5",
+          "publishedAt": "2026-09-20T05:44:49.000Z"
+        },
+        {
+          "title": "Firmus Seeks to Raise $5 Billion in Landmark Australian IPO - Bloomberg.com",
+          "source": "IPO News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamVzYzZINzFKUGc3WGNfVnQwMGdCOUJNVG1pZmx0aXAzSXVXdDJSeDdoaGlOTEllT1h6dG80WVRUNHFBUXl1bEdyR1E5X21RV2FLeVc5aG9pbkRQMjJRMFBfV2lhTlVVY3hZZ2F3amF1NE8xSnFEajlSOXUtazBPZGZ6R2d5TjAycWF0VW5vVUZsLWxvVEVzSDRNbEhJLUc0SzZFU2NUVVpjX243TWc?oc=5",
+          "publishedAt": "2026-09-21T02:33:00.000Z"
+        },
+        {
+          "title": "Australian trading firm BDX Markets launches blockchain platform",
+          "source": "Tech in Asia",
+          "url": "https://www.techinasia.com/news/australian-trading-firm-bdx-markets-launches-blockchain-platform",
+          "publishedAt": "2026-09-21T02:47:33.000Z"
+        },
+        {
+          "title": "Australian Dollar to US Dollar Exchange Rate September 21 2026 - Robinhood",
+          "source": "Forex News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUVuYnFtOHRrMnRXSnZUSlJVRDZvLVAxVHVaNXcwNUIyalZJVnZfVDU3VUN2Z2hLYXRWNmk0TThpQndEYi1Damhja2RPNUdWRER0ZHkyYTJhcU51QU44TklGc2cyZ1FxQkVwNkltX29LRklSTmxfdS1hRV81WGktUVBKVkNNRVg5bWNmazZmZXRaMERTVVhYYjg0cy12dmd6YVpzNFNBT3VCU1o0TlpFVzZORm1KaVlWcF9qQ2R6ay0wcEhsRzdhRkpRNEI?oc=5",
+          "publishedAt": "2026-09-21T02:59:45.000Z"
+        },
+        {
+          "title": "Regis expands growth opportunity at Rosemont with “very encouraging” results",
+          "source": "Australian Mining",
+          "url": "https://www.australianmining.com.au/regis-expands-growth-opportunity-at-rosemont/",
+          "publishedAt": "2026-09-21T01:25:07.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

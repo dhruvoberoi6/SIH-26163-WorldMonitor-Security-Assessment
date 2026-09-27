@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "haiti-gang-crisis",
+  "title": "Haiti security crisis tracker",
+  "shortTitle": "Haiti security crisis",
+  "description": "Monthly conflict pulse for Haiti: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a bounded country-level view.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Haiti, aggregated from subnational records. Armed-group territorial control and displacement are tracked separately by humanitarian agencies and are not represented in these counts.",
+  "coverage": [
+    {
+      "code": "HT",
+      "name": "Haiti"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 34,
+    "fatalities": 16,
+    "politicalViolenceEvents": 24,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "HT",
+        "name": "Haiti",
+        "events": 34,
+        "fatalities": 16,
+        "political": 24,
+        "demonstrations": 10,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

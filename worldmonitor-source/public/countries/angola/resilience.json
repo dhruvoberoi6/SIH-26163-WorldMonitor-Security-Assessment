@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AO",
+  "countryName": "Angola",
+  "slug": "angola",
+  "rank": 137,
+  "overallScore": 42.9,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "HM’s state visit to solidify ties, say Batswana and Angolans",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196501/oman/community/hms-state-visit-to-solidify-ties-say-batswana-and-angolans",
+        "publishedAt": "2026-09-20T11:19:20.000Z"
+      },
+      {
+        "title": "Citizen Lab: Israeli Firm May Have Run Angola Influence Campaign",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/israeli-firm-may-have-run-angola-influence-campaign",
+        "publishedAt": "2026-09-17T12:33:00.000Z"
+      },
+      {
+        "title": "$1.5bn cooperation package signed during H M Sultan Haitham's Angola visit",
+        "source": "muscatdaily.com",
+        "url": "https://www.muscatdaily.com/2026/09/19/1-5bn-cooperation-package-signed-during-angola-visit/",
+        "publishedAt": "2026-09-19T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Oman, Angola open new chapter in economic and investment partnership",
+        "source": "muscatdaily.com",
+        "url": "https://www.muscatdaily.com/2026/09/19/oman-angola-open-new-chapter-in-economic-and-investment-partnership/",
+        "publishedAt": "2026-09-19T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "OQ signs energy cooperation deals with Angola",
+        "source": "muscatdaily.com",
+        "url": "https://www.muscatdaily.com/2026/09/19/oq-signs-energy-cooperation-deals-with-angola/",
+        "publishedAt": "2026-09-19T16:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe state visit is expected to solidify ties between Batswana and Angolans. [1]\nCitizen Lab reported that an Israeli firm may have run an influence campaign in Angola. [2]\nA $1.5bn cooperation package was signed during H M Sultan Haitham's Angola visit. [3]\nOman and Angola opened a new chapter in economic and investment partnership. [4]\nOQ signed energy cooperation deals with Angola. [5]\n\nKEY RISKS\nThe alleged influence campaign by an Israeli firm poses a risk to Angola's political integrity. [2]\n\nWATCH ITEMS\nThe reported Israeli firm influence campaign in Angola warrants monitoring for further developments. [2]",
+      "generatedAt": "2026-09-21T04:53:44.958Z",
+      "sources": [
+        {
+          "title": "HM’s state visit to solidify ties, say Batswana and Angolans",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196501/oman/community/hms-state-visit-to-solidify-ties-say-batswana-and-angolans",
+          "publishedAt": "2026-09-20T11:19:20.000Z"
+        },
+        {
+          "title": "Citizen Lab: Israeli Firm May Have Run Angola Influence Campaign",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/israeli-firm-may-have-run-angola-influence-campaign",
+          "publishedAt": "2026-09-17T12:33:00.000Z"
+        },
+        {
+          "title": "$1.5bn cooperation package signed during H M Sultan Haitham's Angola visit",
+          "source": "muscatdaily.com",
+          "url": "https://www.muscatdaily.com/2026/09/19/1-5bn-cooperation-package-signed-during-angola-visit/",
+          "publishedAt": "2026-09-19T21:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Oman, Angola open new chapter in economic and investment partnership",
+          "source": "muscatdaily.com",
+          "url": "https://www.muscatdaily.com/2026/09/19/oman-angola-open-new-chapter-in-economic-and-investment-partnership/",
+          "publishedAt": "2026-09-19T21:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "OQ signs energy cooperation deals with Angola",
+          "source": "muscatdaily.com",
+          "url": "https://www.muscatdaily.com/2026/09/19/oq-signs-energy-cooperation-deals-with-angola/",
+          "publishedAt": "2026-09-19T16:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

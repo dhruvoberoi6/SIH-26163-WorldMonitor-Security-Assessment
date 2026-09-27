@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AZ",
+  "countryName": "Azerbaijan",
+  "slug": "azerbaijan",
+  "rank": 50,
+  "overallScore": 58.8,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Remittances from Russia to Azerbaijan rise despite sanctions",
+        "source": "OC Media",
+        "url": "https://oc-media.org/remittances-from-russia-to-azerbaijan-rise-despite-sanctions/",
+        "publishedAt": "2026-09-18T13:54:03.000Z"
+      },
+      {
+        "title": "Weekly review of Azerbaijan's precious metals market - trend.az",
+        "source": "Metals Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YWVFkVElYaFZFMml6ZFBNYVAwczlwTE1vSHNCZFhrVUhVemo5a1ZPcEdrcTV5TmhTYVJkQ29TYVJTSThBa0tQNEN6ZUxIYXNOdm52N0g5VQ?oc=5",
+        "publishedAt": "2026-09-20T09:00:00.000Z"
+      },
+      {
+        "title": "Azerbaijani media claims ‘Armenia not ready for peace’ as spat over diplomats’ visit continues",
+        "source": "OC Media",
+        "url": "https://oc-media.org/azerbaijani-media-claims-armenia-not-ready-for-peace-as-spat-over-diplomats-visit-continues/",
+        "publishedAt": "2026-09-18T12:40:31.000Z"
+      },
+      {
+        "title": "Pashinyan calls Baku’s portrayal of history ‘unacceptable’ as Azerbaijan doubles down",
+        "source": "OC Media",
+        "url": "https://oc-media.org/pashinyan-calls-bakus-portrayal-of-history-unacceptable-as-azerbaijan-doubles-down/",
+        "publishedAt": "2026-09-18T12:04:00.000Z"
+      },
+      {
+        "title": "Azerbaijan carries out parallel counterterrorism operations in 5 countries, detains 10",
+        "source": "OC Media",
+        "url": "https://oc-media.org/azerbaijan-carries-out-parallel-counterterrorism-operations-in-5-countries-detains-10/",
+        "publishedAt": "2026-09-18T10:16:57.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRemittances from Russia to Azerbaijan have risen despite sanctions. [1]\nAzerbaijani media claims Armenia is not ready for peace as a spat over diplomats' visit continues. [3]\nPashinyan calls Baku's portrayal of history unacceptable as Azerbaijan doubles down. [4]\nAzerbaijan carries out parallel counterterrorism operations in 5 countries, detaining 10. [5]\n\nWHAT THIS MEANS FOR AZERBAIJAN\nThe rise in remittances from Russia may provide economic support to Azerbaijan despite international sanctions on Russia. [1]\n\nKEY RISKS\nThe claim that Armenia is not ready for peace could escalate bilateral tensions or hinder peace negotiations. [3]\n\nWATCH ITEMS\nThe counterterrorism operations in 5 countries and detentions of 10 individuals may indicate ongoing or future security actions. [5]",
+      "generatedAt": "2026-09-21T04:54:01.617Z",
+      "sources": [
+        {
+          "title": "Remittances from Russia to Azerbaijan rise despite sanctions",
+          "source": "OC Media",
+          "url": "https://oc-media.org/remittances-from-russia-to-azerbaijan-rise-despite-sanctions/",
+          "publishedAt": "2026-09-18T13:54:03.000Z"
+        },
+        {
+          "title": "Weekly review of Azerbaijan's precious metals market - trend.az",
+          "source": "Metals Bulletin",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YWVFkVElYaFZFMml6ZFBNYVAwczlwTE1vSHNCZFhrVUhVemo5a1ZPcEdrcTV5TmhTYVJkQ29TYVJTSThBa0tQNEN6ZUxIYXNOdm52N0g5VQ?oc=5",
+          "publishedAt": "2026-09-20T09:00:00.000Z"
+        },
+        {
+          "title": "Azerbaijani media claims ‘Armenia not ready for peace’ as spat over diplomats’ visit continues",
+          "source": "OC Media",
+          "url": "https://oc-media.org/azerbaijani-media-claims-armenia-not-ready-for-peace-as-spat-over-diplomats-visit-continues/",
+          "publishedAt": "2026-09-18T12:40:31.000Z"
+        },
+        {
+          "title": "Pashinyan calls Baku’s portrayal of history ‘unacceptable’ as Azerbaijan doubles down",
+          "source": "OC Media",
+          "url": "https://oc-media.org/pashinyan-calls-bakus-portrayal-of-history-unacceptable-as-azerbaijan-doubles-down/",
+          "publishedAt": "2026-09-18T12:04:00.000Z"
+        },
+        {
+          "title": "Azerbaijan carries out parallel counterterrorism operations in 5 countries, detains 10",
+          "source": "OC Media",
+          "url": "https://oc-media.org/azerbaijan-carries-out-parallel-counterterrorism-operations-in-5-countries-detains-10/",
+          "publishedAt": "2026-09-18T10:16:57.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

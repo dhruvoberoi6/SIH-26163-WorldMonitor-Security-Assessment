@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DE",
+  "countryName": "Germany",
+  "slug": "germany",
+  "rank": 24,
+  "overallScore": 63.2,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Germany's Merz vows to press on with reforms despite state election losses to far-right AfD",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/friedrich-merz-germany-afd-agenda-9.7351429?cmp=rss",
+        "publishedAt": "2026-09-20T17:48:26.000Z"
+      },
+      {
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-21T03:22:44.000Z"
+      },
+      {
+        "title": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-21T02:08:18.000Z"
+      },
+      {
+        "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+        "source": "NPR News",
+        "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+        "publishedAt": "2026-09-20T17:29:29.000Z"
+      },
+      {
+        "title": "Germany’s Merz stands his ground but for how long?",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-21T02:05:53.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe German chancellor Merz called a state election a 'disaster' for his party but vowed to stay on. [2]\nGermany's Merz vows to press on with reforms despite state election losses to the far-right AfD. [1]\n\nWHAT THIS MEANS FOR GERMANY\nThe state election losses to the far-right AfD suggest a shift in voter support that challenges Merz's reform agenda. [1]\n\nWATCH ITEMS\nMerz's commitment to stay on despite the 'disaster' in regional elections may be tested by ongoing political pressure. [3]",
+      "generatedAt": "2026-09-21T04:55:22.666Z",
+      "sources": [
+        {
+          "title": "Germany's Merz vows to press on with reforms despite state election losses to far-right AfD",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/friedrich-merz-germany-afd-agenda-9.7351429?cmp=rss",
+          "publishedAt": "2026-09-20T17:48:26.000Z"
+        },
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-21T03:22:44.000Z"
+        },
+        {
+          "title": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+          "publishedAt": "2026-09-21T02:08:18.000Z"
+        },
+        {
+          "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+          "publishedAt": "2026-09-20T17:29:29.000Z"
+        },
+        {
+          "title": "Germany’s Merz stands his ground but for how long?",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
+          "publishedAt": "2026-09-21T02:05:53.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

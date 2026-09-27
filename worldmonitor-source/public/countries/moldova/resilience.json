@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MD",
+  "countryName": "Moldova",
+  "slug": "moldova",
+  "rank": 71,
+  "overallScore": 55.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Explosions reported in Moldova after possible drones spotted",
+        "source": "news.az",
+        "url": "https://news.az/news/explosions-reported-in-moldova-after-possible-drones-spotted",
+        "publishedAt": "2026-09-20T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Moldova condemns 'unauthorized' drone-like aircraft flying over its territory",
+        "source": "aa.com.tr",
+        "url": "https://aa.com.tr/en/eurasia/moldova-condemns-unauthorized-drone-like-aircraft-flying-over-its-territory/4062376",
+        "publishedAt": "2026-09-20T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Arab News | Moldova suspects drone in 'unacceptable' airspace violation",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/world/moldova-suspects-drone-in-unacceptable-airspace-violation-3002345",
+        "publishedAt": "2026-09-19T16:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Moldova reports multiple drone incursions into its airspace",
+        "source": "azernews.az",
+        "url": "https://www.azernews.az/region/264128.html",
+        "publishedAt": "2026-09-19T16:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "URCS shares experience of working in wartime conditions with colleagues from Moldova",
+        "source": "interfax.com.ua",
+        "url": "https://en.interfax.com.ua/news/general/1206870.html",
+        "publishedAt": "2026-09-19T09:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

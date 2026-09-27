@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GT",
+  "countryName": "Guatemala",
+  "slug": "guatemala",
+  "rank": 104,
+  "overallScore": 50.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Aura Minerals secures $200M loan for Americas growth",
+        "source": "Mining.com",
+        "url": "https://www.mining.com/aura-minerals-secures-200m-loan-for-americas-growth/",
+        "publishedAt": "2026-09-18T23:04:00.000Z"
+      },
+      {
+        "title": "Guatemala's Democracy Dilemma - The Atlantic",
+        "source": "theatlantic.com",
+        "url": "https://www.theatlantic.com/international/2026/09/guatemala-democracy-arevalo/688651/",
+        "publishedAt": "2026-09-20T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guatemala vs El Salvador: Tickets, Time and El Trébol Guide | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/guatemala-vs-el-salvador-guatemala-city-nations-league-2026/",
+        "publishedAt": "2026-09-19T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Roxana Baldetti asset-forfeiture trial opens in Guatemala | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/roxana-baldetti-asset-forfeiture-trial-guatemala-2026/",
+        "publishedAt": "2026-09-19T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mass roadblocks over fuel hikes in Guatemala threatened with repression",
+        "source": "wsws.org",
+        "url": "https://www.wsws.org/en/articles/2026/09/19/ssab-s19.html",
+        "publishedAt": "2026-09-19T02:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe asset-forfeiture trial of Roxana Baldetti has opened in Guatemala. [4]\nMass roadblocks over fuel hikes in Guatemala are threatened with repression. [5]\n\nWHAT THIS MEANS FOR GUATEMALA\nThe trial of a former vice president may affect perceptions of Guatemala's rule of law. [4]\nThreatened repression of roadblocks could escalate tensions over fuel prices in Guatemala. [5]\n\nKEY RISKS\nGuatemala's democracy faces a dilemma, according to The Atlantic. [2]\n\nWATCH ITEMS\nThe outcome of Roxana Baldetti's asset-forfeiture trial remains unresolved. [4]\nThe response to mass roadblocks over fuel hikes in Guatemala is pending. [5]",
+      "generatedAt": "2026-09-21T04:56:37.630Z",
+      "sources": [
+        {
+          "title": "Aura Minerals secures $200M loan for Americas growth",
+          "source": "Mining.com",
+          "url": "https://www.mining.com/aura-minerals-secures-200m-loan-for-americas-growth/",
+          "publishedAt": "2026-09-18T23:04:00.000Z"
+        },
+        {
+          "title": "Guatemala's Democracy Dilemma - The Atlantic",
+          "source": "theatlantic.com",
+          "url": "https://www.theatlantic.com/international/2026/09/guatemala-democracy-arevalo/688651/",
+          "publishedAt": "2026-09-20T14:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Guatemala vs El Salvador: Tickets, Time and El Trébol Guide | The Rio Times",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/guatemala-vs-el-salvador-guatemala-city-nations-league-2026/",
+          "publishedAt": "2026-09-19T20:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Roxana Baldetti asset-forfeiture trial opens in Guatemala | The Rio Times",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/roxana-baldetti-asset-forfeiture-trial-guatemala-2026/",
+          "publishedAt": "2026-09-19T17:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mass roadblocks over fuel hikes in Guatemala threatened with repression",
+          "source": "wsws.org",
+          "url": "https://www.wsws.org/en/articles/2026/09/19/ssab-s19.html",
+          "publishedAt": "2026-09-19T02:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

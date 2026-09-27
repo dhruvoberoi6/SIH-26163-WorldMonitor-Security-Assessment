@@ -1,0 +1,34 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CG",
+  "countryName": "Republic of the Congo",
+  "slug": "republic-of-the-congo",
+  "rank": 135,
+  "overallScore": 43.3,
+  "dimensionCoverage": 0.82,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Congo-Brazzaville Debt to Fall to 86.2% of GDP in 2027",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/congo-brazzaville-debt-ratio-2027-economic-outlook/",
+        "publishedAt": "2026-09-20T09:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

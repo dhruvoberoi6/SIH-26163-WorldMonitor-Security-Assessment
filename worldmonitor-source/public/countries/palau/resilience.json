@@ -1,0 +1,94 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PW",
+  "countryName": "Palau",
+  "slug": "palau",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.6,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Palau Appellate Court voids Ngardmau governor’s impeachment",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/palau-appellate-court-voids-ngardmau-governors-impeachment/",
+        "publishedAt": "2026-09-18T10:25:53.000Z"
+      },
+      {
+        "title": "Three arrested at Palau airport after 337.82 grams of meth allegedly found in body cavities",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/three-arrested-at-palau-airport-after-337-82-grams-of-meth-allegedly-found-in-body-cavities/",
+        "publishedAt": "2026-09-18T10:18:14.000Z"
+      },
+      {
+        "title": "Palau leaders’ travel plans draw questions as 2027 budget remains pending",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/palau-leaders-travel-plans-draw-questions-as-2027-budget-remains-pending/",
+        "publishedAt": "2026-09-18T09:49:18.000Z"
+      },
+      {
+        "title": "Nearly half of Palau’s essential medicines out of stock as global supply chain strains bite",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/nearly-half-of-palaus-essential-medicines-out-of-stock-as-global-supply-chain-strains-bite/",
+        "publishedAt": "2026-09-18T09:45:29.000Z"
+      },
+      {
+        "title": "Family of Singaporean diver missing in Palau shares grief: 'Let Dad rest peacefully in the ocean he loved'",
+        "source": "asiaone.com",
+        "url": "https://www.asiaone.com/singapore/family-diver-missing-palau-robert-tan-soon-liang",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Palau Appellate Court voided the Ngardmau governor's impeachment. [1]\nThree individuals were arrested at Palau airport after 337.82 grams of methamphetamine were allegedly found in body cavities. [2]\nNearly half of Palau's essential medicines are out of stock as global supply chain strains bite. [4]\n\nWHAT THIS MEANS FOR PALAU\nPalau leaders' travel plans draw questions as the 2027 budget remains pending. [3]\n\nKEY RISKS\nThe arrest of three individuals for alleged methamphetamine possession at Palau airport indicates ongoing drug trafficking risks. [2]\nThe shortage of nearly half of Palau's essential medicines poses a risk to public health due to global supply chain strains. [4]\n\nWATCH ITEMS\nThe family of a Singaporean diver missing in Palau shared grief, with the statement 'Let Dad rest peacefully in the ocean he loved'. [5]",
+      "generatedAt": "2026-09-21T04:59:28.691Z",
+      "sources": [
+        {
+          "title": "Palau Appellate Court voids Ngardmau governor’s impeachment",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/palau-appellate-court-voids-ngardmau-governors-impeachment/",
+          "publishedAt": "2026-09-18T10:25:53.000Z"
+        },
+        {
+          "title": "Three arrested at Palau airport after 337.82 grams of meth allegedly found in body cavities",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/three-arrested-at-palau-airport-after-337-82-grams-of-meth-allegedly-found-in-body-cavities/",
+          "publishedAt": "2026-09-18T10:18:14.000Z"
+        },
+        {
+          "title": "Palau leaders’ travel plans draw questions as 2027 budget remains pending",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/palau-leaders-travel-plans-draw-questions-as-2027-budget-remains-pending/",
+          "publishedAt": "2026-09-18T09:49:18.000Z"
+        },
+        {
+          "title": "Nearly half of Palau’s essential medicines out of stock as global supply chain strains bite",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/nearly-half-of-palaus-essential-medicines-out-of-stock-as-global-supply-chain-strains-bite/",
+          "publishedAt": "2026-09-18T09:45:29.000Z"
+        },
+        {
+          "title": "Family of Singaporean diver missing in Palau shares grief: 'Let Dad rest peacefully in the ocean he loved'",
+          "source": "asiaone.com",
+          "url": "https://www.asiaone.com/singapore/family-diver-missing-palau-robert-tan-soon-liang",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

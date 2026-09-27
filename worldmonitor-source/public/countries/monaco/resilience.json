@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MC",
+  "countryName": "Monaco",
+  "slug": "monaco",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.44,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Where Sky Meets Sea: Qatar Executive at Monaco Yacht Show",
+        "source": "superyachts.com",
+        "url": "https://www.superyachts.com/news/story/where-sky-meets-sea-qatar-executive-at-monaco-yacht-show-18155/",
+        "publishedAt": "2026-09-20T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Christina Aguilera Stuns in Black Gown at Prince Albert's Gala in Monaco",
+        "source": "justjared.com",
+        "url": "https://www.justjared.com/2026/09/18/christina-aguilera-stuns-in-black-gown-at-prince-alberts-gala-in-monaco/",
+        "publishedAt": "2026-09-19T01:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Princess Charlene dazzles in dramatic black gown at star-studded Monaco gala",
+        "source": "hola.com",
+        "url": "https://www.hola.com/us/royals/20260918924289/princess-charlene-dramatic-black-gown-star-studded-monaco-gala/",
+        "publishedAt": "2026-09-19T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Christina Aguilera turns heads in plunging black gown at Prince Albert's Monaco gala",
+        "source": "hola.com",
+        "url": "https://www.hola.com/us/royals/20260918924290/christina-aguilera-plunging-black-gown-prince-albert-monaco-gala/",
+        "publishedAt": "2026-09-19T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Christina Aguilera Stuns in Stylish Black Dress at Monaco Gala",
+        "source": "tmz.com",
+        "url": "https://www.tmz.com/2026/09/18/christina-aguilera-attends-monaco-gala/",
+        "publishedAt": "2026-09-18T23:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

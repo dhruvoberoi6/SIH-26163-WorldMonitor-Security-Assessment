@@ -1,0 +1,31 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "panama",
+  "displayName": "Panama Canal",
+  "slug": "panama-canal",
+  "lat": 9.1,
+  "lon": -79.7,
+  "region": "Atlantic ↔ Pacific",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [
+    {
+      "id": "china-us-east-panama",
+      "name": "China → US East Coast (Panama)",
+      "volumeDesc": "8M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "panama-transit",
+      "name": "Panama Transit",
+      "volumeDesc": "14K+ transits/year",
+      "category": "container"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

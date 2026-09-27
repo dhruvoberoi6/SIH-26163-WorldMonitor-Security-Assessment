@@ -1,0 +1,55 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "suez",
+  "displayName": "Suez Canal",
+  "slug": "suez-canal",
+  "lat": 30.5,
+  "lon": 32.3,
+  "region": "Mediterranean ↔ Red Sea",
+  "shockModelSupported": true,
+  "modelledTradeRoutes": [
+    {
+      "id": "china-europe-suez",
+      "name": "China → Europe (Suez)",
+      "volumeDesc": "47M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "china-us-east-suez",
+      "name": "China → US East Coast (Suez)",
+      "volumeDesc": "12M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "gulf-europe-oil",
+      "name": "Persian Gulf → Europe (Oil)",
+      "volumeDesc": "6.5M+ bpd",
+      "category": "energy"
+    },
+    {
+      "id": "qatar-europe-lng",
+      "name": "Qatar LNG → Europe",
+      "volumeDesc": "77M+ tonnes/year",
+      "category": "energy"
+    },
+    {
+      "id": "singapore-med",
+      "name": "Singapore → Mediterranean",
+      "volumeDesc": "10M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "india-europe",
+      "name": "India → Europe",
+      "volumeDesc": "6M+ TEU/year",
+      "category": "container"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

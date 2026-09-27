@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NO",
+  "countryName": "Norway",
+  "slug": "norway",
+  "rank": 2,
+  "overallScore": 75.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Carney touts Arctic alliance with Norway during PM's visit to Ottawa, amid Russia threat",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/politics/carney-norway-arctic-9.7351679?cmp=rss",
+        "publishedAt": "2026-09-21T01:36:21.000Z"
+      },
+      {
+        "title": "Chechen girl dies after being taken into Norway's child welfare service",
+        "source": "OC Media",
+        "url": "https://oc-media.org/chechen-girl-dies-after-being-taken-into-care-in-norway/",
+        "publishedAt": "2026-09-17T13:11:20.000Z"
+      },
+      {
+        "title": "Readout - Prime Minister Carney meets with Prime Minister of Norway Jonas Gahr Støre",
+        "source": "recorder.ca",
+        "url": "https://www.recorder.ca/press-releases/pr-newswire/readout-prime-minister-carney-meets-with-prime-minister-of-norway-jonas-gahr-store/",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Readout - Prime Minister Carney meets with Prime Minister of Norway Jonas Gahr Støre",
+        "source": "thestarphoenix.com",
+        "url": "https://thestarphoenix.com/press-releases/pr-newswire/readout-prime-minister-carney-meets-with-prime-minister-of-norway-jonas-gahr-store/",
+        "publishedAt": "2026-09-21T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Readout - Prime Minister Carney meets with Prime Minister of Norway Jonas Gahr Støre",
+        "source": "owensoundsuntimes.com",
+        "url": "https://www.owensoundsuntimes.com/press-releases/pr-newswire/readout-prime-minister-carney-meets-with-prime-minister-of-norway-jonas-gahr-store/",
+        "publishedAt": "2026-09-21T03:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Carney touts Arctic alliance with Norway during PM's visit to Ottawa, amid Russia threat. [1]\nThe Chechen girl dies after being taken into Norway's child welfare service. [2]\n\nWHAT THIS MEANS FOR NORWAY\nThe meeting between Prime Minister Carney and Prime Minister of Norway Jonas Gahr Støre underscores bilateral cooperation. [3]\n\nWATCH ITEMS\nThe death of the Chechen girl after being taken into Norway's child welfare service remains an unresolved event. [2]",
+      "generatedAt": "2026-09-21T04:59:00.062Z",
+      "sources": [
+        {
+          "title": "Carney touts Arctic alliance with Norway during PM's visit to Ottawa, amid Russia threat",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/politics/carney-norway-arctic-9.7351679?cmp=rss",
+          "publishedAt": "2026-09-21T01:36:21.000Z"
+        },
+        {
+          "title": "Chechen girl dies after being taken into Norway's child welfare service",
+          "source": "OC Media",
+          "url": "https://oc-media.org/chechen-girl-dies-after-being-taken-into-care-in-norway/",
+          "publishedAt": "2026-09-17T13:11:20.000Z"
+        },
+        {
+          "title": "Readout - Prime Minister Carney meets with Prime Minister of Norway Jonas Gahr Støre",
+          "source": "recorder.ca",
+          "url": "https://www.recorder.ca/press-releases/pr-newswire/readout-prime-minister-carney-meets-with-prime-minister-of-norway-jonas-gahr-store/",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Readout - Prime Minister Carney meets with Prime Minister of Norway Jonas Gahr Støre",
+          "source": "thestarphoenix.com",
+          "url": "https://thestarphoenix.com/press-releases/pr-newswire/readout-prime-minister-carney-meets-with-prime-minister-of-norway-jonas-gahr-store/",
+          "publishedAt": "2026-09-21T03:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Readout - Prime Minister Carney meets with Prime Minister of Norway Jonas Gahr Støre",
+          "source": "owensoundsuntimes.com",
+          "url": "https://www.owensoundsuntimes.com/press-releases/pr-newswire/readout-prime-minister-carney-meets-with-prime-minister-of-norway-jonas-gahr-store/",
+          "publishedAt": "2026-09-21T03:00:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

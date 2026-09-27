@@ -1,0 +1,94 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PH",
+  "countryName": "Philippines",
+  "slug": "philippines",
+  "rank": 75,
+  "overallScore": 54.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "PISA 2025 reality: Nearly 2 in 3 Filipino students are ‘low performers’",
+        "source": "Rappler",
+        "url": "https://www.rappler.com/philippines/pisa-2025-reality-filipino-students-low-performers/",
+        "publishedAt": "2026-09-21T01:25:02.000Z"
+      },
+      {
+        "title": "Three dead and eight injured in Philippines school shooting",
+        "source": "BBC Asia",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T11:01:46.000Z"
+      },
+      {
+        "title": "Arrests and Court Appearances Heighten Political Tensions in the Philippines",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/arrests-and-court-appearances-heighten-political-tensions-in-the-philippines/",
+        "publishedAt": "2026-09-18T08:21:00.000Z"
+      },
+      {
+        "title": "Former Philippine President Duterte Makes First In-person Appearance at ICC",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/former-philippine-president-duterte-makes-first-in-person-appearance-at-icc/",
+        "publishedAt": "2026-09-18T00:56:00.000Z"
+      },
+      {
+        "title": "Philippines to host Miss Tourism International 2026",
+        "source": "philstar.com",
+        "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/09/21/2557727/philippines-host-miss-tourism-international-2026",
+        "publishedAt": "2026-09-21T04:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe PISA 2025 reality shows nearly 2 in 3 Filipino students are 'low performers'. [1]\nThree people are dead and eight injured in a Philippines school shooting. [2]\n\nWHAT THIS MEANS FOR PHILIPPINES\nArrests and court appearances heighten political tensions in the Philippines. [3]\nFormer Philippine President Duterte makes his first in-person appearance at the ICC. [4]\n\nKEY RISKS\nThe school shooting in the Philippines resulted in three dead and eight injured. [2]\n\nOUTLOOK\nThe Philippines is to host Miss Tourism International 2026. [5]\n\nWATCH ITEMS\nArrests and court appearances continue to heighten political tensions in the Philippines. [3]",
+      "generatedAt": "2026-09-21T04:59:15.580Z",
+      "sources": [
+        {
+          "title": "PISA 2025 reality: Nearly 2 in 3 Filipino students are ‘low performers’",
+          "source": "Rappler",
+          "url": "https://www.rappler.com/philippines/pisa-2025-reality-filipino-students-low-performers/",
+          "publishedAt": "2026-09-21T01:25:02.000Z"
+        },
+        {
+          "title": "Three dead and eight injured in Philippines school shooting",
+          "source": "BBC Asia",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-18T11:01:46.000Z"
+        },
+        {
+          "title": "Arrests and Court Appearances Heighten Political Tensions in the Philippines",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/arrests-and-court-appearances-heighten-political-tensions-in-the-philippines/",
+          "publishedAt": "2026-09-18T08:21:00.000Z"
+        },
+        {
+          "title": "Former Philippine President Duterte Makes First In-person Appearance at ICC",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/former-philippine-president-duterte-makes-first-in-person-appearance-at-icc/",
+          "publishedAt": "2026-09-18T00:56:00.000Z"
+        },
+        {
+          "title": "Philippines to host Miss Tourism International 2026",
+          "source": "philstar.com",
+          "url": "https://www.philstar.com/lifestyle/fashion-and-beauty/2026/09/21/2557727/philippines-host-miss-tourism-international-2026",
+          "publishedAt": "2026-09-21T04:00:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

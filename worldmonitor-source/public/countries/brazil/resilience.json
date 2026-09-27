@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BR",
+  "countryName": "Brazil",
+  "slug": "brazil",
+  "rank": 56,
+  "overallScore": 57.4,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Alawuba seeks to deepen Nigeria-Brazil trade, investment ties",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/promoted/911129-alawuba-seeks-to-deepen-nigeria-brazil-trade-investment-ties.html",
+        "publishedAt": "2026-09-20T21:33:34.000Z"
+      },
+      {
+        "title": "USA and Brazil: Two Different Policies for Cuban Migration",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/usa-and-brazil-two-different-policies-for-cuban-migration/",
+        "publishedAt": "2026-09-20T14:54:20.000Z"
+      },
+      {
+        "title": "Lithium Boom: Can Chile, Argentina & Brazil Keep the Profits in South America? - Latin Times",
+        "source": "Lithium Market",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWM4NGIwNkdoTlA4eks0MERWTG9aOVRYZXM4UjViQjVvaWxhczhISTNvajF0cjVGTGVMZ0RrZVVXTXg3UHhCUWZYTEdiS3FSdThEUUJwNFp5SzFEN3N1bVI5MGhiWVJYdUs5NjFGY1k0dGpQZWFlUTI0bUNQS0l0ZXVlbFVyTTQyQ0ljWF90ZU9IZEJSeWRtRGRmZkZ3ZEd4dEE?oc=5",
+        "publishedAt": "2026-09-20T23:16:48.000Z"
+      },
+      {
+        "title": "SGML Stock Tumbles Overnight: Sigma Lithium Says Mining Operations Continue Despite Brazilian Court Ruling - Stocktwits",
+        "source": "Mine Web (SNL)",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWUxRX2ZNclJ1ME9NM3llZWdhUUZrbVR1NlBkMmhLUnpXTmVSUTltRG9IRkRGaHpURHZyTFFxTnRuYVdxZlNuSEk2akF3Mmd4a0R4RWJPdTZ3dlY4UkZTX0Z0NWFVT3F6a2o5X0R6NmVqaWJHTHhIb0dNVE40Qll6dEt5TDNmcHNLZFpDSm5uR0J3V3JaQVYyYTZ4NzljRWJ0VURmRjdiY3Y0SFMtTklYdERXempWLXNyYkZQQWhBWmRlN2NIVFk0ZW44blFLTkNxYkdveGRDcDNfYm1UY0huZ1FULUZPR0Y0ZmtWMkRqOFM1dEpGaklXX0RYSTN6Zw?oc=5",
+        "publishedAt": "2026-09-20T13:34:11.000Z"
+      },
+      {
+        "title": "Brazil’s wind farms have been a huge success. So why isn’t everybody reaping the benefits?",
+        "source": "Guardian Americas",
+        "url": "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits",
+        "publishedAt": "2026-09-19T12:00:46.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Alawuba seeks to deepen Nigeria-Brazil trade and investment ties. [1]\nThe USA and Brazil have two different policies for Cuban migration. [2]\nSigma Lithium says mining operations continue despite a Brazilian court ruling, and SGML stock tumbled overnight. [4]\n\nWHAT THIS MEANS FOR BRAZIL\nThe lithium boom raises questions about whether Chile, Argentina, and Brazil can keep the profits in South America. [3]\nBrazil’s wind farms have been a huge success, but not everybody is reaping the benefits. [5]\n\nKEY RISKS\nA Brazilian court ruling caused Sigma Lithium stock to tumble overnight, though mining operations continue. [4]\n\nWATCH ITEMS\nThe Brazilian court ruling affecting Sigma Lithium remains unresolved. [4]",
+      "generatedAt": "2026-09-21T04:54:30.772Z",
+      "sources": [
+        {
+          "title": "Alawuba seeks to deepen Nigeria-Brazil trade, investment ties",
+          "source": "Premium Times",
+          "url": "https://www.premiumtimesng.com/promoted/911129-alawuba-seeks-to-deepen-nigeria-brazil-trade-investment-ties.html",
+          "publishedAt": "2026-09-20T21:33:34.000Z"
+        },
+        {
+          "title": "USA and Brazil: Two Different Policies for Cuban Migration",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/features/usa-and-brazil-two-different-policies-for-cuban-migration/",
+          "publishedAt": "2026-09-20T14:54:20.000Z"
+        },
+        {
+          "title": "Lithium Boom: Can Chile, Argentina & Brazil Keep the Profits in South America? - Latin Times",
+          "source": "Lithium Market",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWM4NGIwNkdoTlA4eks0MERWTG9aOVRYZXM4UjViQjVvaWxhczhISTNvajF0cjVGTGVMZ0RrZVVXTXg3UHhCUWZYTEdiS3FSdThEUUJwNFp5SzFEN3N1bVI5MGhiWVJYdUs5NjFGY1k0dGpQZWFlUTI0bUNQS0l0ZXVlbFVyTTQyQ0ljWF90ZU9IZEJSeWRtRGRmZkZ3ZEd4dEE?oc=5",
+          "publishedAt": "2026-09-20T23:16:48.000Z"
+        },
+        {
+          "title": "SGML Stock Tumbles Overnight: Sigma Lithium Says Mining Operations Continue Despite Brazilian Court Ruling - Stocktwits",
+          "source": "Mine Web (SNL)",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWUxRX2ZNclJ1ME9NM3llZWdhUUZrbVR1NlBkMmhLUnpXTmVSUTltRG9IRkRGaHpURHZyTFFxTnRuYVdxZlNuSEk2akF3Mmd4a0R4RWJPdTZ3dlY4UkZTX0Z0NWFVT3F6a2o5X0R6NmVqaWJHTHhIb0dNVE40Qll6dEt5TDNmcHNLZFpDSm5uR0J3V3JaQVYyYTZ4NzljRWJ0VURmRjdiY3Y0SFMtTklYdERXempWLXNyYkZQQWhBWmRlN2NIVFk0ZW44blFLTkNxYkdveGRDcDNfYm1UY0huZ1FULUZPR0Y0ZmtWMkRqOFM1dEpGaklXX0RYSTN6Zw?oc=5",
+          "publishedAt": "2026-09-20T13:34:11.000Z"
+        },
+        {
+          "title": "Brazil’s wind farms have been a huge success. So why isn’t everybody reaping the benefits?",
+          "source": "Guardian Americas",
+          "url": "https://www.theguardian.com/global-development/2026/sep/19/brazils-wind-farms-have-been-a-huge-success-so-why-isnt-everybody-reaping-the-benefits",
+          "publishedAt": "2026-09-19T12:00:46.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

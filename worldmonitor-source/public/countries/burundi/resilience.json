@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BI",
+  "countryName": "Burundi",
+  "slug": "burundi",
+  "rank": 149,
+  "overallScore": 40.7,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Burundi Inflation Falls to 8.4% as the IMF Warns",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/burundi-inflation-imf-article-iv-2026/",
+        "publishedAt": "2026-09-20T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Presentation of the true copies of credence by the European Union Ambassador-designate to Burundi",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/presentation-of-the-true-copies-of-credence-by-the-european-union-ambassadordesignate-to-burundi",
+        "publishedAt": "2026-09-16T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Việt Nam attaches importance to promoting friendly relations, cooperation with Burundi: PM",
+        "source": "vietnamnews.vn",
+        "url": "https://vietnamnews.vn/politics-laws/1799623/viet-nam-attaches-importance-to-promoting-friendly-relations-cooperation-with-burundi-pm.html",
+        "publishedAt": "2026-09-14T11:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "South Sudan U20s fall 4-0 to Burundi in CECAFA AFCON qualifiers",
+        "source": "eyeradio.org",
+        "url": "https://www.eyeradio.org/article/south-sudan-u20s-fall-4-0-to-burundi-in-cecafa-afcon-qualifiers",
+        "publishedAt": "2026-09-16T11:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Modi Meets Burundi President and AU Chairperson Évariste Ndayishimiye on Sidelines of BRICS Summit",
+        "source": "newdelhitimes.com",
+        "url": "https://www.newdelhitimes.com/modi-meets-burundi-president-and-au-chairperson-evariste-ndayishimiye-on-sidelines-of-brics-summit/",
+        "publishedAt": "2026-09-16T01:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

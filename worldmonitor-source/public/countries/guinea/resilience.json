@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GN",
+  "countryName": "Guinea",
+  "slug": "guinea",
+  "rank": 145,
+  "overallScore": 41.1,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Guinea's Media Regulator Issues Formal Warning to France 24",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/guinea-france-24-putschist-president-warning-2026/",
+        "publishedAt": "2026-09-18T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guinea's President Receives Rusal Delegation in Conakry",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/rusal-reaffirms-interest-guinea-simandou-2040-2026/",
+        "publishedAt": "2026-09-18T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Companion Corner: Guinea Pigs at Berkshire Humane Society",
+        "source": "iberkshires.com",
+        "url": "https://www.iberkshires.com/story/83901/Companion-Corner-Guinea-Pigs-at-Berkshire-Humane-Society.html",
+        "publishedAt": "2026-09-17T23:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guinea bans French TV outlet over 'putschist president' label",
+        "source": "hindustantimes.com",
+        "url": "https://www.hindustantimes.com/world-news/us-news/guinea-bans-french-tv-outlet-over-putschist-president-label-101789675419986.html",
+        "publishedAt": "2026-09-17T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Guinea coach: 'We have visa problems'",
+        "source": "kickoff.com",
+        "url": "https://www.kickoff.com/world-news/africa-news/guinea-coach-paulo-duarte-we-have-visa-problems",
+        "publishedAt": "2026-09-17T12:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

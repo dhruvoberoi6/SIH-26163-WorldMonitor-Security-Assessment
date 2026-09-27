@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "QA",
+  "countryName": "Qatar",
+  "slug": "qatar",
+  "rank": 30,
+  "overallScore": 61.7,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Live - US leaves Iran war open-ended as Qatar pushes to revive talks - Iran International",
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
+        "publishedAt": "2026-09-19T05:12:16.000Z"
+      },
+      {
+        "title": "Iran’s Araghchi to visit Qatar for talks before UN General Assembly - Al Arabiya English",
+        "source": "Al Arabiya",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3Y5Q0VWbHMwTmZHVGZJck5kcC1SdVFGQklnNjVzZEtmZmdjLXJJTkd1d3dsaC13ZGU0bTViTllNUjdvZ2UtcnR3NHJVRkItZWl1YlR3enF6MEE5R0FxT09UaG9Nd2xjUzc1WUo0UVR4OENPY3pXTUk0dWlOOEVld0pNVmZWR0phQXVud1ZFTC10OXRCVWVRTVMydUYzRDQ1MjN6VXJoaDZlVHUxTUZoZHcyT2stZE5rMEFsOHhuX1gzXzDSAcgBQVVfeXFMT3RFZU1jS25HVmd1b0tzLVhBSGFkRExJaEhfbTBjTktxWEhudklNa183d2FBaTB4S1l6V29oTllleHhmV2lYNVQ2OVpwY2c5eVF2WFFmSTVhSDdoSmVDWkxDUUt1LW5PQ1FpLXB1cWZvUUhaN0lFV1hLX1p6UEYwSDEtNXVNcVJoSTd3RDltZHNjWXJGc21nVGxfXzJ3TXJfVDlpSVc1UGtfT3FaMERxeFp4OUJTT05UaFBsX08tNUpqdkZjZDFWWnY?oc=5",
+        "publishedAt": "2026-09-20T20:12:00.000Z"
+      },
+      {
+        "title": "Qatar Energy Chief Says Bessent ‘Wrong’ About Hormuz Future",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/qatar-energy-chief-says-bessent-wrong-about-hormuz-future/",
+        "publishedAt": "2026-09-20T22:39:11.000Z"
+      },
+      {
+        "title": "World’s best airlines 2026 revealed: Qatar Airways No.2, Emirates No.6, Saudia No.15 - Arabian Business",
+        "source": "Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTZhdTdaVTlhR0xhS0xUeURkdEZSd2pKU0hhS2VwOHBQM1NqNnhuMjZWazJIWTRLdkQxS2Nuc3U4QnFwX1lHMm9WQlk2b1JEdFU4Mm1fdWxGams1bVdVVkFiN0FPR19BY3h6ejYwbGNQNFZGTTJPeEZlUkh2Mm8zSlFR?oc=5",
+        "publishedAt": "2026-09-18T19:36:21.000Z"
+      },
+      {
+        "title": "Qatar PM urges Gulf security framework with Iran",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+        "publishedAt": "2026-09-20T21:00:15.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US leaves Iran war open-ended as Qatar pushes to revive talks. [1]\nIran’s Araghchi is to visit Qatar for talks before the UN General Assembly. [2]\nQatar Energy Chief says Bessent ‘wrong’ about Hormuz future. [3]\nQatar Airways is ranked No.2 in the world’s best airlines 2026. [4]\nQatar PM urges Gulf security framework with Iran. [5]\n\nWHAT THIS MEANS FOR QATAR\nQatar is actively mediating between the US and Iran amid open-ended US military posture. [1]\nThe visit by Iran’s Araghchi signals continued diplomatic engagement between Qatar and Iran. [2]\n\nWATCH ITEMS\nThe outcome of Iran’s Araghchi visit to Qatar may influence broader diplomatic efforts before the UN General Assembly. [2]",
+      "generatedAt": "2026-09-21T04:59:32.481Z",
+      "sources": [
+        {
+          "title": "Live - US leaves Iran war open-ended as Qatar pushes to revive talks - Iran International",
+          "source": "Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
+          "publishedAt": "2026-09-19T05:12:16.000Z"
+        },
+        {
+          "title": "Iran’s Araghchi to visit Qatar for talks before UN General Assembly - Al Arabiya English",
+          "source": "Al Arabiya",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3Y5Q0VWbHMwTmZHVGZJck5kcC1SdVFGQklnNjVzZEtmZmdjLXJJTkd1d3dsaC13ZGU0bTViTllNUjdvZ2UtcnR3NHJVRkItZWl1YlR3enF6MEE5R0FxT09UaG9Nd2xjUzc1WUo0UVR4OENPY3pXTUk0dWlOOEVld0pNVmZWR0phQXVud1ZFTC10OXRCVWVRTVMydUYzRDQ1MjN6VXJoaDZlVHUxTUZoZHcyT2stZE5rMEFsOHhuX1gzXzDSAcgBQVVfeXFMT3RFZU1jS25HVmd1b0tzLVhBSGFkRExJaEhfbTBjTktxWEhudklNa183d2FBaTB4S1l6V29oTllleHhmV2lYNVQ2OVpwY2c5eVF2WFFmSTVhSDdoSmVDWkxDUUt1LW5PQ1FpLXB1cWZvUUhaN0lFV1hLX1p6UEYwSDEtNXVNcVJoSTd3RDltZHNjWXJGc21nVGxfXzJ3TXJfVDlpSVc1UGtfT3FaMERxeFp4OUJTT05UaFBsX08tNUpqdkZjZDFWWnY?oc=5",
+          "publishedAt": "2026-09-20T20:12:00.000Z"
+        },
+        {
+          "title": "Qatar Energy Chief Says Bessent ‘Wrong’ About Hormuz Future",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/qatar-energy-chief-says-bessent-wrong-about-hormuz-future/",
+          "publishedAt": "2026-09-20T22:39:11.000Z"
+        },
+        {
+          "title": "World’s best airlines 2026 revealed: Qatar Airways No.2, Emirates No.6, Saudia No.15 - Arabian Business",
+          "source": "Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTZhdTdaVTlhR0xhS0xUeURkdEZSd2pKU0hhS2VwOHBQM1NqNnhuMjZWazJIWTRLdkQxS2Nuc3U4QnFwX1lHMm9WQlk2b1JEdFU4Mm1fdWxGams1bVdVVkFiN0FPR19BY3h6ejYwbGNQNFZGTTJPeEZlUkh2Mm8zSlFR?oc=5",
+          "publishedAt": "2026-09-18T19:36:21.000Z"
+        },
+        {
+          "title": "Qatar PM urges Gulf security framework with Iran",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+          "publishedAt": "2026-09-20T21:00:15.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

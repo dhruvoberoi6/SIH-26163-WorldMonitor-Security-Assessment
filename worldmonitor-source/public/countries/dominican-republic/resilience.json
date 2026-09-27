@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DO",
+  "countryName": "Dominican Republic",
+  "slug": "dominican-republic",
+  "rank": 95,
+  "overallScore": 51.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "The Caribbean's First \"Airport Wellness Center\" Just Opened in the Dominican Republic",
+        "source": "caribjournal.com",
+        "url": "https://www.caribjournal.com/2026/09/20/dominican-republic-airport-wellness/",
+        "publishedAt": "2026-09-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "This Dominican Republic Resort Has Private-Pool Suites, Beachfront Rooms — and Two MICHELIN Keys",
+        "source": "caribjournal.com",
+        "url": "https://www.caribjournal.com/2026/09/18/eden-roc-cap-cana-michelin/",
+        "publishedAt": "2026-09-18T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Investing in Dominican Republic as a Foreigner 2026 Guide",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/investing-dominican-republic-foreigners-2026/",
+        "publishedAt": "2026-09-18T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "1 killed, 1,700 evacuated in Dominican Republic hotel fire",
+        "source": "bdnews24.com",
+        "url": "https://bdnews24.com/travelandtourism/4afdfdd0f2ac",
+        "publishedAt": "2026-09-17T11:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Dominican Republic vs Nicaragua on September 24: Concacaf Nations League at Estadio Cibao FC in Santiago",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/dominican-republic-nicaragua-nations-league-september-24-2026/",
+        "publishedAt": "2026-09-16T15:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

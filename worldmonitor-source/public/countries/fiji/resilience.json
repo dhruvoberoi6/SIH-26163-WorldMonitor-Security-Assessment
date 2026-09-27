@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FJ",
+  "countryName": "Fiji",
+  "slug": "fiji",
+  "rank": 66,
+  "overallScore": 55.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "FMF IDC 2026 pools drawn as Fiji's top districts prepare for battle",
+        "source": "fijivillage.com",
+        "url": "https://www.fijivillage.com/news/fmf-idc-2026-pools-drawn-as-fiji-s-top-districts-prepare-for-battle-03d1a5/",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Business.Scoop » South Pacific Defence Ministers' Meeting In Fiji",
+        "source": "scoop.co.nz",
+        "url": "https://business.scoop.co.nz/2026/09/21/south-pacific-defence-ministers-meeting-in-fiji/",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Major facelift planned for Hilton Fiji",
+        "source": "fijisun.com.fj",
+        "url": "https://fijisun.com.fj/news/tourism/major-facelift-planned-for-hilton-fiji",
+        "publishedAt": "2026-09-21T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Constitution timeline could put Fiji election at risk: GCC member Ro Naulu Mataitini",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2026/09/21/constitution-timeline-could-put-fiji-election-at-risk-gcc-member-ro-naulu-mataitini/",
+        "publishedAt": "2026-09-20T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Fiji civil society warns about government rushing constitutional change",
+        "source": "rnz.co.nz",
+        "url": "https://www.rnz.co.nz/news/pacific/1488620/fiji-civil-society-warns-about-government-rushing-constitutional-change",
+        "publishedAt": "2026-09-20T23:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

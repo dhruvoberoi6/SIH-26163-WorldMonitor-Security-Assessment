@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CI",
+  "countryName": "Côte d’Ivoire",
+  "slug": "cote-d-ivoire",
+  "rank": 134,
+  "overallScore": 43.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Déguerpissements en Côte d’Ivoire : le gouverneur d’Abidjan, Ibrahim Cissé Bacongo, fragilisé",
+        "source": "Jeune Afrique",
+        "url": "https://www.jeuneafrique.com/1844284/politique/deguerpissements-en-cote-divoire-le-gouverneur-dabidjan-ibrahim-cisse-bacongo-fragilise/",
+        "publishedAt": "2026-09-18T11:01:08.000Z"
+      },
+      {
+        "title": "EXMAR To Provide A Floating LNG Import Solution To Côte D'ivoire | Hellenic Shipping News Worldwide",
+        "source": "hellenicshippingnews.com",
+        "url": "https://www.hellenicshippingnews.com/exmar-to-provide-a-floating-lng-import-solution-to-cote-divoire/",
+        "publishedAt": "2026-09-17T21:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cote d'Ivoire: Petrobras signs production sharing contracts for eight offshore exploration blocks located in the Republic of Côte d'Ivoire.",
+        "source": "energy-pedia.com",
+        "url": "https://www.energy-pedia.com/news/cote-divoire/petrobras-signs-production-sharing-contracts-for-eight-offshore-exploration-blocks-located-in-the-republic-of-c%C3%B4te-divoire--205349",
+        "publishedAt": "2026-09-17T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "This designer in Côte d'Ivoire is tailor-made to suit dignitaries",
+        "source": "csmonitor.com",
+        "url": "https://www.csmonitor.com/World/2026/0917/patheo-cote-divoire-fashion-designer",
+        "publishedAt": "2026-09-17T14:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cote d'Ivoire/Nigeria: Flamingos Land in Abidjan for Wafu-B U-17 Tourney",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609160423.html",
+        "publishedAt": "2026-09-16T17:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEXMAR will provide a floating LNG import solution to Côte d'Ivoire. [2]\n\nWHAT THIS MEANS FOR CÔTE D’IVOIRE\nPetrobras has signed production sharing contracts for eight offshore exploration blocks located in the Republic of Côte d'Ivoire. [3]",
+      "generatedAt": "2026-09-21T04:54:55.374Z",
+      "sources": [
+        {
+          "title": "Déguerpissements en Côte d’Ivoire : le gouverneur d’Abidjan, Ibrahim Cissé Bacongo, fragilisé",
+          "source": "Jeune Afrique",
+          "url": "https://www.jeuneafrique.com/1844284/politique/deguerpissements-en-cote-divoire-le-gouverneur-dabidjan-ibrahim-cisse-bacongo-fragilise/",
+          "publishedAt": "2026-09-18T11:01:08.000Z"
+        },
+        {
+          "title": "EXMAR To Provide A Floating LNG Import Solution To Côte D'ivoire | Hellenic Shipping News Worldwide",
+          "source": "hellenicshippingnews.com",
+          "url": "https://www.hellenicshippingnews.com/exmar-to-provide-a-floating-lng-import-solution-to-cote-divoire/",
+          "publishedAt": "2026-09-17T21:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cote d'Ivoire: Petrobras signs production sharing contracts for eight offshore exploration blocks located in the Republic of Côte d'Ivoire.",
+          "source": "energy-pedia.com",
+          "url": "https://www.energy-pedia.com/news/cote-divoire/petrobras-signs-production-sharing-contracts-for-eight-offshore-exploration-blocks-located-in-the-republic-of-c%C3%B4te-divoire--205349",
+          "publishedAt": "2026-09-17T17:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "This designer in Côte d'Ivoire is tailor-made to suit dignitaries",
+          "source": "csmonitor.com",
+          "url": "https://www.csmonitor.com/World/2026/0917/patheo-cote-divoire-fashion-designer",
+          "publishedAt": "2026-09-17T14:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Cote d'Ivoire/Nigeria: Flamingos Land in Abidjan for Wafu-B U-17 Tourney",
+          "source": "allafrica.com",
+          "url": "https://allafrica.com/stories/202609160423.html",
+          "publishedAt": "2026-09-16T17:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

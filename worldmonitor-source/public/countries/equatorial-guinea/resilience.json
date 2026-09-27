@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GQ",
+  "countryName": "Equatorial Guinea",
+  "slug": "equatorial-guinea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.58,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+        "publishedAt": "2026-09-18T23:08:49.000Z"
+      },
+      {
+        "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+        "source": "kpax.com",
+        "url": "https://www.kpax.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+        "publishedAt": "2026-09-19T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+        "source": "kztv10.com",
+        "url": "https://www.kztv10.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+        "publishedAt": "2026-09-19T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+        "source": "wcpo.com",
+        "url": "https://www.wcpo.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+        "publishedAt": "2026-09-19T20:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+        "source": "ksby.com",
+        "url": "https://www.ksby.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+        "publishedAt": "2026-09-19T19:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe lawyers say men deported from the US were bound and beaten in an Equatorial Guinea detention hotel. [1]\nThe lawyers say Equatorial Guinea police beat men deported by the United States. [2]\n\nWATCH ITEMS\nThe lawyers say men deported from the US were bound and beaten in an Equatorial Guinea detention hotel. [1]\nThe lawyers say Equatorial Guinea police beat men deported by the United States. [2]",
+      "generatedAt": "2026-09-21T04:56:28.822Z",
+      "sources": [
+        {
+          "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+          "publishedAt": "2026-09-18T23:08:49.000Z"
+        },
+        {
+          "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+          "source": "kpax.com",
+          "url": "https://www.kpax.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+          "publishedAt": "2026-09-19T20:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+          "source": "kztv10.com",
+          "url": "https://www.kztv10.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+          "publishedAt": "2026-09-19T20:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+          "source": "wcpo.com",
+          "url": "https://www.wcpo.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+          "publishedAt": "2026-09-19T20:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Lawyers say Equatorial Guinea police beat men deported by United States",
+          "source": "ksby.com",
+          "url": "https://www.ksby.com/us-news/lawyers-say-equatorial-guinea-police-beat-men-deported-by-united-states",
+          "publishedAt": "2026-09-19T19:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

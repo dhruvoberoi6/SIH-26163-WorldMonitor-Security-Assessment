@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CF",
+  "countryName": "Central African Republic",
+  "slug": "central-african-republic",
+  "rank": 158,
+  "overallScore": 37.8,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Central African Republic Mining Deals Draw Nigeria, Canada",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/car-bangui-mining-montage-cvmr-uranium-licences/",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Central African Republic Economy Grows 3.3% in 2025",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/central-african-republic-economy-recovery-afdb-2026/",
+        "publishedAt": "2026-09-19T17:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

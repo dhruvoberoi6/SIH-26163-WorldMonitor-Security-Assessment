@@ -1,0 +1,57 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LB",
+  "countryName": "Lebanon",
+  "slug": "lebanon",
+  "rank": 127,
+  "overallScore": 45,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Lebanon slams 'barbaric' act after Israel burns Mays al-Jabal hospital",
+        "source": "Naharnet Lebanon",
+        "url": "https://www.naharnet.com/stories/en/322590-lebanon-slams-barbaric-act-after-israel-burns-mays-al-jabal-hospital",
+        "publishedAt": "2026-09-19T09:00:35.000Z"
+      },
+      {
+        "title": "Lebanon reportedly proposes int'l observation post in Ali al-Taher",
+        "source": "Naharnet Lebanon",
+        "url": "https://www.naharnet.com/stories/en/322586-lebanon-reportedly-proposes-int-l-observation-post-in-ali-al-taher",
+        "publishedAt": "2026-09-18T13:42:24.000Z"
+      },
+      {
+        "title": "Issa reaffirms US support for Lebanon sovereignty, framework agreement",
+        "source": "Naharnet Lebanon",
+        "url": "https://www.naharnet.com/stories/en/322572-issa-reaffirms-us-support-for-lebanon-sovereignty-framework-agreement",
+        "publishedAt": "2026-09-18T11:37:59.000Z"
+      },
+      {
+        "title": "Macron says Lebanese army 'indispensable' for stability",
+        "source": "Naharnet Lebanon",
+        "url": "https://www.naharnet.com/stories/en/322570-macron-says-lebanese-army-indispensable-for-stability",
+        "publishedAt": "2026-09-18T09:45:24.000Z"
+      },
+      {
+        "title": "Israeli forces seize Deir Mimas post after standoff with Lebanese Army",
+        "source": "Naharnet Lebanon",
+        "url": "https://www.naharnet.com/stories/en/322569-israeli-forces-seize-deir-mimas-post-after-standoff-with-lebanese-army",
+        "publishedAt": "2026-09-18T09:40:01.000Z"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

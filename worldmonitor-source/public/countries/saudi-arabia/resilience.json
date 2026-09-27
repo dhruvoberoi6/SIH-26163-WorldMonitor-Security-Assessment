@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SA",
+  "countryName": "Saudi Arabia",
+  "slug": "saudi-arabia",
+  "rank": 32,
+  "overallScore": 61.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "source": "BBC Middle East",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-19T23:49:26.000Z"
+      },
+      {
+        "title": "Oil falls as crude flows remain 'surprisingly strong'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+        "publishedAt": "2026-09-21T02:14:21.000Z"
+      },
+      {
+        "title": "Arab countries condemn Houthi attack on Saudi capital - Arab News",
+        "source": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczc2VEpncW1GZ29DZHZJazFpMDRVV0VXMUtHZ3FGbngxQmdiYks3d3h1YXkwbF9yZE5DZ09ReHNZcXdwT3VhUWpfR2lTdGI1ZExuc1M4U3JoRlV6dWNhY2xkbHU0UWJmOUhEUk5wcXF5emFSNTBBOFZtOUQtOGJmWEU0QXA1Z2ZtSWVfUG5zdzdWalhNdzVVbXZmNG5udFZ2?oc=5",
+        "publishedAt": "2026-09-21T03:39:05.000Z"
+      },
+      {
+        "title": "PIF Launches Tawrid Digital Platform for Supply-Chain Financing in Saudi Arabia - News and Statistics - IndexBox",
+        "source": "Trade Routes",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzhWaF9rSU5BS0VNM1J0Ump1eVl1cW5WVUhfSEhVRE5KZXQydGJtUWJnbnJZRHJkb21rMjU3ZVVHd0JsclpHWFl2T2pVQ0tiN2x1TjQteVRPM2d1YzV0WjYxN2owZDZCVUJ5M2EwUXIxZ1VhVlRKZW9pUEU4eWhaZGUtVzJqbUdNZjBRLWRacEw?oc=5",
+        "publishedAt": "2026-09-20T14:21:09.000Z"
+      },
+      {
+        "title": "Iran and Trump exchange fresh warnings as Saudi-Houthi conflict escalates ahead of key UN gathering. Here’s what to know - CNN",
+        "source": "CNN World",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT3dkcFppT0RvcE9GaEZZaGVYbWRCZDlyc28wTHJvZmhtaVVvQ0Z1blFYaFNkOGZHcmZYRzl5WVkwSGZJTGV3Q1hWTzN3NDV5N3JtbkN0c1RuYkRpR1cwbEZSOHBwVXBrUkJaRFNTWmdneTBHQnJvRkM5RFhiczY1d3FMRUNqVFI1OHktT2ZZbGJVQmprejdZY2NXbFJSdw?oc=5",
+        "publishedAt": "2026-09-20T20:09:53.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Houthis said they targeted the Saudi capital with ballistic missiles. [1]\nArab countries condemned the Houthi attack on the Saudi capital. [3]\n\nWHAT THIS MEANS FOR SAUDI ARABIA\nThe Saudi-Houthi conflict is escalating ahead of a key UN gathering, with Iran and Trump exchanging fresh warnings. [5]",
+      "generatedAt": "2026-09-21T04:59:50.494Z",
+      "sources": [
+        {
+          "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+          "source": "BBC Middle East",
+          "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-19T23:49:26.000Z"
+        },
+        {
+          "title": "Oil falls as crude flows remain 'surprisingly strong'",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+          "publishedAt": "2026-09-21T02:14:21.000Z"
+        },
+        {
+          "title": "Arab countries condemn Houthi attack on Saudi capital - Arab News",
+          "source": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczc2VEpncW1GZ29DZHZJazFpMDRVV0VXMUtHZ3FGbngxQmdiYks3d3h1YXkwbF9yZE5DZ09ReHNZcXdwT3VhUWpfR2lTdGI1ZExuc1M4U3JoRlV6dWNhY2xkbHU0UWJmOUhEUk5wcXF5emFSNTBBOFZtOUQtOGJmWEU0QXA1Z2ZtSWVfUG5zdzdWalhNdzVVbXZmNG5udFZ2?oc=5",
+          "publishedAt": "2026-09-21T03:39:05.000Z"
+        },
+        {
+          "title": "PIF Launches Tawrid Digital Platform for Supply-Chain Financing in Saudi Arabia - News and Statistics - IndexBox",
+          "source": "Trade Routes",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVzhWaF9rSU5BS0VNM1J0Ump1eVl1cW5WVUhfSEhVRE5KZXQydGJtUWJnbnJZRHJkb21rMjU3ZVVHd0JsclpHWFl2T2pVQ0tiN2x1TjQteVRPM2d1YzV0WjYxN2owZDZCVUJ5M2EwUXIxZ1VhVlRKZW9pUEU4eWhaZGUtVzJqbUdNZjBRLWRacEw?oc=5",
+          "publishedAt": "2026-09-20T14:21:09.000Z"
+        },
+        {
+          "title": "Iran and Trump exchange fresh warnings as Saudi-Houthi conflict escalates ahead of key UN gathering. Here’s what to know - CNN",
+          "source": "CNN World",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT3dkcFppT0RvcE9GaEZZaGVYbWRCZDlyc28wTHJvZmhtaVVvQ0Z1blFYaFNkOGZHcmZYRzl5WVkwSGZJTGV3Q1hWTzN3NDV5N3JtbkN0c1RuYkRpR1cwbEZSOHBwVXBrUkJaRFNTWmdneTBHQnJvRkM5RFhiczY1d3FMRUNqVFI1OHktT2ZZbGJVQmprejdZY2NXbFJSdw?oc=5",
+          "publishedAt": "2026-09-20T20:09:53.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DM",
+  "countryName": "Dominica",
+  "slug": "dominica",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Consultant for Curriculum and Assessment Support - Government of Dominica Web Portal",
+        "source": "dominica.gov.dm",
+        "url": "https://dominica.gov.dm/notices/consultant-for-curriculum-and-assessment-support",
+        "publishedAt": "2026-09-16T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Technical Consultancy for the Assessment of the Impact of the Cuban Tree Frog (Osteopilus septentrionalis) and Common Green Iguana (Iguana iguana) on Biodiversity in Dominica",
+        "source": "dominica.gov.dm",
+        "url": "https://dominica.gov.dm/notices/technical-consultancy-for-the-assessment-of-the-impact-of-the-cuban-tree-frog-osteopilus-septentrionalis-and-common-green-iguana-iguana-iguana-on-biodiversity-in-dominica",
+        "publishedAt": "2026-09-16T18:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Kalinago Week 2026: Dominica's Indigenous Celebration",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/dominica-kalinago-week-closing-days-2026/",
+        "publishedAt": "2026-09-15T16:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

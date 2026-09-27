@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MZ",
+  "countryName": "Mozambique",
+  "slug": "mozambique",
+  "rank": 154,
+  "overallScore": 39.2,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Mozambique Counterterrorism Center Targets Root Of Problem",
+        "source": "eurasiareview.com",
+        "url": "https://www.eurasiareview.com/21092026-mozambique-counterterrorism-center-targets-root-of-problem/",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mozambique Seeks Brazil Oil and Gas Expertise",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/mozambique-brazil-oil-gas-expertise-2026/",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mozambique Gas Revenue Stays Small as Debt Nears 96%",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/mozambique-gas-revenue-debt-2027-2026/",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Young Warriors Face Tough Mozambique Test | Namib Times Newspaper",
+        "source": "namibtimes.net",
+        "url": "https://www.namibtimes.net/young-warriors-face-tough-mozambique-test/",
+        "publishedAt": "2026-09-20T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Taxpayers to bear cost of Mozambique electricity",
+        "source": "mwnation.com",
+        "url": "https://mwnation.com/taxpayers-to-bear-cost-of-mozambique-electricity/",
+        "publishedAt": "2026-09-20T08:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/21092026-mozambique-counterterrorism-center-targets-root-of-problem/",
+        "occurredAt": "2026-09-21T04:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Mozambique",
+        "summary": "source: mwnation.com",
+        "sourceUrl": "https://mwnation.com/police-rescue-kidnapped-british-national/",
+        "occurredAt": "2026-09-19T09:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Mozambique",
+        "summary": "source: mwnation.com",
+        "sourceUrl": "https://mwnation.com/police-rescue-kidnapped-british-national/",
+        "occurredAt": "2026-09-19T09:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Mozambique",
+        "summary": "source: mwnation.com",
+        "sourceUrl": "https://mwnation.com/police-rescue-kidnapped-british-national/",
+        "occurredAt": "2026-09-19T09:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Mozambique",
+        "summary": "source: mwnation.com",
+        "sourceUrl": "https://mwnation.com/police-rescue-kidnapped-british-national/",
+        "occurredAt": "2026-09-19T09:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609180041.html",
+        "occurredAt": "2026-09-18T06:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609180041.html",
+        "occurredAt": "2026-09-18T06:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609180041.html",
+        "occurredAt": "2026-09-18T06:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609180041.html",
+        "occurredAt": "2026-09-18T06:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Mozambique",
+        "summary": "source: allafrica.com",
+        "sourceUrl": "https://allafrica.com/stories/202609180041.html",
+        "occurredAt": "2026-09-18T06:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

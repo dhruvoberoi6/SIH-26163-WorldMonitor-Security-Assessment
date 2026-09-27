@@ -1,0 +1,165 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SY",
+  "countryName": "Syria",
+  "slug": "syria",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.54,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+        "publishedAt": "2026-09-21T01:30:46.000Z"
+      },
+      {
+        "title": "The week in pictures: Syria protests, Céline Dion on stage and Quito wildfires",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
+        "publishedAt": "2026-09-20T13:15:57.000Z"
+      },
+      {
+        "title": "US court sentences ex-Syrian official who ran notorious ‘punishment wing’ to 60 years",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
+        "publishedAt": "2026-09-18T00:37:22.000Z"
+      },
+      {
+        "title": "Security Council LIVE: Syria’s transition in the spotlight",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168355",
+        "publishedAt": "2026-09-17T12:00:00.000Z"
+      },
+      {
+        "title": "Arab News | Syria steps up efforts to return 2 million school dropouts to education",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/middle-east/syria-steps-up-efforts-to-return-2-million-school-dropouts-to-education-3002444",
+        "publishedAt": "2026-09-21T03:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPowerful explosions at a Syrian army site near Aleppo injured at least four people. [1]\nSyria is stepping up efforts to return 2 million school dropouts to education. [5]\n\nWHAT THIS MEANS FOR SYRIA\nSyria's transition is in the spotlight at the Security Council LIVE session. [4]\n\nKEY RISKS\nThe explosions at the Syrian army site near Aleppo indicate ongoing security risks in the region. [1]\n\nWATCH ITEMS\nThe situation of the injured from the explosions near Aleppo and the investigation into the incident remain unresolved. [1]\nThe progress of Syria's efforts to reintegrate 2 million school dropouts is to be monitored. [5]",
+      "generatedAt": "2026-09-21T05:00:37.799Z",
+      "sources": [
+        {
+          "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+          "publishedAt": "2026-09-21T01:30:46.000Z"
+        },
+        {
+          "title": "The week in pictures: Syria protests, Céline Dion on stage and Quito wildfires",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260920-the-week-in-pictures-syria-protests-c%C3%A9line-dion-on-stage-and-quito-wildfires",
+          "publishedAt": "2026-09-20T13:15:57.000Z"
+        },
+        {
+          "title": "US court sentences ex-Syrian official who ran notorious ‘punishment wing’ to 60 years",
+          "source": "Guardian ME",
+          "url": "https://www.theguardian.com/us-news/2026/sep/17/court-sentence-ex-syrian-official",
+          "publishedAt": "2026-09-18T00:37:22.000Z"
+        },
+        {
+          "title": "Security Council LIVE: Syria’s transition in the spotlight",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168355",
+          "publishedAt": "2026-09-17T12:00:00.000Z"
+        },
+        {
+          "title": "Arab News | Syria steps up efforts to return 2 million school dropouts to education",
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/middle-east/syria-steps-up-efforts-to-return-2-million-school-dropouts-to-education-3002444",
+          "publishedAt": "2026-09-21T03:00:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 1821 — in Syria",
+        "summary": "source: www.chroniclelive.co.uk",
+        "sourceUrl": "https://www.chroniclelive.co.uk/news/north-east-news/newcastle-rapist-who-fled-syria-34639909",
+        "occurredAt": "2026-09-21T00:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Syria",
+        "summary": "source: tribune.com.pk",
+        "sourceUrl": "https://tribune.com.pk/story/2630402/israeli-forces-blow-up-former-regime-military-sites-in-southwestern-syria-shell-quneitra-countryside",
+        "occurredAt": "2026-09-20T22:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/israeli-forces-strike-former-assad-military-sites-on-mount-hermon-syrian-state-media-3002465",
+        "occurredAt": "2026-09-20T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/israeli-forces-strike-former-assad-military-sites-on-mount-hermon-syrian-state-media-3002465",
+        "occurredAt": "2026-09-20T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/israeli-forces-strike-former-assad-military-sites-on-mount-hermon-syrian-state-media-3002465",
+        "occurredAt": "2026-09-20T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/israeli-forces-strike-former-assad-military-sites-on-mount-hermon-syrian-state-media-3002465",
+        "occurredAt": "2026-09-20T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/israeli-forces-strike-former-assad-military-sites-on-mount-hermon-syrian-state-media-3002465",
+        "occurredAt": "2026-09-20T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Syria",
+        "summary": "source: www.arabnews.com",
+        "sourceUrl": "https://www.arabnews.com/middle-east/israeli-forces-strike-former-assad-military-sites-on-mount-hermon-syrian-state-media-3002465",
+        "occurredAt": "2026-09-20T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Syria",
+        "summary": "source: www.wbaltv.com",
+        "sourceUrl": "https://www.wbaltv.com/article/baltimore-weekend-shootings-sept-19-20-2026/73810980",
+        "occurredAt": "2026-09-20T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Syria",
+        "summary": "source: balochwarna.com",
+        "sourceUrl": "https://balochwarna.com/2026/09/balochistan-irans-foreign-proxies-harassing-baloch-families/",
+        "occurredAt": "2026-09-20T18:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

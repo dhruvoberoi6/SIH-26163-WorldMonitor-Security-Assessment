@@ -1,0 +1,163 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SS",
+  "countryName": "South Sudan",
+  "slug": "south-sudan",
+  "rank": 168,
+  "overallScore": 28.5,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Egypt says it agreed to South Sudan’s Fula dam",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
+        "publishedAt": "2026-09-21T00:50:00.000Z"
+      },
+      {
+        "title": "At least 26 killed, 82 injured in Sudan-South Sudan border violence",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/at-least-26-killed-82-injured-in-sudan-south-sudan-border-violence",
+        "publishedAt": "2026-09-18T14:04:37.000Z"
+      },
+      {
+        "title": "Sudan army accused of attacking South Sudan oil pipeline",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/sudan-army-accused-of-attacking-south-sudan-oil-pipeline",
+        "publishedAt": "2026-09-20T22:07:59.000Z"
+      },
+      {
+        "title": "CAF acting secretary general visits South Sudan",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/caf-acting-secretary-general-visits-south-sudan",
+        "publishedAt": "2026-09-19T09:30:12.000Z"
+      },
+      {
+        "title": "South Sudan says it is not afraid to build dams on Nile",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-says-it-is-not-afraid-to-build-dams-on-nile",
+        "publishedAt": "2026-09-19T07:50:48.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEgypt says it agreed to South Sudan's Fula dam. [1]\nAt least 26 killed, 82 injured in Sudan-South Sudan border violence. [2]\nSudan army accused of attacking South Sudan oil pipeline. [3]\nCAF acting secretary general visits South Sudan. [4]\nSouth Sudan says it is not afraid to build dams on Nile. [5]\n\nWHAT THIS MEANS FOR SOUTH SUDAN\nThe accusation of an attack on the oil pipeline indicates heightened tensions between Sudan and South Sudan. [3]\n\nKEY RISKS\nThe alleged attack on the oil pipeline threatens South Sudan's oil exports and economic stability. [3]\n\nWATCH ITEMS\nThe accusation of an attack on the oil pipeline and the border violence require continued observation for escalation. [2]",
+      "generatedAt": "2026-09-21T05:00:31.156Z",
+      "sources": [
+        {
+          "title": "Egypt says it agreed to South Sudan’s Fula dam",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/egypt-says-it-agreed-to-south-sudans-fula-dam",
+          "publishedAt": "2026-09-21T00:50:00.000Z"
+        },
+        {
+          "title": "At least 26 killed, 82 injured in Sudan-South Sudan border violence",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/at-least-26-killed-82-injured-in-sudan-south-sudan-border-violence",
+          "publishedAt": "2026-09-18T14:04:37.000Z"
+        },
+        {
+          "title": "Sudan army accused of attacking South Sudan oil pipeline",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/sudan-army-accused-of-attacking-south-sudan-oil-pipeline",
+          "publishedAt": "2026-09-20T22:07:59.000Z"
+        },
+        {
+          "title": "CAF acting secretary general visits South Sudan",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/caf-acting-secretary-general-visits-south-sudan",
+          "publishedAt": "2026-09-19T09:30:12.000Z"
+        },
+        {
+          "title": "South Sudan says it is not afraid to build dams on Nile",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/south-sudan-says-it-is-not-afraid-to-build-dams-on-nile",
+          "publishedAt": "2026-09-19T07:50:48.000Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: morningstaronline.co.uk",
+        "sourceUrl": "https://morningstaronline.co.uk/article/26-killed-clashes-sudan-south-sudan-border",
+        "occurredAt": "2026-09-18T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: morningstaronline.co.uk",
+        "sourceUrl": "https://morningstaronline.co.uk/article/26-killed-clashes-sudan-south-sudan-border",
+        "occurredAt": "2026-09-18T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: morningstaronline.co.uk",
+        "sourceUrl": "https://morningstaronline.co.uk/article/26-killed-clashes-sudan-south-sudan-border",
+        "occurredAt": "2026-09-18T20:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in South Sudan",
+        "summary": "source: www.eyeradio.org",
+        "sourceUrl": "https://www.eyeradio.org/article/3450-arrive-in-ibba-after-fleeing-ebola-fears-in-congo-officials",
+        "occurredAt": "2026-09-18T14:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in South Sudan",
+        "summary": "source: www.dailymail.com",
+        "sourceUrl": "https://www.dailymail.com/news/article-16141349/Teenager-South-Sudan-bought-165-migrants-UK-overcrowded-super-dinghy-jailed.html",
+        "occurredAt": "2026-09-18T13:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.aljazeera.com",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
+        "occurredAt": "2026-09-18T00:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.aljazeera.com",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
+        "occurredAt": "2026-09-18T00:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.aljazeera.com",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
+        "occurredAt": "2026-09-18T00:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.aljazeera.com",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
+        "occurredAt": "2026-09-18T00:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in South Sudan",
+        "summary": "source: www.aljazeera.com",
+        "sourceUrl": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
+        "occurredAt": "2026-09-18T00:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

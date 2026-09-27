@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LU",
+  "countryName": "Luxembourg",
+  "slug": "luxembourg",
+  "rank": 9,
+  "overallScore": 67.1,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Luxembourg’s only airport halted flights for hours after ‘unauthorized drones’ were detected overhead",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/news/2026/09/20/luxembourg-s-only-airport-halted-flights-for-hours-after-unauthorized-drones-were-detected-overhead",
+        "publishedAt": "2026-09-20T01:56:36.000Z"
+      },
+      {
+        "title": "Dronelukning af lufthavnen i Luxembourg efterforskes",
+        "source": "DR Nyheder",
+        "url": "https://www.dr.dk/nyheder/seneste/dronelukning-af-lufthavnen-i-luxembourg-efterforskes",
+        "publishedAt": "2026-09-19T14:51:35.000Z"
+      },
+      {
+        "title": "British & Irish Film Festival Luxembourg Opens to Full House on High Note",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/culture/63493-british-irish-film-festival-luxembourg-opens-to-full-house-on-high-note",
+        "publishedAt": "2026-09-20T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "British & Irish Film Festival Luxembourg Opens to Full House on High Note",
+        "source": "chronicle.lu",
+        "url": "https://www.chronicle.lu/category/film-festivals/63493-british-irish-film-festival-luxembourg-opens-to-full-house-on-high-note",
+        "publishedAt": "2026-09-20T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Mystery drones temporarily paralyse Luxembourg airport",
+        "source": "theadvocate.com.au",
+        "url": "https://www.theadvocate.com.au/story/9353525/mystery-drones-temporarily-paralyse-luxembourg-airport/",
+        "publishedAt": "2026-09-19T20:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nLuxembourg’s only airport halted flights for hours after ‘unauthorized drones’ were detected overhead. [1]\nMystery drones temporarily paralysed Luxembourg airport. [5]\n\nWHAT THIS MEANS FOR LUXEMBOURG\nThe closure of Luxembourg airport due to unauthorized drones is under investigation. [2]\n\nWATCH ITEMS\nThe investigation into the drone-related closure of Luxembourg airport continues. [2]",
+      "generatedAt": "2026-09-21T04:58:07.173Z",
+      "sources": [
+        {
+          "title": "Luxembourg’s only airport halted flights for hours after ‘unauthorized drones’ were detected overhead",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/news/2026/09/20/luxembourg-s-only-airport-halted-flights-for-hours-after-unauthorized-drones-were-detected-overhead",
+          "publishedAt": "2026-09-20T01:56:36.000Z"
+        },
+        {
+          "title": "Dronelukning af lufthavnen i Luxembourg efterforskes",
+          "source": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/seneste/dronelukning-af-lufthavnen-i-luxembourg-efterforskes",
+          "publishedAt": "2026-09-19T14:51:35.000Z"
+        },
+        {
+          "title": "British & Irish Film Festival Luxembourg Opens to Full House on High Note",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/culture/63493-british-irish-film-festival-luxembourg-opens-to-full-house-on-high-note",
+          "publishedAt": "2026-09-20T13:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "British & Irish Film Festival Luxembourg Opens to Full House on High Note",
+          "source": "chronicle.lu",
+          "url": "https://www.chronicle.lu/category/film-festivals/63493-british-irish-film-festival-luxembourg-opens-to-full-house-on-high-note",
+          "publishedAt": "2026-09-20T13:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Mystery drones temporarily paralyse Luxembourg airport",
+          "source": "theadvocate.com.au",
+          "url": "https://www.theadvocate.com.au/story/9353525/mystery-drones-temporarily-paralyse-luxembourg-airport/",
+          "publishedAt": "2026-09-19T20:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

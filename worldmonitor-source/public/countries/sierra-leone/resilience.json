@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SL",
+  "countryName": "Sierra Leone",
+  "slug": "sierra-leone",
+  "rank": 131,
+  "overallScore": 44.2,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "The returning son and the APC's second wilderness – The Sierra Leone Telegraph",
+        "source": "thesierraleonetelegraph.com",
+        "url": "https://www.thesierraleonetelegraph.com/the-returning-son-and-the-apcs-second-wilderness/",
+        "publishedAt": "2026-09-20T12:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sierra Leone Critical Minerals Strategy to 2031",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/sierra-leone-critical-minerals-processing-2026-2/",
+        "publishedAt": "2026-09-20T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sierra Leone infrastructure development needs new focus and leadership",
+        "source": "thesierraleonetelegraph.com",
+        "url": "https://www.thesierraleonetelegraph.com/sierra-leone-infrastructure-development-needs-new-focus-and-leadership/",
+        "publishedAt": "2026-09-16T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sierra Leone and the unfinished work of nationhood – op ed",
+        "source": "thesierraleonetelegraph.com",
+        "url": "https://www.thesierraleonetelegraph.com/sierra-leone-and-the-unfinished-work-of-nationhood-op-ed/",
+        "publishedAt": "2026-09-16T13:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sierra Leone's President Bio, Section 122 and the Constitutional Amendment Bill — what does the constitution actually say? Op ed – The Sierra Leone Telegraph",
+        "source": "thesierraleonetelegraph.com",
+        "url": "https://www.thesierraleonetelegraph.com/sierra-leones-president-bio-section-122-and-the-constitutional-amendment-bill-what-does-the-constitution-actually-say-op-ed/",
+        "publishedAt": "2026-09-16T13:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

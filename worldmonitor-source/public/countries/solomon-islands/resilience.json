@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SB",
+  "countryName": "Solomon Islands",
+  "slug": "solomon-islands",
+  "rank": 52,
+  "overallScore": 58.3,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Today in Solomon Islands - weather, tides, exchange rates, flights, earthquakes",
+        "source": "solomontimes.com",
+        "url": "https://www.solomontimes.com/today",
+        "publishedAt": "2026-09-20T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Japan to assist Solomon Islands to hold fair elections",
+        "source": "aa.com.tr",
+        "url": "https://aa.com.tr/en/asia-pacific/japan-to-assist-solomon-islands-to-hold-fair-elections/4062361",
+        "publishedAt": "2026-09-20T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Solomon Islands PM warns about nuclear pollution in Pacific by AUKUS",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2021/09/30/solomon-islands-pm-warns-about-nuclear-pollution-in-pacific-by-aukus/",
+        "publishedAt": "2026-09-18T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Discovering Lost WWII Battlefield In Solomon Islands",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/discovering-lost-wwii-battlefield-in-solomon-1746950/",
+        "publishedAt": "2026-09-18T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Solomon Islands PM Wale unveils GREAT's climate action plan at regional climate conference in Honiara",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2026/09/16/solomon-islands-pm-wale-unveils-greats-climate-action-plan-at-regional-climate-conference-in-honiara/",
+        "publishedAt": "2026-09-16T05:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

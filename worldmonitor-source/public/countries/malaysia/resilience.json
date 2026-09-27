@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MY",
+  "countryName": "Malaysia",
+  "slug": "malaysia",
+  "rank": 61,
+  "overallScore": 56.6,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Why Malaysia Won’t Extradite Dr. Zakir Naik to India",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/why-malaysia-wont-extradite-dr-zakir-naik-to-india/",
+        "publishedAt": "2026-09-18T05:28:00.000Z"
+      },
+      {
+        "title": "Malaysia records unhealthy air quality in 19 areas, mostly in Sarawak",
+        "source": "asiaone.com",
+        "url": "https://www.asiaone.com/malaysia/malaysia-air-quality-api-unhealthy-19-areas",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Unity, East Malaysia style: it's all in the language, bah",
+        "source": "freemalaysiatoday.com",
+        "url": "https://www.freemalaysiatoday.com/category/opinion/2026/09/21/unity-east-malaysia-style-it-s-all-in-the-language-bah",
+        "publishedAt": "2026-09-21T02:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Malaysia's Phytogaia sets up grant to support local palm phytonutrient studies",
+        "source": "nutraingredients.com",
+        "url": "https://www.nutraingredients.com/Article/2026/09/21/malaysias-phytogaia-sets-up-grant-to-support-local-palm-phytonutrient-studies/",
+        "publishedAt": "2026-09-21T02:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "House arrest for ex-PM Najib could hurt Malaysia's anti-graft credibility, says Transparency International – Asia News Network",
+        "source": "asianews.network",
+        "url": "https://asianews.network/house-arrest-for-ex-pm-najib-could-hurt-malaysias-anti-graft-credibility-says-transparency-international/",
+        "publishedAt": "2026-09-21T02:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe article explains why Malaysia will not extradite Dr. Zakir Naik to India. [1]\nMalaysia records unhealthy air quality in 19 areas, mostly in Sarawak. [2]\n\nWHAT THIS MEANS FOR MALAYSIA\nHouse arrest for ex-PM Najib could hurt Malaysia's anti-graft credibility, says Transparency International. [5]",
+      "generatedAt": "2026-09-21T04:58:45.553Z",
+      "sources": [
+        {
+          "title": "Why Malaysia Won’t Extradite Dr. Zakir Naik to India",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/why-malaysia-wont-extradite-dr-zakir-naik-to-india/",
+          "publishedAt": "2026-09-18T05:28:00.000Z"
+        },
+        {
+          "title": "Malaysia records unhealthy air quality in 19 areas, mostly in Sarawak",
+          "source": "asiaone.com",
+          "url": "https://www.asiaone.com/malaysia/malaysia-air-quality-api-unhealthy-19-areas",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Unity, East Malaysia style: it's all in the language, bah",
+          "source": "freemalaysiatoday.com",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/09/21/unity-east-malaysia-style-it-s-all-in-the-language-bah",
+          "publishedAt": "2026-09-21T02:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Malaysia's Phytogaia sets up grant to support local palm phytonutrient studies",
+          "source": "nutraingredients.com",
+          "url": "https://www.nutraingredients.com/Article/2026/09/21/malaysias-phytogaia-sets-up-grant-to-support-local-palm-phytonutrient-studies/",
+          "publishedAt": "2026-09-21T02:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "House arrest for ex-PM Najib could hurt Malaysia's anti-graft credibility, says Transparency International – Asia News Network",
+          "source": "asianews.network",
+          "url": "https://asianews.network/house-arrest-for-ex-pm-najib-could-hurt-malaysias-anti-graft-credibility-says-transparency-international/",
+          "publishedAt": "2026-09-21T02:00:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,1968 @@
+{
+  "dataset": "country-resilience-ranking",
+  "capturedAt": "2026-08-29",
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "countries": [
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "hasDevelopments": true,
+      "rank": 1,
+      "overallScore": 76.8,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "hasDevelopments": true,
+      "rank": 2,
+      "overallScore": 75.4,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "hasDevelopments": true,
+      "rank": 3,
+      "overallScore": 74.6,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "hasDevelopments": true,
+      "rank": 4,
+      "overallScore": 72.5,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "hasDevelopments": true,
+      "rank": 5,
+      "overallScore": 71.3,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "hasDevelopments": true,
+      "rank": 6,
+      "overallScore": 68.8,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "hasDevelopments": true,
+      "rank": 7,
+      "overallScore": 68.8,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "hasDevelopments": true,
+      "rank": 8,
+      "overallScore": 67.4,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "hasDevelopments": true,
+      "rank": 9,
+      "overallScore": 67.1,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "hasDevelopments": true,
+      "rank": 10,
+      "overallScore": 66.9,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "hasDevelopments": true,
+      "rank": 11,
+      "overallScore": 66.5,
+      "dimensionCoverage": 0.74,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "hasDevelopments": true,
+      "rank": 12,
+      "overallScore": 65.6,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "hasDevelopments": true,
+      "rank": 13,
+      "overallScore": 65.3,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "hasDevelopments": true,
+      "rank": 14,
+      "overallScore": 64.9,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "hasDevelopments": true,
+      "rank": 15,
+      "overallScore": 64.6,
+      "dimensionCoverage": 0.74,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "hasDevelopments": true,
+      "rank": 16,
+      "overallScore": 64.3,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "hasDevelopments": true,
+      "rank": 17,
+      "overallScore": 64.3,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "hasDevelopments": true,
+      "rank": 18,
+      "overallScore": 64.2,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "hasDevelopments": true,
+      "rank": 19,
+      "overallScore": 64.1,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "hasDevelopments": true,
+      "rank": 20,
+      "overallScore": 64,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "hasDevelopments": true,
+      "rank": 21,
+      "overallScore": 63.9,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "hasDevelopments": true,
+      "rank": 22,
+      "overallScore": 63.5,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "hasDevelopments": true,
+      "rank": 23,
+      "overallScore": 63.4,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "hasDevelopments": true,
+      "rank": 24,
+      "overallScore": 63.2,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "hasDevelopments": true,
+      "rank": 25,
+      "overallScore": 62.8,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "hasDevelopments": true,
+      "rank": 26,
+      "overallScore": 62.6,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "hasDevelopments": true,
+      "rank": 27,
+      "overallScore": 62.5,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "hasDevelopments": true,
+      "rank": 28,
+      "overallScore": 62.3,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "hasDevelopments": true,
+      "rank": 29,
+      "overallScore": 61.9,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "hasDevelopments": true,
+      "rank": 30,
+      "overallScore": 61.7,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "hasDevelopments": true,
+      "rank": 31,
+      "overallScore": 61.7,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "hasDevelopments": true,
+      "rank": 32,
+      "overallScore": 61.6,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "hasDevelopments": true,
+      "rank": 33,
+      "overallScore": 61.6,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "hasDevelopments": true,
+      "rank": 34,
+      "overallScore": 61.6,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "hasDevelopments": true,
+      "rank": 35,
+      "overallScore": 61.2,
+      "dimensionCoverage": 0.66,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "hasDevelopments": true,
+      "rank": 36,
+      "overallScore": 61.2,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "hasDevelopments": true,
+      "rank": 37,
+      "overallScore": 61.2,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "hasDevelopments": true,
+      "rank": 38,
+      "overallScore": 60.6,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "hasDevelopments": true,
+      "rank": 39,
+      "overallScore": 60.6,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "hasDevelopments": true,
+      "rank": 40,
+      "overallScore": 60.5,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "hasDevelopments": true,
+      "rank": 41,
+      "overallScore": 60.4,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "hasDevelopments": true,
+      "rank": 42,
+      "overallScore": 60.4,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "hasDevelopments": true,
+      "rank": 43,
+      "overallScore": 60.3,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "high"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "hasDevelopments": true,
+      "rank": 44,
+      "overallScore": 60,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "hasDevelopments": true,
+      "rank": 45,
+      "overallScore": 59.6,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "hasDevelopments": true,
+      "rank": 46,
+      "overallScore": 59.5,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "hasDevelopments": true,
+      "rank": 47,
+      "overallScore": 59.4,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "hasDevelopments": true,
+      "rank": 48,
+      "overallScore": 59.2,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "hasDevelopments": true,
+      "rank": 49,
+      "overallScore": 58.9,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "hasDevelopments": true,
+      "rank": 50,
+      "overallScore": 58.8,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "hasDevelopments": true,
+      "rank": 51,
+      "overallScore": 58.7,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "hasDevelopments": true,
+      "rank": 52,
+      "overallScore": 58.3,
+      "dimensionCoverage": 0.71,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "hasDevelopments": true,
+      "rank": 53,
+      "overallScore": 57.7,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "hasDevelopments": true,
+      "rank": 54,
+      "overallScore": 57.5,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "hasDevelopments": true,
+      "rank": 55,
+      "overallScore": 57.4,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "hasDevelopments": true,
+      "rank": 56,
+      "overallScore": 57.4,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "hasDevelopments": true,
+      "rank": 57,
+      "overallScore": 57.4,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "hasDevelopments": true,
+      "rank": 58,
+      "overallScore": 57.3,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "hasDevelopments": true,
+      "rank": 59,
+      "overallScore": 56.8,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "hasDevelopments": true,
+      "rank": 60,
+      "overallScore": 56.7,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "hasDevelopments": true,
+      "rank": 61,
+      "overallScore": 56.6,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "hasDevelopments": true,
+      "rank": 62,
+      "overallScore": 56.6,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "hasDevelopments": true,
+      "rank": 63,
+      "overallScore": 56.5,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "hasDevelopments": true,
+      "rank": 64,
+      "overallScore": 56.4,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "hasDevelopments": true,
+      "rank": 65,
+      "overallScore": 56.2,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "hasDevelopments": true,
+      "rank": 66,
+      "overallScore": 55.9,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "hasDevelopments": true,
+      "rank": 67,
+      "overallScore": 55.9,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "hasDevelopments": true,
+      "rank": 68,
+      "overallScore": 55.8,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "hasDevelopments": true,
+      "rank": 69,
+      "overallScore": 55.6,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "hasDevelopments": true,
+      "rank": 70,
+      "overallScore": 55.3,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "hasDevelopments": true,
+      "rank": 71,
+      "overallScore": 55.3,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "hasDevelopments": true,
+      "rank": 72,
+      "overallScore": 55.2,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "hasDevelopments": true,
+      "rank": 73,
+      "overallScore": 55.2,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "hasDevelopments": true,
+      "rank": 74,
+      "overallScore": 55.2,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "hasDevelopments": true,
+      "rank": 75,
+      "overallScore": 54.6,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "hasDevelopments": true,
+      "rank": 76,
+      "overallScore": 54.5,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "hasDevelopments": true,
+      "rank": 77,
+      "overallScore": 54.5,
+      "dimensionCoverage": 0.74,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "hasDevelopments": true,
+      "rank": 78,
+      "overallScore": 54.2,
+      "dimensionCoverage": 0.7,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "hasDevelopments": true,
+      "rank": 79,
+      "overallScore": 54.1,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "hasDevelopments": true,
+      "rank": 80,
+      "overallScore": 54.1,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "hasDevelopments": true,
+      "rank": 81,
+      "overallScore": 54.1,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "hasDevelopments": true,
+      "rank": 82,
+      "overallScore": 54,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CV",
+      "name": "Cape Verde",
+      "hasDevelopments": true,
+      "rank": 83,
+      "overallScore": 54,
+      "dimensionCoverage": 0.84,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "hasDevelopments": true,
+      "rank": 84,
+      "overallScore": 53.9,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "ST",
+      "name": "São Tomé and Príncipe",
+      "hasDevelopments": false,
+      "rank": 85,
+      "overallScore": 53.7,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "hasDevelopments": true,
+      "rank": 86,
+      "overallScore": 53.5,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "hasDevelopments": true,
+      "rank": 87,
+      "overallScore": 53.5,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "hasDevelopments": true,
+      "rank": 88,
+      "overallScore": 52.9,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "hasDevelopments": true,
+      "rank": 89,
+      "overallScore": 52.6,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "hasDevelopments": true,
+      "rank": 90,
+      "overallScore": 52.6,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "hasDevelopments": true,
+      "rank": 91,
+      "overallScore": 52.3,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "hasDevelopments": true,
+      "rank": 92,
+      "overallScore": 52,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "hasDevelopments": true,
+      "rank": 93,
+      "overallScore": 51.9,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "hasDevelopments": true,
+      "rank": 94,
+      "overallScore": 51.9,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "hasDevelopments": true,
+      "rank": 95,
+      "overallScore": 51.9,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "hasDevelopments": true,
+      "rank": 96,
+      "overallScore": 51.7,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "hasDevelopments": true,
+      "rank": 97,
+      "overallScore": 51.7,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "hasDevelopments": true,
+      "rank": 98,
+      "overallScore": 51.6,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "hasDevelopments": true,
+      "rank": 99,
+      "overallScore": 51.5,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "hasDevelopments": true,
+      "rank": 100,
+      "overallScore": 50.8,
+      "dimensionCoverage": 0.8,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "hasDevelopments": true,
+      "rank": 101,
+      "overallScore": 50.8,
+      "dimensionCoverage": 0.84,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "hasDevelopments": true,
+      "rank": 102,
+      "overallScore": 50.7,
+      "dimensionCoverage": 0.84,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "hasDevelopments": true,
+      "rank": 103,
+      "overallScore": 50.7,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "hasDevelopments": true,
+      "rank": 104,
+      "overallScore": 50.6,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "hasDevelopments": true,
+      "rank": 105,
+      "overallScore": 50.5,
+      "dimensionCoverage": 0.8,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "hasDevelopments": true,
+      "rank": 106,
+      "overallScore": 50,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "hasDevelopments": true,
+      "rank": 107,
+      "overallScore": 49.9,
+      "dimensionCoverage": 0.8,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "hasDevelopments": true,
+      "rank": 108,
+      "overallScore": 49.7,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "hasDevelopments": true,
+      "rank": 109,
+      "overallScore": 49.6,
+      "dimensionCoverage": 0.66,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "hasDevelopments": true,
+      "rank": 110,
+      "overallScore": 48.9,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "hasDevelopments": true,
+      "rank": 111,
+      "overallScore": 48.8,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "hasDevelopments": true,
+      "rank": 112,
+      "overallScore": 48.7,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "hasDevelopments": true,
+      "rank": 113,
+      "overallScore": 48.4,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "hasDevelopments": true,
+      "rank": 114,
+      "overallScore": 48.2,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "hasDevelopments": true,
+      "rank": 115,
+      "overallScore": 48.2,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "hasDevelopments": true,
+      "rank": 116,
+      "overallScore": 47.7,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "hasDevelopments": true,
+      "rank": 117,
+      "overallScore": 47.5,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "hasDevelopments": true,
+      "rank": 118,
+      "overallScore": 47.1,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "hasDevelopments": true,
+      "rank": 119,
+      "overallScore": 46.8,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "hasDevelopments": true,
+      "rank": 120,
+      "overallScore": 46.6,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "hasDevelopments": true,
+      "rank": 121,
+      "overallScore": 46.5,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "hasDevelopments": true,
+      "rank": 122,
+      "overallScore": 46.3,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "hasDevelopments": true,
+      "rank": 123,
+      "overallScore": 46.2,
+      "dimensionCoverage": 0.82,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "hasDevelopments": true,
+      "rank": 124,
+      "overallScore": 46,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "hasDevelopments": true,
+      "rank": 125,
+      "overallScore": 45.1,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "hasDevelopments": true,
+      "rank": 126,
+      "overallScore": 45,
+      "dimensionCoverage": 0.68,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "hasDevelopments": true,
+      "rank": 127,
+      "overallScore": 45,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "hasDevelopments": true,
+      "rank": 128,
+      "overallScore": 44.9,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "hasDevelopments": true,
+      "rank": 129,
+      "overallScore": 44.6,
+      "dimensionCoverage": 0.84,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "hasDevelopments": true,
+      "rank": 130,
+      "overallScore": 44.4,
+      "dimensionCoverage": 0.84,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "hasDevelopments": true,
+      "rank": 131,
+      "overallScore": 44.2,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "hasDevelopments": true,
+      "rank": 132,
+      "overallScore": 43.6,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "hasDevelopments": true,
+      "rank": 133,
+      "overallScore": 43.5,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CI",
+      "name": "Côte d’Ivoire",
+      "hasDevelopments": true,
+      "rank": 134,
+      "overallScore": 43.5,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CG",
+      "name": "Republic of the Congo",
+      "hasDevelopments": true,
+      "rank": 135,
+      "overallScore": 43.3,
+      "dimensionCoverage": 0.82,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "hasDevelopments": true,
+      "rank": 136,
+      "overallScore": 43,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "hasDevelopments": true,
+      "rank": 137,
+      "overallScore": 42.9,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "hasDevelopments": true,
+      "rank": 138,
+      "overallScore": 42.6,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "hasDevelopments": true,
+      "rank": 139,
+      "overallScore": 42.5,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "hasDevelopments": true,
+      "rank": 140,
+      "overallScore": 42.2,
+      "dimensionCoverage": 0.74,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "hasDevelopments": true,
+      "rank": 141,
+      "overallScore": 42.1,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "hasDevelopments": true,
+      "rank": 142,
+      "overallScore": 42,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "hasDevelopments": true,
+      "rank": 143,
+      "overallScore": 41.9,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "hasDevelopments": true,
+      "rank": 144,
+      "overallScore": 41.2,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "hasDevelopments": true,
+      "rank": 145,
+      "overallScore": 41.1,
+      "dimensionCoverage": 0.79,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "hasDevelopments": true,
+      "rank": 146,
+      "overallScore": 41,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "hasDevelopments": true,
+      "rank": 147,
+      "overallScore": 40.8,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "hasDevelopments": true,
+      "rank": 148,
+      "overallScore": 40.8,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "hasDevelopments": true,
+      "rank": 149,
+      "overallScore": 40.7,
+      "dimensionCoverage": 0.81,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "hasDevelopments": true,
+      "rank": 150,
+      "overallScore": 40.5,
+      "dimensionCoverage": 0.72,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "hasDevelopments": true,
+      "rank": 151,
+      "overallScore": 40.1,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "hasDevelopments": true,
+      "rank": 152,
+      "overallScore": 39.9,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "hasDevelopments": true,
+      "rank": 153,
+      "overallScore": 39.5,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "hasDevelopments": true,
+      "rank": 154,
+      "overallScore": 39.2,
+      "dimensionCoverage": 0.85,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "hasDevelopments": true,
+      "rank": 155,
+      "overallScore": 39,
+      "dimensionCoverage": 0.84,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "hasDevelopments": true,
+      "rank": 156,
+      "overallScore": 38.3,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CD",
+      "name": "DR Congo",
+      "hasDevelopments": true,
+      "rank": 157,
+      "overallScore": 38.2,
+      "dimensionCoverage": 0.83,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "hasDevelopments": true,
+      "rank": 158,
+      "overallScore": 37.8,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "hasDevelopments": true,
+      "rank": 159,
+      "overallScore": 37.2,
+      "dimensionCoverage": 0.82,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "hasDevelopments": true,
+      "rank": 160,
+      "overallScore": 36.5,
+      "dimensionCoverage": 0.78,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "hasDevelopments": true,
+      "rank": 161,
+      "overallScore": 35.7,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "hasDevelopments": true,
+      "rank": 162,
+      "overallScore": 34.5,
+      "dimensionCoverage": 0.71,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "hasDevelopments": true,
+      "rank": 163,
+      "overallScore": 34,
+      "dimensionCoverage": 0.69,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "hasDevelopments": true,
+      "rank": 164,
+      "overallScore": 33.8,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "hasDevelopments": true,
+      "rank": 165,
+      "overallScore": 33.7,
+      "dimensionCoverage": 0.65,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "hasDevelopments": true,
+      "rank": 166,
+      "overallScore": 32,
+      "dimensionCoverage": 0.75,
+      "confidence": "standard",
+      "level": "medium"
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "hasDevelopments": true,
+      "rank": 167,
+      "overallScore": 29.6,
+      "dimensionCoverage": 0.69,
+      "confidence": "standard",
+      "level": "low"
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "hasDevelopments": true,
+      "rank": 168,
+      "overallScore": 28.5,
+      "dimensionCoverage": 0.71,
+      "confidence": "standard",
+      "level": "low"
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "hasDevelopments": true,
+      "rank": 169,
+      "overallScore": 21.1,
+      "dimensionCoverage": 0.69,
+      "confidence": "standard",
+      "level": "low"
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "hasDevelopments": true,
+      "rank": 170,
+      "overallScore": 19.7,
+      "dimensionCoverage": 0.71,
+      "confidence": "standard",
+      "level": "low"
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "hasDevelopments": false,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.69,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.71,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.58,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.58,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.55,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.77,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.69,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.64,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "hasDevelopments": false,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.56,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "MO",
+      "name": "Macau",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.61,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.63,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.61,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.44,
+      "confidence": "low",
+      "level": "unpublished"
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "hasDevelopments": false,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.63,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "KP",
+      "name": "North Korea",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.51,
+      "confidence": "low",
+      "level": "unpublished"
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.6,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "hasDevelopments": false,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.64,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.72,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.73,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.64,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.76,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.54,
+      "confidence": "low",
+      "level": "unpublished"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.38,
+      "confidence": "low",
+      "level": "unpublished"
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.74,
+      "confidence": "standard",
+      "level": "unpublished"
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "hasDevelopments": true,
+      "rank": null,
+      "overallScore": null,
+      "dimensionCoverage": 0.62,
+      "confidence": "standard",
+      "level": "unpublished"
+    }
+  ]
+}

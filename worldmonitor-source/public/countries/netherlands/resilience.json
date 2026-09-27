@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "slug": "netherlands",
+  "rank": 23,
+  "overallScore": 63.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Researchers build a drone that navigates with physical whiskers to operate in dark, dusty or smoky places where cameras or GPS can fail — sub-100 gram drones run 34KB software to enable sub-millimeter precision",
+        "source": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/tech-industry/drones/researchers-build-a-drone-that-navigates-with-physical-whiskers-to-operate-in-dark-dusty-or-smoky-places-where-cameras-or-gps-can-fail-sub-100-gram-drones-run-34kb-software-to-enable-sub-millimeter-precision",
+        "publishedAt": "2026-09-20T13:48:11.000Z"
+      },
+      {
+        "title": "Dutch police disperse violent far-right protest in The Hague",
+        "source": "DW News",
+        "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-xml-mrss",
+        "publishedAt": "2026-09-19T22:38:00.000Z"
+      },
+      {
+        "title": "Demonstration i Holland udviklede sig voldsomt",
+        "source": "DR Nyheder",
+        "url": "https://www.dr.dk/nyheder/seneste/demonstration-i-holland-udviklede-sig-voldsomt",
+        "publishedAt": "2026-09-19T20:03:00.000Z"
+      },
+      {
+        "title": "Discover top 10 experiences in the Netherlands' second city, Rotterdam | South Coast Register",
+        "source": "southcoastregister.com.au",
+        "url": "https://www.southcoastregister.com.au/story/9351538/discover-top-10-experiences-in-the-netherlands-second-city-rotterdam/",
+        "publishedAt": "2026-09-20T01:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Sickening: First Toddler Euthanized in the Netherlands",
+        "source": "hotair.com",
+        "url": "https://hotair.com/headlines/2026/09/19/sickening-first-toddler-euthanized-in-the-netherlands-n3819123",
+        "publishedAt": "2026-09-20T00:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nDutch police dispersed a violent far-right protest in The Hague. [2]\n\nWHAT THIS MEANS FOR NETHERLANDS\nResearchers built a drone that navigates with physical whiskers to operate in dark, dusty or smoky places where cameras or GPS can fail. [1]\nThe first toddler was euthanized in the Netherlands. [5]\n\nWATCH ITEMS\nThe violent far-right protest in The Hague was dispersed by Dutch police. [2]",
+      "generatedAt": "2026-09-21T04:58:58.153Z",
+      "sources": [
+        {
+          "title": "Researchers build a drone that navigates with physical whiskers to operate in dark, dusty or smoky places where cameras or GPS can fail — sub-100 gram drones r...",
+          "source": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/drones/researchers-build-a-drone-that-navigates-with-physical-whiskers-to-operate-in-dark-dusty-or-smoky-places-where-cameras-or-gps-can-fail-sub-100-gram-drones-run-34kb-software-to-enable-sub-millimeter-precision",
+          "publishedAt": "2026-09-20T13:48:11.000Z"
+        },
+        {
+          "title": "Dutch police disperse violent far-right protest in The Hague",
+          "source": "DW News",
+          "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-xml-mrss",
+          "publishedAt": "2026-09-19T22:38:00.000Z"
+        },
+        {
+          "title": "Demonstration i Holland udviklede sig voldsomt",
+          "source": "DR Nyheder",
+          "url": "https://www.dr.dk/nyheder/seneste/demonstration-i-holland-udviklede-sig-voldsomt",
+          "publishedAt": "2026-09-19T20:03:00.000Z"
+        },
+        {
+          "title": "Discover top 10 experiences in the Netherlands' second city, Rotterdam | South Coast Register",
+          "source": "southcoastregister.com.au",
+          "url": "https://www.southcoastregister.com.au/story/9351538/discover-top-10-experiences-in-the-netherlands-second-city-rotterdam/",
+          "publishedAt": "2026-09-20T01:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Sickening: First Toddler Euthanized in the Netherlands",
+          "source": "hotair.com",
+          "url": "https://hotair.com/headlines/2026/09/19/sickening-first-toddler-euthanized-in-the-netherlands-n3819123",
+          "publishedAt": "2026-09-20T00:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

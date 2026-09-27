@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NA",
+  "countryName": "Namibia",
+  "slug": "namibia",
+  "rank": 113,
+  "overallScore": 48.4,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Chinese Embassy in Namibia Hosts Reception Marking the 77th Anniversary of the Founding of the People's Republic of China",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/chinese-embassy-in-namibia-hosts-reception-marking-the-77th-anniversary-of-the-founding-of-the-peoples-republic-of-china",
+        "publishedAt": "2026-09-20T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Namibia Air Pipedream",
+        "source": "namibian.com.na",
+        "url": "https://www.namibian.com.na/the-namibia-air-pipedream/",
+        "publishedAt": "2026-09-20T09:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Namibia investigates reported cyberattack on defense force-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260919/a5e406a41dec47a1a86333a5c71842e7/c.html",
+        "publishedAt": "2026-09-19T12:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Namibia investigates reported cyberattack on defense force-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/africa/20260919/2dd6c9d972474812888a143911628683/c.html",
+        "publishedAt": "2026-09-19T12:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Namibia: Fast-Track Protection Orders Could Be Abused Experts Warn",
+        "source": "allafrica.com",
+        "url": "https://allafrica.com/stories/202609180694.html",
+        "publishedAt": "2026-09-19T00:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

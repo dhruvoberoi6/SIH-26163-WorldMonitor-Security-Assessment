@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SO",
+  "countryName": "Somalia",
+  "slug": "somalia",
+  "rank": 169,
+  "overallScore": 21.1,
+  "dimensionCoverage": 0.69,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Pope Leo XIV appeals for international aid as Somalia crisis deepens",
+        "source": "catholicworldreport.com",
+        "url": "https://www.catholicworldreport.com/2026/09/20/pope-leo-xiv-appeals-for-international-aid-as-somalia-crisis-deepens/",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Garowe Lights Up as Somalia's Political and Intellectual Voices Converge",
+        "source": "wardheernews.com",
+        "url": "https://wardheernews.com/garowe-lights-up-as-somalias-political-and-intellectual-voices-converge/",
+        "publishedAt": "2026-09-20T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Somalia's Political Crisis Deepens as International Mediation Runs Out of Road",
+        "source": "wardheernews.com",
+        "url": "https://wardheernews.com/somalias-political-crisis-deepens-as-international-mediation-runs-out-of-road/",
+        "publishedAt": "2026-09-20T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US Launches Airstrike in Northern Somalia as It Continues Record-Breaking Bombing Campaign",
+        "source": "antiwar.com",
+        "url": "https://news.antiwar.com/2026/09/20/us-launches-airstrike-in-northern-somalia-as-it-continues-record-breaking-bombing-campaign/",
+        "publishedAt": "2026-09-20T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Pope appeals for aid to drought and violence-stricken Somalia",
+        "source": "cruxnow.com",
+        "url": "https://cruxnow.com/vatican/2026/09/pope-appeals-for-aid-to-drought-and-violence-stricken-somalia",
+        "publishedAt": "2026-09-20T18:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: cruxnow.com",
+        "sourceUrl": "https://cruxnow.com/vatican/2026/09/pope-appeals-for-aid-to-drought-and-violence-stricken-somalia",
+        "occurredAt": "2026-09-20T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: cruxnow.com",
+        "sourceUrl": "https://cruxnow.com/vatican/2026/09/pope-appeals-for-aid-to-drought-and-violence-stricken-somalia",
+        "occurredAt": "2026-09-20T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: cruxnow.com",
+        "sourceUrl": "https://cruxnow.com/vatican/2026/09/pope-appeals-for-aid-to-drought-and-violence-stricken-somalia",
+        "occurredAt": "2026-09-20T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Somalia",
+        "summary": "source: cruxnow.com",
+        "sourceUrl": "https://cruxnow.com/vatican/2026/09/pope-appeals-for-aid-to-drought-and-violence-stricken-somalia",
+        "occurredAt": "2026-09-20T18:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Somalia",
+        "summary": "source: www.garoweonline.com",
+        "sourceUrl": "https://www.garoweonline.com/en/news/somalia/somalia-top-general-accuses-turkey-of-role-in-assassination-attempt",
+        "occurredAt": "2026-09-20T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Somalia",
+        "summary": "source: www.garoweonline.com",
+        "sourceUrl": "https://www.garoweonline.com/en/news/somalia/somalia-top-general-accuses-turkey-of-role-in-assassination-attempt",
+        "occurredAt": "2026-09-20T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Somalia",
+        "summary": "source: www.garoweonline.com",
+        "sourceUrl": "https://www.garoweonline.com/en/news/somalia/somalia-top-general-accuses-turkey-of-role-in-assassination-attempt",
+        "occurredAt": "2026-09-20T08:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Somalia",
+        "summary": "source: collider.com",
+        "sourceUrl": "https://collider.com/the-unit-hulu-action-streaming-swat-meets-seal-team/",
+        "occurredAt": "2026-09-20T01:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Somalia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/i-saw-an-f-16-over-my-house-general-shub-breaks-his-silence-on-doolow-attack/",
+        "occurredAt": "2026-09-19T19:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 182 — in Somalia",
+        "summary": "source: wardheernews.com",
+        "sourceUrl": "https://wardheernews.com/i-saw-an-f-16-over-my-house-general-shub-breaks-his-silence-on-doolow-attack/",
+        "occurredAt": "2026-09-19T19:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

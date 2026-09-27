@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VE",
+  "countryName": "Venezuela",
+  "slug": "venezuela",
+  "rank": 165,
+  "overallScore": 33.7,
+  "dimensionCoverage": 0.65,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "ICE agent shoots and wounds man in Austin, Texas",
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/austin-ice-shooting-investigation/",
+        "publishedAt": "2026-09-21T03:07:54.000Z"
+      },
+      {
+        "title": "ICE agent shoots and wounds man in Texas",
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/en/international/article/2026/09/21/man-hospitalized-in-texas-after-being-shot-by-ice-agent_6757752_4.html",
+        "publishedAt": "2026-09-21T03:06:47.000Z"
+      },
+      {
+        "title": "Selective unblocking of media in Venezuela",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/news/selective-unblocking-of-media-in-venezuela/",
+        "publishedAt": "2026-09-20T22:07:46.000Z"
+      },
+      {
+        "title": "Venezuelan DoorDash driver shot and wounded by ICE agent in Austin, Texas, officials say - CNN",
+        "source": "CNN World",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZnJfV3JMYThUT21NX1VkWHdod2RNSVp3NkwtSF9hWUc1dUpfNHd3NEFMTGFxVjdpTm5GY08xS1p1akxCZ21mY0tiWUNZYVp3MlFjdTdDcDVHcHM2bkdBZ1p6VjNBQUpSYkkw?oc=5",
+        "publishedAt": "2026-09-20T21:11:10.000Z"
+      },
+      {
+        "title": "Dawn in Campo Elias, Lara, Venezuela – Photo del día",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-of-the-day/dawn-in-campo-elias-lara-venezuela-photo-del-dia/",
+        "publishedAt": "2026-09-20T20:41:54.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSelective unblocking of media is occurring in Venezuela. [3]",
+      "generatedAt": "2026-09-21T05:02:02.736Z",
+      "sources": [
+        {
+          "title": "ICE agent shoots and wounds man in Austin, Texas",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/austin-ice-shooting-investigation/",
+          "publishedAt": "2026-09-21T03:07:54.000Z"
+        },
+        {
+          "title": "ICE agent shoots and wounds man in Texas",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/21/man-hospitalized-in-texas-after-being-shot-by-ice-agent_6757752_4.html",
+          "publishedAt": "2026-09-21T03:06:47.000Z"
+        },
+        {
+          "title": "Selective unblocking of media in Venezuela",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/news/selective-unblocking-of-media-in-venezuela/",
+          "publishedAt": "2026-09-20T22:07:46.000Z"
+        },
+        {
+          "title": "Venezuelan DoorDash driver shot and wounded by ICE agent in Austin, Texas, officials say - CNN",
+          "source": "CNN World",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HZnJfV3JMYThUT21NX1VkWHdod2RNSVp3NkwtSF9hWUc1dUpfNHd3NEFMTGFxVjdpTm5GY08xS1p1akxCZ21mY0tiWUNZYVp3MlFjdTdDcDVHcHM2bkdBZ1p6VjNBQUpSYkkw?oc=5",
+          "publishedAt": "2026-09-20T21:11:10.000Z"
+        },
+        {
+          "title": "Dawn in Campo Elias, Lara, Venezuela – Photo del día",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/photo-of-the-day/dawn-in-campo-elias-lara-venezuela-photo-del-dia/",
+          "publishedAt": "2026-09-20T20:41:54.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

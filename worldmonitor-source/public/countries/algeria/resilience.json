@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DZ",
+  "countryName": "Algeria",
+  "slug": "algeria",
+  "rank": 94,
+  "overallScore": 51.9,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Algeria shifts towards English as French loses ground in schools",
+        "source": "RFI Afrique",
+        "url": "https://www.rfi.fr/en/africa/20260918-algeria-shifts-towards-english-as-french-loses-ground-in-schools",
+        "publishedAt": "2026-09-18T11:11:53.000Z"
+      },
+      {
+        "title": "Algeria Among Africa's Leading Diplomatic Powers – الشروق أونلاين",
+        "source": "echoroukonline.com",
+        "url": "https://www.echoroukonline.com/algeria-among-africas-leading-diplomatic-powers",
+        "publishedAt": "2026-09-19T21:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chairperson of Belarusian Council of the Republic wraps up visit to Algeria",
+        "source": "aps.dz",
+        "url": "https://www.aps.dz/en/algeria/national-news/mu70zqds-chairperson-of-belarusian-council-of-the-republic-wraps-up-visit-to-algeria",
+        "publishedAt": "2026-09-18T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "International watchdogs slam Algeria's move to expand death penalty after deadly wildfires – Medafrica Times",
+        "source": "medafricatimes.com",
+        "url": "https://medafricatimes.com/46988-international-watchdogs-slam-algerias-move-to-expand-death-penalty-after-deadly-wildfires.html",
+        "publishedAt": "2026-09-18T16:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nigeria stun Algeria in thriller, advance to quarterfinals",
+        "source": "nigerianobservernews.com",
+        "url": "https://nigerianobservernews.com/2026/09/nigeria-stun-algeria-in-thriller-advance-to-quarterfinals/",
+        "publishedAt": "2026-09-18T14:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAlgeria shifts towards English as French loses ground in schools. [1]\nAlgeria is among Africa's leading diplomatic powers. [2]\nInternational watchdogs slammed Algeria's move to expand the death penalty after deadly wildfires. [4]\nNigeria stunned Algeria in a thriller and advanced to the quarterfinals. [5]\n\nWHAT THIS MEANS FOR ALGERIA\nThe expansion of the death penalty could damage Algeria's international reputation regarding human rights. [4]\n\nKEY RISKS\nThe expansion of the death penalty after deadly wildfires risks further international condemnation. [4]\n\nWATCH ITEMS\nAlgeria's move to expand the death penalty remains under international scrutiny. [4]",
+      "generatedAt": "2026-09-21T04:55:35.594Z",
+      "sources": [
+        {
+          "title": "Algeria shifts towards English as French loses ground in schools",
+          "source": "RFI Afrique",
+          "url": "https://www.rfi.fr/en/africa/20260918-algeria-shifts-towards-english-as-french-loses-ground-in-schools",
+          "publishedAt": "2026-09-18T11:11:53.000Z"
+        },
+        {
+          "title": "Algeria Among Africa's Leading Diplomatic Powers – الشروق أونلاين",
+          "source": "echoroukonline.com",
+          "url": "https://www.echoroukonline.com/algeria-among-africas-leading-diplomatic-powers",
+          "publishedAt": "2026-09-19T21:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Chairperson of Belarusian Council of the Republic wraps up visit to Algeria",
+          "source": "aps.dz",
+          "url": "https://www.aps.dz/en/algeria/national-news/mu70zqds-chairperson-of-belarusian-council-of-the-republic-wraps-up-visit-to-algeria",
+          "publishedAt": "2026-09-18T21:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "International watchdogs slam Algeria's move to expand death penalty after deadly wildfires – Medafrica Times",
+          "source": "medafricatimes.com",
+          "url": "https://medafricatimes.com/46988-international-watchdogs-slam-algerias-move-to-expand-death-penalty-after-deadly-wildfires.html",
+          "publishedAt": "2026-09-18T16:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Nigeria stun Algeria in thriller, advance to quarterfinals",
+          "source": "nigerianobservernews.com",
+          "url": "https://nigerianobservernews.com/2026/09/nigeria-stun-algeria-in-thriller-advance-to-quarterfinals/",
+          "publishedAt": "2026-09-18T14:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

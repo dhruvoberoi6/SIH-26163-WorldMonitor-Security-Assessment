@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AE",
+  "countryName": "United Arab Emirates",
+  "slug": "united-arab-emirates",
+  "rank": 11,
+  "overallScore": 66.5,
+  "dimensionCoverage": 0.74,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Live updates: UAE's Gargash says 'new mindset needed' as Arab states must have dialogue with Tehran",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/2026/09/21/un-general-assembly-2026-new-york-latest-news-updates/",
+        "publishedAt": "2026-09-21T03:10:30.000Z"
+      },
+      {
+        "title": "UAE official source responds to claims that Israel was warned of October 7 attack - thenationalnews.com",
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHNTR1dXcldtcWRQMTEwcTRwWVNURnpLV0g1S25wV1UwU1NwSjhacDE2UWxqNzQtd0xlaVYtT29OTW9FaEs1RlJyWnYyMFhlVXQzT1RrWjZwVXZ4YUtZNHhiUGNYcnhsTzNjcExJaGJGNXNUN3J4YjZSNWRqS3VBNjAyNHhvbExQcHhRZUE1YW5vSDZNR1E3QldvbmlRc3lEZFRWa0I1eFRGQ2VGZk4yWDJXRFl3SnBjaW1OX3RpZExKaFQ4V3c4TThneUFXVWs?oc=5",
+        "publishedAt": "2026-09-19T21:00:27.000Z"
+      },
+      {
+        "title": "How western veterans helped the UAE build one of the region's most adept military forces - thenationalnews.com",
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHZOTHVQUE5oY3FlVk02a3lhU2ktNTM2MzhLRjZFQWtKdHZMdzBONjl1aDF1bWx4OENBNUkxMlBXRzdKd3JMUWpFT1ZNMmJpb0c3TklVei1KZlktYXZRU29ja1ZQLVBSdjh0VU5IN2dXcjJQb3UxV0hQNkhUcXNpeWtLS0pHUTUxV3BubEcxRjNNQkhIRjNsVmFkVkFwVjN4QVZtSk5RNlR6S25PTmpF?oc=5",
+        "publishedAt": "2026-09-18T18:28:31.000Z"
+      },
+      {
+        "title": "Masood Gurbaz hopes to face brother Rahmanullah and Afghanistan after switching allegiance to UAE - thenationalnews.com",
+        "source": "The National",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcEkzWlcyX1BTSlQzcjFrRG1LY1RESkxwQlhyYVdtOXJTb2kzd2dzd3dWdkRJYXplTUpKUU5OTUkzbVdyNkVtX3hYamtDVmtId0NFVkhLaUpEcWFSalljTVZNUjZqNU9vN1gwSldCSWNQRGdtQlFCU3YxMG1udlpkWVcxaDN1RHEtTUNrN1dOY0xGaFpkRlBDUTZZWXlnQmRpdmRDcm9VbUFMdm5mZjNDMEtoQ21nWVpBOHZFTzhETXdZbWdfVkFHVlU2VE9tQzRIQnhJb3MtMFBsY3hWSEZWYjA4Rk9KbGxHTEE0?oc=5",
+        "publishedAt": "2026-09-18T03:56:53.000Z"
+      },
+      {
+        "title": "World’s best airlines 2026 revealed: Qatar Airways No.2, Emirates No.6, Saudia No.15 - Arabian Business",
+        "source": "Arabian Business",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTZhdTdaVTlhR0xhS0xUeURkdEZSd2pKU0hhS2VwOHBQM1NqNnhuMjZWazJIWTRLdkQxS2Nuc3U4QnFwX1lHMm9WQlk2b1JEdFU4Mm1fdWxGams1bVdVVkFiN0FPR19BY3h6ejYwbGNQNFZGTTJPeEZlUkh2Mm8zSlFR?oc=5",
+        "publishedAt": "2026-09-18T19:36:21.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe UAE's Gargash says a 'new mindset needed' as Arab states must have dialogue with Tehran. [1]\nA UAE official source responds to claims that Israel was warned of October 7 attack. [2]\n\nWHAT THIS MEANS FOR UNITED ARAB EMIRATES\nWestern veterans helped the UAE build one of the region's most adept military forces. [3]\n\nWATCH ITEMS\nMasood Gurbaz hopes to face brother Rahmanullah and Afghanistan after switching allegiance to UAE. [4]\nEmirates is ranked No.6 in the world's best airlines 2026. [5]",
+      "generatedAt": "2026-09-21T04:53:28.244Z",
+      "sources": [
+        {
+          "title": "Live updates: UAE's Gargash says 'new mindset needed' as Arab states must have dialogue with Tehran",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/2026/09/21/un-general-assembly-2026-new-york-latest-news-updates/",
+          "publishedAt": "2026-09-21T03:10:30.000Z"
+        },
+        {
+          "title": "UAE official source responds to claims that Israel was warned of October 7 attack - thenationalnews.com",
+          "source": "The National",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTHNTR1dXcldtcWRQMTEwcTRwWVNURnpLV0g1S25wV1UwU1NwSjhacDE2UWxqNzQtd0xlaVYtT29OTW9FaEs1RlJyWnYyMFhlVXQzT1RrWjZwVXZ4YUtZNHhiUGNYcnhsTzNjcExJaGJGNXNUN3J4YjZSNWRqS3VBNjAyNHhvbExQcHhRZUE1YW5vSDZNR1E3QldvbmlRc3lEZFRWa0I1eFRGQ2VGZk4yWDJXRFl3SnBjaW1OX3RpZExKaFQ4V3c4TThneUFXVWs?oc=5",
+          "publishedAt": "2026-09-19T21:00:27.000Z"
+        },
+        {
+          "title": "How western veterans helped the UAE build one of the region's most adept military forces - thenationalnews.com",
+          "source": "The National",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHZOTHVQUE5oY3FlVk02a3lhU2ktNTM2MzhLRjZFQWtKdHZMdzBONjl1aDF1bWx4OENBNUkxMlBXRzdKd3JMUWpFT1ZNMmJpb0c3TklVei1KZlktYXZRU29ja1ZQLVBSdjh0VU5IN2dXcjJQb3UxV0hQNkhUcXNpeWtLS0pHUTUxV3BubEcxRjNNQkhIRjNsVmFkVkFwVjN4QVZtSk5RNlR6S25PTmpF?oc=5",
+          "publishedAt": "2026-09-18T18:28:31.000Z"
+        },
+        {
+          "title": "Masood Gurbaz hopes to face brother Rahmanullah and Afghanistan after switching allegiance to UAE - thenationalnews.com",
+          "source": "The National",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcEkzWlcyX1BTSlQzcjFrRG1LY1RESkxwQlhyYVdtOXJTb2kzd2dzd3dWdkRJYXplTUpKUU5OTUkzbVdyNkVtX3hYamtDVmtId0NFVkhLaUpEcWFSalljTVZNUjZqNU9vN1gwSldCSWNQRGdtQlFCU3YxMG1udlpkWVcxaDN1RHEtTUNrN1dOY0xGaFpkRlBDUTZZWXlnQmRpdmRDcm9VbUFMdm5mZjNDMEtoQ21nWVpBOHZFTzhETXdZbWdfVkFHVlU2VE9tQzRIQnhJb3MtMFBsY3hWSEZWYjA4Rk9KbGxHTEE0?oc=5",
+          "publishedAt": "2026-09-18T03:56:53.000Z"
+        },
+        {
+          "title": "World’s best airlines 2026 revealed: Qatar Airways No.2, Emirates No.6, Saudia No.15 - Arabian Business",
+          "source": "Arabian Business",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTZhdTdaVTlhR0xhS0xUeURkdEZSd2pKU0hhS2VwOHBQM1NqNnhuMjZWazJIWTRLdkQxS2Nuc3U4QnFwX1lHMm9WQlk2b1JEdFU4Mm1fdWxGams1bVdVVkFiN0FPR19BY3h6ejYwbGNQNFZGTTJPeEZlUkh2Mm8zSlFR?oc=5",
+          "publishedAt": "2026-09-18T19:36:21.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MH",
+  "countryName": "Marshall Islands",
+  "slug": "marshall-islands",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.63,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "“Anyone can say 1.5 to stay alive, but it takes action to push for 1.5”: Marshall Islands youth practitioner",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/anyone-can-say-1-5-to-stay-alive-but-it-takes-action-to-push-for-1-5-marshall-islands-youth-practitioner/",
+        "publishedAt": "2026-09-18T09:23:04.000Z"
+      },
+      {
+        "title": "IMF Staff Ends Visit to Marshall Islands",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/imf-staff-ends-visit-to-marshall-islands-1747051/",
+        "publishedAt": "2026-09-18T16:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "UN Expert: Marshall Islands Activists Pursue Justice",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/un-expert-marshall-islands-activists-pursue-1746167/",
+        "publishedAt": "2026-09-17T11:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "'1.5°C is not just a number for the Marshall Islands'",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2026/09/17/1-5c-is-not-just-a-number-for-the-marshall-islands/",
+        "publishedAt": "2026-09-17T05:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "\"Anyone can say 1.5 to stay alive, but it takes action to push for 1.5\": Marshall Islands youth practitioner",
+        "source": "pina.com.fj",
+        "url": "https://pina.com.fj/2026/09/16/anyone-can-say-1-5-to-stay-alive-but-it-takes-action-to-push-for-1-5-marshall-islands-youth-practitioner/",
+        "publishedAt": "2026-09-16T03:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Marshall Islands youth practitioner stated that anyone can say 1.5 to stay alive, but it takes action to push for 1.5. [1]\nThe IMF staff ended a visit to the Marshall Islands. [2]\nA UN expert reported that Marshall Islands activists pursue justice. [3]\nThe Marshall Islands emphasize that 1.5°C is not just a number for them. [4]\n\nWHAT THIS MEANS FOR MARSHALL ISLANDS\nThe Marshall Islands youth practitioner's statement implies a need for concrete climate action beyond rhetoric. [1]\nThe IMF staff visit to the Marshall Islands suggests ongoing economic engagement or assessment. [2]\n\nWATCH ITEMS\nThe UN expert's report indicates that Marshall Islands activists continue to pursue justice, which may involve ongoing legal or advocacy efforts. [3]",
+      "generatedAt": "2026-09-21T04:58:24.715Z",
+      "sources": [
+        {
+          "title": "“Anyone can say 1.5 to stay alive, but it takes action to push for 1.5”: Marshall Islands youth practitioner",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/anyone-can-say-1-5-to-stay-alive-but-it-takes-action-to-push-for-1-5-marshall-islands-youth-practitioner/",
+          "publishedAt": "2026-09-18T09:23:04.000Z"
+        },
+        {
+          "title": "IMF Staff Ends Visit to Marshall Islands",
+          "source": "miragenews.com",
+          "url": "https://www.miragenews.com/imf-staff-ends-visit-to-marshall-islands-1747051/",
+          "publishedAt": "2026-09-18T16:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "UN Expert: Marshall Islands Activists Pursue Justice",
+          "source": "miragenews.com",
+          "url": "https://www.miragenews.com/un-expert-marshall-islands-activists-pursue-1746167/",
+          "publishedAt": "2026-09-17T11:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "'1.5°C is not just a number for the Marshall Islands'",
+          "source": "pina.com.fj",
+          "url": "https://pina.com.fj/2026/09/17/1-5c-is-not-just-a-number-for-the-marshall-islands/",
+          "publishedAt": "2026-09-17T05:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "\"Anyone can say 1.5 to stay alive, but it takes action to push for 1.5\": Marshall Islands youth practitioner",
+          "source": "pina.com.fj",
+          "url": "https://pina.com.fj/2026/09/16/anyone-can-say-1-5-to-stay-alive-but-it-takes-action-to-push-for-1-5-marshall-islands-youth-practitioner/",
+          "publishedAt": "2026-09-16T03:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

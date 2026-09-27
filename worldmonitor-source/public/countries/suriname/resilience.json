@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SR",
+  "countryName": "Suriname",
+  "slug": "suriname",
+  "rank": 69,
+  "overallScore": 55.6,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "TotalEnergies' offshore project in Suriname on track for first output in mid-2028 - Reuters",
+        "source": "Reuters Energy",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkZTYzNld3NfOWtBYnlZVGtoZ2NRYzh1T1A3eXk4eUpZUjFFZGlJZVpoTTJkY2UtRkg4aGtTR0pOYzZqTHlVZFdjcHctcGVac2VWMGZhMXl2WDc4SlRQaDNqX094Z3VsaDljZUtJQU05Tm9NRjFFMXlUNUtqSXRmOE5SNmM0V2syRXJRN0N6cVNHRV91V2NKeTNUeXRLRDRGT1h0SnI1N0lUWVp2TVBTenUtWEJhMVNtVTNr?oc=5",
+        "publishedAt": "2026-09-19T15:34:00.000Z"
+      },
+      {
+        "title": "Suriname Interpol Red Notice Request for Ryan Torilal | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/suriname-interpol-red-notice-torilal-2026/",
+        "publishedAt": "2026-09-19T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Curaçao Chronicle | Curaçao and Suriname Explore Deeper Cooperation in Agriculture, Education, Justice and Energy",
+        "source": "curacaochronicle.com",
+        "url": "https://www.curacaochronicle.com/post/unknown/curacao-and-suriname-explore-deeper-cooperation-in-agriculture-education-justice-and-energy",
+        "publishedAt": "2026-09-17T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Suriname vs Martinique on September 28: Nations League Home Game at Paramaribo's Franklin Essed Stadium",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/suriname-martinique-nations-league-september-28-2026/",
+        "publishedAt": "2026-09-16T15:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Barbados eyes Suriname as source for building materials",
+        "source": "nationnews.com",
+        "url": "https://nationnews.com/2026/09/14/barbados-eyes-suriname-as-source-for-building-materials/",
+        "publishedAt": "2026-09-14T17:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nTotalEnergies' offshore project in Suriname is on track for first output in mid-2028. [1]\nA Suriname Interpol Red Notice request has been issued for Ryan Torilal. [2]\n\nWHAT THIS MEANS FOR SURINAME\nCuraçao and Suriname are exploring deeper cooperation in agriculture, education, justice and energy. [3]\nBarbados eyes Suriname as a source for building materials. [5]\n\nWATCH ITEMS\nSuriname is scheduled to play Martinique on September 28 in a Nations League home game at Paramaribo's Franklin Essed Stadium. [4]",
+      "generatedAt": "2026-09-21T05:00:20.507Z",
+      "sources": [
+        {
+          "title": "TotalEnergies' offshore project in Suriname on track for first output in mid-2028 - Reuters",
+          "source": "Reuters Energy",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkZTYzNld3NfOWtBYnlZVGtoZ2NRYzh1T1A3eXk4eUpZUjFFZGlJZVpoTTJkY2UtRkg4aGtTR0pOYzZqTHlVZFdjcHctcGVac2VWMGZhMXl2WDc4SlRQaDNqX094Z3VsaDljZUtJQU05Tm9NRjFFMXlUNUtqSXRmOE5SNmM0V2syRXJRN0N6cVNHRV91V2NKeTNUeXRLRDRGT1h0SnI1N0lUWVp2TVBTenUtWEJhMVNtVTNr?oc=5",
+          "publishedAt": "2026-09-19T15:34:00.000Z"
+        },
+        {
+          "title": "Suriname Interpol Red Notice Request for Ryan Torilal | The Rio Times",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/suriname-interpol-red-notice-torilal-2026/",
+          "publishedAt": "2026-09-19T17:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Curaçao Chronicle | Curaçao and Suriname Explore Deeper Cooperation in Agriculture, Education, Justice and Energy",
+          "source": "curacaochronicle.com",
+          "url": "https://www.curacaochronicle.com/post/unknown/curacao-and-suriname-explore-deeper-cooperation-in-agriculture-education-justice-and-energy",
+          "publishedAt": "2026-09-17T15:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Suriname vs Martinique on September 28: Nations League Home Game at Paramaribo's Franklin Essed Stadium",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/suriname-martinique-nations-league-september-28-2026/",
+          "publishedAt": "2026-09-16T15:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Barbados eyes Suriname as source for building materials",
+          "source": "nationnews.com",
+          "url": "https://nationnews.com/2026/09/14/barbados-eyes-suriname-as-source-for-building-materials/",
+          "publishedAt": "2026-09-14T17:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

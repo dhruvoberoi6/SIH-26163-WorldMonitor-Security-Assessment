@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Forecast Accuracy Scorecard | World Monitor</title>
+    <meta name="description" content="World Monitor grades its own forecasts. Published Brier and log scores, calibration buckets, per-domain accuracy, void rates, and every sample size behind them.">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="https://www.worldmonitor.app/accuracy/">
+    <link rel="alternate" hreflang="x-default" href="https://www.worldmonitor.app/accuracy/">
+    <link rel="alternate" hreflang="en" href="https://www.worldmonitor.app/accuracy/">
+    <meta name="lastmod" content="2026-09-24">
+    
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Forecast Accuracy Scorecard | World Monitor">
+    <meta property="og:description" content="World Monitor grades its own forecasts. Published Brier and log scores, calibration buckets, per-domain accuracy, void rates, and every sample size behind them.">
+    <meta property="og:url" content="https://www.worldmonitor.app/accuracy/">
+    <meta property="og:site_name" content="World Monitor">
+    <meta property="og:image" content="https://www.worldmonitor.app/favico/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="World Monitor — real-time global intelligence dashboard with live markets, geopolitical data, and infrastructure monitoring">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Forecast Accuracy Scorecard | World Monitor">
+    <meta name="twitter:description" content="World Monitor grades its own forecasts. Published Brier and log scores, calibration buckets, per-domain accuracy, void rates, and every sample size behind them.">
+    <meta name="twitter:image" content="https://www.worldmonitor.app/favico/og-image.png">
+    <meta name="twitter:image:alt" content="World Monitor — real-time global intelligence dashboard with live markets, geopolitical data, and infrastructure monitoring">
+    <meta name="twitter:site" content="@worldmonitorai">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Forecast accuracy scorecard","description":"World Monitor grades its own forecasts. Published Brier and log scores, calibration buckets, per-domain accuracy, void rates, and every sample size behind them.","url":"https://www.worldmonitor.app/accuracy/","inLanguage":"en-US","dateModified":"2026-09-24","publisher":{"@id":"https://www.worldmonitor.app/#organization","@type":"Organization","name":"World Monitor","url":"https://www.worldmonitor.app/"},"primaryImageOfPage":{"@type":"ImageObject","contentUrl":"https://www.worldmonitor.app/favico/og-image.png","url":"https://www.worldmonitor.app/favico/og-image.png","width":1200,"height":630,"caption":"World Monitor — real-time global intelligence dashboard with live markets, geopolitical data, and infrastructure monitoring","name":"World Monitor — real-time global intelligence dashboard with live markets, geopolitical data, and infrastructure monitoring"},"image":{"@type":"ImageObject","contentUrl":"https://www.worldmonitor.app/favico/og-image.png","url":"https://www.worldmonitor.app/favico/og-image.png","width":1200,"height":630,"caption":"World Monitor — real-time global intelligence dashboard with live markets, geopolitical data, and infrastructure monitoring","name":"World Monitor — real-time global intelligence dashboard with live markets, geopolitical data, and infrastructure monitoring"},"speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".lede"]},"@id":"https://www.worldmonitor.app/accuracy/#webpage","isPartOf":{"@id":"https://www.worldmonitor.app/#website"},"breadcrumb":{"@id":"https://www.worldmonitor.app/accuracy/#breadcrumb"},"author":{"@id":"https://www.worldmonitor.app/#organization","@type":"Organization","name":"World Monitor","url":"https://www.worldmonitor.app/"}}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","@id":"https://www.worldmonitor.app/accuracy/#dataset","name":"World Monitor forecast resolution scorecard","description":"Aggregate accuracy of World Monitor forecasts over a rolling window: Brier and log scores for the headline cohort and for every scored entry, calibration buckets with their sample sizes, per-domain and per-origin breakdowns, void rates, and a head-to-head against liquid prediction markets. Frozen from the credentialed forecast scorecard API into a committed snapshot, so the published figures and the machine-readable distribution always agree.","identifier":"forecast-resolution-scorecard","keywords":["forecast accuracy","Brier score","forecast calibration","log score","prediction track record"],"creator":{"@id":"https://www.worldmonitor.app/#organization","@type":"Organization","name":"World Monitor","url":"https://www.worldmonitor.app/"},"license":{"@type":"CreativeWork","name":"World Monitor Terms of Service (27 July 2026)","url":"https://www.worldmonitor.app/docs/terms"},"isAccessibleForFree":true,"inLanguage":"en-US","spatialCoverage":"Worldwide","includedInDataCatalog":{"@type":"DataCatalog","@id":"https://www.worldmonitor.app/#data-catalog","name":"World Monitor open data catalog"},"variableMeasured":["Brier score","Logarithmic score","Calibration bucket realized rate","Void rate","Scored forecast count"],"measurementTechnique":"Brier and logarithmic scoring of resolved binary forecast windows","temporalCoverage":"2026-09-21","distribution":[{"@type":"DataDownload","encodingFormat":"application/json","contentUrl":"https://www.worldmonitor.app/accuracy/scorecard.json"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"DataCatalog","@id":"https://www.worldmonitor.app/#data-catalog","name":"World Monitor open data catalog","description":"Crawlable World Monitor datasets for country instability, country resilience, maritime chokepoint reference, bounded crisis trackers, and research snapshots, with static downloads generated from committed data.","url":"https://www.worldmonitor.app/","publisher":{"@id":"https://www.worldmonitor.app/#organization","@type":"Organization","name":"World Monitor","url":"https://www.worldmonitor.app/"},"creator":{"@id":"https://www.worldmonitor.app/#organization","@type":"Organization","name":"World Monitor","url":"https://www.worldmonitor.app/"},"inLanguage":"en-US","isAccessibleForFree":true,"license":{"@type":"CreativeWork","name":"World Monitor Terms of Service (27 July 2026)","url":"https://www.worldmonitor.app/docs/terms"}}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.worldmonitor.app/accuracy/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worldmonitor.app/"},{"@type":"ListItem","position":2,"name":"Forecast accuracy","item":"https://www.worldmonitor.app/accuracy/"}]}</script>
+    <style>
+      :root { color-scheme: dark; --bg: #050807; --panel: #0c1210; --text: #eef8f0; --muted: #a8b8ad; --line: #1b2b22; --accent: #4ade80; }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--bg); color: var(--text); font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.55; }
+      a { color: var(--accent); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      header, main, footer { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+      header { padding-top: 24px; padding-bottom: 18px; border-bottom: 1px solid var(--line); }
+      .brand-mark { margin: 0 0 14px; }
+      .brand-mark img { display: block; width: 120px; height: 63px; border-radius: 6px; border: 1px solid var(--line); background: var(--panel); object-fit: cover; }
+      nav { display: flex; gap: 4px 14px; flex-wrap: wrap; font-size: 14px; }
+      nav a { display: inline-flex; align-items: center; min-height: 44px; }
+      main { padding-top: 36px; padding-bottom: 52px; }
+      h1 { font-size: clamp(32px, 5vw, 54px); line-height: 1; margin: 0 0 16px; letter-spacing: 0; }
+      h2 { margin-top: 36px; font-size: 22px; }
+      p { color: var(--muted); }
+      .lede { font-size: 18px; max-width: 760px; }
+      .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; margin-top: 24px; }
+      .card, .metric { border: 1px solid var(--line); border-radius: 8px; padding: 16px; background: var(--panel); }
+      .metric strong { display: block; font-size: 28px; color: var(--text); }
+      .metric small { display: block; color: var(--accent); font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+      .eyebrow { color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 12px; font-weight: 700; }
+      .cta { display: inline-flex; align-items: center; gap: 8px; margin-top: 22px; padding: 13px 18px; border-radius: 8px; background: var(--accent); color: #04170c; font-weight: 700; font-size: 15px; }
+      .cta:hover { text-decoration: none; filter: brightness(1.08); }
+      .live-tool { margin-top: 28px; padding: 20px; border: 1px solid #28543a; border-radius: 12px; background: linear-gradient(145deg, #0e1712, #09100c); }
+      .live-tool h2 { margin: 3px 0 0; }
+      .live-tool .grid { margin-top: 18px; }
+      .tool-head, .tool-meta { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+      .tool-note { max-width: 760px; margin-bottom: 0; }
+      .tool-meta { margin-top: 16px; color: var(--muted); font-size: 13px; }
+      .live-status { padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 12px; font-weight: 700; }
+      .live-tool[data-state="ready"] .live-status { border-color: #28543a; color: var(--accent); }
+      .live-tool[data-state="partial"] .live-status { border-color: #7c6322; color: #fde68a; }
+      .live-tool[data-state="error"] .live-status { border-color: #6f3b3b; color: #fca5a5; }
+      .refresh { border: 1px solid var(--line); border-radius: 7px; padding: 12px 14px; background: #121d16; color: var(--text); cursor: pointer; font: inherit; }
+      .refresh:hover:not(:disabled) { border-color: var(--accent); }
+      .refresh:disabled { cursor: wait; opacity: 0.55; }
+      .tool-controls { display: flex; align-items: end; gap: 12px; flex-wrap: wrap; margin-top: 18px; }
+      .tool-controls label { display: grid; gap: 6px; color: var(--muted); font-size: 13px; }
+      .tool-controls select { min-width: 240px; border: 1px solid var(--line); border-radius: 7px; padding: 12px 34px 12px 12px; background: #121d16; color: var(--text); font: inherit; }
+      .result-list { list-style: none; padding: 0; margin: 16px 0 0; display: grid; gap: 8px; }
+      .result-list li { border-left: 2px solid var(--line); padding: 8px 12px; color: var(--muted); font-size: 14px; }
+      .split { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin-top: 18px; }
+      .split > section { border: 1px solid var(--line); border-radius: 8px; padding: 16px; background: var(--panel); }
+      .split h3 { margin: 0; font-size: 18px; }
+      .split .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .split .metric strong { font-size: 22px; }
+      .routes { list-style: none; padding: 0; margin: 20px 0 0; display: grid; gap: 8px; }
+      .routes li { border: 1px solid var(--line); border-radius: 8px; padding: 11px 14px; background: var(--panel); color: var(--text); font-size: 14px; }
+      .routes .vol { color: var(--muted); }
+      .domains { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+      .card.domain p { margin: 8px 0 12px; font-size: 14px; }
+      .card.domain .providers { display: flex; flex-wrap: wrap; gap: 6px; }
+      .card.domain .providers span { border: 1px solid var(--line); border-radius: 999px; padding: 3px 9px; color: var(--muted); font-size: 12px; }
+      .card.domain:hover { border-color: var(--accent); text-decoration: none; }
+      .related { list-style: none; padding: 0; margin: 12px 0 0; display: flex; flex-wrap: wrap; gap: 0 20px; }
+      .related a { display: inline-flex; align-items: center; min-height: 44px; }
+      .source { margin-top: 34px; font-size: 13px; color: var(--muted); }
+      table { border-collapse: collapse; width: 100%; margin-top: 16px; font-size: 14px; }
+      .table-scroll { max-width: 100%; overflow-x: auto; }
+      .table-scroll table { min-width: 680px; }
+      caption { caption-side: top; text-align: left; color: var(--muted); font-size: 13px; padding-bottom: 8px; }
+      th, td { border: 1px solid var(--line); padding: 8px 12px; text-align: left; }
+      th { color: var(--muted); font-weight: 600; background: var(--panel); }
+      td data { color: var(--text); }
+      figure { margin: 20px 0 0; padding: 16px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+      figcaption { margin-top: 10px; color: var(--muted); font-size: 13px; }
+      blockquote { margin: 16px 0 0; padding: 12px 16px; border-left: 2px solid var(--accent); background: var(--panel); border-radius: 0 8px 8px 0; }
+      blockquote p { margin: 0; color: var(--text); font-size: 14px; }
+      footer { border-top: 1px solid var(--line); padding-top: 20px; padding-bottom: 28px; color: var(--muted); font-size: 13px; }
+      .byline { margin: 0 0 12px; color: var(--text); }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <p class="brand-mark">
+        <img src="https://www.worldmonitor.app/favico/og-image.png" alt="World Monitor — real-time global intelligence dashboard with live markets, geopolitical data, and infrastructure monitoring" width="120" height="63" decoding="async" fetchpriority="low">
+      </p>
+      <nav aria-label="Primary">
+        <a href="/">World Monitor</a>
+        <a href="/sources/">Sources</a>
+        <a href="/compare/">Compare</a>
+        <a href="/countries/">Countries</a>
+        <a href="/chokepoints/">Chokepoints</a>
+        <a href="/crises/">Crises</a>
+        <a href="/tools/">Live tools</a>
+        <a href="/research/">Research</a>
+        <a href="/accuracy/">Accuracy</a>
+        <a href="/use-cases/">Use cases</a>
+        <a href="/reference/changelog/">Changelog</a>
+        <a href="/blog/glossary/">Glossary</a>
+      </nav>
+    </header>
+    <main>
+      <p class="eyebrow">Forecast accuracy</p>
+      <h1>Forecast accuracy scorecard</h1>
+      <p class="lede">World Monitor scores every forecast it publishes once the outcome is knowable, over a rolling 180-day window. This is the standing record: the scores, the calibration, the sample sizes, and the parts that are not measurable yet.</p>
+      <section data-accuracy-headline="current" aria-label="Record status">
+        <h2>Record status</h2>
+        <dl>
+          <dt data-accuracy-availability="ok">Availability: Captured</dt>
+          <dd>Read from the live scoring service on 2026-09-21 and frozen into this page.</dd>
+          <dt data-accuracy-freshness="current">Freshness: Current</dt>
+          <dd>The scoring service generated these numbers 23 hours before the capture read them. The threshold is 36 hours, matching the one the scoring service applies to itself.</dd>
+          <dt data-accuracy-coverage="measurable">Coverage: Measurable</dt>
+          <dd>The headline cohort has 200 scored forecasts, enough to publish a score.</dd>
+        </dl>
+      </section>
+      <section class="grid" aria-label="Headline forecast accuracy metrics">
+        <div class="metric"><span>Brier score, headline cohort</span><strong>0.115</strong> <small>200 scored forecasts</small></div>
+        <div class="metric"><span>Log score, headline cohort</span><strong>0.369</strong> <small>200 scored forecasts</small></div>
+        <div class="metric"><span>Brier score, every scored entry</span><strong>0.195</strong> <small>541 scored forecasts</small></div>
+        <div class="metric"><span>Scored entries</span><strong>541</strong> <small>of 862 resolved</small></div>
+      </section>
+      <p data-accuracy-result>Over the current 180-day window, World Monitor&#39;s headline cohort scores a Brier of 0.115 across 200 scored forecasts, against 0.25 for answering 0.5 to everything.</p>
+      <p><strong>Lower Brier is better.</strong> A Brier score is the mean squared error of a probability forecast, so 0 is perfect and answering 0.5 to everything scores 0.25. Log score is harsher on confident mistakes, and lower is better there too.</p>
+      <h2>What the headline number counts</h2>
+      <p>The headline Brier and log score cover 200 scored forecasts: every scored entry except those from the origins the scorecard excludes, currently bet_engine, state_derived. That exclusion costs 341 scored entries. An entry that carries no origin at all is filed as unknown and is counted, so this cohort is defined by what it leaves out and not by any property of the entries it keeps. The all-scored figure beside it is the same window with every origin put back, which is why the two numbers differ.</p>
+      <h2>Resolution ledger</h2>
+      <div class="table-scroll"><table data-ledger-totals>
+        <caption>Resolution ledger totals for the rolling window. Voided entries are counted for coverage and excluded from every score below. A judging backlog is an ordinary state of the ledger, not a fault.</caption>
+        <thead><tr><th scope="col">Ledger stage</th><th scope="col">Entries</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">Entries in the rolling window</th><td>1,058</td></tr>
+          <tr><th scope="row">Resolved</th><td>862</td></tr>
+          <tr><th scope="row">Scored</th><td>541</td></tr>
+          <tr><th scope="row">Voided</th><td>37.2% of 862 resolved entries (321 entries)</td></tr>
+          <tr><th scope="row">Awaiting a judge</th><td>94</td></tr>
+          <tr><th scope="row">Still open, not yet resolvable</th><td>102</td></tr>
+          <tr><th scope="row">Scored share of the ledger</th><td>51.1% of 1,058 entries</td></tr>
+        </tbody>
+      </table></div>
+      <p>Brier/log score over resolved YES/NO published forecast windows; VOID and pending entries are counted for coverage but excluded from accuracy math.</p>
+      <h2>Calibration</h2>
+      <div class="table-scroll"><table data-calibration>
+        <caption>Calibration by predicted probability, computed over all 541 scored entries rather than the narrower headline cohort. Average predicted and Brier are probabilities, not rates. Buckets that scored nothing are omitted rather than shown as zero.</caption>
+        <thead><tr><th scope="col">Predicted probability</th><th scope="col">Forecasts</th><th scope="col">Average predicted</th><th scope="col">Actually happened</th><th scope="col">Brier</th></tr></thead>
+        <tbody>
+          <tr data-calibration-bucket="0-10"><th scope="row" data-probability-band>0% to 10%</th><td>40</td><td>0.060</td><td>0.0% of 40 forecasts</td><td>0.005</td></tr>
+          <tr data-calibration-bucket="10-20"><th scope="row" data-probability-band>10% to 20%</th><td>67</td><td>0.142</td><td>4.5% of 67 forecasts</td><td>0.054</td></tr>
+          <tr data-calibration-bucket="20-30"><th scope="row" data-probability-band>20% to 30%</th><td>87</td><td>0.254</td><td>32.2% of 87 forecasts</td><td>0.225</td></tr>
+          <tr data-calibration-bucket="30-40"><th scope="row" data-probability-band>30% to 40%</th><td>184</td><td>0.352</td><td>35.9% of 184 forecasts</td><td>0.229</td></tr>
+          <tr data-calibration-bucket="40-50"><th scope="row" data-probability-band>40% to 50%</th><td>117</td><td>0.412</td><td>39.3% of 117 forecasts</td><td>0.237</td></tr>
+          <tr data-calibration-bucket="50-60"><th scope="row" data-probability-band>50% to 60%</th><td>32</td><td>0.531</td><td>25.0% of 32 forecasts</td><td>0.268</td></tr>
+          <tr data-calibration-bucket="60-70"><th scope="row" data-probability-band>60% to 70%</th><td>13</td><td>0.640</td><td>46.2% of 13 forecasts</td><td>0.274</td></tr>
+          <tr data-calibration-bucket="90-100"><th scope="row" data-probability-band>90% to 100%</th><td>1</td><td>0.930</td><td>100.0% of 1 forecasts</td><td>0.005</td></tr>
+        </tbody>
+      </table></div>
+      <h2>Accuracy by domain</h2>
+      <div class="table-scroll"><table data-by-domain>
+        <caption>Accuracy by forecast domain, over every scored entry in that domain. A domain that resolved entries but scored none is marked as an insufficient sample, never left blank.</caption>
+        <thead><tr><th scope="col">Domain</th><th scope="col">Resolved</th><th scope="col">Scored</th><th scope="col">Voided</th><th scope="col">Brier</th><th scope="col">Log score</th></tr></thead>
+        <tbody>
+          <tr data-domain="conflict"><th scope="row">conflict</th><td>41</td><td>12</td><td>70.7% of 41 resolved</td><td>0.273</td><td>0.730</td></tr>
+          <tr data-domain="cyber"><th scope="row">cyber</th><td>166</td><td>164</td><td>1.2% of 166 resolved</td><td>0.077</td><td>0.283</td></tr>
+          <tr data-domain="energy"><th scope="row">energy</th><td>32</td><td>32</td><td>0.0% of 32 resolved</td><td>0.247</td><td>0.705</td></tr>
+          <tr data-domain="geopolitical"><th scope="row">geopolitical</th><td>6</td><td>6</td><td>0.0% of 6 resolved</td><td>0.242</td><td>0.645</td></tr>
+          <tr data-domain="infrastructure"><th scope="row">infrastructure</th><td>89</td><td>11</td><td>87.6% of 89 resolved</td><td>0.286</td><td>0.764</td></tr>
+          <tr data-domain="macro"><th scope="row">macro</th><td>7</td><td>7</td><td>0.0% of 7 resolved</td><td>0.280</td><td>0.754</td></tr>
+          <tr data-domain="market"><th scope="row">market</th><td>382</td><td>293</td><td>23.3% of 382 resolved</td><td>0.243</td><td>0.681</td></tr>
+          <tr data-domain="military"><th scope="row">military</th><td>23</td><td>6</td><td>73.9% of 23 resolved</td><td>0.270</td><td>0.731</td></tr>
+          <tr data-domain="political"><th scope="row">political</th><td>7</td><td>0</td><td>100.0% of 7 resolved</td><td>Insufficient sample</td><td>Insufficient sample</td></tr>
+          <tr data-domain="supply_chain"><th scope="row">supply_chain</th><td>109</td><td>10</td><td>90.8% of 109 resolved</td><td>0.237</td><td>0.666</td></tr>
+        </tbody>
+      </table></div>
+      <h2>Accuracy by generation origin</h2>
+      <div class="table-scroll"><table data-by-origin>
+        <caption>Accuracy by generation origin, and whether each origin counts toward the headline cohort. An entry with no recorded origin is filed as unknown and does count.</caption>
+        <thead><tr><th scope="col">Generation origin</th><th scope="col">In the headline cohort</th><th scope="col">Resolved</th><th scope="col">Scored</th><th scope="col">Voided</th><th scope="col">Brier</th><th scope="col">Log score</th></tr></thead>
+        <tbody>
+          <tr data-origin="bet_engine"><th scope="row">bet_engine</th><td>No, excluded</td><td>330</td><td>330</td><td>0.0% of 330 resolved</td><td>0.242</td><td>0.680</td></tr>
+          <tr data-origin="legacy_detector"><th scope="row">legacy_detector</th><td>Yes</td><td>402</td><td>196</td><td>51.2% of 402 resolved</td><td>0.111</td><td>0.361</td></tr>
+          <tr data-origin="state_derived"><th scope="row">state_derived</th><td>No, excluded</td><td>97</td><td>11</td><td>88.7% of 97 resolved</td><td>0.241</td><td>0.676</td></tr>
+          <tr data-origin="unknown"><th scope="row">unknown</th><td>Yes</td><td>33</td><td>4</td><td>87.9% of 33 resolved</td><td>0.289</td><td>0.773</td></tr>
+        </tbody>
+      </table></div>
+      <h2>Against prediction markets</h2>
+      <p>Measured over all scored entries that overlapped a liquid market, not over the narrower headline cohort. On 89 such resolved questions the forecast Brier was 0.149 and the market Brier was 0.072. The published delta is the market Brier minus the forecast Brier, and lower is better, so a negative delta means the market scored better. Here the delta is -0.077, so on this sample the market scored better.</p>
+      <h2>What this page does not publish</h2>
+      <ul>
+        <li>Calibration buckets that scored nothing are omitted from the table rather than drawn as a zero: 70-80, 80-90 are empty in this window.</li>
+        <li>No confidence intervals. Each figure is published with the number of forecasts behind it instead, because stating a sample size without an interval is honest and inventing an interval is not. Tracking: <a href="https://github.com/koala73/worldmonitor/issues/7072">issue #7072</a>.</li>
+        <li>No accuracy for the 24-hour, 7-day and 30-day projections shown in the product. Those horizons are not scored yet, so nothing here describes them. Tracking: <a href="https://github.com/koala73/worldmonitor/issues/7075">issue #7075</a>.</li>
+        <li>No individual forecasts, resolution evidence, judge inputs or archive locations. This page publishes aggregates only.</li>
+      </ul>
+      <a class="cta" href="https://www.worldmonitor.app/dashboard?utm_source=seo-accuracy">Open the live forecast panel in World Monitor →</a>
+      <h2>Related reference</h2>
+      <ul class="related">
+        <li><a href="/blog/posts/ai-forecast-accuracy-brier-scorecard-worldmonitor/">Why we publish the ledger</a></li>
+        <li><a href="/country-instability-index/">Country Instability Index</a></li>
+        <li><a href="/countries/">Country Resilience Index</a></li>
+        <li><a href="/crises/">Crisis trackers</a></li>
+        <li><a href="/docs/methodology/cii-risk-scores">CII methodology</a></li>
+      </ul>
+      <p class="source" data-snapshot-source="docs/snapshots/crawlable-live-pulse-2026-09-21.json">Download: <a href="/accuracy/scorecard.json">scorecard.json</a>. Source: World Monitor forecast scorecard snapshot. Numbers generated 2026-09-20 06:02:08 UTC and read on 2026-09-21. Live results come from the credentialed forecast scorecard endpoint, which this page freezes so it can be read without one.</p>
+    </main>
+    <footer><p class="byline">Compiled and maintained by the <a href="/docs/about">World Monitor research team</a>. Scoring rules and coverage limits are published in the <a href="/docs">methodology documentation</a>; published revisions are recorded in the <a href="/docs/corrections">corrections log</a>.</p>World Monitor reference pages. Dated snapshots are published here; live readings are labelled separately.</footer>
+    
+    
+  </body>
+</html>

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SC",
+  "countryName": "Seychelles",
+  "slug": "seychelles",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Seychelles Central Bank Governor Caroline Abel Resigns",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/seychelles-central-bank-abel-commettant-transition/",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "President's Message on Clean Up the World Day - From Clean Plates to Clean Cities - News - State House Seychelles",
+        "source": "statehouse.gov.sc",
+        "url": "https://statehouse.gov.sc/news/7261/presidents-message-on-clean-up-the-world-day-from-clean-plates-to-clean-cities",
+        "publishedAt": "2026-09-20T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tonnes of fishing gear and plastic are washing up on Seychelles beaches. We tracked where it was coming from",
+        "source": "theconversation.com",
+        "url": "https://theconversation.com/tonnes-of-fishing-gear-and-plastic-are-washing-up-on-seychelles-beaches-we-tracked-where-it-was-coming-from-287138",
+        "publishedAt": "2026-09-18T13:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | President Herminie Orders Establishment of An Independent Commission of Inquiry into Incident at Sea Involving Seychelles Coast Guard (SCG) Officers",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/president-herminie-orders-establishment-of-an-independent-commission-of-inquiry-into-incident-at-sea-involving-seychelles-coast-guard-scg-officers",
+        "publishedAt": "2026-09-18T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "In Brief -Seychelles Nation",
+        "source": "nation.sc",
+        "url": "https://nation.sc/articles/32362/in-brief",
+        "publishedAt": "2026-09-18T09:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

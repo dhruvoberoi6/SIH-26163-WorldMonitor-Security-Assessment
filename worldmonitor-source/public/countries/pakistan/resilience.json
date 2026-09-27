@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PK",
+  "countryName": "Pakistan",
+  "slug": "pakistan",
+  "rank": 147,
+  "overallScore": 40.8,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "3 killed in Pakistani airstrikes in Afghanistan: media-Xinhua - 新华网",
+        "source": "Xinhua",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0hEejZ3ZlRoTkZ6eXN4MDYxNlNMQnlyTjNUX3JLa2lOSGhRUkJLSDhzWU93elpqbFBYWDlodG1KNnFIUEZUbFk1QUJWdE5RdFJGd3k3d3ZBQWdvazJpUzY4ajNqd3NFS0lSczA0Z0Qxa3hyRjdOeW11NE1rMXZEUmlDNDk4RlJS?oc=5",
+        "publishedAt": "2026-09-21T04:16:00.000Z"
+      },
+      {
+        "title": "Attacks on mining operations on the rise in Pakistan: report - Mining.com",
+        "source": "Mine Web (SNL)",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDlZeE1DV1pNX1QtTlE2LUM2VTRtRDRnOUpYdXMxZ0UybFV4bFNTR2szYTFuMk5TdE93dWg1SGVvaFBfNm5IN0ozTXR2QWRScUUzSkN4NUpZWmFQbFN5Q0lsaDROMTlhYVhWcGtTckMwS09YWV9XV2hnbjlkYVVZQ3kzWmYzN3NiTUpv?oc=5",
+        "publishedAt": "2026-09-20T19:03:06.000Z"
+      },
+      {
+        "title": "Attacks on mining operations on the rise in Pakistan: report",
+        "source": "Mining.com",
+        "url": "https://www.mining.com/attacks-on-mining-operations-on-the-rise-in-pakistan-report/",
+        "publishedAt": "2026-09-20T18:57:53.000Z"
+      },
+      {
+        "title": "‘Our commitment to Saudi security is unconditional’: Pakistan military spokesman - Arab News",
+        "source": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGdNNXpkMWhaTlc4cHN3MElDSnF1X21JY3p3WDlSU2lKQS1MRU5TTG1WZXpFYzdIcXlLcnNWRWJOeTRjZkVFMHppd3pGeVZiYTJtM0dFd183YnEwSlJaNmozU1NuT0pQNU82eGItZ3NOSXVOeW95MGdBSm1od2NKdkx2LVhwb0FIbnVKa285VlY3bHlOdUxsRHlSeHo3T2g1dllSVng5WHg3bEtjXzljUkgyUzBOeXdDTVBFV1JLZjU?oc=5",
+        "publishedAt": "2026-09-17T19:34:07.000Z"
+      },
+      {
+        "title": "EXCLUSIVE: Pakistan military vows to defend Saudi Arabia ‘to any extent’ amid Houthi attacks - Arab News",
+        "source": "Arab News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV25Palp2aEZfZXlXelhZVkp5Y0ZhVGdLQVFjTDJfY21rNmNrSDRvVWd6U2prNUQzcGxyRHJjOW00UWlMQXFvN0ZQWmliUnVhWjd3dkI4NUcweFN6ODFoczgydnFyODRydk83VWJGSTNTSlFfNUp4RUk5ODZJeVlyMUtyNDZWdk4tdGtTQkpyZ1ItYll1X1d2QjFxTlZtTVVPOWRUSHczLUpLQ0cwVmVEaGpGcXBNd180TENsQUJaMUl4VVFCQXJUZDczRjk4Xzlf?oc=5",
+        "publishedAt": "2026-09-17T17:55:02.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\n3 were killed in Pakistani airstrikes in Afghanistan. [1]\nAttacks on mining operations are on the rise in Pakistan. [2]\n\nWHAT THIS MEANS FOR PAKISTAN\nPakistan's military spokesman stated that the country's commitment to Saudi security is unconditional. [4]\nPakistan's military vowed to defend Saudi Arabia 'to any extent' amid Houthi attacks. [5]",
+      "generatedAt": "2026-09-21T04:59:18.847Z",
+      "sources": [
+        {
+          "title": "3 killed in Pakistani airstrikes in Afghanistan: media-Xinhua - 新华网",
+          "source": "Xinhua",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0hEejZ3ZlRoTkZ6eXN4MDYxNlNMQnlyTjNUX3JLa2lOSGhRUkJLSDhzWU93elpqbFBYWDlodG1KNnFIUEZUbFk1QUJWdE5RdFJGd3k3d3ZBQWdvazJpUzY4ajNqd3NFS0lSczA0Z0Qxa3hyRjdOeW11NE1rMXZEUmlDNDk4RlJS?oc=5",
+          "publishedAt": "2026-09-21T04:16:00.000Z"
+        },
+        {
+          "title": "Attacks on mining operations on the rise in Pakistan: report - Mining.com",
+          "source": "Mine Web (SNL)",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDlZeE1DV1pNX1QtTlE2LUM2VTRtRDRnOUpYdXMxZ0UybFV4bFNTR2szYTFuMk5TdE93dWg1SGVvaFBfNm5IN0ozTXR2QWRScUUzSkN4NUpZWmFQbFN5Q0lsaDROMTlhYVhWcGtTckMwS09YWV9XV2hnbjlkYVVZQ3kzWmYzN3NiTUpv?oc=5",
+          "publishedAt": "2026-09-20T19:03:06.000Z"
+        },
+        {
+          "title": "Attacks on mining operations on the rise in Pakistan: report",
+          "source": "Mining.com",
+          "url": "https://www.mining.com/attacks-on-mining-operations-on-the-rise-in-pakistan-report/",
+          "publishedAt": "2026-09-20T18:57:53.000Z"
+        },
+        {
+          "title": "‘Our commitment to Saudi security is unconditional’: Pakistan military spokesman - Arab News",
+          "source": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGdNNXpkMWhaTlc4cHN3MElDSnF1X21JY3p3WDlSU2lKQS1MRU5TTG1WZXpFYzdIcXlLcnNWRWJOeTRjZkVFMHppd3pGeVZiYTJtM0dFd183YnEwSlJaNmozU1NuT0pQNU82eGItZ3NOSXVOeW95MGdBSm1od2NKdkx2LVhwb0FIbnVKa285VlY3bHlOdUxsRHlSeHo3T2g1dllSVng5WHg3bEtjXzljUkgyUzBOeXdDTVBFV1JLZjU?oc=5",
+          "publishedAt": "2026-09-17T19:34:07.000Z"
+        },
+        {
+          "title": "EXCLUSIVE: Pakistan military vows to defend Saudi Arabia ‘to any extent’ amid Houthi attacks - Arab News",
+          "source": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV25Palp2aEZfZXlXelhZVkp5Y0ZhVGdLQVFjTDJfY21rNmNrSDRvVWd6U2prNUQzcGxyRHJjOW00UWlMQXFvN0ZQWmliUnVhWjd3dkI4NUcweFN6ODFoczgydnFyODRydk83VWJGSTNTSlFfNUp4RUk5ODZJeVlyMUtyNDZWdk4tdGtTQkpyZ1ItYll1X1d2QjFxTlZtTVVPOWRUSHczLUpLQ0cwVmVEaGpGcXBNd180TENsQUJaMUl4VVFCQXJUZDczRjk4Xzlf?oc=5",
+          "publishedAt": "2026-09-17T17:55:02.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

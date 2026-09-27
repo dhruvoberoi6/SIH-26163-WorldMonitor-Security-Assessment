@@ -1,0 +1,18 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "lombok_strait",
+  "displayName": "Lombok Strait",
+  "slug": "lombok-strait",
+  "lat": -8.5,
+  "lon": 115.7,
+  "region": "Indian Ocean ↔ Java Sea",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

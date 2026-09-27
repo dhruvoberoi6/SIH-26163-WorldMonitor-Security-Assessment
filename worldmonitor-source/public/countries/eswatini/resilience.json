@@ -1,0 +1,55 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SZ",
+  "countryName": "Eswatini",
+  "slug": "eswatini",
+  "rank": 146,
+  "overallScore": 41,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Eswatini Energy Plan and the 2034 Import Target",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/eswatini-energy-independence-imf-growth-2026/",
+        "publishedAt": "2026-09-19T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "2 U.S. government workers accidentally shot by soldiers during anti-smuggling operation in Eswatini",
+        "source": "cbsnews.com",
+        "url": "https://www.cbsnews.com/news/eswatini-soldiers-shoot-us-government-workers/",
+        "publishedAt": "2026-09-15T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Two US government officials injured in accidental shooting by eSwatini forces – Channel Africa",
+        "source": "channelafrica.co.za",
+        "url": "https://www.channelafrica.co.za/channelafrica/news/two-us-government-officials-injured-in-accidental-shooting-by-eswatini-forces/",
+        "publishedAt": "2026-09-15T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Two US government officials injured in accidental shooting by Eswatini forces",
+        "source": "whbl.com",
+        "url": "https://whbl.com/2026/09/15/two-us-government-officials-injured-in-accidental-shooting-by-eswatini-forces/",
+        "publishedAt": "2026-09-15T20:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

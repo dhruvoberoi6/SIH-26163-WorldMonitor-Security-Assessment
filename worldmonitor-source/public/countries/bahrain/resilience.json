@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BH",
+  "countryName": "Bahrain",
+  "slug": "bahrain",
+  "rank": 122,
+  "overallScore": 46.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bahrain News: OUR DIFFERENCES ARE A STRENGTH: Bahrain's model to be put into practice internationally",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407131",
+        "publishedAt": "2026-09-21T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain News: ILA gala to mark 70 years of community service in kingdom",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407127/ILA-gala-to-mark-70-years-of-community-service-in-kingdom",
+        "publishedAt": "2026-09-21T01:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain to Host the International Tourism Investment Forum 2027 with UN Tourism",
+        "source": "hotelnewsresource.com",
+        "url": "https://www.hotelnewsresource.com/article142956.html",
+        "publishedAt": "2026-09-21T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain News: Strong foundation to build global message of peace",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407106/Strong-foundation-to-build-global-message-of-peace",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bahrain News: 45 associations and clubs dissolved for remaining inactive",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1407110/45-associations-and-clubs-dissolved-for-remaining-inactive",
+        "publishedAt": "2026-09-21T00:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

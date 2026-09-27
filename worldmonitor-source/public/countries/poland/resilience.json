@@ -1,0 +1,94 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PL",
+  "countryName": "Poland",
+  "slug": "poland",
+  "rank": 36,
+  "overallScore": 61.2,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+        "source": "The Defiant",
+        "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+        "publishedAt": "2026-09-21T03:48:23.000Z"
+      },
+      {
+        "title": "European Commission Approves Grants for 3 Cross-Border RE Projects",
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/european_commission_approves_grants_for_3_crossborder_re_projects-20-sep-2026-184655-article/?rss=true",
+        "publishedAt": "2026-09-20T11:00:00.000Z"
+      },
+      {
+        "title": "WATCH AGAIN: Latvia versus Poland international volleyball",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/culture/sport/19.09.2026-watch-again-latvia-versus-poland-international-volleyball.a663732/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-19T12:45:00.000Z"
+      },
+      {
+        "title": "Group of asylum seekers returned to Latvia from Poland",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/society/18.09.2026-group-of-asylum-seekers-returned-to-latvia-from-poland.a663717/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-18T05:46:29.000Z"
+      },
+      {
+        "title": "Poland has decided to tax energy companies' extra profits after huge price increases",
+        "source": "thevermilion.com",
+        "url": "https://www.thevermilion.com/poland-has-decided-to-tax-energy-companies-extra-profits-after-huge-price-increases/article_20842/",
+        "publishedAt": "2026-09-21T00:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRevolut starts EURR rollout with bridge as regulated issuer. [1]\nThe European Commission approves grants for 3 cross-border RE projects. [2]\nPoland has decided to tax energy companies' extra profits after huge price increases. [5]\n\nWHAT THIS MEANS FOR POLAND\nA group of asylum seekers was returned to Latvia from Poland. [4]",
+      "generatedAt": "2026-09-21T04:59:21.093Z",
+      "sources": [
+        {
+          "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+          "source": "The Defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+          "publishedAt": "2026-09-21T03:48:23.000Z"
+        },
+        {
+          "title": "European Commission Approves Grants for 3 Cross-Border RE Projects",
+          "source": "Rigzone",
+          "url": "https://www.rigzone.com/news/european_commission_approves_grants_for_3_crossborder_re_projects-20-sep-2026-184655-article/?rss=true",
+          "publishedAt": "2026-09-20T11:00:00.000Z"
+        },
+        {
+          "title": "WATCH AGAIN: Latvia versus Poland international volleyball",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/culture/sport/19.09.2026-watch-again-latvia-versus-poland-international-volleyball.a663732/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-19T12:45:00.000Z"
+        },
+        {
+          "title": "Group of asylum seekers returned to Latvia from Poland",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/society/society/18.09.2026-group-of-asylum-seekers-returned-to-latvia-from-poland.a663717/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-18T05:46:29.000Z"
+        },
+        {
+          "title": "Poland has decided to tax energy companies' extra profits after huge price increases",
+          "source": "thevermilion.com",
+          "url": "https://www.thevermilion.com/poland-has-decided-to-tax-energy-companies-extra-profits-after-huge-price-increases/article_20842/",
+          "publishedAt": "2026-09-21T00:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

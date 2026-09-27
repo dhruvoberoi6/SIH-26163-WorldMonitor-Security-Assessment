@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "RO",
+  "countryName": "Romania",
+  "slug": "romania",
+  "rank": 49,
+  "overallScore": 58.9,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
+        "source": "Wall Street Journal",
+        "url": "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32?mod=rss_usnews",
+        "publishedAt": "2026-09-20T09:30:00.000Z"
+      },
+      {
+        "title": "Romania’s President Nominates MEP to Form Govt, But Uncertainty Remains",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/17/romanias-president-nominates-mep-to-form-govt-but-uncertainty-remains/bi/",
+        "publishedAt": "2026-09-17T15:58:51.000Z"
+      },
+      {
+        "title": "September 20, 2026 UPDATE - Radio Romania International",
+        "source": "rri.ro",
+        "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-20-2026-update-id1061512.html",
+        "publishedAt": "2026-09-20T17:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Listen to RRI in English - September 20, 2026 - Radio Romania International",
+        "source": "rri.ro",
+        "url": "https://www.rri.ro/en/on-demand/listen-here/listen-to-rri-in-english-september-20-2026-id1061499.html",
+        "publishedAt": "2026-09-20T17:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Sip Canal - Radio Romania International",
+        "source": "rri.ro",
+        "url": "https://www.rri.ro/en/features-and-reports/rri-encyclopaedia/the-sip-canal-id1059641.html",
+        "publishedAt": "2026-09-20T12:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nRomanian crime rings are draining U.S. welfare accounts. [1]\nRomania’s President nominates an MEP to form a government, but uncertainty remains. [2]\n\nWATCH ITEMS\nUncertainty remains regarding the MEP nominated by Romania’s President to form a government. [2]",
+      "generatedAt": "2026-09-21T04:59:34.848Z",
+      "sources": [
+        {
+          "title": "How Romanian Crime Rings Are Draining U.S. Welfare Accounts",
+          "source": "Wall Street Journal",
+          "url": "https://www.wsj.com/us-news/how-romanian-crime-rings-are-draining-u-s-welfare-accounts-c9750d32?mod=rss_usnews",
+          "publishedAt": "2026-09-20T09:30:00.000Z"
+        },
+        {
+          "title": "Romania’s President Nominates MEP to Form Govt, But Uncertainty Remains",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/17/romanias-president-nominates-mep-to-form-govt-but-uncertainty-remains/bi/",
+          "publishedAt": "2026-09-17T15:58:51.000Z"
+        },
+        {
+          "title": "September 20, 2026 UPDATE - Radio Romania International",
+          "source": "rri.ro",
+          "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/september-20-2026-update-id1061512.html",
+          "publishedAt": "2026-09-20T17:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Listen to RRI in English - September 20, 2026 - Radio Romania International",
+          "source": "rri.ro",
+          "url": "https://www.rri.ro/en/on-demand/listen-here/listen-to-rri-in-english-september-20-2026-id1061499.html",
+          "publishedAt": "2026-09-20T17:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "The Sip Canal - Radio Romania International",
+          "source": "rri.ro",
+          "url": "https://www.rri.ro/en/features-and-reports/rri-encyclopaedia/the-sip-canal-id1059641.html",
+          "publishedAt": "2026-09-20T12:00:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

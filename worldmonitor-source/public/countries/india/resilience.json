@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IN",
+  "countryName": "India",
+  "slug": "india",
+  "rank": 106,
+  "overallScore": 50,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met - The Times of India",
+        "source": "Shipping & Freight",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXM4SmJIZ0lwMHlmTi1YSi1ldzhEamVfd0pJdUlaelNUYVhMZ1FXSkFFSjlPamZCQkNWcGtlNXY0bk9LNU9ieFBmVTRZcWtQY0J0c3AwalI3czVBbHBuMHd2U0JxcXRaOXAtaHVNWlpwUHpfb0l5SGFjZ3NwZG9QaTUxNnJqV3NyWkVLbXcxNjEyc194MFV4OFpxTlY3Q3BRTXI0N252aVRXZ1ZWQUdLaWdIRGdVSjE2NlUyRlNyWDF2SzRrOF84M0c4X3BiMVhPT0I0UUFFSG1NS0kxS25tR3UyY0llMEotdG55UWVfTFExMTU2UVJ30gH8AUFVX3lxTE1KV3JlY2x5eW05V01ZNEtBc2c4cjI4MDVnT3hkendwOFkydGlLVzJuM2dTcjlRRU54TzZObXh5ZnZqZFZlb1pPVURGOENQOUU2Mkh5OTI1MlB0RW1yM2htbUgxV0dZejdlYUVrVTFHdmNXanZBWEI5WUVyVlBEb0JCTlRoTlZqWXlkVTVvcTFmSVhqYjFTa1ZTZi00Rzd2ekczTk15UzhhMUEtNnhTY0R4VUFsZHJnZ2VIZ09XbmsxV3lBM1V3VERhMUl5Q29YRWlsZmVSYjVBaHdRQXFDMDE2OUVXdEJ1R1RWOGswRUtJS0w1alJNd2pnWFB2WQ?oc=5",
+        "publishedAt": "2026-09-21T01:36:00.000Z"
+      },
+      {
+        "title": "New US sanctions bill on Russia puts India's Modi in a bind - Reuters",
+        "source": "Reuters India",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJCNkhGN0UzLTdmV0g4RzdmUmdLZ254c2JTWjB5cXRRZXZfYTZ0eW5YZ0ZyU1oteVIwdjV6V3VENE5VOGdfVnFHSTVBMnlCU3R0VkVWeWxMSnI5eVlvUTFRQmdVdWhISEpMVlFXa0UwNU1mTnVqV1ZoanVEQXoxOXBWZW5qUld0bE9QWUl1NkVTMHZ3VUZwTUItNTdpLWtrSmJJMA?oc=5",
+        "publishedAt": "2026-09-18T14:50:57.000Z"
+      },
+      {
+        "title": "India vows to protect energy security after new US tariffs over Russian oil",
+        "source": "France 24 Asia Pacific",
+        "url": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil",
+        "publishedAt": "2026-09-17T18:50:04.000Z"
+      },
+      {
+        "title": "Canada optimistic about concluding trade talks with India by year-end, minister says - Reuters",
+        "source": "Reuters India",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5",
+        "publishedAt": "2026-09-19T17:24:05.000Z"
+      },
+      {
+        "title": "India’s FX Reserves Dip, Snapping the Longest Rising Streak in Over Five Years - Bloomberg.com",
+        "source": "Forex News",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmNXVGh6U21fMlg1Z3M4VERXZFM4eWdBc1ZBU19Bd2lLYURQekNkWW5wNkx1aER4VVBEb0hmUER6WTIzRUlzU2xCREpDWVJuR0ZENXhQakRlZDhvS2NPX3V1T3NrWWZ2MjViSzREU0VhdWlkdkVTMFloWUUxdnM5dWdjUGVwckl4NEtNcnNXNGtDZWpSYzZFbVdlVHJqTHo4TTRHaFNJVXZVRUZ0bXVCMzM1aFV5MW81a0FuWm8zeHNTbU5LUlU0SzdsNA?oc=5",
+        "publishedAt": "2026-09-21T02:44:37.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIran rules out reopening the Strait of Hormuz and returning to US talks until conditions are met. [1]\nIndia vows to protect energy security after new US tariffs over Russian oil. [3]\nCanada is optimistic about concluding trade talks with India by year-end, a minister says. [4]\nIndia's FX reserves dip, snapping the longest rising streak in over five years. [5]\n\nWATCH ITEMS\nIran's refusal to reopen the Strait of Hormuz and return to US talks until conditions are met remains unresolved. [1]\nCanada's optimism about concluding trade talks with India by year-end is pending finalization. [4]",
+      "generatedAt": "2026-09-21T04:57:06.675Z",
+      "sources": [
+        {
+          "title": "Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met - The Times of India",
+          "source": "Shipping & Freight",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXM4SmJIZ0lwMHlmTi1YSi1ldzhEamVfd0pJdUlaelNUYVhMZ1FXSkFFSjlPamZCQkNWcGtlNXY0bk9LNU9ieFBmVTRZcWtQY0J0c3AwalI3czVBbHBuMHd2U0JxcXRaOXAtaHVNWlpwUHpfb0l5SGFjZ3NwZG9QaTUxNnJqV3NyWkVLbXcxNjEyc194MFV4OFpxTlY3Q3BRTXI0N252aVRXZ1ZWQUdLaWdIRGdVSjE2NlUyRlNyWDF2SzRrOF84M0c4X3BiMVhPT0I0UUFFSG1NS0kxS25tR3UyY0llMEotdG55UWVfTFExMTU2UVJ30gH8AUFVX3lxTE1KV3JlY2x5eW05V01ZNEtBc2c4cjI4MDVnT3hkendwOFkydGlLVzJuM2dTcjlRRU54TzZObXh5ZnZqZFZlb1pPVURGOENQOUU2Mkh5OTI1MlB0RW1yM2htbUgxV0dZejdlYUVrVTFHdmNXanZBWEI5WUVyVlBEb0JCTlRoTlZqWXlkVTVvcTFmSVhqYjFTa1ZTZi00Rzd2ekczTk15UzhhMUEtNnhTY0R4VUFsZHJnZ2VIZ09XbmsxV3lBM1V3VERhMUl5Q29YRWlsZmVSYjVBaHdRQXFDMDE2OUVXdEJ1R1RWOGswRUtJS0w1alJNd2pnWFB2WQ?oc=5",
+          "publishedAt": "2026-09-21T01:36:00.000Z"
+        },
+        {
+          "title": "New US sanctions bill on Russia puts India's Modi in a bind - Reuters",
+          "source": "Reuters India",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJCNkhGN0UzLTdmV0g4RzdmUmdLZ254c2JTWjB5cXRRZXZfYTZ0eW5YZ0ZyU1oteVIwdjV6V3VENE5VOGdfVnFHSTVBMnlCU3R0VkVWeWxMSnI5eVlvUTFRQmdVdWhISEpMVlFXa0UwNU1mTnVqV1ZoanVEQXoxOXBWZW5qUld0bE9QWUl1NkVTMHZ3VUZwTUItNTdpLWtrSmJJMA?oc=5",
+          "publishedAt": "2026-09-18T14:50:57.000Z"
+        },
+        {
+          "title": "India vows to protect energy security after new US tariffs over Russian oil",
+          "source": "France 24 Asia Pacific",
+          "url": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil",
+          "publishedAt": "2026-09-17T18:50:04.000Z"
+        },
+        {
+          "title": "Canada optimistic about concluding trade talks with India by year-end, minister says - Reuters",
+          "source": "Reuters India",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5",
+          "publishedAt": "2026-09-19T17:24:05.000Z"
+        },
+        {
+          "title": "India’s FX Reserves Dip, Snapping the Longest Rising Streak in Over Five Years - Bloomberg.com",
+          "source": "Forex News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmNXVGh6U21fMlg1Z3M4VERXZFM4eWdBc1ZBU19Bd2lLYURQekNkWW5wNkx1aER4VVBEb0hmUER6WTIzRUlzU2xCREpDWVJuR0ZENXhQakRlZDhvS2NPX3V1T3NrWWZ2MjViSzREU0VhdWlkdkVTMFloWUUxdnM5dWdjUGVwckl4NEtNcnNXNGtDZWpSYzZFbVdlVHJqTHo4TTRHaFNJVXZVRUZ0bXVCMzM1aFV5MW81a0FuWm8zeHNTbU5LUlU0SzdsNA?oc=5",
+          "publishedAt": "2026-09-21T02:44:37.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

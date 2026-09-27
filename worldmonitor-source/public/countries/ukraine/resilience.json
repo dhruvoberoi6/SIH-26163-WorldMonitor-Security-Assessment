@@ -1,0 +1,163 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UA",
+  "countryName": "Ukraine",
+  "slug": "ukraine",
+  "rank": 128,
+  "overallScore": 44.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Russia held its first State Duma election since the full-scale invasion of Ukraine. Officials say the same five parties are set to return, with the ruling party on track to retain its majority.",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/feature/2026/09/21/russia-held-its-first-state-duma-election-since-the-full-scale-invasion-of-ukraine-officials-say-the-same-five-parties-are-set-to-return-with-the-ruling-party-on-track-to-retain-its-majority",
+        "publishedAt": "2026-09-21T00:50:05.000Z"
+      },
+      {
+        "title": "Moscow targeted by ‘largest ever’ drone attack on final day of Russia’s parliamentary election",
+        "source": "Egypt Independent",
+        "url": "https://www.egyptindependent.com/moscow-targeted-by-largest-ever-drone-attack-on-final-day-of-russias-parliamentary-election/",
+        "publishedAt": "2026-09-20T12:01:55.000Z"
+      },
+      {
+        "title": "Ukraine uses Pelican ballistic missile for first time in strikes on Russia - The New Voice of Ukraine",
+        "source": "NV EN",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXF6andYVS1YQkdhTFpJLWtuWU5heFNreksxV3R1cG1MRjNtcjhzOGhUaDdVS2RSTDhjVURuU0lEaEdqU0RkTlB4QVdNNlRVWENWLXFLM3BKUVpQYUs4TDdpakZ6ckxUeXdDNjExWUplNno4NGp6eERiR1cxcExXRFUyWUs0TFlncVRhRjNKZ19GOFFyZ05aZnNxR04zM3MyLUhUcEZQdnV0VjhnOTBVb1ZhZUhyWmPSAawBQVVfeXFMUEVfYjBDZms4TXNQRlFhX0NOQk02dE8yWFpjVnFJREJsSk9IXzNRMkNHcVpqakN3cFpmdzBHTFJuRFdRclZPVjNzaHMzZUxWemdHbWlMT3dWeTN2azcwUEE3SmVWUks0cFZnSi00VjFWZUYtU3pINkozR1UzUG1XYUFIdjBVZmtIazJVSHFZMTd5Nms3RE56ZUZjRllOZHVJYXZaQ1BhR2lMM0tiTw?oc=5",
+        "publishedAt": "2026-09-20T11:55:00.000Z"
+      },
+      {
+        "title": "North Korea has fired around 150 ballistic missiles at Ukraine, learning from each one. Same missiles threaten Japan, and Kyiv just shows its speaker what is inside them - Euromaidan Press",
+        "source": "Ukrainska Pravda EN",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU3BBRWl6aGtBRmJHWjlRMXY3dXA0d1JFcVgzU2g3ajR5RG1ILXdxa1JhVW1OUFZYV2tDaHJPTWJSdWNnM2xyNzRxa2xmRk0wakpaRGY2aldhVHZodU9xZmR4Z05HUWJ2dVVuWjJNR211NGJRUHJ1elR6ZGZFV0dfVGtnNGVCbDVlY2lsdV9nR3hHZS1LMUJibTF6NlU5UlBfRm1tVGpHRGFrZklsUDhTaTVVSEE4YWU0V2NiOEp4Mk1udE1zS25QM1U5MWtrTkp3b0FHUFN6X21JT2MtREFvb2lVRWdIRzNCS2NNTWFXUmhmR0JSRkFiSzVyNnpXTmFmSTRQTllNaVFvU241aDdXcUtXcHE3U2NTbGJnUi1xN1dGSFcyNndHWGFzNUpsZjg?oc=5",
+        "publishedAt": "2026-09-20T07:57:15.000Z"
+      },
+      {
+        "title": "Russians vote as Ukraine war drags on for fifth year - Taipei Times",
+        "source": "Taipei Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5saUp4WU9NNmpMOFBvRFFMV0R6eF9qcU9JNGV5MlctdjhXMU5JcERjQXByaGQxNzN6MDNBWWlyclJucmhRT1RqZWZVZF9YaFYzSE1NMEI4UlM5bjdtU0dLSE9LXzhpSE84OVRZUHJuanVQWG5PaU1KRw?oc=5",
+        "publishedAt": "2026-09-18T16:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nUkraine uses Pelican ballistic missile for first time in strikes on Russia [3]\nNorth Korea has fired around 150 ballistic missiles at Ukraine, learning from each one [4]\n\nWHAT THIS MEANS FOR UKRAINE\nUkraine's use of Pelican missiles indicates escalation of its counter‑strike capabilities [3]\n\nKEY RISKS\nNorth Korean ballistic missiles threaten Japan and pose a regional security risk [4]\n\nWATCH ITEMS\nRussia held its first State Duma election since the full‑scale invasion of Ukraine [1]\nMoscow targeted by ‘largest ever’ drone attack on final day of Russia’s parliamentary election [2]\nRussians vote as Ukraine war drags on for fifth year [5]",
+      "generatedAt": "2026-09-21T05:01:32.879Z",
+      "sources": [
+        {
+          "title": "Russia held its first State Duma election since the full-scale invasion of Ukraine. Officials say the same five parties are set to return, with the ruling part...",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/feature/2026/09/21/russia-held-its-first-state-duma-election-since-the-full-scale-invasion-of-ukraine-officials-say-the-same-five-parties-are-set-to-return-with-the-ruling-party-on-track-to-retain-its-majority",
+          "publishedAt": "2026-09-21T00:50:05.000Z"
+        },
+        {
+          "title": "Moscow targeted by ‘largest ever’ drone attack on final day of Russia’s parliamentary election",
+          "source": "Egypt Independent",
+          "url": "https://www.egyptindependent.com/moscow-targeted-by-largest-ever-drone-attack-on-final-day-of-russias-parliamentary-election/",
+          "publishedAt": "2026-09-20T12:01:55.000Z"
+        },
+        {
+          "title": "Ukraine uses Pelican ballistic missile for first time in strikes on Russia - The New Voice of Ukraine",
+          "source": "NV EN",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXF6andYVS1YQkdhTFpJLWtuWU5heFNreksxV3R1cG1MRjNtcjhzOGhUaDdVS2RSTDhjVURuU0lEaEdqU0RkTlB4QVdNNlRVWENWLXFLM3BKUVpQYUs4TDdpakZ6ckxUeXdDNjExWUplNno4NGp6eERiR1cxcExXRFUyWUs0TFlncVRhRjNKZ19GOFFyZ05aZnNxR04zM3MyLUhUcEZQdnV0VjhnOTBVb1ZhZUhyWmPSAawBQVVfeXFMUEVfYjBDZms4TXNQRlFhX0NOQk02dE8yWFpjVnFJREJsSk9IXzNRMkNHcVpqakN3cFpmdzBHTFJuRFdRclZPVjNzaHMzZUxWemdHbWlMT3dWeTN2azcwUEE3SmVWUks0cFZnSi00VjFWZUYtU3pINkozR1UzUG1XYUFIdjBVZmtIazJVSHFZMTd5Nms3RE56ZUZjRllOZHVJYXZaQ1BhR2lMM0tiTw?oc=5",
+          "publishedAt": "2026-09-20T11:55:00.000Z"
+        },
+        {
+          "title": "North Korea has fired around 150 ballistic missiles at Ukraine, learning from each one. Same missiles threaten Japan, and Kyiv just shows its speaker what is i...",
+          "source": "Ukrainska Pravda EN",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU3BBRWl6aGtBRmJHWjlRMXY3dXA0d1JFcVgzU2g3ajR5RG1ILXdxa1JhVW1OUFZYV2tDaHJPTWJSdWNnM2xyNzRxa2xmRk0wakpaRGY2aldhVHZodU9xZmR4Z05HUWJ2dVVuWjJNR211NGJRUHJ1elR6ZGZFV0dfVGtnNGVCbDVlY2lsdV9nR3hHZS1LMUJibTF6NlU5UlBfRm1tVGpHRGFrZklsUDhTaTVVSEE4YWU0V2NiOEp4Mk1udE1zS25QM1U5MWtrTkp3b0FHUFN6X21JT2MtREFvb2lVRWdIRzNCS2NNTWFXUmhmR0JSRkFiSzVyNnpXTmFmSTRQTllNaVFvU241aDdXcUtXcHE3U2NTbGJnUi1xN1dGSFcyNndHWGFzNUpsZjg?oc=5",
+          "publishedAt": "2026-09-20T07:57:15.000Z"
+        },
+        {
+          "title": "Russians vote as Ukraine war drags on for fifth year - Taipei Times",
+          "source": "Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5saUp4WU9NNmpMOFBvRFFMV0R6eF9qcU9JNGV5MlctdjhXMU5JcERjQXByaGQxNzN6MDNBWWlyclJucmhRT1RqZWZVZF9YaFYzSE1NMEI4UlM5bjdtU0dLSE9LXzhpSE84OVRZUHJuanVQWG5PaU1KRw?oc=5",
+          "publishedAt": "2026-09-18T16:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.eng.kavkaz-uzel.eu",
+        "sourceUrl": "https://www.eng.kavkaz-uzel.eu/articles/78740",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.eng.kavkaz-uzel.eu",
+        "sourceUrl": "https://www.eng.kavkaz-uzel.eu/articles/78740",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.eng.kavkaz-uzel.eu",
+        "sourceUrl": "https://www.eng.kavkaz-uzel.eu/articles/78740",
+        "occurredAt": "2026-09-21T04:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Ukraine",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/21092026-ukraines-military-expertise-is-going-abroad-along-with-questions-about-accountability-oped/",
+        "occurredAt": "2026-09-21T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Ukraine",
+        "summary": "source: www.eurasiareview.com",
+        "sourceUrl": "https://www.eurasiareview.com/21092026-ukraines-military-expertise-is-going-abroad-along-with-questions-about-accountability-oped/",
+        "occurredAt": "2026-09-21T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 180 — in Ukraine",
+        "summary": "source: www.dailystar.co.uk",
+        "sourceUrl": "https://www.dailystar.co.uk/news/world-news/ukraine-drone-attack-moscow-sparks-37683330",
+        "occurredAt": "2026-09-21T04:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.thestokesnews.com",
+        "sourceUrl": "https://www.thestokesnews.com/ap/national/ukraine-fires-over-1-000-drones-at-russia-including-largest-ever-attack-on-moscow/article_8ecfb869-2117-572f-b976-1cdacde41bc1.html",
+        "occurredAt": "2026-09-21T03:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Ukraine",
+        "summary": "source: www.wishtv.com",
+        "sourceUrl": "https://www.wishtv.com/news/international/ukraine-launches-its-largest-ever-drone-attack-on-moscow-damaging-oil-refinery/",
+        "occurredAt": "2026-09-21T03:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Ukraine",
+        "summary": "source: www.thestokesnews.com",
+        "sourceUrl": "https://www.thestokesnews.com/ap/national/ukraine-fires-over-1-000-drones-at-russia-including-largest-ever-attack-on-moscow/article_8ecfb869-2117-572f-b976-1cdacde41bc1.html",
+        "occurredAt": "2026-09-21T03:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 195 — in Ukraine",
+        "summary": "source: www.mangalorean.com",
+        "sourceUrl": "https://www.mangalorean.com/turkish-airlines-flight-returns-to-istanbul-amid-drone-attacks-near-moscow/",
+        "occurredAt": "2026-09-21T03:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

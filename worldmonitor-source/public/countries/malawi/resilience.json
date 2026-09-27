@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MW",
+  "countryName": "Malawi",
+  "slug": "malawi",
+  "rank": 142,
+  "overallScore": 42,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-18T14:41:30.000Z"
+      },
+      {
+        "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+        "publishedAt": "2026-09-18T11:21:36.000Z"
+      },
+      {
+        "title": "Rotary Club rallies Malawians to donate blood for children battling cancer — as charity reveals scale of crisis facing young patients A Lilongwe charity has launched an urgent blood donation drive to",
+        "source": "nyasatimes.com",
+        "url": "https://www.nyasatimes.com/rotary-club-rallies-malawians-to-donate-blood-for-children-battling-cancer-as-charity-reveals-scale-of-crisis-facing-young-patients-a-lilongwe-charity-has-launched-an-urgent-blood-donation-d/",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Women's Premiership returns: Bullets, Strikers and Civo Service all victorious - Sports News Malawi",
+        "source": "nyasatimes.com",
+        "url": "https://www.nyasatimes.com/womens-premiership-returns-bullets-strikers-and-civo-service-all-victorious/",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Chakwera breaks silence on Malawi's power crisis: 'Prices have been stolen from farmers' - Featured News Malawi",
+        "source": "nyasatimes.com",
+        "url": "https://www.nyasatimes.com/chakwera-breaks-silence-on-malawis-power-crisis-prices-have-been-stolen-from-farmers/",
+        "publishedAt": "2026-09-20T18:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA British woman kidnapped in Malawi was rescued by police after a shootout that left four suspected kidnappers dead. [1]\nThe Rotary Club has rallied Malawians to donate blood for children battling cancer, as a Lilongwe charity reveals the scale of the crisis facing young patients. [3]\n\nWHAT THIS MEANS FOR MALAWI\nThe rescue of the British woman indicates that police in Malawi can respond with lethal force in kidnapping incidents. [1]\n\nKEY RISKS\nThe shootout during the rescue operation suggests a risk of violent confrontations between police and criminal groups in Malawi. [1]\n\nWATCH ITEMS\nPresident Chakwera has broken his silence on Malawi's power crisis, stating that prices have been stolen from farmers. [5]",
+      "generatedAt": "2026-09-21T04:58:38.395Z",
+      "sources": [
+        {
+          "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-18T14:41:30.000Z"
+        },
+        {
+          "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+          "publishedAt": "2026-09-18T11:21:36.000Z"
+        },
+        {
+          "title": "Rotary Club rallies Malawians to donate blood for children battling cancer — as charity reveals scale of crisis facing young patients A Lilongwe charity has la...",
+          "source": "nyasatimes.com",
+          "url": "https://www.nyasatimes.com/rotary-club-rallies-malawians-to-donate-blood-for-children-battling-cancer-as-charity-reveals-scale-of-crisis-facing-young-patients-a-lilongwe-charity-has-launched-an-urgent-blood-donation-d/",
+          "publishedAt": "2026-09-20T23:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Women's Premiership returns: Bullets, Strikers and Civo Service all victorious - Sports News Malawi",
+          "source": "nyasatimes.com",
+          "url": "https://www.nyasatimes.com/womens-premiership-returns-bullets-strikers-and-civo-service-all-victorious/",
+          "publishedAt": "2026-09-20T23:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Chakwera breaks silence on Malawi's power crisis: 'Prices have been stolen from farmers' - Featured News Malawi",
+          "source": "nyasatimes.com",
+          "url": "https://www.nyasatimes.com/chakwera-breaks-silence-on-malawis-power-crisis-prices-have-been-stolen-from-farmers/",
+          "publishedAt": "2026-09-20T18:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

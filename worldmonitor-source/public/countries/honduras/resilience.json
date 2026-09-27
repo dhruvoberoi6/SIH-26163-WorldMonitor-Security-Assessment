@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HN",
+  "countryName": "Honduras",
+  "slug": "honduras",
+  "rank": 108,
+  "overallScore": 49.7,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Honduras Declares Three Gangs Terrorist Groups but Keeps Their Names Secret",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/honduras-declares-three-gangs-terrorist-names-secret-2026/",
+        "publishedAt": "2026-09-20T09:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Honduras Farm Planted Sunflowers for Cows and Harvested 70,000 Annual Visitors Instead",
+        "source": "latinamericanpost.com",
+        "url": "https://latinamericanpost.com/business-and-finance/honduras-farm-planted-sunflowers-for-cows-and-harvested-70000-annual-visitors-instead/",
+        "publishedAt": "2026-09-18T22:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Haiti - Honduras : An ONI delegation presents DELIDOC's progress. - HaitiLibre.com : Haiti news 7/7",
+        "source": "haitilibre.com",
+        "url": "https://www.haitilibre.com/en/news-48463-haiti-honduras-an-oni-delegation-presents-delidoc-s-progress.html",
+        "publishedAt": "2026-09-17T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "《TAIPEI TIMES》Minister 'open' to Honduras relations - 焦點",
+        "source": "ltn.com.tw",
+        "url": "https://news.ltn.com.tw/news/focus/breakingnews/5576520",
+        "publishedAt": "2026-09-16T20:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Honduras Turns Lasers on Copán's Hidden Maya Past Before More History Disappears",
+        "source": "latinamericanpost.com",
+        "url": "https://latinamericanpost.com/science-technology/honduras-turns-lasers-on-copans-hidden-maya-past-before-more-history-disappears/",
+        "publishedAt": "2026-09-15T21:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

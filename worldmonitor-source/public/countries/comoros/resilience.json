@@ -1,0 +1,34 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KM",
+  "countryName": "Comoros",
+  "slug": "comoros",
+  "rank": 116,
+  "overallScore": 47.7,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Anjouan Casino Licence — What Comoros Says About It",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/comoros-anjouan-online-casino-licenses-2026/",
+        "publishedAt": "2026-09-19T17:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

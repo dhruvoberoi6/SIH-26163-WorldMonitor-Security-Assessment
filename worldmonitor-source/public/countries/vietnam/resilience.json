@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VN",
+  "countryName": "Vietnam",
+  "slug": "vietnam",
+  "rank": 90,
+  "overallScore": 52.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Vietnam joins FTSE Russell emerging market benchmark - Reuters",
+        "source": "Reuters Business",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalJiSUdYcGJXanE0VjhNWFhPejJQQlNOVlc1akp0Qm9sZHg1TW5WMkdHX1BzRURaeHhsT0N4Vmg4Yy02b2ctWjFOY3p0eWRBODFROGk2d2JGejB4V3Q1VlcxbkRrT0FUcndwV0xZLWJJR0h0VTZoYUl6d2NKQzQ0LVVpQkNhNUwydnVrWVE4NElZUlRjR3QzdUdIVVFPRjVTaEk0N1VKd2pXbUE?oc=5",
+        "publishedAt": "2026-09-21T02:35:18.000Z"
+      },
+      {
+        "title": "Vietnam joins FTSE Russell emerging market benchmark - Yahoo Finance",
+        "source": "Reuters Crypto",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2ZWT0R2VWpfejBnWFlCdkVZWFFodXVJWG9WSFp2VGkzcFR1cVhlQW91anNnQWk5bnNhT0hFZXBaQ1hWNVQ4YnJiaGZha3Q0WS1KNjFMcWMzSXNNTGpBeE1BQVJ5UjBvWDU3ajFwOEpGRF9VakxsNkFSMThpR0NMb2lJV3pSTmM4R2h2aUdSNk40aWlfYmRZcUF0MC1zRHRCNTNzMVBIeHREeG8?oc=5",
+        "publishedAt": "2026-09-21T02:35:00.000Z"
+      },
+      {
+        "title": "Vietnamese smuggling and trafficking operations to Europe",
+        "source": "GITOC",
+        "url": "https://globalinitiative.net/analysis/vietnamese-smuggling-operations-to-europe/",
+        "publishedAt": "2026-09-17T16:49:21.000Z"
+      },
+      {
+        "title": "Prime Minister meets with the Prime Minister of the Socialist Republic of Vietnam on the sidelines of the BRICS Summit in New Delhi",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260912-india-mea03.htm",
+        "publishedAt": "2026-09-14T10:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Japan's Sojitz acquires 27.6% stake in Vietnam's Taseco Airs",
+        "source": "dealstreetasia.com",
+        "url": "https://www.dealstreetasia.com/stories/sojitz-taseco-airs-495711",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nVietnam has joined the FTSE Russell emerging market benchmark. [1]\nVietnamese smuggling and trafficking operations to Europe are ongoing. [3]\nJapan's Sojitz has acquired a 27.6% stake in Vietnam's Taseco Airs. [5]\n\nWHAT THIS MEANS FOR VIETNAM\nThe inclusion in the FTSE Russell emerging market benchmark may attract increased foreign investment into Vietnam's equity markets. [1]\nThe acquisition by Sojitz signals continued Japanese corporate interest in Vietnam's aviation services sector. [5]\n\nKEY RISKS\nVietnamese smuggling and trafficking operations to Europe pose legal and reputational risks for the country. [3]\n\nWATCH ITEMS\nThe meeting between the Prime Minister and the Prime Minister of Vietnam on the sidelines of the BRICS Summit in New Delhi may lead to further bilateral agreements. [4]",
+      "generatedAt": "2026-09-21T05:02:11.098Z",
+      "sources": [
+        {
+          "title": "Vietnam joins FTSE Russell emerging market benchmark - Reuters",
+          "source": "Reuters Business",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalJiSUdYcGJXanE0VjhNWFhPejJQQlNOVlc1akp0Qm9sZHg1TW5WMkdHX1BzRURaeHhsT0N4Vmg4Yy02b2ctWjFOY3p0eWRBODFROGk2d2JGejB4V3Q1VlcxbkRrT0FUcndwV0xZLWJJR0h0VTZoYUl6d2NKQzQ0LVVpQkNhNUwydnVrWVE4NElZUlRjR3QzdUdIVVFPRjVTaEk0N1VKd2pXbUE?oc=5",
+          "publishedAt": "2026-09-21T02:35:18.000Z"
+        },
+        {
+          "title": "Vietnam joins FTSE Russell emerging market benchmark - Yahoo Finance",
+          "source": "Reuters Crypto",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2ZWT0R2VWpfejBnWFlCdkVZWFFodXVJWG9WSFp2VGkzcFR1cVhlQW91anNnQWk5bnNhT0hFZXBaQ1hWNVQ4YnJiaGZha3Q0WS1KNjFMcWMzSXNNTGpBeE1BQVJ5UjBvWDU3ajFwOEpGRF9VakxsNkFSMThpR0NMb2lJV3pSTmM4R2h2aUdSNk40aWlfYmRZcUF0MC1zRHRCNTNzMVBIeHREeG8?oc=5",
+          "publishedAt": "2026-09-21T02:35:00.000Z"
+        },
+        {
+          "title": "Vietnamese smuggling and trafficking operations to Europe",
+          "source": "GITOC",
+          "url": "https://globalinitiative.net/analysis/vietnamese-smuggling-operations-to-europe/",
+          "publishedAt": "2026-09-17T16:49:21.000Z"
+        },
+        {
+          "title": "Prime Minister meets with the Prime Minister of the Socialist Republic of Vietnam on the sidelines of the BRICS Summit in New Delhi",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260912-india-mea03.htm",
+          "publishedAt": "2026-09-14T10:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Japan's Sojitz acquires 27.6% stake in Vietnam's Taseco Airs",
+          "source": "dealstreetasia.com",
+          "url": "https://www.dealstreetasia.com/stories/sojitz-taseco-airs-495711",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

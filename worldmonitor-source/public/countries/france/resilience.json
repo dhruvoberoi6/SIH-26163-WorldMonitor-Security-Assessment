@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FR",
+  "countryName": "France",
+  "slug": "france",
+  "rank": 27,
+  "overallScore": 62.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Thousands protest in France against bill expanding protections for police use of force",
+        "source": "France 24",
+        "url": "https://www.france24.com/en/france/20260920-thousands-protest-in-france-against-bill-expanding-protections-for-police-use-of-force",
+        "publishedAt": "2026-09-20T23:56:23.000Z"
+      },
+      {
+        "title": "Delegation of 20 Haitian trainers visits the Haitian Embassy in Paris",
+        "source": "HaitiLibre English",
+        "url": "https://www.icihaiti.com/en/news-48486-delegation-of-20-haitian-trainers-visits-the-haitian-embassy-in-paris.html",
+        "publishedAt": "2026-09-20T15:13:37.000Z"
+      },
+      {
+        "title": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies - Reuters",
+        "source": "Reuters Energy",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5",
+        "publishedAt": "2026-09-19T23:23:41.000Z"
+      },
+      {
+        "title": "Cycloid plugs into European Commission’s €180 million sovereign cloud framework following Series A",
+        "source": "EU Startups",
+        "url": "https://www.eu-startups.com/2026/09/paris-based-cycloid-plugs-into-european-commissions-e180-million-sovereign-cloud-framework-following-series-a/",
+        "publishedAt": "2026-09-18T13:24:00.000Z"
+      },
+      {
+        "title": "France debt set for highest level since 1978 as fiscal strain grows",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/business/2026/09/21/france-debt-set-for-highest-level-since-1978-as-fiscal-strain-grows",
+        "publishedAt": "2026-09-21T03:45:36.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThousands protest in France against a bill expanding protections for police use of force. [1]\nFrance debt is set for the highest level since 1978 as fiscal strain grows. [5]\n\nWHAT THIS MEANS FOR FRANCE\nThe protest indicates public opposition to the proposed police protections. [1]\nThe rising debt level signals growing fiscal strain for France. [5]\n\nWATCH ITEMS\nThe bill expanding protections for police use of force remains under debate. [1]\nFrance's debt trajectory may continue to worsen under fiscal strain. [5]",
+      "generatedAt": "2026-09-21T04:56:08.741Z",
+      "sources": [
+        {
+          "title": "Thousands protest in France against bill expanding protections for police use of force",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/france/20260920-thousands-protest-in-france-against-bill-expanding-protections-for-police-use-of-force",
+          "publishedAt": "2026-09-20T23:56:23.000Z"
+        },
+        {
+          "title": "Delegation of 20 Haitian trainers visits the Haitian Embassy in Paris",
+          "source": "HaitiLibre English",
+          "url": "https://www.icihaiti.com/en/news-48486-delegation-of-20-haitian-trainers-visits-the-haitian-embassy-in-paris.html",
+          "publishedAt": "2026-09-20T15:13:37.000Z"
+        },
+        {
+          "title": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies - Reuters",
+          "source": "Reuters Energy",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5",
+          "publishedAt": "2026-09-19T23:23:41.000Z"
+        },
+        {
+          "title": "Cycloid plugs into European Commission’s €180 million sovereign cloud framework following Series A",
+          "source": "EU Startups",
+          "url": "https://www.eu-startups.com/2026/09/paris-based-cycloid-plugs-into-european-commissions-e180-million-sovereign-cloud-framework-following-series-a/",
+          "publishedAt": "2026-09-18T13:24:00.000Z"
+        },
+        {
+          "title": "France debt set for highest level since 1978 as fiscal strain grows",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/business/2026/09/21/france-debt-set-for-highest-level-since-1978-as-fiscal-strain-grows",
+          "publishedAt": "2026-09-21T03:45:36.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

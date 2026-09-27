@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "EG",
+  "countryName": "Egypt",
+  "methodologyVersion": "v8",
+  "score": 27,
+  "approximate24HourMovement": -2,
+  "instabilityLevel": "Low",
+  "observedAt": "2026-09-21T04:46:14.034Z",
+  "capturedAt": "2026-09-21",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-09-21.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

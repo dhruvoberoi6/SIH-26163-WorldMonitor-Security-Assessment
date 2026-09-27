@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "US",
+  "countryName": "United States",
+  "slug": "united-states",
+  "rank": 44,
+  "overallScore": 60,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met - The Times of India",
+        "source": "Shipping & Freight",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXM4SmJIZ0lwMHlmTi1YSi1ldzhEamVfd0pJdUlaelNUYVhMZ1FXSkFFSjlPamZCQkNWcGtlNXY0bk9LNU9ieFBmVTRZcWtQY0J0c3AwalI3czVBbHBuMHd2U0JxcXRaOXAtaHVNWlpwUHpfb0l5SGFjZ3NwZG9QaTUxNnJqV3NyWkVLbXcxNjEyc194MFV4OFpxTlY3Q3BRTXI0N252aVRXZ1ZWQUdLaWdIRGdVSjE2NlUyRlNyWDF2SzRrOF84M0c4X3BiMVhPT0I0UUFFSG1NS0kxS25tR3UyY0llMEotdG55UWVfTFExMTU2UVJ30gH8AUFVX3lxTE1KV3JlY2x5eW05V01ZNEtBc2c4cjI4MDVnT3hkendwOFkydGlLVzJuM2dTcjlRRU54TzZObXh5ZnZqZFZlb1pPVURGOENQOUU2Mkh5OTI1MlB0RW1yM2htbUgxV0dZejdlYUVrVTFHdmNXanZBWEI5WUVyVlBEb0JCTlRoTlZqWXlkVTVvcTFmSVhqYjFTa1ZTZi00Rzd2ekczTk15UzhhMUEtNnhTY0R4VUFsZHJnZ2VIZ09XbmsxV3lBM1V3VERhMUl5Q29YRWlsZmVSYjVBaHdRQXFDMDE2OUVXdEJ1R1RWOGswRUtJS0w1alJNd2pnWFB2WQ?oc=5",
+        "publishedAt": "2026-09-21T01:36:00.000Z"
+      },
+      {
+        "title": "Live - US leaves Iran war open-ended as Qatar pushes to revive talks - Iran International",
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
+        "publishedAt": "2026-09-19T05:12:16.000Z"
+      },
+      {
+        "title": "ICE agent shot and wounded man in Austin, Texas, officials say",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/ice-shooting-austin-9.7351562?cmp=rss",
+        "publishedAt": "2026-09-20T22:34:07.000Z"
+      },
+      {
+        "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News",
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
+        "publishedAt": "2026-09-20T11:33:00.000Z"
+      },
+      {
+        "title": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
+        "source": "Guardian ME",
+        "url": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
+        "publishedAt": "2026-09-20T18:56:45.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIran rules out reopening the Strait of Hormuz and returning to US talks until conditions are met. [1]\nThe US leaves the Iran war open-ended as Qatar pushes to revive talks. [2]\nAn ICE agent shot and wounded a man in Austin, Texas. [3]\nNorth Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US. [4]\nIran claims the US is planning to renew a bombing campaign, as the Middle East braces for more violence. [5]\n\nWHAT THIS MEANS FOR UNITED STATES\nNorth Korea's missile launches increase pressure on the US, potentially complicating diplomatic or security dynamics. [4]\n\nKEY RISKS\nIran's claim that the US plans to renew a bombing campaign raises the risk of further violence in the Middle East. [5]\n\nWATCH ITEMS\nThe ICE agent shooting incident in Austin, Texas, may prompt further investigation or legal proceedings. [3]",
+      "generatedAt": "2026-09-21T05:01:54.797Z",
+      "sources": [
+        {
+          "title": "Iran rules out reopening Strait of Hormuz, returning to US talks until conditions met - The Times of India",
+          "source": "Shipping & Freight",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXM4SmJIZ0lwMHlmTi1YSi1ldzhEamVfd0pJdUlaelNUYVhMZ1FXSkFFSjlPamZCQkNWcGtlNXY0bk9LNU9ieFBmVTRZcWtQY0J0c3AwalI3czVBbHBuMHd2U0JxcXRaOXAtaHVNWlpwUHpfb0l5SGFjZ3NwZG9QaTUxNnJqV3NyWkVLbXcxNjEyc194MFV4OFpxTlY3Q3BRTXI0N252aVRXZ1ZWQUdLaWdIRGdVSjE2NlUyRlNyWDF2SzRrOF84M0c4X3BiMVhPT0I0UUFFSG1NS0kxS25tR3UyY0llMEotdG55UWVfTFExMTU2UVJ30gH8AUFVX3lxTE1KV3JlY2x5eW05V01ZNEtBc2c4cjI4MDVnT3hkendwOFkydGlLVzJuM2dTcjlRRU54TzZObXh5ZnZqZFZlb1pPVURGOENQOUU2Mkh5OTI1MlB0RW1yM2htbUgxV0dZejdlYUVrVTFHdmNXanZBWEI5WUVyVlBEb0JCTlRoTlZqWXlkVTVvcTFmSVhqYjFTa1ZTZi00Rzd2ekczTk15UzhhMUEtNnhTY0R4VUFsZHJnZ2VIZ09XbmsxV3lBM1V3VERhMUl5Q29YRWlsZmVSYjVBaHdRQXFDMDE2OUVXdEJ1R1RWOGswRUtJS0w1alJNd2pnWFB2WQ?oc=5",
+          "publishedAt": "2026-09-21T01:36:00.000Z"
+        },
+        {
+          "title": "Live - US leaves Iran war open-ended as Qatar pushes to revive talks - Iran International",
+          "source": "Iran International",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5",
+          "publishedAt": "2026-09-19T05:12:16.000Z"
+        },
+        {
+          "title": "ICE agent shot and wounded man in Austin, Texas, officials say",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/ice-shooting-austin-9.7351562?cmp=rss",
+          "publishedAt": "2026-09-20T22:34:07.000Z"
+        },
+        {
+          "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
+          "publishedAt": "2026-09-20T11:33:00.000Z"
+        },
+        {
+          "title": "Middle East braces for more violence as Iran claims US is planning to renew bombing campaign",
+          "source": "Guardian ME",
+          "url": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
+          "publishedAt": "2026-09-20T18:56:45.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

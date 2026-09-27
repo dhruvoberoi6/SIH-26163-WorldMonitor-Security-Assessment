@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ME",
+  "countryName": "Montenegro",
+  "slug": "montenegro",
+  "rank": 28,
+  "overallScore": 62.3,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "EU Should Not Turn a Blind Eye to Montenegro’s Bloody Clan War",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/eu-should-not-turn-a-blind-eye-to-montenegros-bloody-clan-war/bi/",
+        "publishedAt": "2026-09-18T05:53:12.000Z"
+      },
+      {
+        "title": "Montenegro bans EVs on board - BusinessWorld Online",
+        "source": "bworldonline.com",
+        "url": "https://bworldonline.com/the-nation/2026/09/17/778328/montenegro-bans-evs-on-board/",
+        "publishedAt": "2026-09-17T16:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Montenegro: RTCG hosts Eurovision Workshop in Tivat",
+        "source": "esctoday.com",
+        "url": "https://esctoday.com/207815/montenegro-rtcg-hosts-eurovision-workshop-in-tivat/",
+        "publishedAt": "2026-09-16T10:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Kazakhstan considers using Montenegro's Port of Bar as logistics hub for cargo to Europe",
+        "source": "trend.az",
+        "url": "https://www.trend.az/casia/kazakhstan/4224545.html",
+        "publishedAt": "2026-09-16T10:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Court Dismisses Murder Charges in Double Murder After Montenegro Extradition Falls Thru",
+        "source": "mynewsla.com",
+        "url": "https://mynewsla.com/crime/2026/09/14/murder-charges-dismissed-in-killings-of-attorney-second-man-2/",
+        "publishedAt": "2026-09-15T01:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe EU should not turn a blind eye to Montenegro’s bloody clan war. [1]\nMontenegro bans EVs on board. [2]\nRTCG hosts Eurovision Workshop in Tivat. [3]\nKazakhstan considers using Montenegro's Port of Bar as logistics hub for cargo to Europe. [4]\nCourt dismisses murder charges in double murder after Montenegro extradition falls through. [5]\n\nWHAT THIS MEANS FOR MONTENEGRO\nThe EU's inaction may enable continued clan violence in Montenegro. [1]\n\nKEY RISKS\nThe bloody clan war poses a risk of further violence and instability in Montenegro. [1]\nThe failed extradition risks leaving murder charges unresolved. [5]\n\nWATCH ITEMS\nThe court dismissed murder charges after the Montenegro extradition fell through. [5]",
+      "generatedAt": "2026-09-21T04:58:19.865Z",
+      "sources": [
+        {
+          "title": "EU Should Not Turn a Blind Eye to Montenegro’s Bloody Clan War",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/eu-should-not-turn-a-blind-eye-to-montenegros-bloody-clan-war/bi/",
+          "publishedAt": "2026-09-18T05:53:12.000Z"
+        },
+        {
+          "title": "Montenegro bans EVs on board - BusinessWorld Online",
+          "source": "bworldonline.com",
+          "url": "https://bworldonline.com/the-nation/2026/09/17/778328/montenegro-bans-evs-on-board/",
+          "publishedAt": "2026-09-17T16:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Montenegro: RTCG hosts Eurovision Workshop in Tivat",
+          "source": "esctoday.com",
+          "url": "https://esctoday.com/207815/montenegro-rtcg-hosts-eurovision-workshop-in-tivat/",
+          "publishedAt": "2026-09-16T10:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Kazakhstan considers using Montenegro's Port of Bar as logistics hub for cargo to Europe",
+          "source": "trend.az",
+          "url": "https://www.trend.az/casia/kazakhstan/4224545.html",
+          "publishedAt": "2026-09-16T10:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Court Dismisses Murder Charges in Double Murder After Montenegro Extradition Falls Thru",
+          "source": "mynewsla.com",
+          "url": "https://mynewsla.com/crime/2026/09/14/murder-charges-dismissed-in-killings-of-attorney-second-man-2/",
+          "publishedAt": "2026-09-15T01:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

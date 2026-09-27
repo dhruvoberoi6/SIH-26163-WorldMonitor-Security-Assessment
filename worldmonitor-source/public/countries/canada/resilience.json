@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CA",
+  "countryName": "Canada",
+  "slug": "canada",
+  "rank": 47,
+  "overallScore": 59.4,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "How the Canada-US trade war is hitting supply-chain emissions - Sustainable Views",
+        "source": "Trade Routes",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnVuYUppQ0RiY3BiWjE1cHltRlVZYk9PYVVHc0VBUHdHSWswWDNQQU1COHlxT2kzd0JPbFpBQVZ5cGtJYy10eGFyaF85VlAwTjI1SXFyeGhyVG1US0JEUGktRUJFeTBKQlAxYnd2S3l0dTMxQ3BtM2NxcENYZ3FjeEZDZVlJdmF3Rk1wbF9MVVFfWXhYcTEtRzd6Ty1xbWY4cVFxRXJ2bw?oc=5",
+        "publishedAt": "2026-09-20T20:45:52.000Z"
+      },
+      {
+        "title": "Canada optimistic about concluding trade talks with India by year-end, minister says - Reuters",
+        "source": "Reuters India",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5",
+        "publishedAt": "2026-09-19T17:24:05.000Z"
+      },
+      {
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - KITCO",
+        "source": "Kitco News",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "publishedAt": "2026-09-21T02:00:00.000Z"
+      },
+      {
+        "title": "Silver Price Canada Today | Live Silver Price in CAD - KITCO",
+        "source": "Kitco News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MZDRUVzg4QjdZWjNaT29QYlRYZWFTNjdBZjBSRy1jZ3ZtSW1EVXBzMk0zOE55ZGtCam1JZ3RkbnJFaWY1OHVmRk9xVVgzVEJoZEZZOVFEMA?oc=5",
+        "publishedAt": "2026-09-21T01:00:00.000Z"
+      },
+      {
+        "title": "American Rare Earths confirms broad near-surface mineralisation at Halleck Creek - Yahoo! Finance Canada",
+        "source": "Rare Earths News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUk2VnVNd3ZMOGlEdjJza1FnSWVrQnNsaWtsSWh6WW9tYmpCLWNGM3h4V0pZOW12QzZBZ0s5VmoyT2FTS2k2MDJ1VWViNTRibFdxSEdONGtQZjItbTFoNjhIWTZ5b1BXUlFOX2l3SkU2ZWQ4V1E2bHI3dE5IcXdnVGlPRHFVLUpXdzlDZg?oc=5",
+        "publishedAt": "2026-09-21T00:23:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Canada-US trade war is hitting supply-chain emissions. [1]\nCanada is optimistic about concluding trade talks with India by year-end, according to a minister. [2]\n\nWATCH ITEMS\nAmerican Rare Earths confirms broad near-surface mineralisation at Halleck Creek. [5]",
+      "generatedAt": "2026-09-21T04:54:44.530Z",
+      "sources": [
+        {
+          "title": "How the Canada-US trade war is hitting supply-chain emissions - Sustainable Views",
+          "source": "Trade Routes",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnVuYUppQ0RiY3BiWjE1cHltRlVZYk9PYVVHc0VBUHdHSWswWDNQQU1COHlxT2kzd0JPbFpBQVZ5cGtJYy10eGFyaF85VlAwTjI1SXFyeGhyVG1US0JEUGktRUJFeTBKQlAxYnd2S3l0dTMxQ3BtM2NxcENYZ3FjeEZDZVlJdmF3Rk1wbF9MVVFfWXhYcTEtRzd6Ty1xbWY4cVFxRXJ2bw?oc=5",
+          "publishedAt": "2026-09-20T20:45:52.000Z"
+        },
+        {
+          "title": "Canada optimistic about concluding trade talks with India by year-end, minister says - Reuters",
+          "source": "Reuters India",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5",
+          "publishedAt": "2026-09-19T17:24:05.000Z"
+        },
+        {
+          "title": "Gold Price Canada Today | Live Gold Price in CAD - KITCO",
+          "source": "Kitco News",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+          "publishedAt": "2026-09-21T02:00:00.000Z"
+        },
+        {
+          "title": "Silver Price Canada Today | Live Silver Price in CAD - KITCO",
+          "source": "Kitco News",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MZDRUVzg4QjdZWjNaT29QYlRYZWFTNjdBZjBSRy1jZ3ZtSW1EVXBzMk0zOE55ZGtCam1JZ3RkbnJFaWY1OHVmRk9xVVgzVEJoZEZZOVFEMA?oc=5",
+          "publishedAt": "2026-09-21T01:00:00.000Z"
+        },
+        {
+          "title": "American Rare Earths confirms broad near-surface mineralisation at Halleck Creek - Yahoo! Finance Canada",
+          "source": "Rare Earths News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUk2VnVNd3ZMOGlEdjJza1FnSWVrQnNsaWtsSWh6WW9tYmpCLWNGM3h4V0pZOW12QzZBZ0s5VmoyT2FTS2k2MDJ1VWViNTRibFdxSEdONGtQZjItbTFoNjhIWTZ5b1BXUlFOX2l3SkU2ZWQ4V1E2bHI3dE5IcXdnVGlPRHFVLUpXdzlDZg?oc=5",
+          "publishedAt": "2026-09-21T00:23:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IT",
+  "countryName": "Italy",
+  "slug": "italy",
+  "rank": 14,
+  "overallScore": 64.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/indonesia-got-a-free-aircraft-carrier-fixes-will-cost-millions/",
+        "publishedAt": "2026-09-20T15:27:02.000Z"
+      },
+      {
+        "title": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
+        "source": "Dawn",
+        "url": "https://www.dawn.com/news/2031364/italy-to-ban-veils-in-schools-limit-foreign-students-per-class-meloni-says",
+        "publishedAt": "2026-09-20T19:33:52.000Z"
+      },
+      {
+        "title": "Italy banning burqas, niqabs from schools: PM",
+        "source": "National Post",
+        "url": "https://nationalpost.com/news/world/italy-banning-burqas-niqabs-school-prime-minister-giorgia-meloni",
+        "publishedAt": "2026-09-20T16:56:30.000Z"
+      },
+      {
+        "title": "Meloni announces ban on burqa and niqab in Italian schools, cap on foreign students",
+        "source": "EuroNews",
+        "url": "https://www.euronews.com/my-europe/2026/09/20/meloni-announces-ban-on-burqa-and-niqab-in-italian-schools-and-cap-on-foreign-students",
+        "publishedAt": "2026-09-20T16:08:34.000Z"
+      },
+      {
+        "title": "Protection for women who defy the Mafia is changing in Italy. Does it go far enough?",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/world/italy-mafia-women-protection-free-to-choose-law-9.7349744?cmp=rss",
+        "publishedAt": "2026-09-20T08:00:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nItaly will ban veils in schools and limit foreign students per class, Prime Minister Meloni says. [2]\nProtection for women who defy the Mafia is changing in Italy. [5]\n\nWHAT THIS MEANS FOR ITALY\nThe ban on burqas and niqabs in Italian schools restricts religious attire in educational settings. [3]\n\nKEY RISKS\nThe changes to protection for women who defy the Mafia may not go far enough to ensure their safety. [5]\n\nWATCH ITEMS\nThe effectiveness of the revised protection measures for women who defy the Mafia remains to be seen. [5]",
+      "generatedAt": "2026-09-21T04:57:19.835Z",
+      "sources": [
+        {
+          "title": "Indonesia Got A Free Aircraft Carrier; Fixes Will Cost Millions",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/indonesia-got-a-free-aircraft-carrier-fixes-will-cost-millions/",
+          "publishedAt": "2026-09-20T15:27:02.000Z"
+        },
+        {
+          "title": "Italy to ban veils in schools, limit foreign students per class, Meloni says",
+          "source": "Dawn",
+          "url": "https://www.dawn.com/news/2031364/italy-to-ban-veils-in-schools-limit-foreign-students-per-class-meloni-says",
+          "publishedAt": "2026-09-20T19:33:52.000Z"
+        },
+        {
+          "title": "Italy banning burqas, niqabs from schools: PM",
+          "source": "National Post",
+          "url": "https://nationalpost.com/news/world/italy-banning-burqas-niqabs-school-prime-minister-giorgia-meloni",
+          "publishedAt": "2026-09-20T16:56:30.000Z"
+        },
+        {
+          "title": "Meloni announces ban on burqa and niqab in Italian schools, cap on foreign students",
+          "source": "EuroNews",
+          "url": "https://www.euronews.com/my-europe/2026/09/20/meloni-announces-ban-on-burqa-and-niqab-in-italian-schools-and-cap-on-foreign-students",
+          "publishedAt": "2026-09-20T16:08:34.000Z"
+        },
+        {
+          "title": "Protection for women who defy the Mafia is changing in Italy. Does it go far enough?",
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/italy-mafia-women-protection-free-to-choose-law-9.7349744?cmp=rss",
+          "publishedAt": "2026-09-20T08:00:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

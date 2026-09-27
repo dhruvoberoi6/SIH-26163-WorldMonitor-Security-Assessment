@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "DJ",
+  "countryName": "Djibouti",
+  "slug": "djibouti",
+  "rank": 132,
+  "overallScore": 43.6,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Disappearance of 2 Journalists in Djibouti Raises Concerns for Their Safety",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/disappearnce-journalist-djibouti-raises-concerns",
+        "publishedAt": "2026-09-20T20:05:00.000Z"
+      },
+      {
+        "title": "World: South African journalist missing in Djibouti",
+        "source": "newvision.co.ug",
+        "url": "https://www.newvision.co.ug/category/world/south-african-journalist-missing-in-djibouti-NV_240967_092026",
+        "publishedAt": "2026-09-20T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "South African journalist Micah Reddy reportedly missing in Djibouti",
+        "source": "namibian.com.na",
+        "url": "https://www.namibian.com.na/south-african-journalist-micah-reddy-reportedly-missing-in-djibouti/",
+        "publishedAt": "2026-09-20T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "UNHCR says nearly 3,000 Yemenis reach Djibouti as violence escalates",
+        "source": "sana.sy",
+        "url": "https://sana.sy/en/international/2343968/",
+        "publishedAt": "2026-09-19T14:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nearly 3,000 flee Yemen for Djibouti as violence escalates",
+        "source": "news.az",
+        "url": "https://news.az/news/nearly-3-000-flee-yemen-for-djibouti-as-violence-escalates",
+        "publishedAt": "2026-09-18T16:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe disappearance of 2 journalists in Djibouti raises concerns for their safety. [1]\nUNHCR says nearly 3,000 Yemenis reach Djibouti as violence escalates. [4]\n\nWHAT THIS MEANS FOR DJIBOUTI\nThe disappearance of journalists raises concerns for their safety. [1]\nNearly 3,000 flee Yemen for Djibouti as violence escalates. [5]\n\nWATCH ITEMS\nSouth African journalist Micah Reddy reportedly missing in Djibouti. [3]",
+      "generatedAt": "2026-09-21T04:55:26.341Z",
+      "sources": [
+        {
+          "title": "Disappearance of 2 Journalists in Djibouti Raises Concerns for Their Safety",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/disappearnce-journalist-djibouti-raises-concerns",
+          "publishedAt": "2026-09-20T20:05:00.000Z"
+        },
+        {
+          "title": "World: South African journalist missing in Djibouti",
+          "source": "newvision.co.ug",
+          "url": "https://www.newvision.co.ug/category/world/south-african-journalist-missing-in-djibouti-NV_240967_092026",
+          "publishedAt": "2026-09-20T18:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "South African journalist Micah Reddy reportedly missing in Djibouti",
+          "source": "namibian.com.na",
+          "url": "https://www.namibian.com.na/south-african-journalist-micah-reddy-reportedly-missing-in-djibouti/",
+          "publishedAt": "2026-09-20T13:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "UNHCR says nearly 3,000 Yemenis reach Djibouti as violence escalates",
+          "source": "sana.sy",
+          "url": "https://sana.sy/en/international/2343968/",
+          "publishedAt": "2026-09-19T14:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Nearly 3,000 flee Yemen for Djibouti as violence escalates",
+          "source": "news.az",
+          "url": "https://news.az/news/nearly-3-000-flee-yemen-for-djibouti-as-violence-escalates",
+          "publishedAt": "2026-09-18T16:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

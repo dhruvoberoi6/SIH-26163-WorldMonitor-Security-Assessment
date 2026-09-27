@@ -1,0 +1,148 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "IQ",
+  "countryName": "Iraq",
+  "slug": "iraq",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.69,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Iraq and Jordan to join Trump-GCC meeting as US-Arab diplomacy intensifies",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/gulf/2026/09/21/iraq-and-jordan-to-join-trump-gcc-meeting-as-us-arab-diplomacy-intensifies/",
+        "publishedAt": "2026-09-21T01:51:20.000Z"
+      },
+      {
+        "title": "Iraq Sentences Former Electricity Director General to Seven Years for illicit enrichment",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/iraq-sentences-former-electricity-director-general-to-seven-years-for-illicit-enrichment",
+        "publishedAt": "2026-09-18T12:59:00.000Z"
+      },
+      {
+        "title": "Arab News | Iraq can find the launchpad but not the commander",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/opinion/iraq-can-find-the-launchpad-but-not-the-commander-3002407",
+        "publishedAt": "2026-09-20T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "The Iraq Fraud Cases That Never Closed",
+        "source": "sofmag.com",
+        "url": "https://sofmag.com/iraq-fraud-cases-never-closed/",
+        "publishedAt": "2026-09-20T16:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Arab News | Blasts near Iraq's Erbil airport linked to security activity, local authorities say",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/middle-east/blasts-near-iraqs-erbil-airport-linked-to-security-activity-local-authorities-say-3002448",
+        "publishedAt": "2026-09-20T16:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIraq and Jordan are to join a Trump-GCC meeting as US-Arab diplomacy intensifies. [1]\nIraq sentenced a former Electricity Director General to seven years for illicit enrichment. [2]\n\nWHAT THIS MEANS FOR IRAQ\nThe participation of Iraq in the Trump-GCC meeting signals its involvement in intensifying US-Arab diplomatic efforts. [1]\nThe sentencing of the former Electricity Director General indicates ongoing anti-corruption enforcement in Iraq. [2]\n\nWATCH ITEMS\nBlasts near Iraq's Erbil airport were linked to security activity by local authorities. [5]",
+      "generatedAt": "2026-09-21T04:57:11.195Z",
+      "sources": [
+        {
+          "title": "Iraq and Jordan to join Trump-GCC meeting as US-Arab diplomacy intensifies",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/09/21/iraq-and-jordan-to-join-trump-gcc-meeting-as-us-arab-diplomacy-intensifies/",
+          "publishedAt": "2026-09-21T01:51:20.000Z"
+        },
+        {
+          "title": "Iraq Sentences Former Electricity Director General to Seven Years for illicit enrichment",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/iraq-sentences-former-electricity-director-general-to-seven-years-for-illicit-enrichment",
+          "publishedAt": "2026-09-18T12:59:00.000Z"
+        },
+        {
+          "title": "Arab News | Iraq can find the launchpad but not the commander",
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/opinion/iraq-can-find-the-launchpad-but-not-the-commander-3002407",
+          "publishedAt": "2026-09-20T17:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "The Iraq Fraud Cases That Never Closed",
+          "source": "sofmag.com",
+          "url": "https://sofmag.com/iraq-fraud-cases-never-closed/",
+          "publishedAt": "2026-09-20T16:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Arab News | Blasts near Iraq's Erbil airport linked to security activity, local authorities say",
+          "source": "arabnews.com",
+          "url": "https://www.arabnews.com/middle-east/blasts-near-iraqs-erbil-airport-linked-to-security-activity-local-authorities-say-3002448",
+          "publishedAt": "2026-09-20T16:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: original.antiwar.com",
+        "sourceUrl": "https://original.antiwar.com/rep-john-j-duncan-jr/2026/09/20/republicans-who-support-war-in-iran-are-giving-democrats-chance-to-control-congress/",
+        "occurredAt": "2026-09-21T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: original.antiwar.com",
+        "sourceUrl": "https://original.antiwar.com/rep-john-j-duncan-jr/2026/09/20/republicans-who-support-war-in-iran-are-giving-democrats-chance-to-control-congress/",
+        "occurredAt": "2026-09-21T04:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 194 — in Iraq",
+        "summary": "source: www.2news.com",
+        "sourceUrl": "https://www.2news.com/news/national/houthis-say-they-wont-attack-us-vessels-in-red-sea-and-other-mideast-developments/article_404e5ec0-bd06-5555-84ed-3c8a40fff065.html",
+        "occurredAt": "2026-09-21T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: www.dailykos.com",
+        "sourceUrl": "https://www.dailykos.com/stories/2026/9/20/800099914/news/hegseth-made-the-fitness-test-harder-for-women-in-combat-roles-most-female-marines-are-passing/",
+        "occurredAt": "2026-09-20T22:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: www.vladtv.com",
+        "sourceUrl": "https://www.vladtv.com/article/316058/robert-oneill-we-were-allowed-to-kill-23-civilians-to-kill-1-terrorist",
+        "occurredAt": "2026-09-20T21:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Iraq",
+        "summary": "source: www.vladtv.com",
+        "sourceUrl": "https://www.vladtv.com/article/316058/robert-oneill-we-were-allowed-to-kill-23-civilians-to-kill-1-terrorist",
+        "occurredAt": "2026-09-20T21:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Iraq",
+        "summary": "source: www.wgauradio.com",
+        "sourceUrl": "https://www.wgauradio.com/news/world/israeli-man/VUS7YB6MRQYLHJAE473Q733LUM/",
+        "occurredAt": "2026-09-20T13:30:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

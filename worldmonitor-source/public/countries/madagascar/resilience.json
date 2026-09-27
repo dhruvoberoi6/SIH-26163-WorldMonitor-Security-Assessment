@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MG",
+  "countryName": "Madagascar",
+  "slug": "madagascar",
+  "rank": 136,
+  "overallScore": 43,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Key Super Eagles star out of Madagascar, Guinea Bissau AFCON 2027 qualifier clash",
+        "source": "blueprint.ng",
+        "url": "https://blueprint.ng/key-super-eagles-star-out-of-madagascar-guinea-bissau-afcon-2027-qualifier-clash/",
+        "publishedAt": "2026-09-19T10:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Key Super Eagles star,out of Madagascar, Guinea Bissau AFCON 2027 qualifier clash",
+        "source": "blueprint.ng",
+        "url": "https://blueprint.ng/key-super-eagles-starout-of-madagascar-guinea-bissau-afcon-2027-qualifier-clash/",
+        "publishedAt": "2026-09-19T08:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Madagascar private jets need top-level flight approval | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/madagascar-private-jets-approval-rule-2026/",
+        "publishedAt": "2026-09-18T23:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Madagascar tourist arrivals grow despite instability",
+        "source": "africanews.com",
+        "url": "https://www.africanews.com/2026/09/18/madagascar-tourist-arrivals-grow-despite-instability/",
+        "publishedAt": "2026-09-18T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "OCC THEATER ANNOUNCES AUDITIONS FOR 'MADAGASCAR, A MUSICAL ADVENTURE!'",
+        "source": "wfiwradio.com",
+        "url": "https://www.wfiwradio.com/2026/09/18/occ-theater-announces-auditions-for-madagascar-a-musical-adventure/",
+        "publishedAt": "2026-09-18T17:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UZ",
+  "countryName": "Uzbekistan",
+  "slug": "uzbekistan",
+  "rank": 39,
+  "overallScore": 60.6,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Making the Most Out of Growing US-Uzbekistan Trade and Investment",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/making-the-most-out-of-growing-us-uzbekistan-trade-and-investment/",
+        "publishedAt": "2026-09-18T15:00:00.000Z"
+      },
+      {
+        "title": "SOCAR and BP Prepare for Exploration Drilling in Uzbekistan’s Ustyurt Region",
+        "source": "The Times of Central Asia",
+        "url": "https://timesca.com/socar-and-bp-prepare-for-exploration-drilling-in-uzbekistans-ustyurt-region/",
+        "publishedAt": "2026-09-17T13:25:55.000Z"
+      },
+      {
+        "title": "Uzbekistan to Process Melons Domestically on 10,000 Hectares in Karakalpakstan",
+        "source": "english.pravda.ru",
+        "url": "https://english.pravda.ru/news/world/169046-uzbekistan-melon-processing-hub-karakalpakstan/",
+        "publishedAt": "2026-09-20T09:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Asian Games: Deepika's magic helps Indian women's hockey team thrash Uzbekistan 19-0 in Pool A opener",
+        "source": "prokerala.com",
+        "url": "https://www.prokerala.com/news/articles/a1814390.html",
+        "publishedAt": "2026-09-20T05:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Syrian delegation inspects Uzbekistan chamber's business model",
+        "source": "sana.sy",
+        "url": "https://sana.sy/en/economic/2344017/",
+        "publishedAt": "2026-09-19T14:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nSOCAR and BP are preparing for exploration drilling in Uzbekistan’s Ustyurt region. [2]\nUzbekistan plans to process melons domestically on 10,000 hectares in Karakalpakstan. [3]\n\nWHAT THIS MEANS FOR UZBEKISTAN\nThe SOCAR and BP exploration drilling in the Ustyurt region could lead to new hydrocarbon discoveries in Uzbekistan. [2]\n\nWATCH ITEMS\nThe outcome of SOCAR and BP’s exploration drilling in Uzbekistan’s Ustyurt region remains to be seen. [2]",
+      "generatedAt": "2026-09-21T05:02:00.902Z",
+      "sources": [
+        {
+          "title": "Making the Most Out of Growing US-Uzbekistan Trade and Investment",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/making-the-most-out-of-growing-us-uzbekistan-trade-and-investment/",
+          "publishedAt": "2026-09-18T15:00:00.000Z"
+        },
+        {
+          "title": "SOCAR and BP Prepare for Exploration Drilling in Uzbekistan’s Ustyurt Region",
+          "source": "The Times of Central Asia",
+          "url": "https://timesca.com/socar-and-bp-prepare-for-exploration-drilling-in-uzbekistans-ustyurt-region/",
+          "publishedAt": "2026-09-17T13:25:55.000Z"
+        },
+        {
+          "title": "Uzbekistan to Process Melons Domestically on 10,000 Hectares in Karakalpakstan",
+          "source": "english.pravda.ru",
+          "url": "https://english.pravda.ru/news/world/169046-uzbekistan-melon-processing-hub-karakalpakstan/",
+          "publishedAt": "2026-09-20T09:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Asian Games: Deepika's magic helps Indian women's hockey team thrash Uzbekistan 19-0 in Pool A opener",
+          "source": "prokerala.com",
+          "url": "https://www.prokerala.com/news/articles/a1814390.html",
+          "publishedAt": "2026-09-20T05:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Syrian delegation inspects Uzbekistan chamber's business model",
+          "source": "sana.sy",
+          "url": "https://sana.sy/en/economic/2344017/",
+          "publishedAt": "2026-09-19T14:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

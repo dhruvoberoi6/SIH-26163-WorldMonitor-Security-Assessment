@@ -1,0 +1,135 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "hormuz-gulf-security",
+  "title": "Strait of Hormuz security tracker",
+  "shortTitle": "Hormuz and Gulf security",
+  "description": "Monthly conflict pulse for Iran, Iraq and the six Gulf Cooperation Council littoral states around the Strait of Hormuz.",
+  "overview": "This tracker uses a fixed eight-country boundary around the Persian Gulf and the Strait of Hormuz. It provides country-level humanitarian conflict context; tanker traffic, maritime warnings and vessel disruptions remain separate live signals on the chokepoint pages and dashboard.",
+  "coverage": [
+    {
+      "code": "IR",
+      "name": "Iran"
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq"
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar"
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    {
+      "code": "OM",
+      "name": "Oman"
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 527,
+    "fatalities": 251,
+    "politicalViolenceEvents": 165,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "BH",
+        "name": "Bahrain",
+        "events": 18,
+        "fatalities": 0,
+        "political": 2,
+        "demonstrations": 16,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "IR",
+        "name": "Iran",
+        "events": 310,
+        "fatalities": 84,
+        "political": 76,
+        "demonstrations": 234,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "IQ",
+        "name": "Iraq",
+        "events": 153,
+        "fatalities": 17,
+        "political": 41,
+        "demonstrations": 112,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "KW",
+        "name": "Kuwait",
+        "events": 1,
+        "fatalities": 0,
+        "political": 1,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "OM",
+        "name": "Oman",
+        "events": 8,
+        "fatalities": 4,
+        "political": 8,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "QA",
+        "name": "Qatar",
+        "events": 0,
+        "fatalities": 0,
+        "political": 0,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "events": 33,
+        "fatalities": 146,
+        "political": 33,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      },
+      {
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "events": 4,
+        "fatalities": 0,
+        "political": 4,
+        "demonstrations": 0,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

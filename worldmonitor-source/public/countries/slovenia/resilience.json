@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SI",
+  "countryName": "Slovenia",
+  "slug": "slovenia",
+  "rank": 19,
+  "overallScore": 64.1,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Video Footage of Fatal Police Intervention in Slovenia Sparks Outrage",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/17/video-footage-of-fatal-police-intervention-in-slovenia-sparks-outrage/bi/",
+        "publishedAt": "2026-09-17T11:44:15.000Z"
+      },
+      {
+        "title": "Israeli father killed rescuing son in Slovenia accident",
+        "source": "jpost.com",
+        "url": "https://www.jpost.com/israel-news/article-909198",
+        "publishedAt": "2026-09-20T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Tragedy in Slovenia: Gil Hallel, 44, from Kibbutz Yizra'el, drowns while on vacation",
+        "source": "israelnationalnews.com",
+        "url": "https://www.israelnationalnews.com/flashes/693831",
+        "publishedAt": "2026-09-20T12:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ukraine and Slovenia discuss strengthening air defence and technological cooperation",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260917-ukraine-mod03.htm",
+        "publishedAt": "2026-09-19T10:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Action launches in Slovenia - RetailDetail EU",
+        "source": "retaildetail.eu",
+        "url": "https://www.retaildetail.eu/news/general/action-launches-in-slovenia/",
+        "publishedAt": "2026-09-18T19:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nVideo footage of a fatal police intervention in Slovenia has sparked outrage. [1]\nAn Israeli father was killed rescuing his son in an accident in Slovenia. [2]\nGil Hallel, 44, from Kibbutz Yizra'el, drowned while on vacation in Slovenia. [3]\nUkraine and Slovenia are discussing strengthening air defence and technological cooperation. [4]\nAn action has launched in Slovenia. [5]\n\nWHAT THIS MEANS FOR SLOVENIA\nThe fatal police intervention may affect public trust in law enforcement in Slovenia. [1]\nThe discussions between Ukraine and Slovenia could lead to enhanced defence and technology ties. [4]\n\nKEY RISKS\nThe outrage over the police intervention could escalate into broader social unrest in Slovenia. [1]\n\nWATCH ITEMS\nThe outcome of the discussions between Ukraine and Slovenia on air defence and technological cooperation remains to be seen. [4]",
+      "generatedAt": "2026-09-21T05:00:08.473Z",
+      "sources": [
+        {
+          "title": "Video Footage of Fatal Police Intervention in Slovenia Sparks Outrage",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/17/video-footage-of-fatal-police-intervention-in-slovenia-sparks-outrage/bi/",
+          "publishedAt": "2026-09-17T11:44:15.000Z"
+        },
+        {
+          "title": "Israeli father killed rescuing son in Slovenia accident",
+          "source": "jpost.com",
+          "url": "https://www.jpost.com/israel-news/article-909198",
+          "publishedAt": "2026-09-20T15:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Tragedy in Slovenia: Gil Hallel, 44, from Kibbutz Yizra'el, drowns while on vacation",
+          "source": "israelnationalnews.com",
+          "url": "https://www.israelnationalnews.com/flashes/693831",
+          "publishedAt": "2026-09-20T12:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Ukraine and Slovenia discuss strengthening air defence and technological cooperation",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260917-ukraine-mod03.htm",
+          "publishedAt": "2026-09-19T10:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Action launches in Slovenia - RetailDetail EU",
+          "source": "retaildetail.eu",
+          "url": "https://www.retaildetail.eu/news/general/action-launches-in-slovenia/",
+          "publishedAt": "2026-09-18T19:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SM",
+  "countryName": "San Marino",
+  "slug": "san-marino",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.64,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Brad Binder bemoans lack of speed that cost him in San Marino",
+        "source": "citizen.co.za",
+        "url": "https://www.citizen.co.za/motoring/brad-binder-searches-for-more-speed/",
+        "publishedAt": "2026-09-14T08:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Marquez moves top with MotoGP win in San Marino - Blueprint Newspapers Limited",
+        "source": "blueprint.ng",
+        "url": "https://blueprint.ng/marquez-moves-top-with-motogp-win-in-san-marino/",
+        "publishedAt": "2026-09-14T06:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

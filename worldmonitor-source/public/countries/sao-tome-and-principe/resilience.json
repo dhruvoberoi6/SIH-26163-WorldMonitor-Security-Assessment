@@ -1,0 +1,19 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ST",
+  "countryName": "São Tomé and Príncipe",
+  "slug": "sao-tome-and-principe",
+  "rank": 85,
+  "overallScore": 53.7,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": null
+}

@@ -1,0 +1,43 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "gibraltar",
+  "displayName": "Strait of Gibraltar",
+  "slug": "strait-of-gibraltar",
+  "lat": 35.9,
+  "lon": -5.6,
+  "region": "Atlantic ↔ Mediterranean",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [
+    {
+      "id": "gulf-europe-oil",
+      "name": "Persian Gulf → Europe (Oil)",
+      "volumeDesc": "6.5M+ bpd",
+      "category": "energy"
+    },
+    {
+      "id": "singapore-med",
+      "name": "Singapore → Mediterranean",
+      "volumeDesc": "10M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "india-europe",
+      "name": "India → Europe",
+      "volumeDesc": "6M+ TEU/year",
+      "category": "container"
+    },
+    {
+      "id": "asia-europe-cape",
+      "name": "Asia → Europe (Cape Route)",
+      "volumeDesc": "5M+ TEU/year",
+      "category": "container"
+    }
+  ],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TZ",
+  "countryName": "Tanzania",
+  "slug": "tanzania",
+  "rank": 141,
+  "overallScore": 42.1,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+        "source": "NPR News",
+        "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+        "publishedAt": "2026-09-20T21:39:24.000Z"
+      },
+      {
+        "title": "Tanzanian model Flaviana Matata turned down Sh6m plastic surgery modelling deal",
+        "source": "Daily Nation",
+        "url": "https://nation.africa/kenya/life-and-style/showbiz/tanzanian-model-flaviana-matata-turned-down-sh6m-plastic-surgery-modelling-deal-5601604",
+        "publishedAt": "2026-09-20T08:00:00.000Z"
+      },
+      {
+        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+        "source": "wrkf.org",
+        "url": "https://www.wrkf.org/npr-news/2026-09-20/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+        "source": "kmuw.org",
+        "url": "https://www.kmuw.org/2026-09-20/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+        "source": "kansaspublicradio.org",
+        "url": "https://kansaspublicradio.org/npr-news/2026-09-20/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nPoison is suspected in the deaths of ten lions in a game reserve in Tanzania. [1]\n\nWATCH ITEMS\nThe suspected poisoning of ten lions in a game reserve in Tanzania remains unresolved. [1]",
+      "generatedAt": "2026-09-21T05:01:16.672Z",
+      "sources": [
+        {
+          "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+          "source": "NPR News",
+          "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+          "publishedAt": "2026-09-20T21:39:24.000Z"
+        },
+        {
+          "title": "Tanzanian model Flaviana Matata turned down Sh6m plastic surgery modelling deal",
+          "source": "Daily Nation",
+          "url": "https://nation.africa/kenya/life-and-style/showbiz/tanzanian-model-flaviana-matata-turned-down-sh6m-plastic-surgery-modelling-deal-5601604",
+          "publishedAt": "2026-09-20T08:00:00.000Z"
+        },
+        {
+          "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+          "source": "wrkf.org",
+          "url": "https://www.wrkf.org/npr-news/2026-09-20/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+          "source": "kmuw.org",
+          "url": "https://www.kmuw.org/2026-09-20/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+          "source": "kansaspublicradio.org",
+          "url": "https://kansaspublicradio.org/npr-news/2026-09-20/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+          "publishedAt": "2026-09-21T04:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

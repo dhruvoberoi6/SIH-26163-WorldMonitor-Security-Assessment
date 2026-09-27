@@ -1,0 +1,151 @@
+{
+  "dataset": "maritime-chokepoint-status",
+  "capturedAt": "2026-09-21",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-09-21.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "chokepoints": [
+    {
+      "id": "bab_el_mandeb",
+      "name": "Bab el-Mandeb",
+      "slug": "bab-el-mandeb",
+      "region": "Red Sea ↔ Gulf of Aden",
+      "disruptionScore": 40,
+      "status": "Yellow",
+      "aisCongestion": "Normal",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "bosphorus",
+      "name": "Bosporus Strait",
+      "slug": "bosporus-strait",
+      "region": "Black Sea ↔ Sea of Marmara",
+      "disruptionScore": 30,
+      "status": "Yellow",
+      "aisCongestion": "High",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "cape_of_good_hope",
+      "name": "Cape of Good Hope",
+      "slug": "cape-of-good-hope",
+      "region": "Atlantic ↔ Indian Ocean",
+      "disruptionScore": 15,
+      "status": "Green",
+      "aisCongestion": "High",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "dover_strait",
+      "name": "Dover Strait",
+      "slug": "dover-strait",
+      "region": "English Channel ↔ North Sea",
+      "disruptionScore": 30,
+      "status": "Yellow",
+      "aisCongestion": "High",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "kerch_strait",
+      "name": "Kerch Strait",
+      "slug": "kerch-strait",
+      "region": "Black Sea ↔ Sea of Azov",
+      "disruptionScore": 70,
+      "status": "Red",
+      "aisCongestion": "Normal",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "korea_strait",
+      "name": "Korea Strait",
+      "slug": "korea-strait",
+      "region": "East China Sea ↔ Sea of Japan",
+      "disruptionScore": 0,
+      "status": "Green",
+      "aisCongestion": "Normal",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "lombok_strait",
+      "name": "Lombok Strait",
+      "slug": "lombok-strait",
+      "region": "Indian Ocean ↔ Java Sea",
+      "disruptionScore": 0,
+      "status": "Green",
+      "aisCongestion": "Normal",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "panama",
+      "name": "Panama Canal",
+      "slug": "panama-canal",
+      "region": "Atlantic ↔ Pacific",
+      "disruptionScore": 0,
+      "status": "Green",
+      "aisCongestion": "Normal",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "gibraltar",
+      "name": "Strait of Gibraltar",
+      "slug": "strait-of-gibraltar",
+      "region": "Atlantic ↔ Mediterranean",
+      "disruptionScore": 15,
+      "status": "Green",
+      "aisCongestion": "High",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "hormuz_strait",
+      "name": "Strait of Hormuz",
+      "slug": "strait-of-hormuz",
+      "region": "Persian Gulf ↔ Gulf of Oman",
+      "disruptionScore": 70,
+      "status": "Red",
+      "aisCongestion": "Normal",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "malacca_strait",
+      "name": "Strait of Malacca",
+      "slug": "strait-of-malacca",
+      "region": "Indian Ocean ↔ South China Sea",
+      "disruptionScore": 10,
+      "status": "Green",
+      "aisCongestion": "Low",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "suez",
+      "name": "Suez Canal",
+      "slug": "suez-canal",
+      "region": "Mediterranean ↔ Red Sea",
+      "disruptionScore": 35,
+      "status": "Yellow",
+      "aisCongestion": "Normal",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    },
+    {
+      "id": "taiwan_strait",
+      "name": "Taiwan Strait",
+      "slug": "taiwan-strait",
+      "region": "East China Sea ↔ South China Sea",
+      "disruptionScore": 20,
+      "status": "Yellow",
+      "aisCongestion": "Low",
+      "aisSnapshotAvailable": true,
+      "observedAt": "2026-09-21T04:50:07.025Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "dataset": "signal-convergence-reference",
+  "metricName": "Geographic Convergence Score",
+  "methodologyPath": "docs/geographic-convergence.mdx",
+  "scale": {
+    "min": 0,
+    "max": 100
+  },
+  "formula": {
+    "typeScore": "event_types × 25",
+    "countBoost": "min(25, total_events × 2)",
+    "convergenceScore": "min(100, type_score + count_boost)"
+  },
+  "defaultMinDomains": 3,
+  "thresholds": [
+    {
+      "types": 4,
+      "scoreRange": "100",
+      "priority": "Critical"
+    },
+    {
+      "types": 3,
+      "scoreRange": "90-100",
+      "priority": "Critical"
+    },
+    {
+      "types": 3,
+      "scoreRange": "81-89",
+      "priority": "High"
+    }
+  ],
+  "referenceExamples": [
+    {
+      "label": "Taiwan Strait Buildup",
+      "cell": "25°N, 121°E",
+      "types": [
+        "military flights",
+        "naval vessels",
+        "protests"
+      ],
+      "typeCount": 3,
+      "totalEvents": 6,
+      "score": 87,
+      "priority": "High",
+      "source": "docs/geographic-convergence.mdx",
+      "kind": "methodology-example"
+    },
+    {
+      "label": "Middle East Flashpoint",
+      "cell": "32°N, 35°E",
+      "types": [
+        "military flights",
+        "protests",
+        "earthquake"
+      ],
+      "typeCount": 3,
+      "totalEvents": 14,
+      "score": 100,
+      "priority": "Critical",
+      "source": "docs/geographic-convergence.mdx",
+      "kind": "methodology-example"
+    }
+  ],
+  "capturedAt": "2026-09-21",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-09-21.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

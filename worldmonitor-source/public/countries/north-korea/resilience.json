@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KP",
+  "countryName": "North Korea",
+  "slug": "north-korea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.51,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News",
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
+        "publishedAt": "2026-09-20T11:33:00.000Z"
+      },
+      {
+        "title": "North Korea fires two ballistic missiles into the sea in latest weapons display",
+        "source": "France 24 Asia Pacific",
+        "url": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display",
+        "publishedAt": "2026-09-20T11:40:58.000Z"
+      },
+      {
+        "title": "North Korea has fired around 150 ballistic missiles at Ukraine, learning from each one. Same missiles threaten Japan, and Kyiv just shows its speaker what is inside them - Euromaidan Press",
+        "source": "Ukrainska Pravda EN",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU3BBRWl6aGtBRmJHWjlRMXY3dXA0d1JFcVgzU2g3ajR5RG1ILXdxa1JhVW1OUFZYV2tDaHJPTWJSdWNnM2xyNzRxa2xmRk0wakpaRGY2aldhVHZodU9xZmR4Z05HUWJ2dVVuWjJNR211NGJRUHJ1elR6ZGZFV0dfVGtnNGVCbDVlY2lsdV9nR3hHZS1LMUJibTF6NlU5UlBfRm1tVGpHRGFrZklsUDhTaTVVSEE4YWU0V2NiOEp4Mk1udE1zS25QM1U5MWtrTkp3b0FHUFN6X21JT2MtREFvb2lVRWdIRzNCS2NNTWFXUmhmR0JSRkFiSzVyNnpXTmFmSTRQTllNaVFvU241aDdXcUtXcHE3U2NTbGJnUi1xN1dGSFcyNndHWGFzNUpsZjg?oc=5",
+        "publishedAt": "2026-09-20T07:57:15.000Z"
+      },
+      {
+        "title": "North Korea fires two suspected ballistic missiles off east coast within three hours - Reuters",
+        "source": "Reuters Asia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
+        "publishedAt": "2026-09-20T06:18:00.000Z"
+      },
+      {
+        "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "publishedAt": "2026-09-21T01:42:53.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNorth Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US. [1]\nNorth Korea fires two ballistic missiles into the sea in latest weapons display. [2]\n\nWHAT THIS MEANS FOR NORTH KOREA\nNorth Korea has fired around 150 ballistic missiles at Ukraine, learning from each one, and the same missiles threaten Japan. [3]\nNorth Korean fake recruiters infect 30K devices, steal $10.7M in crypto. [5]\n\nKEY RISKS\nNorth Korea fires two suspected ballistic missiles off east coast within three hours. [4]\n\nWATCH ITEMS\nNorth Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US. [1]",
+      "generatedAt": "2026-09-21T04:57:43.492Z",
+      "sources": [
+        {
+          "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the US - AP News",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVVYclhGeTgxaDh5T2dZVGJFbTRELUFsdGFvM1A1UGZFSkFIcnRkTTFxVUtvQy1lUmM1WlZxM0FEU3I3NHc3dXJaZDlaLWFqNktIRFZtcGZ5WUJxQWlsT3hQN1lwZFhoNFpGX0dVT3RXRng5TEhEVzg4OTF3cmo0R01yMVFFVGRoQmwwVA?oc=5",
+          "publishedAt": "2026-09-20T11:33:00.000Z"
+        },
+        {
+          "title": "North Korea fires two ballistic missiles into the sea in latest weapons display",
+          "source": "France 24 Asia Pacific",
+          "url": "https://www.france24.com/en/asia-pacific/20260920-north-korea-fires-two-ballistic-missiles-into-the-sea-in-latest-weapons-display",
+          "publishedAt": "2026-09-20T11:40:58.000Z"
+        },
+        {
+          "title": "North Korea has fired around 150 ballistic missiles at Ukraine, learning from each one. Same missiles threaten Japan, and Kyiv just shows its speaker what is i...",
+          "source": "Ukrainska Pravda EN",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU3BBRWl6aGtBRmJHWjlRMXY3dXA0d1JFcVgzU2g3ajR5RG1ILXdxa1JhVW1OUFZYV2tDaHJPTWJSdWNnM2xyNzRxa2xmRk0wakpaRGY2aldhVHZodU9xZmR4Z05HUWJ2dVVuWjJNR211NGJRUHJ1elR6ZGZFV0dfVGtnNGVCbDVlY2lsdV9nR3hHZS1LMUJibTF6NlU5UlBfRm1tVGpHRGFrZklsUDhTaTVVSEE4YWU0V2NiOEp4Mk1udE1zS25QM1U5MWtrTkp3b0FHUFN6X21JT2MtREFvb2lVRWdIRzNCS2NNTWFXUmhmR0JSRkFiSzVyNnpXTmFmSTRQTllNaVFvU241aDdXcUtXcHE3U2NTbGJnUi1xN1dGSFcyNndHWGFzNUpsZjg?oc=5",
+          "publishedAt": "2026-09-20T07:57:15.000Z"
+        },
+        {
+          "title": "North Korea fires two suspected ballistic missiles off east coast within three hours - Reuters",
+          "source": "Reuters Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
+          "publishedAt": "2026-09-20T06:18:00.000Z"
+        },
+        {
+          "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "publishedAt": "2026-09-21T01:42:53.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

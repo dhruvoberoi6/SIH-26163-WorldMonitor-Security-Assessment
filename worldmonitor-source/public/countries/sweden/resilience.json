@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SE",
+  "countryName": "Sweden",
+  "slug": "sweden",
+  "rank": 10,
+  "overallScore": 66.9,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Open Cosmos secures €300M, Europe at &quot;acute risk of marginalisation, and Sweden’s evolving foodtech ecosystem",
+        "source": "Tech.eu",
+        "url": "https://tech.eu/2026/09/18/open-cosmos-secures-eur300m/",
+        "publishedAt": "2026-09-18T15:39:48.000Z"
+      },
+      {
+        "title": "DoorDash Expands Costco Delivery Nationwide in the US",
+        "source": "Human Progress",
+        "url": "https://humanprogress.org/doordash-expands-costco-delivery-nationwide-in-the-us/",
+        "publishedAt": "2026-09-18T18:49:12.000Z"
+      },
+      {
+        "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+        "source": "Defense News",
+        "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
+        "publishedAt": "2026-09-18T11:01:43.000Z"
+      },
+      {
+        "title": "Latvia to buy Czech artillery system instead of original Swedish option",
+        "source": "LSM English",
+        "url": "https://eng.lsm.lv/article/society/defence/18.09.2026-latvia-to-buy-czech-artillery-system-instead-of-original-swedish-option.a663716/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+        "publishedAt": "2026-09-18T06:02:00.000Z"
+      },
+      {
+        "title": "Sweden’s Right-Wing Reckoning",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/09/17/sweden-election-kristersson-resigns-social-democrats-andersson/",
+        "publishedAt": "2026-09-17T19:51:11.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOpen Cosmos secures €300M, Europe at acute risk of marginalisation, and Sweden’s evolving foodtech ecosystem. [1]\nLatvia chooses Czech howitzers over Swedish Archer offer. [3]\nLatvia to buy Czech artillery system instead of original Swedish option. [4]\nSweden’s Right-Wing Reckoning. [5]\n\nWHAT THIS MEANS FOR SWEDEN\nThe selection of Czech howitzers over the Swedish Archer offer implies a shift in Latvia's defence procurement away from Sweden. [3]\nThe rejection of the original Swedish option for a Czech artillery system suggests a loss of a defence export opportunity for Sweden. [4]\n\nKEY RISKS\nEurope is at acute risk of marginalisation, which may affect Sweden's position in the space and technology sectors. [1]\n\nWATCH ITEMS\nSweden’s evolving foodtech ecosystem and the right-wing reckoning are ongoing developments that may produce further changes. [1]\nSweden’s Right-Wing Reckoning remains an unresolved political dynamic. [5]",
+      "generatedAt": "2026-09-21T04:59:58.329Z",
+      "sources": [
+        {
+          "title": "Open Cosmos secures €300M, Europe at &quot;acute risk of marginalisation, and Sweden’s evolving foodtech ecosystem",
+          "source": "Tech.eu",
+          "url": "https://tech.eu/2026/09/18/open-cosmos-secures-eur300m/",
+          "publishedAt": "2026-09-18T15:39:48.000Z"
+        },
+        {
+          "title": "DoorDash Expands Costco Delivery Nationwide in the US",
+          "source": "Human Progress",
+          "url": "https://humanprogress.org/doordash-expands-costco-delivery-nationwide-in-the-us/",
+          "publishedAt": "2026-09-18T18:49:12.000Z"
+        },
+        {
+          "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
+          "publishedAt": "2026-09-18T11:01:43.000Z"
+        },
+        {
+          "title": "Latvia to buy Czech artillery system instead of original Swedish option",
+          "source": "LSM English",
+          "url": "https://eng.lsm.lv/article/society/defence/18.09.2026-latvia-to-buy-czech-artillery-system-instead-of-original-swedish-option.a663716/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+          "publishedAt": "2026-09-18T06:02:00.000Z"
+        },
+        {
+          "title": "Sweden’s Right-Wing Reckoning",
+          "source": "Foreign Policy",
+          "url": "https://foreignpolicy.com/2026/09/17/sweden-election-kristersson-resigns-social-democrats-andersson/",
+          "publishedAt": "2026-09-17T19:51:11.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

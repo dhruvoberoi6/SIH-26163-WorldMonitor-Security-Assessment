@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GY",
+  "countryName": "Guyana",
+  "slug": "guyana",
+  "rank": 86,
+  "overallScore": 53.5,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "US Paid Guyana $7.7 million To Take In Third-Country Deportees - Grenada Chronicle – Daily Grenada And Caribbean News",
+        "source": "grenadachronicle.com",
+        "url": "https://grenadachronicle.com/us-paid-guyana-7-7-million-to-take-in-third-country-deportees/",
+        "publishedAt": "2026-09-20T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Where Did US$604 Million In Guyana Oil Revenues Go In First Half Of 2026? - Grenada Chronicle – Daily Grenada And Caribbean News",
+        "source": "grenadachronicle.com",
+        "url": "https://grenadachronicle.com/where-did-us604-million-in-guyana-oil-revenues-go-in-first-half-of-2026/",
+        "publishedAt": "2026-09-20T20:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US Paid Guyana $7.7 million To Take In Third-Country Deportees - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
+        "source": "dominicanrepublicpost.com",
+        "url": "https://dominicanrepublicpost.com/us-paid-guyana-7-7-million-to-take-in-third-country-deportees/",
+        "publishedAt": "2026-09-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Where Did US$604 Million In Guyana Oil Revenues Go In First Half Of 2026? - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
+        "source": "dominicanrepublicpost.com",
+        "url": "https://dominicanrepublicpost.com/where-did-us604-million-in-guyana-oil-revenues-go-in-first-half-of-2026/",
+        "publishedAt": "2026-09-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Surinamese men go missing in Guyana",
+        "source": "kaieteurnewsonline.com",
+        "url": "https://kaieteurnewsonline.com/2026/09/20/surinamese-men-go-missing-in-guyana/",
+        "publishedAt": "2026-09-20T15:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

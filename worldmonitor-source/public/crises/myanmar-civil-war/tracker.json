@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "myanmar-civil-war",
+  "title": "Myanmar civil war tracker",
+  "shortTitle": "Myanmar civil war",
+  "description": "Monthly conflict pulse for Myanmar: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a bounded country-level view.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Myanmar, aggregated from subnational records. It is a country-level pulse, not a comprehensive incident ledger, a territorial control map, or a forecast.",
+  "coverage": [
+    {
+      "code": "MM",
+      "name": "Myanmar"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 362,
+    "fatalities": 332,
+    "politicalViolenceEvents": 361,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "MM",
+        "name": "Myanmar (Burma)",
+        "events": 362,
+        "fatalities": 332,
+        "political": 361,
+        "demonstrations": 1,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

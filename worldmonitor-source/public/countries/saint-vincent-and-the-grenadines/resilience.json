@@ -1,0 +1,34 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "VC",
+  "countryName": "Saint Vincent and the Grenadines",
+  "slug": "saint-vincent-and-the-grenadines",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "CFAs: Chevening Scholarship Program for Saint Vincent and the Grenadines",
+        "source": "fundsforngos.org",
+        "url": "https://www2.fundsforngos.org/leadership/cfas-chevening-scholarship-program-for-saint-vincent-and-the-grenadines/",
+        "publishedAt": "2026-09-16T06:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

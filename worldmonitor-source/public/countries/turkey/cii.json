@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "TR",
+  "countryName": "Turkey",
+  "methodologyVersion": "v8",
+  "score": 55,
+  "approximate24HourMovement": -2,
+  "instabilityLevel": "Elevated",
+  "observedAt": "2026-09-21T04:46:14.034Z",
+  "capturedAt": "2026-09-21",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-09-21.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

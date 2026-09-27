@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "AL",
+  "countryName": "Albania",
+  "slug": "albania",
+  "rank": 17,
+  "overallScore": 64.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Instagram Takedowns and AI Deepfakes Target Albania’s ‘Flamingo’ Protesters",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/instagram-takedowns-and-ai-deepfakes-target-albanias-flamingo-protesters/bi/",
+        "publishedAt": "2026-09-18T05:52:29.000Z"
+      },
+      {
+        "title": "Albania, Romania, Brazil, India top UK deportation figures",
+        "source": "hallmarknews.com",
+        "url": "https://hallmarknews.com/albania-romania-brazil-india-top-uk-deportation-figures/",
+        "publishedAt": "2026-09-18T18:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "KSF conducts training with mortars of various calibers in Albania",
+        "source": "albeu.com",
+        "url": "https://albeu.com/english/ksf-conducts-training-with-mortars-of-various-calibers-in-albania/1016351/",
+        "publishedAt": "2026-09-17T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Albania Roundtable Urges Alternatives to Pre-trial Jail",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/albania-roundtable-urges-alternatives-to-pre-1746349/",
+        "publishedAt": "2026-09-17T16:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Hikmat Hajiyev speaks about Caucasian Albania's rich Christian heritage in Karabakh and other regions at Arab Media Forum",
+        "source": "en.apa.az",
+        "url": "https://en.apa.az/foreign-policy/hikmat-hajiyev-speaks-about-caucasian-albanias-rich-christian-heritage-in-karabakh-and-other-regions-at-arab-media-forum-524704",
+        "publishedAt": "2026-09-16T18:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Instagram takedowns and AI deepfakes target Albania’s ‘Flamingo’ protesters. [1]\nAlbania, Romania, Brazil, and India top UK deportation figures. [2]\n\nWHAT THIS MEANS FOR ALBANIA\nThe KSF conducts training with mortars of various calibers in Albania. [3]\nAn Albania roundtable urges alternatives to pre-trial jail. [4]\n\nWATCH ITEMS\nHikmat Hajiyev speaks about Caucasian Albania's rich Christian heritage in Karabakh and other regions at the Arab Media Forum. [5]",
+      "generatedAt": "2026-09-21T04:53:35.461Z",
+      "sources": [
+        {
+          "title": "Instagram Takedowns and AI Deepfakes Target Albania’s ‘Flamingo’ Protesters",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/instagram-takedowns-and-ai-deepfakes-target-albanias-flamingo-protesters/bi/",
+          "publishedAt": "2026-09-18T05:52:29.000Z"
+        },
+        {
+          "title": "Albania, Romania, Brazil, India top UK deportation figures",
+          "source": "hallmarknews.com",
+          "url": "https://hallmarknews.com/albania-romania-brazil-india-top-uk-deportation-figures/",
+          "publishedAt": "2026-09-18T18:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "KSF conducts training with mortars of various calibers in Albania",
+          "source": "albeu.com",
+          "url": "https://albeu.com/english/ksf-conducts-training-with-mortars-of-various-calibers-in-albania/1016351/",
+          "publishedAt": "2026-09-17T23:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Albania Roundtable Urges Alternatives to Pre-trial Jail",
+          "source": "miragenews.com",
+          "url": "https://www.miragenews.com/albania-roundtable-urges-alternatives-to-pre-1746349/",
+          "publishedAt": "2026-09-17T16:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Hikmat Hajiyev speaks about Caucasian Albania's rich Christian heritage in Karabakh and other regions at Arab Media Forum",
+          "source": "en.apa.az",
+          "url": "https://en.apa.az/foreign-policy/hikmat-hajiyev-speaks-about-caucasian-albanias-rich-christian-heritage-in-karabakh-and-other-regions-at-arab-media-forum-524704",
+          "publishedAt": "2026-09-16T18:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

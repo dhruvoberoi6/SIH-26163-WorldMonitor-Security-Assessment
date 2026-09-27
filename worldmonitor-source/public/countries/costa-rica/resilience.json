@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CR",
+  "countryName": "Costa Rica",
+  "slug": "costa-rica",
+  "rank": 92,
+  "overallScore": 52,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Costa Rica Weather Alert: Tropical Wave #45 to Bring Rain and Thunderstorms Across the Country ⋆ The Costa Rica News",
+        "source": "thecostaricanews.com",
+        "url": "https://thecostaricanews.com/costa-rica-weather-alert-tropical-wave-45-to-bring-rain-and-thunderstorms-across-the-country/",
+        "publishedAt": "2026-09-20T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Arab News | Costa Rica's Grynspan tops third informal poll for UN chief: diplomat",
+        "source": "arabnews.com",
+        "url": "https://www.arabnews.com/world/costa-ricas-grynspan-tops-third-informal-poll-for-un-chief-diplomat-3002381",
+        "publishedAt": "2026-09-19T22:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "More Than 40 Tourism Companies and Organizations to Gather at the 6th San Jose Tourism Expo Fair ⋆ The Costa Rica News",
+        "source": "thecostaricanews.com",
+        "url": "https://thecostaricanews.com/more-than-40-tourism-companies-and-organizations-to-gather-at-the-6th-san-jose-tourism-expo-fair/",
+        "publishedAt": "2026-09-19T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Did You Know The Information You Give Away When You Follow A Trend On Social Media? ⋆ The Costa Rica News",
+        "source": "thecostaricanews.com",
+        "url": "https://thecostaricanews.com/did-you-know-the-information-you-give-away-when-you-follow-a-trend-on-social-media/",
+        "publishedAt": "2026-09-19T03:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "World News: Costa Rica's Grynspan 'narrowly leads' UN chief poll",
+        "source": "gdnonline.com",
+        "url": "https://www.gdnonline.com/Details/1406968",
+        "publishedAt": "2026-09-18T23:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

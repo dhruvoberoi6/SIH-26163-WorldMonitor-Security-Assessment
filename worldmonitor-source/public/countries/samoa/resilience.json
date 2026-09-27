@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "WS",
+  "countryName": "Samoa",
+  "slug": "samoa",
+  "rank": 8,
+  "overallScore": 67.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Samoa Observer | Samoan chef takes Samoa to the culinary stage",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122139",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | A Government Private Hospital!",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/letters/122124",
+        "publishedAt": "2026-09-20T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Savalalo Market vendors say sewage smell has been",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122072",
+        "publishedAt": "2026-09-20T22:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Humour puts traffic-light buttons in the spotlight",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122048",
+        "publishedAt": "2026-09-20T03:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Samoa Observer | Fake Facebook pages raise concerns in Samoa.",
+        "source": "samoaobserver.ws",
+        "url": "https://www.samoaobserver.ws/category/samoa/122116",
+        "publishedAt": "2026-09-20T03:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

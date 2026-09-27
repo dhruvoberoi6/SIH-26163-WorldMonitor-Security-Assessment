@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BJ",
+  "countryName": "Benin",
+  "slug": "benin",
+  "rank": 153,
+  "overallScore": 39.5,
+  "dimensionCoverage": 0.78,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Cap-Haitien twinned with the city of Ouidah in Benin",
+        "source": "HaitiLibre English",
+        "url": "https://www.icihaiti.com/en/news-48484-cap-haitien-twinned-with-the-city-of-ouidah-in-benin.html",
+        "publishedAt": "2026-09-20T14:15:20.000Z"
+      },
+      {
+        "title": "Benin bets on turning its cotton crop into clothes at home",
+        "source": "texarkanagazette.com",
+        "url": "https://www.texarkanagazette.com/news/2026/sep/19/benin-bets-on-turning-its-cotton-crop-into/",
+        "publishedAt": "2026-09-20T06:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "How Benin's cotton towns are building beyond the ginning season – AfricaNewsAnalysis",
+        "source": "africanewsanalysis.com",
+        "url": "https://www.africanewsanalysis.com/how-benins-cotton-towns-are-building-beyond-the-ginning-season/18/12/54/16/09/2026/",
+        "publishedAt": "2026-09-18T13:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "CDC Bénin Backs Enko PME Fund for West African SMEs",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/cdc-benin-enko-pme-fund-west-africa-2026/",
+        "publishedAt": "2026-09-16T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "In Benin, families of children with sickle cell disease brace for the malaria season",
+        "source": "gavi.org",
+        "url": "https://www.gavi.org/vaccineswork/benin-families-children-sickle-cell-disease-brace-malaria-season",
+        "publishedAt": "2026-09-15T17:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nCap-Haitien has been twinned with the city of Ouidah in Benin. [1]\nBenin is betting on turning its cotton crop into clothes at home. [2]\n\nWHAT THIS MEANS FOR BENIN\nThe CDC Bénin backs the Enko PME Fund for West African SMEs. [4]\nIn Benin, families of children with sickle cell disease brace for the malaria season. [5]",
+      "generatedAt": "2026-09-21T04:54:23.594Z",
+      "sources": [
+        {
+          "title": "Cap-Haitien twinned with the city of Ouidah in Benin",
+          "source": "HaitiLibre English",
+          "url": "https://www.icihaiti.com/en/news-48484-cap-haitien-twinned-with-the-city-of-ouidah-in-benin.html",
+          "publishedAt": "2026-09-20T14:15:20.000Z"
+        },
+        {
+          "title": "Benin bets on turning its cotton crop into clothes at home",
+          "source": "texarkanagazette.com",
+          "url": "https://www.texarkanagazette.com/news/2026/sep/19/benin-bets-on-turning-its-cotton-crop-into/",
+          "publishedAt": "2026-09-20T06:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "How Benin's cotton towns are building beyond the ginning season – AfricaNewsAnalysis",
+          "source": "africanewsanalysis.com",
+          "url": "https://www.africanewsanalysis.com/how-benins-cotton-towns-are-building-beyond-the-ginning-season/18/12/54/16/09/2026/",
+          "publishedAt": "2026-09-18T13:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "CDC Bénin Backs Enko PME Fund for West African SMEs",
+          "source": "riotimesonline.com",
+          "url": "https://www.riotimesonline.com/cdc-benin-enko-pme-fund-west-africa-2026/",
+          "publishedAt": "2026-09-16T18:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "In Benin, families of children with sickle cell disease brace for the malaria season",
+          "source": "gavi.org",
+          "url": "https://www.gavi.org/vaccineswork/benin-families-children-sickle-cell-disease-brace-malaria-season",
+          "publishedAt": "2026-09-15T17:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

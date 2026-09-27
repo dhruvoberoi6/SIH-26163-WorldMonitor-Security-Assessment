@@ -1,0 +1,282 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Geopolitical Risk Alerts for Slack | WorldMonitor API</title><meta name="description" content="Turn WorldMonitor API and MCP data into practical alerts for country risk, chokepoints, cyber threats, forecasts, and data freshness without alert fatigue."><meta name="keywords" content="geopolitical risk alerts, OSINT alert pipeline, Slack risk alerts, intelligence API alerts, WorldMonitor API alerts"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="author" content="Elie Habib"><meta name="theme-color" content="#050505"><link rel="canonical" href="https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/"><meta property="og:type" content="article"><meta property="og:title" content="Geopolitical Risk Alerts for Slack | WorldMonitor API"><meta property="og:description" content="Turn WorldMonitor API and MCP data into practical alerts for country risk, chokepoints, cyber threats, forecasts, and data freshness without alert fatigue."><meta property="og:url" content="https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/"><meta property="og:site_name" content="World Monitor Blog"><meta property="og:image" content="https://www.worldmonitor.app/blog/images/blog/geopolitical-risk-alerts-slack-teams-worldmonitor-api.jpg"><meta property="og:image:secure_url" content="https://www.worldmonitor.app/blog/images/blog/geopolitical-risk-alerts-slack-teams-worldmonitor-api.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:locale" content="en_US"><meta property="og:image:alt" content="Build Geopolitical Risk Alerts for Slack or Teams with WorldMonitor - World Monitor Blog"><meta property="article:published_time" content="2026-06-10T00:00:00.000Z"><meta property="article:modified_time" content="2026-07-22T00:00:00.000Z"><meta property="article:publisher" content="https://www.worldmonitor.app"><meta property="article:section" content="Global Intelligence"><meta property="article:tag" content="geopolitical risk alerts"><meta property="article:tag" content="OSINT alert pipeline"><meta property="article:tag" content="Slack risk alerts"><meta property="article:tag" content="intelligence API alerts"><meta property="article:tag" content="WorldMonitor API alerts"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Geopolitical Risk Alerts for Slack | WorldMonitor API"><meta name="twitter:description" content="Turn WorldMonitor API and MCP data into practical alerts for country risk, chokepoints, cyber threats, forecasts, and data freshness without alert fatigue."><meta name="twitter:image" content="https://www.worldmonitor.app/blog/images/blog/geopolitical-risk-alerts-slack-teams-worldmonitor-api.jpg"><meta name="twitter:image:alt" content="Build Geopolitical Risk Alerts for Slack or Teams with WorldMonitor - World Monitor Blog"><meta name="twitter:site" content="@worldmonitorai"><meta name="twitter:creator" content="@worldmonitorai"><link rel="icon" type="image/x-icon" href="/favico/favicon.ico"><link rel="icon" type="image/png" sizes="32x32" href="/favico/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favico/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/favico/apple-touch-icon.png"><link rel="alternate" type="application/rss+xml" title="World Monitor Blog" href="https://www.worldmonitor.app/blog/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","@id":"https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/#article","headline":"Build Geopolitical Risk Alerts for Slack or Teams with WorldMonitor","alternativeHeadline":"Geopolitical Risk Alerts for Slack | WorldMonitor API","description":"Turn WorldMonitor API and MCP data into practical alerts for country risk, chokepoints, cyber threats, forecasts, and data freshness without alert fatigue.","datePublished":"2026-06-10T00:00:00.000Z","dateModified":"2026-07-22T00:00:00.000Z","inLanguage":"en-US","isAccessibleForFree":true,"articleSection":"Global Intelligence","audience":{"@type":"Audience","audienceType":"Developers, security operations teams, risk analysts, platform engineers"},"wordCount":1219,"timeRequired":"PT6M","author":{"@type":"Person","name":"Elie Habib","url":"https://www.worldmonitor.app/blog/authors/elie-habib/","@id":"https://www.worldmonitor.app/blog/authors/elie-habib/#person"},"publisher":{"@id":"https://www.worldmonitor.app/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/#webpage","url":"https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/","isPartOf":{"@id":"https://www.worldmonitor.app/#website"},"breadcrumb":{"@id":"https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/#breadcrumb"},"speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".article-dek"]}},"image":"https://www.worldmonitor.app/blog/images/blog/geopolitical-risk-alerts-slack-teams-worldmonitor-api.jpg","url":"https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".article-dek"]},"isPartOf":{"@type":"Blog","@id":"https://www.worldmonitor.app/blog/#blog","name":"World Monitor Blog","url":"https://www.worldmonitor.app/blog/"},"citation":[{"@type":"CreativeWork","name":"Slack incoming-webhook documentation","url":"https://api.slack.com/messaging/webhooks"},{"@type":"CreativeWork","name":"Teams webhooks and connectors documentation","url":"https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors"}],"keywords":"geopolitical risk alerts, OSINT alert pipeline, Slack risk alerts, intelligence API alerts, WorldMonitor API alerts"}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worldmonitor.app/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.worldmonitor.app/blog/"},{"@type":"ListItem","position":3,"name":"Build Geopolitical Risk Alerts for Slack or Teams with WorldMonitor","item":"https://www.worldmonitor.app/blog/posts/geopolitical-risk-alerts-slack-teams-worldmonitor-api/"}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a geopolitical risk alert?","acceptedAnswer":{"@type":"Answer","text":"A geopolitical risk alert is a structured notification that a relevant country, route, market, cyber, conflict, or data-freshness state changed enough to require human attention."}},{"@type":"Question","name":"Should Slack alerts be generated by an AI agent?","acceptedAnswer":{"@type":"Answer","text":"Use deterministic rules for alert triggers. Use an AI agent only to summarize evidence and suggest next checks after a rule fires."}},{"@type":"Question","name":"Which WorldMonitor data should I alert on first?","acceptedAnswer":{"@type":"Answer","text":"Start with country risk band changes, chokepoint status changes, stale data, sanctions pressure changes, cyber or infrastructure spikes, and high-confidence route or energy signals."}},{"@type":"Question","name":"How do I prevent alert fatigue?","acceptedAnswer":{"@type":"Answer","text":"Alert only on state changes, require combined signals for noisy domains, add cooldowns, suppress repeated alerts, and review false positives every week."}}]}</script><script defer src="https://abacus.worldmonitor.app/script.js" data-website-id="e8800335-c853-46a8-8497-c993ed2f58bc" data-domains="worldmonitor.app,www.worldmonitor.app,tech.worldmonitor.app,finance.worldmonitor.app,commodity.worldmonitor.app,happy.worldmonitor.app"></script><link rel="stylesheet" href="/blog/_astro/Base.DW-LQlob.css"></head><body><header class="site-header"><nav><div class="logo"><a href="/blog/" class="logo-mark" aria-label="World Monitor Blog — Home"><img src="/favico/favicon-32x32.png" alt="" width="28" height="28" class="logo-icon-img"></a><a href="/blog/" class="logo-name">WORLD MONITOR</a></div><ul class="nav-links"><li><a href="/blog/">Blog</a></li><li><a href="/blog/glossary/">Glossary</a></li><li><a href="https://www.worldmonitor.app/dashboard?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=dashboard&amp;wm_content_placement=header-dashboard" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="dashboard" data-umami-event-placement="header-dashboard" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="dashboard" data-umami-event-content-placement="header-dashboard" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+              Dashboard
+            </a></li><li><a href="https://www.worldmonitor.app/pro?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=pro&amp;wm_content_placement=header-pro" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="pro" data-umami-event-placement="header-pro" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="pro" data-umami-event-content-placement="header-pro" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+              Pro
+            </a></li><li><a href="https://www.worldmonitor.app/docs/documentation" target="_blank" rel="noopener noreferrer">Docs</a></li><li><a href="https://github.com/koala73/worldmonitor" target="_blank" rel="noopener noreferrer">GitHub</a></li></ul><a href="https://www.worldmonitor.app/pro?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=pro&amp;wm_content_placement=header-primary#pricing" class="nav-cta" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="pro" data-umami-event-placement="header-primary" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="pro" data-umami-event-content-placement="header-primary" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">View Pro plans</a></nav></header><main><article><div class="article-header"><a href="/blog/" class="back">&larr; All articles</a><div class="meta"><time datetime="2026-06-10T00:00:00.000Z">Jun 10, 2026</time><span> &middot; Updated <time datetime="2026-07-22T00:00:00.000Z">Jul 22, 2026</time></span><span> &middot; 6 min read</span></div><div class="author-bio author-bio--header"><img src="https://unavatar.io/github/koala73" alt="Elie Habib" width="48" height="48" class="author-avatar" loading="lazy" onerror="this.src='/favico/apple-touch-icon.png'"><div class="author-info"><div class="author-name"><a href="https://www.worldmonitor.app/blog/authors/elie-habib/" rel="author">Elie Habib</a></div><div class="author-desc">Founder of World Monitor. Previously co-founder &amp; CEO of Anghami (NASDAQ: ANGH). Building open-source global intelligence infrastructure.</div></div></div></div><picture><source type="image/webp" srcset="/blog/images/blog/geopolitical-risk-alerts-slack-teams-worldmonitor-api-640.webp 640w, /blog/images/blog/geopolitical-risk-alerts-slack-teams-worldmonitor-api.webp 1200w" sizes="(max-width: 812px) calc(100vw - 2rem), 780px"><img src="/blog/images/blog/geopolitical-risk-alerts-slack-teams-worldmonitor-api.jpg" alt="Build Geopolitical Risk Alerts for Slack or Teams with WorldMonitor" class="hero-image" width="1200" height="630" fetchpriority="high" decoding="async"></picture><div class="article-content prose"><h1>Build Geopolitical Risk Alerts for Slack or Teams with WorldMonitor</h1><p class="article-dek">Turn WorldMonitor API and MCP data into practical alerts for country risk, chokepoints, cyber threats, forecasts, and data freshness without alert fatigue.</p><p>Most alert systems fail because they forward too much. A headline is not an alert. A price tick is not an alert. A single noisy event is not an alert.</p>
+<p>A useful geopolitical risk alert tells a team that a relevant state changed: a country moved into a higher risk band, a route became stressed, a cyber signal hit a watched region, a forecast changed materially, or the data you depend on went stale.</p>
+<p>WorldMonitor gives developers the data layer for that kind of alerting through REST APIs, MCP tools, seed-health metadata, and structured risk outputs. If your first use case is logistics, the companion guide shows how to <a href="/blog/posts/build-supply-chain-early-warning-system-api/">build a supply-chain early-warning system</a>; if analysts want conversational follow-up, connect alerts to the <a href="/blog/posts/worldmonitor-mcp-server-ai-agents-real-time-intelligence/">WorldMonitor MCP server</a>.</p>
+<h2 id="alert-on-state-changes-not-noise">Alert on state changes, not noise</h2>
+<p>Start with this rule:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="text"><code><span class="line"><span>Send an alert only when the recipient can take a different action because of it.</span></span></code></pre>
+<p>That means you should not alert on every:</p>
+<ul>
+<li>New headline</li>
+<li>New aircraft position</li>
+<li>New vessel position</li>
+<li>Commodity quote update</li>
+<li>Social media spike</li>
+</ul>
+<p>Alert on combined or decision-relevant conditions:</p>
+<table>
+<thead>
+<tr>
+<th>Alert type</th>
+<th>Trigger example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Country risk</td>
+<td>Watchlist country moves from watch to elevated or high</td>
+</tr>
+<tr>
+<td>Advisory</td>
+<td>Advisory provenance flips to live high-risk input</td>
+</tr>
+<tr>
+<td>Chokepoint</td>
+<td>Route status worsens and transit counts confirm stress</td>
+</tr>
+<tr>
+<td>Energy</td>
+<td>Fuel shortages plus route stress plus price move</td>
+</tr>
+<tr>
+<td>Cyber</td>
+<td>IOC or outage spike in a watched country or supplier region</td>
+</tr>
+<tr>
+<td>Forecast</td>
+<td>Probability field changes beyond a configured threshold</td>
+</tr>
+<tr>
+<td>Freshness</td>
+<td>Required seed becomes stale or unavailable</td>
+</tr>
+</tbody>
+</table>
+<h2 id="pick-rest-or-mcp">Pick REST or MCP</h2>
+<p>Use REST when the alert pipeline is deterministic. Use MCP when an AI agent is deciding which tools to call and writing the final explanation.</p>
+<table>
+<thead>
+<tr>
+<th>Approach</th>
+<th>Best for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>REST API</td>
+<td>Scheduled jobs, backend alert workers, typed clients, predictable thresholds</td>
+</tr>
+<tr>
+<td>MCP</td>
+<td>Analyst assistants, Claude/Cursor workflows, dynamic follow-up questions</td>
+</tr>
+<tr>
+<td>Dashboard links</td>
+<td>Human triage after an alert</td>
+</tr>
+</tbody>
+</table>
+<p>For production Slack or Teams alerts, REST is usually the spine. MCP can help write the explanation after the threshold fires.</p>
+<h2 id="minimal-architecture">Minimal architecture</h2>
+<p>The alert worker needs only five pieces:</p>
+<ol>
+<li>A watchlist of countries, routes, symbols, and domains.</li>
+<li>A fetch step that calls WorldMonitor APIs.</li>
+<li>A state store that remembers yesterday’s values.</li>
+<li>A rules engine that compares current state to prior state.</li>
+<li>A notifier that posts to Slack, Teams, email, PagerDuty, or a ticket system.</li>
+</ol>
+<p>Example watchlist:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="json"><code><span class="line"><span style="color:#E1E4E8">{</span></span>
+<span class="line"><span style="color:#79B8FF">  "countries"</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">"TR"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"EG"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"IL"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"IR"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"TW"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"UA"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"MX"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#79B8FF">  "chokepoints"</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">"strait-of-hormuz"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"suez"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"bab-el-mandeb"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"malacca"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#79B8FF">  "symbols"</span><span style="color:#E1E4E8">: [</span><span style="color:#9ECBFF">"CL=F"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"BZ=F"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"GC=F"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"BTC-USD"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#79B8FF">  "channels"</span><span style="color:#E1E4E8">: {</span></span>
+<span class="line"><span style="color:#79B8FF">    "risk"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"#geo-risk"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "supplyChain"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"#supply-chain-alerts"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "security"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"#security-ops"</span></span>
+<span class="line"><span style="color:#E1E4E8">  }</span></span>
+<span class="line"><span style="color:#E1E4E8">}</span></span></code></pre>
+<h2 id="example-rules">Example rules</h2>
+<p>Start with a small rule set:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="json"><code><span class="line"><span style="color:#E1E4E8">[</span></span>
+<span class="line"><span style="color:#E1E4E8">  {</span></span>
+<span class="line"><span style="color:#79B8FF">    "id"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"country-risk-band-up"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "description"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"Country risk band worsened"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "severity"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"elevated"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "cooldownHours"</span><span style="color:#E1E4E8">: </span><span style="color:#79B8FF">12</span></span>
+<span class="line"><span style="color:#E1E4E8">  },</span></span>
+<span class="line"><span style="color:#E1E4E8">  {</span></span>
+<span class="line"><span style="color:#79B8FF">    "id"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"chokepoint-critical"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "description"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"Watched chokepoint moved to critical route stress"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "severity"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"critical"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "cooldownHours"</span><span style="color:#E1E4E8">: </span><span style="color:#79B8FF">6</span></span>
+<span class="line"><span style="color:#E1E4E8">  },</span></span>
+<span class="line"><span style="color:#E1E4E8">  {</span></span>
+<span class="line"><span style="color:#79B8FF">    "id"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"data-stale"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "description"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"Required WorldMonitor seed is stale"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "severity"</span><span style="color:#E1E4E8">: </span><span style="color:#9ECBFF">"watch"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#79B8FF">    "cooldownHours"</span><span style="color:#E1E4E8">: </span><span style="color:#79B8FF">24</span></span>
+<span class="line"><span style="color:#E1E4E8">  }</span></span>
+<span class="line"><span style="color:#E1E4E8">]</span></span></code></pre>
+<p>Every rule should have a cooldown. Without cooldowns, you will train people to ignore the channel.</p>
+<h2 id="fetch-and-compare">Fetch and compare</h2>
+<p>This is intentionally simple pseudocode:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="js"><code><span class="line"><span style="color:#F97583">async</span><span style="color:#F97583"> function</span><span style="color:#B392F0"> runCountryRiskAlerts</span><span style="color:#E1E4E8">(</span><span style="color:#FFAB70">watchlist</span><span style="color:#E1E4E8">, </span><span style="color:#FFAB70">previousState</span><span style="color:#E1E4E8">) {</span></span>
+<span class="line"><span style="color:#F97583">  const</span><span style="color:#79B8FF"> alerts</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> [];</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">  for</span><span style="color:#E1E4E8"> (</span><span style="color:#F97583">const</span><span style="color:#79B8FF"> countryCode</span><span style="color:#F97583"> of</span><span style="color:#E1E4E8"> watchlist.countries) {</span></span>
+<span class="line"><span style="color:#F97583">    const</span><span style="color:#79B8FF"> current</span><span style="color:#F97583"> =</span><span style="color:#F97583"> await</span><span style="color:#B392F0"> fetchCountryRisk</span><span style="color:#E1E4E8">(countryCode);</span></span>
+<span class="line"><span style="color:#F97583">    const</span><span style="color:#79B8FF"> previous</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> previousState.countryRisk[countryCode];</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">    if</span><span style="color:#E1E4E8"> (current.stale) {</span></span>
+<span class="line"><span style="color:#E1E4E8">      alerts.</span><span style="color:#B392F0">push</span><span style="color:#E1E4E8">({</span></span>
+<span class="line"><span style="color:#E1E4E8">        type: </span><span style="color:#9ECBFF">"data-stale"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">        severity: </span><span style="color:#9ECBFF">"watch"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">        title: </span><span style="color:#9ECBFF">`${</span><span style="color:#E1E4E8">countryCode</span><span style="color:#9ECBFF">} country risk data is stale`</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">        evidence: { cached_at: current.cached_at }</span></span>
+<span class="line"><span style="color:#E1E4E8">      });</span></span>
+<span class="line"><span style="color:#F97583">      continue</span><span style="color:#E1E4E8">;</span></span>
+<span class="line"><span style="color:#E1E4E8">    }</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">    if</span><span style="color:#E1E4E8"> (</span><span style="color:#B392F0">riskBandRank</span><span style="color:#E1E4E8">(current.level) </span><span style="color:#F97583">&gt;</span><span style="color:#B392F0"> riskBandRank</span><span style="color:#E1E4E8">(previous?.level)) {</span></span>
+<span class="line"><span style="color:#E1E4E8">      alerts.</span><span style="color:#B392F0">push</span><span style="color:#E1E4E8">({</span></span>
+<span class="line"><span style="color:#E1E4E8">        type: </span><span style="color:#9ECBFF">"country-risk-band-up"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">        severity: current.level </span><span style="color:#F97583">===</span><span style="color:#9ECBFF"> "critical"</span><span style="color:#F97583"> ?</span><span style="color:#9ECBFF"> "critical"</span><span style="color:#F97583"> :</span><span style="color:#9ECBFF"> "elevated"</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">        title: </span><span style="color:#9ECBFF">`${</span><span style="color:#E1E4E8">countryCode</span><span style="color:#9ECBFF">} country risk worsened to ${</span><span style="color:#E1E4E8">current</span><span style="color:#9ECBFF">.</span><span style="color:#E1E4E8">level</span><span style="color:#9ECBFF">}`</span><span style="color:#E1E4E8">,</span></span>
+<span class="line"><span style="color:#E1E4E8">        evidence: {</span></span>
+<span class="line"><span style="color:#E1E4E8">          score: current.score,</span></span>
+<span class="line"><span style="color:#E1E4E8">          components: current.components,</span></span>
+<span class="line"><span style="color:#E1E4E8">          advisoryProvenance: current.advisoryProvenance</span></span>
+<span class="line"><span style="color:#E1E4E8">        }</span></span>
+<span class="line"><span style="color:#E1E4E8">      });</span></span>
+<span class="line"><span style="color:#E1E4E8">    }</span></span>
+<span class="line"><span style="color:#E1E4E8">  }</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#F97583">  return</span><span style="color:#E1E4E8"> alerts;</span></span>
+<span class="line"><span style="color:#E1E4E8">}</span></span></code></pre>
+<p>The important part is not the code style. The important part is that the alert compares state, carries evidence, and treats stale data as its own condition.</p>
+<h2 id="write-alerts-people-can-act-on">Write alerts people can act on</h2>
+<p>A good alert has five fields:</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Title</td>
+<td>“Hormuz route risk moved to elevated”</td>
+</tr>
+<tr>
+<td>Why now</td>
+<td>“Transit stress rose and Gulf country risk remains elevated”</td>
+</tr>
+<tr>
+<td>Evidence</td>
+<td>Score, fields, cached time, source names</td>
+</tr>
+<tr>
+<td>Suggested action</td>
+<td>“Review tanker exposure and reroute threshold”</td>
+</tr>
+<tr>
+<td>Link</td>
+<td>Dashboard, docs, or internal runbook</td>
+</tr>
+</tbody>
+</table>
+<p>Slack message template:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="text"><code><span class="line"><span>Risk alert: Hormuz route risk moved to elevated</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Why now:</span></span>
+<span class="line"><span>- Chokepoint status worsened since last run</span></span>
+<span class="line"><span>- Energy disruptions remain active</span></span>
+<span class="line"><span>- Brent moved beyond the internal 3-day threshold</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Evidence:</span></span>
+<span class="line"><span>- cached_at: 2026-06-10T08:00:00Z</span></span>
+<span class="line"><span>- stale: false</span></span>
+<span class="line"><span>- source: WorldMonitor chokepoint + energy + market data</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Suggested action:</span></span>
+<span class="line"><span>Review Gulf route exposure before the next logistics cutoff.</span></span></code></pre>
+<h2 id="add-an-ai-summary-after-the-rule-fires">Add an AI summary after the rule fires</h2>
+<p>Do not let an LLM decide whether a critical alert exists without structured rules. Let the rule fire first, then ask an AI agent to summarize the evidence.</p>
+<p>Good agent instruction:</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0" data-language="text"><code><span class="line"><span>Summarize this alert for an operations channel. Use only the provided WorldMonitor fields. Separate observed signals from interpretation. Include freshness and one suggested next check. Do not add facts that are not in the payload.</span></span></code></pre>
+<p>This gives you readable alerts without surrendering the trigger logic to a model.</p>
+<h2 id="freshness-is-an-alert-too">Freshness is an alert too</h2>
+<p>Data freshness is operational. If a route-risk workflow depends on market, energy, and chokepoint data, stale or missing seed data should show up in the channel before people act on old context.</p>
+<p>WorldMonitor exposes freshness through cache fields and health endpoints. Use them to gate alerts:</p>
+<ul>
+<li>If a required dataset is stale, mark downstream alerts as degraded.</li>
+<li>If the freshness endpoint reports a critical seed failure, send a data-quality alert.</li>
+<li>If data is stale but risk worsened anyway, include both facts.</li>
+</ul>
+<h2 id="rollout-plan">Rollout plan</h2>
+<ol>
+<li>Start with one Slack or Teams channel.</li>
+<li>Pick a focused set of countries and chokepoints.</li>
+<li>Run the worker silently for one week.</li>
+<li>Review would-have-fired alerts with analysts.</li>
+<li>Add cooldowns and suppress noisy rules.</li>
+<li>Turn on posting for elevated and critical only.</li>
+<li>Review false positives every Friday.</li>
+</ol>
+<p>That last step is the work. Alerting gets better through calibration, not clever copy.</p>
+<h2 id="destination-references">Destination references</h2>
+<p>Before production rollout, verify payload and lifecycle behavior against the official <a href="https://api.slack.com/messaging/webhooks">Slack incoming-webhook documentation</a> and Microsoft’s <a href="https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/what-are-webhooks-and-connectors">Teams webhooks and connectors documentation</a>.</p>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<p><strong>What is a geopolitical risk alert?</strong>
+A geopolitical risk alert is a structured notification that a relevant country, route, market, cyber, conflict, or data-freshness state changed enough to require human attention.</p>
+<p><strong>Should Slack alerts be generated by an AI agent?</strong>
+Use deterministic rules for alert triggers. Use an AI agent only to summarize evidence and suggest next checks after a rule fires.</p>
+<p><strong>Which WorldMonitor data should I alert on first?</strong>
+Start with country risk band changes, chokepoint status changes, stale data, sanctions pressure changes, cyber or infrastructure spikes, and high-confidence route or energy signals.</p>
+<p><strong>How do I prevent alert fatigue?</strong>
+Alert only on state changes, require combined signals for noisy domains, add cooldowns, suppress repeated alerts, and review false positives every week.</p>
+<hr>
+<p><strong>The best alert pipeline does not make your team read more. It helps them notice the few changes that deserve a decision.</strong></p>
+</div><nav class="related-posts" aria-labelledby="related-posts-title"><h2 id="related-posts-title">Related Intelligence Guides</h2><div class="related-post-grid"><a href="/blog/posts/build-supply-chain-early-warning-system-api/" class="related-post-card"><span>Read Next</span><h3>Build a Supply-Chain Early-Warning System in an Afternoon</h3><p>Score your trade lanes for chokepoint exposure, subscribe to disruption webhooks, and pipe alerts to Slack with this World Monitor API tutorial.</p></a><a href="/blog/posts/free-geopolitical-data-apis-2026/" class="related-post-card"><span>Read Next</span><h3>Free Geopolitical Data APIs in 2026</h3><p>A practical comparison of ACLED, GDELT, UCDP, USGS, NASA FIRMS, Cloudflare Radar, and WorldMonitor for developers building geopolitical risk tools.</p></a><a href="/blog/posts/build-on-worldmonitor-developer-api-open-source/" class="related-post-card"><span>Read Next</span><h3>Build on World Monitor: APIs and Developer Platform</h3><p>Build intelligence apps on World Monitor&#39;s typed API: generated services, Protocol Buffers, edge functions, and TypeScript clients. AGPL-3.0.</p></a></div></nav><div class="cta-banner"><h3>Put the Intelligence to Work</h3><p>Move from the research to the surface that matches your intent: the live dashboard, Pro workflows, the REST API, or MCP.</p><div class="cta-actions"><a href="https://www.worldmonitor.app/dashboard?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=dashboard&amp;wm_content_placement=article-cta-dashboard" class="btn" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="dashboard" data-umami-event-placement="article-cta-dashboard" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="dashboard" data-umami-event-content-placement="article-cta-dashboard" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+          Open Dashboard
+        </a><a href="https://www.worldmonitor.app/pro?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=pro&amp;wm_content_placement=article-cta-pro" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="pro" data-umami-event-placement="article-cta-pro" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="pro" data-umami-event-content-placement="article-cta-pro" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+          Explore Pro
+        </a><a href="https://www.worldmonitor.app/docs/api-reference?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=api&amp;wm_content_placement=article-cta-api" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="api" data-umami-event-placement="article-cta-api" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="api" data-umami-event-content-placement="article-cta-api" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+          API Reference
+        </a><a href="https://www.worldmonitor.app/docs/mcp-quickstart?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=mcp&amp;wm_content_placement=article-cta-mcp" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="mcp" data-umami-event-placement="article-cta-mcp" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="mcp" data-umami-event-content-placement="article-cta-mcp" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+          MCP Quickstart
+        </a></div></div></article></main><footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="/favico/favicon-32x32.png" alt="" width="28" height="28" class="footer-icon-img"><span class="footer-name">WORLD MONITOR</span></div><div class="footer-links"><a href="/blog/authors/elie-habib/">About</a><a href="https://www.worldmonitor.app/dashboard?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=dashboard&amp;wm_content_placement=footer-dashboard" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="dashboard" data-umami-event-placement="footer-dashboard" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="dashboard" data-umami-event-content-placement="footer-dashboard" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+            Dashboard
+          </a><a href="https://www.worldmonitor.app/pro?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=pro&amp;wm_content_placement=footer-pro" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="pro" data-umami-event-placement="footer-pro" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="pro" data-umami-event-content-placement="footer-pro" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+            Pro
+          </a><a href="https://www.worldmonitor.app/docs/api-reference?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=api&amp;wm_content_placement=footer-api" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="api" data-umami-event-placement="footer-api" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="api" data-umami-event-content-placement="footer-api" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+            API
+          </a><a href="https://www.worldmonitor.app/docs/mcp-quickstart?wm_content_source=worldmonitor-blog&amp;wm_content_medium=owned-content&amp;wm_content_campaign=geopolitical-risk-alerts-slack-teams-worldmonitor-api&amp;wm_content_destination=mcp&amp;wm_content_placement=footer-mcp" target="_blank" rel="noopener noreferrer" data-wm-content-link data-umami-event="blog-product-cta-click" data-umami-event-destination="mcp" data-umami-event-placement="footer-mcp" data-umami-event-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-source="worldmonitor-blog" data-umami-event-medium="owned-content" data-umami-event-content-source="worldmonitor-blog" data-umami-event-content-medium="owned-content" data-umami-event-content-campaign="geopolitical-risk-alerts-slack-teams-worldmonitor-api" data-umami-event-content-destination="mcp" data-umami-event-content-placement="footer-mcp" data-umami-event-article="geopolitical-risk-alerts-slack-teams-worldmonitor-api">
+            MCP
+          </a><a href="https://www.worldmonitor.app/docs/documentation" target="_blank" rel="noopener noreferrer">Docs</a><a href="https://status.worldmonitor.app/" target="_blank" rel="noopener noreferrer">Status</a><a href="https://github.com/koala73/worldmonitor" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://x.com/worldmonitorai" target="_blank" rel="noopener noreferrer">X</a></div><div class="footer-copy">&copy; 2026 World Monitor</div></div></footer><!-- Keep inbound acquisition context on every tracked content handoff.
+         Internal content fields use wm_content_*; affiliate ref params are
+         intentionally outside this allowlist. --><script nonce="wm-static-bootstrap">
+      (() => {
+        const utmParams = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'];
+        const incoming = new URLSearchParams(window.location.search);
+        if (!utmParams.some((name) => incoming.has(name))) return;
+
+        document.querySelectorAll('a[data-wm-content-link]').forEach((anchor) => {
+          const href = anchor.getAttribute('href');
+          if (!href) return;
+          const target = new URL(href, window.location.href);
+          for (const name of utmParams) {
+            if (target.searchParams.has(name)) continue;
+            const value = incoming.get(name);
+            if (value !== null) target.searchParams.set(name, value.slice(0, 100));
+          }
+          anchor.setAttribute('href', target.toString());
+        });
+      })();
+    </script></body></html>

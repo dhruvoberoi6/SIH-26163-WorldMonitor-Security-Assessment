@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "PA",
+  "countryName": "Panama",
+  "slug": "panama",
+  "rank": 76,
+  "overallScore": 54.5,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Panama bunker sales fall in August | Hellenic Shipping News Worldwide",
+        "source": "hellenicshippingnews.com",
+        "url": "https://www.hellenicshippingnews.com/panama-bunker-sales-fall-in-august/",
+        "publishedAt": "2026-09-20T23:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Panama Farmland For Sale: Reduced to $219,000 - 23 Acres or 9 Hectares in Penonome Coclé Province @ $2.35 a Square Meter or $9500 Per Acre",
+        "source": "newsroompanama.com",
+        "url": "https://newsroompanama.com/2026/09/19/23-acres-in-penonome-for-sale-or-trade-for-boquete-property-of-equal-value/",
+        "publishedAt": "2026-09-20T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Beachfront Condo for Sale: La Barqueta, Panama",
+        "source": "newsroompanama.com",
+        "url": "https://newsroompanama.com/2026/09/19/beachfront-condo-for-sale-la-barqueta-panama/",
+        "publishedAt": "2026-09-20T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "A Day of Environmental Awareness on the Coasts of Panama.",
+        "source": "newsroompanama.com",
+        "url": "https://newsroompanama.com/2026/09/19/between-garbage-and-skyscrapers-is-a-day-of-environmental-awareness-on-the-coasts-of-panama/",
+        "publishedAt": "2026-09-20T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Panama Strengthens Maritime, Border, And Cybersecurity Capabilities With US Support - Analysis",
+        "source": "eurasiareview.com",
+        "url": "https://www.eurasiareview.com/20092026-panama-strengthens-maritime-border-and-cybersecurity-capabilities-with-us-support-analysis/",
+        "publishedAt": "2026-09-20T02:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "UG",
+  "countryName": "Uganda",
+  "slug": "uganda",
+  "rank": 143,
+  "overallScore": 41.9,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Uganda reassures growers amid coffee market volatility - Global Coffee Report",
+        "source": "Risk & Volatility",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmZJem5LYVRlSmtXbkFDV2oyTFM2WUFJZy1MMVJGZmxuc2Z3enBWNnRMcDEzTUVFczlzdGxNaUlzTXJheGxCdTFVZTBYZWxUTlBpV2huVDhwRmRMWDZyTktXYWVRX284WlpxZ0VGVGlXLWFPZmI4UGNIWUJVNGtBdFB4YUQ?oc=5",
+        "publishedAt": "2026-09-21T03:34:32.000Z"
+      },
+      {
+        "title": "Kenya defends local oil marketers amid Uganda's exploitation claims",
+        "source": "Daily Nation",
+        "url": "https://nation.africa/kenya/business/kenya-defends-local-oil-marketers-uganda-exploitation-claims-5602378",
+        "publishedAt": "2026-09-20T15:22:54.000Z"
+      },
+      {
+        "title": "Uganda suspends military ties with Turkey over extradition of Museveni critic",
+        "source": "RFI Afrique",
+        "url": "https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye",
+        "publishedAt": "2026-09-20T10:29:02.000Z"
+      },
+      {
+        "title": "202 Sudanese refugees return from Uganda on voluntary flights",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/202-sudanese-refugees-return-from-uganda-on-voluntary-flights",
+        "publishedAt": "2026-09-20T10:14:00.000Z"
+      },
+      {
+        "title": "Broken dreams and budget limits: Inside Uganda's 48.9% higher education loan surge",
+        "source": "observer.ug",
+        "url": "https://observer.ug/education/broken-dreams-and-budget-limits-inside-ugandas-48-9-higher-education-loan-surge/",
+        "publishedAt": "2026-09-21T04:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nUganda reassures growers amid coffee market volatility. [1]\nKenya defends local oil marketers amid Uganda's exploitation claims. [2]\nUganda suspends military ties with Turkey over extradition of Museveni critic. [3]\n202 Sudanese refugees return from Uganda on voluntary flights. [4]\nBroken dreams and budget limits: Inside Uganda's 48.9% higher education loan surge. [5]\n\nWHAT THIS MEANS FOR UGANDA\nThe coffee market volatility may affect Uganda's agricultural sector and grower confidence. [1]\nThe suspension of military ties with Turkey could strain bilateral relations and security cooperation. [3]\n\nKEY RISKS\nThe 48.9% surge in higher education loan applications suggests growing financial strain on students and the budget. [5]\n\nWATCH ITEMS\nThe status of military ties with Turkey remains suspended pending further developments. [3]\nThe voluntary return of 202 Sudanese refugees may continue or change in scale. [4]",
+      "generatedAt": "2026-09-21T05:01:42.724Z",
+      "sources": [
+        {
+          "title": "Uganda reassures growers amid coffee market volatility - Global Coffee Report",
+          "source": "Risk & Volatility",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmZJem5LYVRlSmtXbkFDV2oyTFM2WUFJZy1MMVJGZmxuc2Z3enBWNnRMcDEzTUVFczlzdGxNaUlzTXJheGxCdTFVZTBYZWxUTlBpV2huVDhwRmRMWDZyTktXYWVRX284WlpxZ0VGVGlXLWFPZmI4UGNIWUJVNGtBdFB4YUQ?oc=5",
+          "publishedAt": "2026-09-21T03:34:32.000Z"
+        },
+        {
+          "title": "Kenya defends local oil marketers amid Uganda's exploitation claims",
+          "source": "Daily Nation",
+          "url": "https://nation.africa/kenya/business/kenya-defends-local-oil-marketers-uganda-exploitation-claims-5602378",
+          "publishedAt": "2026-09-20T15:22:54.000Z"
+        },
+        {
+          "title": "Uganda suspends military ties with Turkey over extradition of Museveni critic",
+          "source": "RFI Afrique",
+          "url": "https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye",
+          "publishedAt": "2026-09-20T10:29:02.000Z"
+        },
+        {
+          "title": "202 Sudanese refugees return from Uganda on voluntary flights",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/202-sudanese-refugees-return-from-uganda-on-voluntary-flights",
+          "publishedAt": "2026-09-20T10:14:00.000Z"
+        },
+        {
+          "title": "Broken dreams and budget limits: Inside Uganda's 48.9% higher education loan surge",
+          "source": "observer.ug",
+          "url": "https://observer.ug/education/broken-dreams-and-budget-limits-inside-ugandas-48-9-higher-education-loan-surge/",
+          "publishedAt": "2026-09-21T04:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

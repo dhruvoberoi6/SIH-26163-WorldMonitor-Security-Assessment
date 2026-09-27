@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NI",
+  "countryName": "Nicaragua",
+  "slug": "nicaragua",
+  "rank": 68,
+  "overallScore": 55.8,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Nicaragua sends Independence Day greetings to Belize on 45th Anniversary",
+        "source": "nuevaya.com.ni",
+        "url": "https://nuevaya.com.ni/official-statements/nicaragua-sends-independence-day-greetings-to-belize-on-45th-anniversary/",
+        "publishedAt": "2026-09-21T00:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nicaragua prisoner release: 1,500 more inmates go home | The Rio Times",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/nicaragua-prisoner-release-1500-inmates-2026/",
+        "publishedAt": "2026-09-19T17:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US House committee calls for 90-day report on democratic transition in Nicaragua",
+        "source": "aa.com.tr",
+        "url": "https://aa.com.tr/en/americas/us-house-committee-calls-for-90-day-report-on-democratic-transition-in-nicaragua/4061517",
+        "publishedAt": "2026-09-18T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nicaragua Power Concentration Draws UN Criticism",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/nicaragua-un-power-concentration-succession-2026/",
+        "publishedAt": "2026-09-17T18:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Nicaragua Democracy Dismantled: OHCHR Report",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/nicaragua-democracy-dismantled-ohchr-report-1745532/",
+        "publishedAt": "2026-09-16T19:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GH",
+  "countryName": "Ghana",
+  "slug": "ghana",
+  "rank": 110,
+  "overallScore": 48.9,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "GPRTU fare hike put on ice after talks with government – NPA boss reveals",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/gprtu-fare-hike-put-on-ice-after-talks-with-government-npa-boss-reveals/",
+        "publishedAt": "2026-09-21T03:44:00.000Z"
+      },
+      {
+        "title": "Nigeria's onion dispute with Ghana tests West African free trade",
+        "source": "RFI Afrique",
+        "url": "https://www.rfi.fr/en/africa/20260920-nigeria-onion-dispute-with-ghana-tests-west-african-free-trade",
+        "publishedAt": "2026-09-20T11:56:54.000Z"
+      },
+      {
+        "title": "We are largely import-dependent – NPA boss on Ghana’s fuel vulnerability",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/we-are-largely-import-dependent-npa-boss-on-ghanas-fuel-vulnerability/",
+        "publishedAt": "2026-09-21T03:03:00.000Z"
+      },
+      {
+        "title": "Ghana’s fuel market is built for turbulence – NPA’s Edudzi Tamakloe explains why",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/ghanas-fuel-market-is-built-for-turbulence-npas-edudzi-tamakloe-explains-why/",
+        "publishedAt": "2026-09-21T02:42:00.000Z"
+      },
+      {
+        "title": "We are ready for the turbulence – NPA boss on Ghana’s fuel crisis",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/we-are-ready-for-the-turbulence-npa-boss-on-ghanas-fuel-crisis/",
+        "publishedAt": "2026-09-21T01:12:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe GPRTU fare hike has been put on ice after talks with government, the NPA boss reveals. [1]\nNigeria's onion dispute with Ghana tests West African free trade. [2]\nThe NPA boss describes Ghana as largely import-dependent regarding its fuel vulnerability. [3]\nThe NPA's Edudzi Tamakloe explains that Ghana’s fuel market is built for turbulence. [4]\nThe NPA boss states that Ghana is ready for the turbulence regarding its fuel crisis. [5]",
+      "generatedAt": "2026-09-21T04:56:20.165Z",
+      "sources": [
+        {
+          "title": "GPRTU fare hike put on ice after talks with government – NPA boss reveals",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/gprtu-fare-hike-put-on-ice-after-talks-with-government-npa-boss-reveals/",
+          "publishedAt": "2026-09-21T03:44:00.000Z"
+        },
+        {
+          "title": "Nigeria's onion dispute with Ghana tests West African free trade",
+          "source": "RFI Afrique",
+          "url": "https://www.rfi.fr/en/africa/20260920-nigeria-onion-dispute-with-ghana-tests-west-african-free-trade",
+          "publishedAt": "2026-09-20T11:56:54.000Z"
+        },
+        {
+          "title": "We are largely import-dependent – NPA boss on Ghana’s fuel vulnerability",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/we-are-largely-import-dependent-npa-boss-on-ghanas-fuel-vulnerability/",
+          "publishedAt": "2026-09-21T03:03:00.000Z"
+        },
+        {
+          "title": "Ghana’s fuel market is built for turbulence – NPA’s Edudzi Tamakloe explains why",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/ghanas-fuel-market-is-built-for-turbulence-npas-edudzi-tamakloe-explains-why/",
+          "publishedAt": "2026-09-21T02:42:00.000Z"
+        },
+        {
+          "title": "We are ready for the turbulence – NPA boss on Ghana’s fuel crisis",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/we-are-ready-for-the-turbulence-npa-boss-on-ghanas-fuel-crisis/",
+          "publishedAt": "2026-09-21T01:12:00.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

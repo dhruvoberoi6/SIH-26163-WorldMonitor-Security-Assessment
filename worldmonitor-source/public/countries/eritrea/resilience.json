@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "ER",
+  "countryName": "Eritrea",
+  "slug": "eritrea",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.55,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers",
+        "publishedAt": "2026-09-18T08:30:12.000Z"
+      },
+      {
+        "title": "APO Group - Africa Newsroom / Press release | Eritrea's Strength Lies in Its Human Resources, Enriched through Education and Experience",
+        "source": "africa-newsroom.com",
+        "url": "https://www.africa-newsroom.com/press/eritreas-strength-lies-in-its-human-resources-enriched-through-education-and-experience",
+        "publishedAt": "2026-09-20T17:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Eritrea's Strength Lies in Its Human Resources, Enriched through Education and Experience – Eritrea Ministry Of Information",
+        "source": "shabait.com",
+        "url": "https://shabait.com/2026/09/20/eritreas-strength-lies-in-its-human-resources-enriched-through-education-and-experience/",
+        "publishedAt": "2026-09-20T16:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "In a South Tel Aviv Warehouse, Eritrea's Democratic Revolution Is Brewing",
+        "source": "haaretz.com",
+        "url": "https://www.haaretz.com/israel-news/2026-09-20/ty-article-magazine/.premium/in-a-south-tel-aviv-warehouse-eritreas-democratic-revolution-is-brewing/000001a0-af8f-dea8-afe0-efaf97080000",
+        "publishedAt": "2026-09-20T14:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "US lifts sanctions targeting Eritrea's ruling party",
+        "source": "bostonglobe.com",
+        "url": "https://www.bostonglobe.com/2026/09/19/world/us-lifts-sanctions-targeting-eritreas-ruling-party/",
+        "publishedAt": "2026-09-20T08:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe US has lifted sanctions targeting Eritrea's ruling party. [5]\nOlga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers. [1]\n\nWHAT THIS MEANS FOR ERITREA\nEritrea's strength lies in its human resources, enriched through education and experience. [2]\nIn a South Tel Aviv warehouse, Eritrea's democratic revolution is brewing. [4]\n\nWATCH ITEMS\nThe demand for proof of life of disappeared Eritrean writers remains unresolved. [1]",
+      "generatedAt": "2026-09-21T04:55:53.251Z",
+      "sources": [
+        {
+          "title": "‘We demand the truth’: Olga Tokarczuk and JM Coetzee lead calls for proof of life of disappeared Eritrean writers",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/books/2026/sep/18/olga-tokarczuk-j-m-coetzee-lead-calls-for-release-of-disappeared-eritrean-writers",
+          "publishedAt": "2026-09-18T08:30:12.000Z"
+        },
+        {
+          "title": "APO Group - Africa Newsroom / Press release | Eritrea's Strength Lies in Its Human Resources, Enriched through Education and Experience",
+          "source": "africa-newsroom.com",
+          "url": "https://www.africa-newsroom.com/press/eritreas-strength-lies-in-its-human-resources-enriched-through-education-and-experience",
+          "publishedAt": "2026-09-20T17:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Eritrea's Strength Lies in Its Human Resources, Enriched through Education and Experience – Eritrea Ministry Of Information",
+          "source": "shabait.com",
+          "url": "https://shabait.com/2026/09/20/eritreas-strength-lies-in-its-human-resources-enriched-through-education-and-experience/",
+          "publishedAt": "2026-09-20T16:15:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "In a South Tel Aviv Warehouse, Eritrea's Democratic Revolution Is Brewing",
+          "source": "haaretz.com",
+          "url": "https://www.haaretz.com/israel-news/2026-09-20/ty-article-magazine/.premium/in-a-south-tel-aviv-warehouse-eritreas-democratic-revolution-is-brewing/000001a0-af8f-dea8-afe0-efaf97080000",
+          "publishedAt": "2026-09-20T14:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "US lifts sanctions targeting Eritrea's ruling party",
+          "source": "bostonglobe.com",
+          "url": "https://www.bostonglobe.com/2026/09/19/world/us-lifts-sanctions-targeting-eritreas-ruling-party/",
+          "publishedAt": "2026-09-20T08:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

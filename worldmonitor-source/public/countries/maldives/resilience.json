@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MV",
+  "countryName": "Maldives",
+  "slug": "maldives",
+  "rank": 97,
+  "overallScore": 51.7,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Indian Ocean tourism hit as Gulf airspace disruptions shake Maldives, Sri Lanka and Seychelles travel routes",
+        "source": "gulfnews.com",
+        "url": "https://gulfnews.com/business/tourism/island-hotspots-maldives-seychelles-sri-lanka-feel-the-middle-east-travel-shock-amid-airspace-closures-cancellations-1.500679840",
+        "publishedAt": "2026-09-20T07:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Maldives Settles $150 Million Loan Taken From India - News Today",
+        "source": "newstodaynet.com",
+        "url": "https://newstodaynet.com/2026/09/19/maldives-settles-150-million-loan-taken-from-india/",
+        "publishedAt": "2026-09-19T09:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Maldives meets UN goal to cut deaths from chronic diseases",
+        "source": "scidev.net",
+        "url": "https://www.scidev.net/global/news/maldives-meets-un-goal-to-cut-deaths-from-chronic-diseases/",
+        "publishedAt": "2026-09-18T15:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Arushi Nishank Birthday: Former CM's Daughter Turns Up The Glamour In Pink Monokini During Maldives Getaway",
+        "source": "newsx.com",
+        "url": "https://www.newsx.com/entertainment/arushi-nishank-birthday-former-cms-daughter-turns-up-the-glamour-in-pink-monokini-during-maldives-getaway-273258/",
+        "publishedAt": "2026-09-18T15:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "ITFC signs $ 1.5 b framework agreement with Maldives Govt.",
+        "source": "ft.lk",
+        "url": "https://www.ft.lk/business/ITFC-signs-1-5-b-framework-agreement-with-Maldives-Govt/34-797408",
+        "publishedAt": "2026-09-18T05:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

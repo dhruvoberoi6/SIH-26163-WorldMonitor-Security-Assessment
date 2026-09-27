@@ -1,0 +1,98 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TH",
+  "countryName": "Thailand",
+  "slug": "thailand",
+  "rank": 91,
+  "overallScore": 52.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
+        "source": "Guardian World",
+        "url": "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb",
+        "publishedAt": "2026-09-18T10:00:35.000Z"
+      },
+      {
+        "title": "Why Is Thailand Not Prosecuting Members of the Mauerberger Network?",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/why-is-thailand-not-prosecuting-members-of-the-mauerberger-network/",
+        "publishedAt": "2026-09-18T05:42:00.000Z"
+      },
+      {
+        "title": "Thailand's Rail Fare Cap Faces Funding Questions",
+        "source": "chiangraitimes.com",
+        "url": "https://www.chiangraitimes.com/business/thailands-rail-fare-cap/",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Thailand's Lottery Office Tops State Revenue for Tenth Year",
+        "source": "chiangraitimes.com",
+        "url": "https://www.chiangraitimes.com/finance/thailands-lottery-revenue/",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Wai Etiquette in Thailand: When and How to Greet",
+        "source": "chiangraitimes.com",
+        "url": "https://www.chiangraitimes.com/travel-guide/wai-etiquette-in-thailand/",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nAn Australian man accused of murdering a Thai teenager and putting the body in a suitcase has pleaded not guilty. [1]\nThailand's lottery office topped state revenue for the tenth year. [4]\n\nWHAT THIS MEANS FOR THAILAND\nThailand's rail fare cap faces funding questions. [3]\n\nWATCH ITEMS\nThailand is not prosecuting members of the Mauerberger Network. [2]",
+      "generatedAt": "2026-09-21T05:00:45.620Z",
+      "sources": [
+        {
+          "title": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb",
+          "publishedAt": "2026-09-18T10:00:35.000Z"
+        },
+        {
+          "title": "Why Is Thailand Not Prosecuting Members of the Mauerberger Network?",
+          "source": "The Diplomat",
+          "url": "https://thediplomat.com/2026/09/why-is-thailand-not-prosecuting-members-of-the-mauerberger-network/",
+          "publishedAt": "2026-09-18T05:42:00.000Z"
+        },
+        {
+          "title": "Thailand's Rail Fare Cap Faces Funding Questions",
+          "source": "chiangraitimes.com",
+          "url": "https://www.chiangraitimes.com/business/thailands-rail-fare-cap/",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Thailand's Lottery Office Tops State Revenue for Tenth Year",
+          "source": "chiangraitimes.com",
+          "url": "https://www.chiangraitimes.com/finance/thailands-lottery-revenue/",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Wai Etiquette in Thailand: When and How to Greet",
+          "source": "chiangraitimes.com",
+          "url": "https://www.chiangraitimes.com/travel-guide/wai-etiquette-in-thailand/",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

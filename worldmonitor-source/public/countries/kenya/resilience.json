@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "KE",
+  "countryName": "Kenya",
+  "slug": "kenya",
+  "rank": 144,
+  "overallScore": 41.2,
+  "dimensionCoverage": 0.85,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Kenya's Ngetich breaks women-only half marathon world record by a second - Reuters",
+        "source": "Reuters World",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGZZeGNXRUJhNlUzZkgzZEhPZFlKN2JTVjllamNJVl9pV1ZpU3JsdGVQS3F1aXJjc3hpTjlONFZFTktGXzF1S3hYSWhhd0hwZHpvYkJENC0wRUtMSUdMS1VEYXIzaFdSY3Y2OXdqa2tYRHRCcDFOLUtsN1dDT0lnRUE5eGp1eUFQLW5kdHRLeVpVZ3o0V2JKeU1FOC1lZHJMTXBtanJoLWV4VkpBanNrNlNzblpIdjQ?oc=5",
+        "publishedAt": "2026-09-20T11:08:06.000Z"
+      },
+      {
+        "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+        "source": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/postponement-not-an-option-as-kenya-races-to-be-ready-for-afcon-2027/",
+        "publishedAt": "2026-09-21T02:35:00.000Z"
+      },
+      {
+        "title": "Kenya defends local oil marketers amid Uganda's exploitation claims",
+        "source": "Daily Nation",
+        "url": "https://nation.africa/kenya/business/kenya-defends-local-oil-marketers-uganda-exploitation-claims-5602378",
+        "publishedAt": "2026-09-20T15:22:54.000Z"
+      },
+      {
+        "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+        "source": "BBC Africa",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-19T10:24:01.000Z"
+      },
+      {
+        "title": "Kenya’s Agnes Ngetich smashes half marathon world record",
+        "source": "Daily Nation",
+        "url": "https://nation.africa/kenya/sports/athletics/kenya-agnes-ngetich-smashes-half-marathon-world-record-5602368",
+        "publishedAt": "2026-09-20T15:11:42.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nKenya's Ngetich broke the women-only half marathon world record by a second. [1]\nPostponement is not an option as Kenya races to be ready for Afcon 2027. [2]\nKenya defends local oil marketers amid Uganda's exploitation claims. [3]\n\nWHAT THIS MEANS FOR KENYA\nKenya's Agnes Ngetich smashed the half marathon world record. [5]",
+      "generatedAt": "2026-09-21T04:57:32.576Z",
+      "sources": [
+        {
+          "title": "Kenya's Ngetich breaks women-only half marathon world record by a second - Reuters",
+          "source": "Reuters World",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGZZeGNXRUJhNlUzZkgzZEhPZFlKN2JTVjllamNJVl9pV1ZpU3JsdGVQS3F1aXJjc3hpTjlONFZFTktGXzF1S3hYSWhhd0hwZHpvYkJENC0wRUtMSUdMS1VEYXIzaFdSY3Y2OXdqa2tYRHRCcDFOLUtsN1dDT0lnRUE5eGp1eUFQLW5kdHRLeVpVZ3o0V2JKeU1FOC1lZHJMTXBtanJoLWV4VkpBanNrNlNzblpIdjQ?oc=5",
+          "publishedAt": "2026-09-20T11:08:06.000Z"
+        },
+        {
+          "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/postponement-not-an-option-as-kenya-races-to-be-ready-for-afcon-2027/",
+          "publishedAt": "2026-09-21T02:35:00.000Z"
+        },
+        {
+          "title": "Kenya defends local oil marketers amid Uganda's exploitation claims",
+          "source": "Daily Nation",
+          "url": "https://nation.africa/kenya/business/kenya-defends-local-oil-marketers-uganda-exploitation-claims-5602378",
+          "publishedAt": "2026-09-20T15:22:54.000Z"
+        },
+        {
+          "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+          "source": "BBC Africa",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-19T10:24:01.000Z"
+        },
+        {
+          "title": "Kenya’s Agnes Ngetich smashes half marathon world record",
+          "source": "Daily Nation",
+          "url": "https://nation.africa/kenya/sports/athletics/kenya-agnes-ngetich-smashes-half-marathon-world-record-5602368",
+          "publishedAt": "2026-09-20T15:11:42.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

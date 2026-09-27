@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BA",
+  "countryName": "Bosnia and Herzegovina",
+  "slug": "bosnia-and-herzegovina",
+  "rank": 65,
+  "overallScore": 56.2,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "EU President to Skip Serbia and Bosnia on Balkan Tour",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/eu-president-to-skip-serbia-and-bosnia-on-balkan-tour/bi/",
+        "publishedAt": "2026-09-18T15:40:26.000Z"
+      },
+      {
+        "title": "Bosnia Seizes 1.1 Tons of Synthetic Drugs Worth Up to €33 Million",
+        "source": "OCCRP",
+        "url": "https://www.occrp.org/en/news/bosnia-seizes-11-tons-of-synthetic-drugs-worth-up-to-eur33-million",
+        "publishedAt": "2026-09-18T15:26:00.000Z"
+      },
+      {
+        "title": "Fining Bosnia’s Parties for Campaign Violations Won’t Deter Them, Expert Warns",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/18/fining-bosnias-parties-for-campaign-violations-wont-deter-them-expert-warns/bi/",
+        "publishedAt": "2026-09-18T12:39:27.000Z"
+      },
+      {
+        "title": "Slovakia Seeks to Overturn Conviction of Fugitive Who Claimed Asylum in Bosnia",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/17/slovakia-seeks-to-overturn-conviction-of-fugitive-who-claimed-asylum-in-bosnia/rd/",
+        "publishedAt": "2026-09-17T13:37:41.000Z"
+      },
+      {
+        "title": "Bosnia’s Elections Offer New Technologies, But Old Politics",
+        "source": "Balkan Insight",
+        "url": "https://balkaninsight.com/2026/09/17/bosnias-elections-offer-new-technologies-but-old-politics/bi/",
+        "publishedAt": "2026-09-17T05:59:22.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe EU President will skip Serbia and Bosnia on a Balkan tour. [1]\nBosnia seized 1.1 tons of synthetic drugs worth up to €33 million. [2]\nAn expert warns that fining Bosnia’s parties for campaign violations will not deter them. [3]\nSlovakia seeks to overturn the conviction of a fugitive who claimed asylum in Bosnia. [4]\nBosnia’s elections offer new technologies, but old politics. [5]\n\nWHAT THIS MEANS FOR BOSNIA AND HERZEGOVINA\nThe EU President's decision to skip Bosnia may signal reduced high-level diplomatic engagement with the country. [1]\nThe large drug seizure indicates significant illicit trafficking activity in Bosnia. [2]\n\nKEY RISKS\nFining parties for campaign violations is unlikely to deter them, according to an expert. [3]\nSlovakia's effort to overturn the conviction of a fugitive in Bosnia could create legal or diplomatic friction. [4]\n\nWATCH ITEMS\nThe outcome of Slovakia's attempt to overturn the fugitive's conviction in Bosnia remains unresolved. [4]\nWhether new election technologies will overcome old political practices in Bosnia is uncertain. [5]",
+      "generatedAt": "2026-09-21T04:54:07.046Z",
+      "sources": [
+        {
+          "title": "EU President to Skip Serbia and Bosnia on Balkan Tour",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/eu-president-to-skip-serbia-and-bosnia-on-balkan-tour/bi/",
+          "publishedAt": "2026-09-18T15:40:26.000Z"
+        },
+        {
+          "title": "Bosnia Seizes 1.1 Tons of Synthetic Drugs Worth Up to €33 Million",
+          "source": "OCCRP",
+          "url": "https://www.occrp.org/en/news/bosnia-seizes-11-tons-of-synthetic-drugs-worth-up-to-eur33-million",
+          "publishedAt": "2026-09-18T15:26:00.000Z"
+        },
+        {
+          "title": "Fining Bosnia’s Parties for Campaign Violations Won’t Deter Them, Expert Warns",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/18/fining-bosnias-parties-for-campaign-violations-wont-deter-them-expert-warns/bi/",
+          "publishedAt": "2026-09-18T12:39:27.000Z"
+        },
+        {
+          "title": "Slovakia Seeks to Overturn Conviction of Fugitive Who Claimed Asylum in Bosnia",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/17/slovakia-seeks-to-overturn-conviction-of-fugitive-who-claimed-asylum-in-bosnia/rd/",
+          "publishedAt": "2026-09-17T13:37:41.000Z"
+        },
+        {
+          "title": "Bosnia’s Elections Offer New Technologies, But Old Politics",
+          "source": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/09/17/bosnias-elections-offer-new-technologies-but-old-politics/bi/",
+          "publishedAt": "2026-09-17T05:59:22.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TL",
+  "countryName": "Timor-Leste",
+  "slug": "timor-leste",
+  "rank": 73,
+  "overallScore": 55.2,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Timor-Leste music creates a storm",
+        "source": "islandsbusiness.com",
+        "url": "https://islandsbusiness.com/news-break/timor-leste-music-creates-a-storm/",
+        "publishedAt": "2026-09-20T11:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Timor-Leste energy minister eyes 2034 start-up for Timor LNG project, FID in 2029",
+        "source": "upstreamonline.com",
+        "url": "https://www.upstreamonline.com/exclusive/-realistic-minister-targets-2034-start-up-for-timor-lng/2-1-2045662",
+        "publishedAt": "2026-09-20T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Japan Timor-Leste Offshore Support Vessels Market 2026",
+        "source": "openpr.com",
+        "url": "https://www.openpr.com/news/4634146/japan-timor-leste-offshore-support-vessels-market-2026-growth",
+        "publishedAt": "2026-09-17T09:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Ashurst, Perkins Coie Lead Timor-Leste Solar Project",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/ashurst-perkins-coie-lead-timor-leste-solar-1746035/",
+        "publishedAt": "2026-09-17T06:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "ILO Charting Path for Timor-Leste Vanilla Growth",
+        "source": "miragenews.com",
+        "url": "https://www.miragenews.com/ilo-charting-path-for-timor-leste-vanilla-growth-1744347/",
+        "publishedAt": "2026-09-15T07:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

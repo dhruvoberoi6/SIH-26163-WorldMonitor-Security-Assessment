@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "GD",
+  "countryName": "Grenada",
+  "slug": "grenada",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Court ruled on management of Dougaldston Estate - Grenada Chronicle – Daily Grenada And Caribbean News",
+        "source": "grenadachronicle.com",
+        "url": "https://grenadachronicle.com/court-ruled-on-management-of-dougaldston-estate/",
+        "publishedAt": "2026-09-20T00:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "12°N, 61°W Grenada Film Festival returns to Movie Palace",
+        "source": "nowgrenada.com",
+        "url": "https://nowgrenada.com/2026/09/12n-61w-grenada-film-festival-returns-to-movie-palace/",
+        "publishedAt": "2026-09-19T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "New Sexual Offences Court to open in Grenada in 2027",
+        "source": "nowgrenada.com",
+        "url": "https://nowgrenada.com/2026/09/new-sexual-offences-court-to-open-in-grenada-in-2027/",
+        "publishedAt": "2026-09-19T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Grenada Is Hosting a Weeklong Dive Festival With Wrecks, Reefs and Conservation Adventures",
+        "source": "caribjournal.com",
+        "url": "https://www.caribjournal.com/2026/09/18/grenada-diving-festival-hosting/",
+        "publishedAt": "2026-09-18T21:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Gas prices for September 2026 | NOW Grenada",
+        "source": "nowgrenada.com",
+        "url": "https://nowgrenada.com/2026/09/gas-prices-for-september-2026/",
+        "publishedAt": "2026-09-18T20:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

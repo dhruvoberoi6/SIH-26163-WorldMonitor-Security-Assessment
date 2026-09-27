@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "sudan-conflict",
+  "title": "Sudan conflict tracker",
+  "shortTitle": "Sudan conflict",
+  "description": "Monthly conflict pulse for Sudan: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a bounded country-level view.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Sudan. It is a country-level pulse, not a comprehensive incident ledger, displacement estimate, or forecast.",
+  "coverage": [
+    {
+      "code": "SD",
+      "name": "Sudan"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 129,
+    "fatalities": 314,
+    "politicalViolenceEvents": 121,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "SD",
+        "name": "Sudan",
+        "events": 129,
+        "fatalities": 314,
+        "political": 121,
+        "demonstrations": 8,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

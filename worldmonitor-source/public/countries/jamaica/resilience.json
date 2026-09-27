@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JM",
+  "countryName": "Jamaica",
+  "slug": "jamaica",
+  "rank": 74,
+  "overallScore": 55.2,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Golding calls for PNP unity, pledges stronger Jamaica",
+        "source": "jamaica-gleaner.com",
+        "url": "https://jamaica-gleaner.com/article/news/20260920/golding-calls-pnp-unity-pledges-stronger-jamaica",
+        "publishedAt": "2026-09-21T02:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Golding demands transparency in western Jamaica hurricane recovery",
+        "source": "jamaica-gleaner.com",
+        "url": "https://jamaica-gleaner.com/article/news/20260920/golding-demands-transparency-western-jamaica-hurricane-recovery",
+        "publishedAt": "2026-09-21T02:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jamaica fast becoming a country of 'overnight' food - Hayles",
+        "source": "jamaicaobserver.com",
+        "url": "https://www.jamaicaobserver.com/2026/09/20/jamaica-fast-becoming-country-overnight-food-hayles/",
+        "publishedAt": "2026-09-21T02:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Golding reaffirms PNP's commitment to western Jamaica ahead of annual conference",
+        "source": "jamaicaobserver.com",
+        "url": "https://www.jamaicaobserver.com/2026/09/20/golding-reaffirms-pnps-commitment-western-jamaica-ahead-annual-conference/",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jamaica's Gladstone Johnson makes the Top 12 at Mr Cosmopolitan pageant",
+        "source": "jamaicaobserver.com",
+        "url": "https://www.jamaicaobserver.com/2026/09/20/jamaicas-gladstone-johnson-makes-top-12-mr-cosmopolitan-pageant/",
+        "publishedAt": "2026-09-20T18:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

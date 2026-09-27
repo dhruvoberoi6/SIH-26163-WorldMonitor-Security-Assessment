@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "OM",
+  "countryName": "Oman",
+  "slug": "oman",
+  "rank": 63,
+  "overallScore": 56.5,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Pressure Points",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/pressure-points/",
+        "publishedAt": "2026-09-18T18:30:37.000Z"
+      },
+      {
+        "title": "Value of goods through Sharjah-Oman logistics corridor jumps 66% in three months",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/business/economy/2026/09/20/value-of-goods-through-sharjah-oman-logistics-corridor-jumps-66-in-three-months/",
+        "publishedAt": "2026-09-20T13:46:06.000Z"
+      },
+      {
+        "title": "Oman participates in ASBU executive council meeting in Tunisia",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196536/oman/oman-participates-in-asbu-executive-council-meeting-in-tunisia",
+        "publishedAt": "2026-09-20T12:59:20.000Z"
+      },
+      {
+        "title": "Oman joins IARUin Vienna conference",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196530/oman/oman-joins-iaruin-vienna-conference",
+        "publishedAt": "2026-09-20T12:33:58.000Z"
+      },
+      {
+        "title": "Oman Air records 16% rise in seat capacity during Khareef Dhofar 2026",
+        "source": "Oman Observer",
+        "url": "https://www.omanobserver.om/article/1196492/oman/transport/oman-air-records-16-rise-in-seat-capacity-during-khareef-dhofar-2026",
+        "publishedAt": "2026-09-20T09:31:54.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe value of goods through the Sharjah-Oman logistics corridor jumped 66% in three months. [2]\nOman Air recorded a 16% rise in seat capacity during Khareef Dhofar 2026. [5]\n\nWHAT THIS MEANS FOR OMAN\nThe rise in seat capacity indicates increased travel demand during the Khareef season. [5]",
+      "generatedAt": "2026-09-21T04:59:12.090Z",
+      "sources": [
+        {
+          "title": "Pressure Points",
+          "source": "War on the Rocks",
+          "url": "https://warontherocks.com/pressure-points/",
+          "publishedAt": "2026-09-18T18:30:37.000Z"
+        },
+        {
+          "title": "Value of goods through Sharjah-Oman logistics corridor jumps 66% in three months",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/business/economy/2026/09/20/value-of-goods-through-sharjah-oman-logistics-corridor-jumps-66-in-three-months/",
+          "publishedAt": "2026-09-20T13:46:06.000Z"
+        },
+        {
+          "title": "Oman participates in ASBU executive council meeting in Tunisia",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196536/oman/oman-participates-in-asbu-executive-council-meeting-in-tunisia",
+          "publishedAt": "2026-09-20T12:59:20.000Z"
+        },
+        {
+          "title": "Oman joins IARUin Vienna conference",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196530/oman/oman-joins-iaruin-vienna-conference",
+          "publishedAt": "2026-09-20T12:33:58.000Z"
+        },
+        {
+          "title": "Oman Air records 16% rise in seat capacity during Khareef Dhofar 2026",
+          "source": "Oman Observer",
+          "url": "https://www.omanobserver.om/article/1196492/oman/transport/oman-air-records-16-rise-in-seat-capacity-during-khareef-dhofar-2026",
+          "publishedAt": "2026-09-20T09:31:54.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

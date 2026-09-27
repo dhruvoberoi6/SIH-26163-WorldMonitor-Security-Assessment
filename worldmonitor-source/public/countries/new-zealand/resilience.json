@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "NZ",
+  "countryName": "New Zealand",
+  "slug": "new-zealand",
+  "rank": 6,
+  "overallScore": 68.8,
+  "dimensionCoverage": 0.75,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Kelly Sildaru second in New Zealand as winds cancel final",
+        "source": "ERR News",
+        "url": "https://news.err.ee/1610143093/kelly-sildaru-second-in-new-zealand-as-winds-cancel-final",
+        "publishedAt": "2026-09-20T06:11:00.000Z"
+      },
+      {
+        "title": "Business.Scoop » Asbestos Compliance Obligations Reshape Remediation Demand Across New Zealand's Two Largest Markets",
+        "source": "scoop.co.nz",
+        "url": "https://business.scoop.co.nz/2026/09/21/asbestos-compliance-obligations-reshape-remediation-demand-across-new-zealands-two-largest-markets/",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Business.Scoop » Dunedin Draws Growing Share Of New Zealand's Expanding Car Rental Market",
+        "source": "scoop.co.nz",
+        "url": "https://business.scoop.co.nz/2026/09/21/dunedin-draws-growing-share-of-new-zealands-expanding-car-rental-market/",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Business.Scoop » Showstopper Events Delivering For New Zealand",
+        "source": "scoop.co.nz",
+        "url": "https://business.scoop.co.nz/2026/09/21/showstopper-events-delivering-for-new-zealand/",
+        "publishedAt": "2026-09-21T03:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Treating New Zealand as a market in its own right",
+        "source": "reseller.co.nz",
+        "url": "https://www.reseller.co.nz/article/4224122/treating-new-zealand-as-a-market-in-its-own-right.html",
+        "publishedAt": "2026-09-21T03:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nKelly Sildaru placed second in New Zealand as winds canceled the final. [1]\nAsbestos compliance obligations are reshaping remediation demand across New Zealand's two largest markets. [2]\nDunedin is drawing a growing share of New Zealand's expanding car rental market. [3]\nShowstopper events are delivering for New Zealand. [4]\n\nWHAT THIS MEANS FOR NEW ZEALAND\nThe cancellation of the final due to winds affected the competition outcome in New Zealand. [1]\nAsbestos compliance obligations are altering remediation demand in New Zealand's two largest markets. [2]",
+      "generatedAt": "2026-09-21T04:59:08.491Z",
+      "sources": [
+        {
+          "title": "Kelly Sildaru second in New Zealand as winds cancel final",
+          "source": "ERR News",
+          "url": "https://news.err.ee/1610143093/kelly-sildaru-second-in-new-zealand-as-winds-cancel-final",
+          "publishedAt": "2026-09-20T06:11:00.000Z"
+        },
+        {
+          "title": "Business.Scoop » Asbestos Compliance Obligations Reshape Remediation Demand Across New Zealand's Two Largest Markets",
+          "source": "scoop.co.nz",
+          "url": "https://business.scoop.co.nz/2026/09/21/asbestos-compliance-obligations-reshape-remediation-demand-across-new-zealands-two-largest-markets/",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Business.Scoop » Dunedin Draws Growing Share Of New Zealand's Expanding Car Rental Market",
+          "source": "scoop.co.nz",
+          "url": "https://business.scoop.co.nz/2026/09/21/dunedin-draws-growing-share-of-new-zealands-expanding-car-rental-market/",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Business.Scoop » Showstopper Events Delivering For New Zealand",
+          "source": "scoop.co.nz",
+          "url": "https://business.scoop.co.nz/2026/09/21/showstopper-events-delivering-for-new-zealand/",
+          "publishedAt": "2026-09-21T03:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Treating New Zealand as a market in its own right",
+          "source": "reseller.co.nz",
+          "url": "https://www.reseller.co.nz/article/4224122/treating-new-zealand-as-a-market-in-its-own-right.html",
+          "publishedAt": "2026-09-21T03:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

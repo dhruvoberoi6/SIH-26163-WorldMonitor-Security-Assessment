@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BG",
+  "countryName": "Bulgaria",
+  "slug": "bulgaria",
+  "rank": 16,
+  "overallScore": 64.3,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Bulgaria Tightens Security at Ammunition Sites, Plans More Anti-Drone Systems - Novinite.com",
+        "source": "novinite.com",
+        "url": "https://www.novinite.com/view_news.php?id=240675",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bulgaria to Raise €150 Million in New Domestic Debt - Novinite.com",
+        "source": "novinite.com",
+        "url": "https://www.novinite.com/view_news.php?id=240681",
+        "publishedAt": "2026-09-20T23:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bulgaria Tightens Security at Ammunition Sites, Plans More Anti-Drone Systems - Novinite.com",
+        "source": "novinite.com",
+        "url": "https://www.novinite.com/articles/240675/Bulgaria+Tightens+Security+at+Ammunition+Sites,+Plans+More+Anti-Drone+Systems",
+        "publishedAt": "2026-09-20T08:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bulgaria's Strategic Location Secures First Middle Corridor Summit - Novinite.com",
+        "source": "novinite.com",
+        "url": "https://www.novinite.com/articles/240677/Bulgaria%E2%80%99s+Strategic+Location+Secures+First+Middle+Corridor+Summit",
+        "publishedAt": "2026-09-20T08:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Bulgaria to Raise €150 Million in New Domestic Debt - Novinite.com",
+        "source": "novinite.com",
+        "url": "https://www.novinite.com/articles/240681/Bulgaria+to+Raise+%E2%82%AC150+Million+in+New+Domestic+Debt",
+        "publishedAt": "2026-09-20T08:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "thin-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

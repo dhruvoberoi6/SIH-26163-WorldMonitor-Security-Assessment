@@ -1,0 +1,13 @@
+{
+  "dataset": "country-instability-index",
+  "countryCode": "IN",
+  "countryName": "India",
+  "methodologyVersion": "v8",
+  "score": 50,
+  "approximate24HourMovement": 6,
+  "instabilityLevel": "Normal",
+  "observedAt": "2026-09-21T04:46:14.034Z",
+  "capturedAt": "2026-09-21",
+  "source": "docs/snapshots/crawlable-live-pulse-2026-09-21.json",
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

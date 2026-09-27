@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "nigeria-security-crisis",
+  "title": "Nigeria security crisis tracker",
+  "shortTitle": "Nigeria security crisis",
+  "description": "Monthly conflict pulse for Nigeria: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a bounded country-level view.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for Nigeria, aggregated from subnational records. It combines the north-eastern insurgency, banditry and communal violence into one national total and does not separate them.",
+  "coverage": [
+    {
+      "code": "NG",
+      "name": "Nigeria"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 448,
+    "fatalities": 506,
+    "politicalViolenceEvents": 423,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "NG",
+        "name": "Nigeria",
+        "events": 448,
+        "fatalities": 506,
+        "political": 423,
+        "demonstrations": 25,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

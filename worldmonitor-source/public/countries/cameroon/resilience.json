@@ -1,0 +1,133 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CM",
+  "countryName": "Cameroon",
+  "slug": "cameroon",
+  "rank": 155,
+  "overallScore": 39,
+  "dimensionCoverage": 0.84,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Cameroon faces upsurge in deadly violence against women",
+        "source": "cruxnow.com",
+        "url": "https://cruxnow.com/church-in-africa/2026/09/cameroon-faces-upsurge-in-deadly-violence-against-women",
+        "publishedAt": "2026-09-20T13:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cameroon Femicide Protests in Yaoundé Draw Hundreds",
+        "source": "riotimesonline.com",
+        "url": "https://www.riotimesonline.com/cameroon-femicide-protests-yaounde-2026/",
+        "publishedAt": "2026-09-20T09:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Cameroon's Banyo Plans 44 MW Solar Project Alongside Socadel Hybrid Program",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/energy/1909-16784-cameroon-s-banyo-plans-44-mw-solar-project-alongside-socadel-hybrid-program",
+        "publishedAt": "2026-09-19T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Perenco Reports New Oil and Gas Findings in Cameroon - Business in Cameroon",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/energy/1909-16785-perenco-reports-new-oil-and-gas-findings-in-cameroon",
+        "publishedAt": "2026-09-19T19:15:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "S&P Sees Cameroon Growth at 3.5% in 2026 - Business in Cameroon",
+        "source": "businessincameroon.com",
+        "url": "https://www.businessincameroon.com/public-management/1909-16783-s-p-sees-cameroon-growth-at-3-5-in-2026",
+        "publishedAt": "2026-09-19T19:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: medafricatimes.com",
+        "sourceUrl": "https://medafricatimes.com/47003-northern-cameroon-suspected-boko-haram-attack-kills-13-civilians.html",
+        "occurredAt": "2026-09-19T16:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: cameroonjournal.com",
+        "sourceUrl": "https://cameroonjournal.com/two-female-boko-haram-suicide-bombers-kill-selves-in-foiled-attack/",
+        "occurredAt": "2026-09-19T09:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: cameroonjournal.com",
+        "sourceUrl": "https://cameroonjournal.com/two-female-boko-haram-suicide-bombers-kill-selves-in-foiled-attack/",
+        "occurredAt": "2026-09-19T09:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.channelafrica.co.za",
+        "sourceUrl": "https://www.channelafrica.co.za/channelafrica/news/militants-kill-15-in-overnight-cameroon-raid/",
+        "occurredAt": "2026-09-18T07:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.channelafrica.co.za",
+        "sourceUrl": "https://www.channelafrica.co.za/channelafrica/news/militants-kill-15-in-overnight-cameroon-raid/",
+        "occurredAt": "2026-09-18T07:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.channelafrica.co.za",
+        "sourceUrl": "https://www.channelafrica.co.za/channelafrica/news/militants-kill-15-in-overnight-cameroon-raid/",
+        "occurredAt": "2026-09-18T07:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: whbl.com",
+        "sourceUrl": "https://whbl.com/2026/09/17/militants-kill-15-in-overnight-cameroon-raid-village-sources-say/",
+        "occurredAt": "2026-09-17T20:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.hindustantimes.com",
+        "sourceUrl": "https://www.hindustantimes.com/world-news/militants-kill-15-in-overnight-cameroon-raid-village-sources-say-101789672845357.html",
+        "occurredAt": "2026-09-17T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.hindustantimes.com",
+        "sourceUrl": "https://www.hindustantimes.com/world-news/militants-kill-15-in-overnight-cameroon-raid-village-sources-say-101789672845357.html",
+        "occurredAt": "2026-09-17T20:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Cameroon",
+        "summary": "source: www.hindustantimes.com",
+        "sourceUrl": "https://www.hindustantimes.com/world-news/militants-kill-15-in-overnight-cameroon-raid-village-sources-say-101789672845357.html",
+        "occurredAt": "2026-09-17T20:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

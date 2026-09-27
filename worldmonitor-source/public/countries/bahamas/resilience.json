@@ -1,0 +1,86 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "BS",
+  "countryName": "Bahamas",
+  "slug": "bahamas",
+  "rank": 115,
+  "overallScore": 48.2,
+  "dimensionCoverage": 0.73,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Donald Trump claims son repaid Russian boxing chief Umar Kremlev for Bahamas wedding expenses",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/news/2026/09/19/donald-trump-claims-son-repaid-russian-boxing-chief-umar-kremlev-for-bahamas-wedding-expenses",
+        "publishedAt": "2026-09-18T22:14:29.000Z"
+      },
+      {
+        "title": "Prime Minister Davis to Lead The Bahamas Delegation to UNGA81",
+        "source": "znsbahamas.com",
+        "url": "https://znsbahamas.com/prime-minister-davis-to-lead-the-bahamas-delegation-to-unga81/",
+        "publishedAt": "2026-09-21T01:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "MYS 2026: Find The Bahamas On The Upper Deck",
+        "source": "superyachts.com",
+        "url": "https://www.superyachts.com/news/story/mys-2026-find-the-bahamas-on-the-upper-deck-18160/",
+        "publishedAt": "2026-09-20T05:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "How concerned are you about the growth of The Bahamas' national debt? | Polls",
+        "source": "thenassauguardian.com",
+        "url": "https://www.thenassauguardian.com/opinion/polls/how-concerned-are-you-about-the-growth-of-the-bahamas-national-debt/poll_fded72bc-f82a-4adf-8295-56ae29e88eaf.html",
+        "publishedAt": "2026-09-18T17:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe Prime Minister Davis is to lead The Bahamas delegation to UNGA81. [2]\n\nWATCH ITEMS\nThe claim that Donald Trump's son was repaid by Russian boxing chief Umar Kremlev for Bahamas wedding expenses remains unresolved. [1]",
+      "generatedAt": "2026-09-21T04:54:33.906Z",
+      "sources": [
+        {
+          "title": "Donald Trump claims son repaid Russian boxing chief Umar Kremlev for Bahamas wedding expenses",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/news/2026/09/19/donald-trump-claims-son-repaid-russian-boxing-chief-umar-kremlev-for-bahamas-wedding-expenses",
+          "publishedAt": "2026-09-18T22:14:29.000Z"
+        },
+        {
+          "title": "Prime Minister Davis to Lead The Bahamas Delegation to UNGA81",
+          "source": "znsbahamas.com",
+          "url": "https://znsbahamas.com/prime-minister-davis-to-lead-the-bahamas-delegation-to-unga81/",
+          "publishedAt": "2026-09-21T01:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "MYS 2026: Find The Bahamas On The Upper Deck",
+          "source": "superyachts.com",
+          "url": "https://www.superyachts.com/news/story/mys-2026-find-the-bahamas-on-the-upper-deck-18160/",
+          "publishedAt": "2026-09-20T05:00:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "How concerned are you about the growth of The Bahamas' national debt? | Polls",
+          "source": "thenassauguardian.com",
+          "url": "https://www.thenassauguardian.com/opinion/polls/how-concerned-are-you-about-the-growth-of-the-bahamas-national-debt/poll_fded72bc-f82a-4adf-8295-56ae29e88eaf.html",
+          "publishedAt": "2026-09-18T17:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

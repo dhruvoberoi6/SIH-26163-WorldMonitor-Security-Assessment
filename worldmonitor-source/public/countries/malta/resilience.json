@@ -1,0 +1,62 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "MT",
+  "countryName": "Malta",
+  "slug": "malta",
+  "rank": 64,
+  "overallScore": 56.4,
+  "dimensionCoverage": 0.76,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "🇲🇹 Malta: Selects for Junior Eurovision 2026 on Saturday Night",
+        "source": "eurovoix.com",
+        "url": "https://eurovoix.com/2026/09/18/malta-selects-for-junior-eurovision-2026-saturday-night/",
+        "publishedAt": "2026-09-18T22:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "L.A.X and Ella Are Legally Hitched! See Their Stylish Civil Wedding Looks in Malta",
+        "source": "bellanaija.com",
+        "url": "https://www.bellanaija.com/2026/09/lax-ella-civil-wedding-malta/",
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Malta erupts as Fenech acquittal reopens Daphne murder scandal",
+        "source": "weeklyblitz.net",
+        "url": "https://weeklyblitz.net/2026/09/18/malta-erupts-as-fenech-acquittal-reopens-daphne-murder-scandal/",
+        "publishedAt": "2026-09-17T19:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Malta, four jurors in Daphne Caruana Galizia trial arrested",
+        "source": "italpress.com",
+        "url": "https://www.italpress.com/malta-four-jurors-in-daphne-caruana-galizia-trial-arrested/",
+        "publishedAt": "2026-09-17T19:00:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "L.A.X Weds Partner In Malta",
+        "source": "promptnewsonline.com",
+        "url": "https://promptnewsonline.com/l-a-x-weds-partner-in-malta/",
+        "publishedAt": "2026-09-17T07:00:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": null,
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": "uncurated-grounding",
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

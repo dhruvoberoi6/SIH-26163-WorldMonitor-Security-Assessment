@@ -1,0 +1,18 @@
+{
+  "dataset": "chokepoint-reference",
+  "id": "korea_strait",
+  "displayName": "Korea Strait",
+  "slug": "korea-strait",
+  "lat": 34,
+  "lon": 129,
+  "region": "East China Sea ↔ Sea of Japan",
+  "shockModelSupported": false,
+  "modelledTradeRoutes": [],
+  "capturedAt": "2026-04-09",
+  "volumeObservedAt": "2026-03-14",
+  "source": [
+    "src/config/chokepoint-registry.ts",
+    "src/config/trade-routes.ts"
+  ],
+  "license": "https://www.worldmonitor.app/docs/terms"
+}

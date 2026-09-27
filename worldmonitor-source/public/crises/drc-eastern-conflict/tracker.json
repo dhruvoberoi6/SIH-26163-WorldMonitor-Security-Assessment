@@ -1,0 +1,37 @@
+{
+  "dataset": "crisis-tracker",
+  "slug": "drc-eastern-conflict",
+  "title": "DR Congo conflict tracker",
+  "shortTitle": "DR Congo conflict",
+  "description": "Monthly conflict pulse for the Democratic Republic of the Congo: recorded events, political violence and fatalities from HAPI/HDX humanitarian summaries in a bounded country-level view.",
+  "overview": "This tracker reports the latest available monthly humanitarian conflict summary for the Democratic Republic of the Congo, aggregated from subnational records across the whole country rather than the eastern provinces alone.",
+  "coverage": [
+    {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo"
+    }
+  ],
+  "source": "shared/crawlable-crises.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "maintainedPulse": {
+    "state": "ready",
+    "eventsTotal": 124,
+    "fatalities": 69,
+    "politicalViolenceEvents": 116,
+    "referencePeriod": "2026-09-01",
+    "asOf": "2026-09-21T03:45:38.171Z",
+    "missingCountries": [],
+    "rows": [
+      {
+        "code": "CD",
+        "name": "Congo - Kinshasa",
+        "events": 124,
+        "fatalities": 69,
+        "political": 116,
+        "demonstrations": 8,
+        "referencePeriod": "2026-09-01",
+        "updatedAt": "2026-09-21T03:45:38.171Z"
+      }
+    ]
+  }
+}

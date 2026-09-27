@@ -1,0 +1,167 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "TW",
+  "countryName": "Taiwan",
+  "slug": "taiwan",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.38,
+  "confidence": "low",
+  "level": "unpublished",
+  "sourceStatus": "low-confidence",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
+        "publishedAt": "2026-09-18T07:30:22.000Z"
+      },
+      {
+        "title": "Trump set for Washington summit with Xi focused on trade, Taiwan and AI",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/us/2026/09/21/trump-set-for-washington-summit-with-xi-focused-on-trade-taiwan-and-ai/",
+        "publishedAt": "2026-09-21T03:00:00.000Z"
+      },
+      {
+        "title": "U.S backs Taiwan’s continued PIF role, warns of China’s ‘malign activities’ in Pacific",
+        "source": "Island Times (Palau)",
+        "url": "https://islandtimes.org/u-s-backs-taiwans-continued-pif-role-warns-of-chinas-malign-activities-in-pacific/",
+        "publishedAt": "2026-09-18T09:19:49.000Z"
+      },
+      {
+        "title": "Taiwan Stock Market Due For Profit Taking",
+        "source": "rttnews.com",
+        "url": "https://www.rttnews.com/story.aspx?Id=3692395",
+        "publishedAt": "2026-09-21T04:45:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "New Zealand naval ships transit contested Taiwan Strait",
+        "source": "whbl.com",
+        "url": "https://whbl.com/2026/09/20/new-zealand-naval-ships-transit-contested-taiwan-strait/",
+        "publishedAt": "2026-09-21T04:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nNew Zealand naval ships transited the contested Taiwan Strait. [5]\n\nWHAT THIS MEANS FOR TAIWAN\nThe transit of New Zealand naval ships through the Taiwan Strait underscores ongoing international naval presence in the waterway. [5]\n\nKEY RISKS\nThe Taiwan stock market is due for profit taking, suggesting potential short-term market correction. [4]",
+      "generatedAt": "2026-09-21T05:01:05.675Z",
+      "sources": [
+        {
+          "title": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence",
+          "source": "War on the Rocks",
+          "url": "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/",
+          "publishedAt": "2026-09-18T07:30:22.000Z"
+        },
+        {
+          "title": "Trump set for Washington summit with Xi focused on trade, Taiwan and AI",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/us/2026/09/21/trump-set-for-washington-summit-with-xi-focused-on-trade-taiwan-and-ai/",
+          "publishedAt": "2026-09-21T03:00:00.000Z"
+        },
+        {
+          "title": "U.S backs Taiwan’s continued PIF role, warns of China’s ‘malign activities’ in Pacific",
+          "source": "Island Times (Palau)",
+          "url": "https://islandtimes.org/u-s-backs-taiwans-continued-pif-role-warns-of-chinas-malign-activities-in-pacific/",
+          "publishedAt": "2026-09-18T09:19:49.000Z"
+        },
+        {
+          "title": "Taiwan Stock Market Due For Profit Taking",
+          "source": "rttnews.com",
+          "url": "https://www.rttnews.com/story.aspx?Id=3692395",
+          "publishedAt": "2026-09-21T04:45:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "New Zealand naval ships transit contested Taiwan Strait",
+          "source": "whbl.com",
+          "url": "https://whbl.com/2026/09/20/new-zealand-naval-ships-transit-contested-taiwan-strait/",
+          "publishedAt": "2026-09-21T04:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "Cross-Strait activity 2026-09-21: plaAircraftSorties: 4; planShips: 7; officialShips: 4; medianLineCrossings: 3; adizEntries: 3",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87807",
+        "occurredAt": "2026-09-21T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-20: plaAircraftSorties: 5; planShips: 11; officialShips: 6; medianLineCrossings: 5; adizEntries: 5",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87801",
+        "occurredAt": "2026-09-20T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-19: plaAircraftSorties: 20; planShips: 11; officialShips: 3; medianLineCrossings: 13; adizEntries: 13",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87799",
+        "occurredAt": "2026-09-19T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-18: plaAircraftSorties: 28; planShips: 7; officialShips: 2; medianLineCrossings: 24; adizEntries: 24",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87788",
+        "occurredAt": "2026-09-18T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-17: plaAircraftSorties: 19; planShips: 8; officialShips: 2; medianLineCrossings: 17; adizEntries: 17",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87778",
+        "occurredAt": "2026-09-17T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-16: plaAircraftSorties: 15; planShips: 8; officialShips: 2; medianLineCrossings: 12; adizEntries: 12",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87770",
+        "occurredAt": "2026-09-16T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-15: plaAircraftSorties: 8; planShips: 7; officialShips: 2; medianLineCrossings: 7; adizEntries: 7",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87764",
+        "occurredAt": "2026-09-15T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-14: plaAircraftSorties: 4; planShips: 6; officialShips: 2; adizEntries: 2",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87755",
+        "occurredAt": "2026-09-14T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-13: plaAircraftSorties: 5; planShips: 5; officialShips: 2; adizEntries: 3",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87745",
+        "occurredAt": "2026-09-13T00:00:00.000Z",
+        "domain": "military"
+      },
+      {
+        "title": "Cross-Strait activity 2026-09-12: plaAircraftSorties: 7; planShips: 6; officialShips: 2; adizEntries: 5",
+        "summary": "",
+        "sourceUrl": "https://www.mnd.gov.tw/en/News/PLAAct/87742",
+        "occurredAt": "2026-09-12T00:00:00.000Z",
+        "domain": "military"
+      }
+    ],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

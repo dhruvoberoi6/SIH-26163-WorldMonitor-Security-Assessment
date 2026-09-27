@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "FI",
+  "countryName": "Finland",
+  "slug": "finland",
+  "rank": 12,
+  "overallScore": 65.6,
+  "dimensionCoverage": 0.77,
+  "confidence": "standard",
+  "level": "high",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout - Yahoo Finance",
+        "source": "Nuclear Energy",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEVpd051ZVdVYWNEMnBBZ2pHTk9tYks0bGE2TklXSlFjZ1FiOExocHNabHlJTU81ZF9IN3gzdkowaEpCMUlwcm5iQWZrWlhlN2FubEdzc1UyQm5va3Jpa3RqOW91LXQ4cVFfemN0QTFaU0FfaVpOYmpfZlZ5OWZKNmNLSjVyakRHUUN6bHFXcS1Ld3FqM25WVk5DSTBiQlU?oc=5",
+        "publishedAt": "2026-09-20T23:06:34.000Z"
+      },
+      {
+        "title": "What in the World?",
+        "source": "Foreign Policy",
+        "url": "https://foreignpolicy.com/2026/09/18/news-quiz-houthi-strikes-saudi-arabia-eu-finland-xi-modi-brics-summit/",
+        "publishedAt": "2026-09-18T18:54:46.000Z"
+      },
+      {
+        "title": "Video: This week in Finland, 18.9.2026",
+        "source": "Yle News",
+        "url": "https://yle.fi/a/74-20247097?origin=rss",
+        "publishedAt": "2026-09-18T13:16:17.000Z"
+      },
+      {
+        "title": "Oprah Winfrey packs out business event on first ever visit to Finland",
+        "source": "Yle News",
+        "url": "https://yle.fi/a/74-20246972?origin=rss",
+        "publishedAt": "2026-09-18T07:35:30.000Z"
+      },
+      {
+        "title": "Finland set for weekend of sunny spells and scattered showers",
+        "source": "Yle News",
+        "url": "https://yle.fi/a/74-20246934?origin=rss",
+        "publishedAt": "2026-09-18T05:29:07.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nOprah Winfrey packed out a business event on her first ever visit to Finland. [4]\nFinland is set for a weekend of sunny spells and scattered showers. [5]\n\nOUTLOOK\nFinland is set for a weekend of sunny spells and scattered showers. [5]",
+      "generatedAt": "2026-09-21T04:56:04.270Z",
+      "sources": [
+        {
+          "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout - Yahoo Finance",
+          "source": "Nuclear Energy",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEVpd051ZVdVYWNEMnBBZ2pHTk9tYks0bGE2TklXSlFjZ1FiOExocHNabHlJTU81ZF9IN3gzdkowaEpCMUlwcm5iQWZrWlhlN2FubEdzc1UyQm5va3Jpa3RqOW91LXQ4cVFfemN0QTFaU0FfaVpOYmpfZlZ5OWZKNmNLSjVyakRHUUN6bHFXcS1Ld3FqM25WVk5DSTBiQlU?oc=5",
+          "publishedAt": "2026-09-20T23:06:34.000Z"
+        },
+        {
+          "title": "What in the World?",
+          "source": "Foreign Policy",
+          "url": "https://foreignpolicy.com/2026/09/18/news-quiz-houthi-strikes-saudi-arabia-eu-finland-xi-modi-brics-summit/",
+          "publishedAt": "2026-09-18T18:54:46.000Z"
+        },
+        {
+          "title": "Video: This week in Finland, 18.9.2026",
+          "source": "Yle News",
+          "url": "https://yle.fi/a/74-20247097?origin=rss",
+          "publishedAt": "2026-09-18T13:16:17.000Z"
+        },
+        {
+          "title": "Oprah Winfrey packs out business event on first ever visit to Finland",
+          "source": "Yle News",
+          "url": "https://yle.fi/a/74-20246972?origin=rss",
+          "publishedAt": "2026-09-18T07:35:30.000Z"
+        },
+        {
+          "title": "Finland set for weekend of sunny spells and scattered showers",
+          "source": "Yle News",
+          "url": "https://yle.fi/a/74-20246934?origin=rss",
+          "publishedAt": "2026-09-18T05:29:07.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CU",
+  "countryName": "Cuba",
+  "slug": "cuba",
+  "rank": null,
+  "overallScore": null,
+  "dimensionCoverage": 0.58,
+  "confidence": "standard",
+  "level": "unpublished",
+  "sourceStatus": "unpublished",
+  "headlineEligible": false,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "USA and Brazil: Two Different Policies for Cuban Migration",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/usa-and-brazil-two-different-policies-for-cuban-migration/",
+        "publishedAt": "2026-09-20T14:54:20.000Z"
+      },
+      {
+        "title": "Millions without power as Cuba hit by latest major blackout",
+        "source": "BBC Latin America",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-19T10:27:37.000Z"
+      },
+      {
+        "title": "Millions without power in Cuba as electrical grid collapses again",
+        "source": "France 24 LatAm",
+        "url": "https://www.france24.com/en/millions-without-power-in-cuba-as-electrical-grid-collapses-again",
+        "publishedAt": "2026-09-19T13:01:52.000Z"
+      },
+      {
+        "title": "Cuba: A Country of Thin People Ruled by Overweight Men",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/features/cuba-a-country-of-thin-people-ruled-by-overweight-men/",
+        "publishedAt": "2026-09-19T23:17:21.000Z"
+      },
+      {
+        "title": "Young Cuban Art Inspired by Everyday Life",
+        "source": "Havana Times",
+        "url": "https://havanatimes.org/photo-feature/young-cuban-art-inspired-by-everyday-life/",
+        "publishedAt": "2026-09-19T15:53:46.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMillions are without power as Cuba was hit by a latest major blackout. [2]\nMillions are without power in Cuba as the electrical grid collapses again. [3]\n\nWHAT THIS MEANS FOR CUBA\nThe USA and Brazil have two different policies for Cuban migration. [1]\nYoung Cuban art is inspired by everyday life. [5]\n\nWATCH ITEMS\nCuba is described as a country of thin people ruled by overweight men. [4]",
+      "generatedAt": "2026-09-21T04:55:12.323Z",
+      "sources": [
+        {
+          "title": "USA and Brazil: Two Different Policies for Cuban Migration",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/features/usa-and-brazil-two-different-policies-for-cuban-migration/",
+          "publishedAt": "2026-09-20T14:54:20.000Z"
+        },
+        {
+          "title": "Millions without power as Cuba hit by latest major blackout",
+          "source": "BBC Latin America",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+          "publishedAt": "2026-09-19T10:27:37.000Z"
+        },
+        {
+          "title": "Millions without power in Cuba as electrical grid collapses again",
+          "source": "France 24 LatAm",
+          "url": "https://www.france24.com/en/millions-without-power-in-cuba-as-electrical-grid-collapses-again",
+          "publishedAt": "2026-09-19T13:01:52.000Z"
+        },
+        {
+          "title": "Cuba: A Country of Thin People Ruled by Overweight Men",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/features/cuba-a-country-of-thin-people-ruled-by-overweight-men/",
+          "publishedAt": "2026-09-19T23:17:21.000Z"
+        },
+        {
+          "title": "Young Cuban Art Inspired by Everyday Life",
+          "source": "Havana Times",
+          "url": "https://havanatimes.org/photo-feature/young-cuban-art-inspired-by-everyday-life/",
+          "publishedAt": "2026-09-19T15:53:46.000Z"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

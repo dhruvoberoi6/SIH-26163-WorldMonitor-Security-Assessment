@@ -1,0 +1,149 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "SD",
+  "countryName": "Sudan",
+  "slug": "sudan",
+  "rank": 170,
+  "overallScore": 19.7,
+  "dimensionCoverage": 0.71,
+  "confidence": "standard",
+  "level": "low",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Justice Africa Sudan: ‘Warring parties using starvation a weapon of war’",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/justice-africa-sudan-warring-parties-using-starvation-a-weapon-of-war",
+        "publishedAt": "2026-09-20T08:34:00.000Z"
+      },
+      {
+        "title": "El-Sisi and CIA chief discuss Sudan war",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/el-sisi-and-cia-chief-discuss-sudan-war",
+        "publishedAt": "2026-09-20T16:58:47.000Z"
+      },
+      {
+        "title": "US says it does not recognise Sudan’s army-backed government",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/us-says-it-does-not-recognise-sudans-army-backed-government",
+        "publishedAt": "2026-09-20T22:20:02.000Z"
+      },
+      {
+        "title": "Sudan army accused of attacking South Sudan oil pipeline",
+        "source": "Radio Tamazuj",
+        "url": "https://www.radiotamazuj.org/en/news/article/sudan-army-accused-of-attacking-south-sudan-oil-pipeline",
+        "publishedAt": "2026-09-20T22:07:59.000Z"
+      },
+      {
+        "title": "Sudan: Six killed, dozens injured in Red Sea mine collapse",
+        "source": "Dabanga Sudan",
+        "url": "https://www.dabangasudan.org/en/all-news/article/sudan-six-killed-dozens-injured-in-red-sea-mine-collapse",
+        "publishedAt": "2026-09-20T11:33:00.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nThe warring parties in Sudan are using starvation as a weapon of war. [1]\nThe US says it does not recognise Sudan's army-backed government. [3]\n\nWHAT THIS MEANS FOR SUDAN\nEl-Sisi and the CIA chief discussed the Sudan war. [2]\nThe Sudan army has been accused of attacking the South Sudan oil pipeline. [4]\n\nKEY RISKS\nSix people were killed and dozens injured in a Red Sea mine collapse. [5]\n\nWATCH ITEMS\nThe US does not recognise Sudan's army-backed government. [3]\nThe Sudan army is accused of attacking the South Sudan oil pipeline. [4]",
+      "generatedAt": "2026-09-21T04:59:54.877Z",
+      "sources": [
+        {
+          "title": "Justice Africa Sudan: ‘Warring parties using starvation a weapon of war’",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/justice-africa-sudan-warring-parties-using-starvation-a-weapon-of-war",
+          "publishedAt": "2026-09-20T08:34:00.000Z"
+        },
+        {
+          "title": "El-Sisi and CIA chief discuss Sudan war",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/el-sisi-and-cia-chief-discuss-sudan-war",
+          "publishedAt": "2026-09-20T16:58:47.000Z"
+        },
+        {
+          "title": "US says it does not recognise Sudan’s army-backed government",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/us-says-it-does-not-recognise-sudans-army-backed-government",
+          "publishedAt": "2026-09-20T22:20:02.000Z"
+        },
+        {
+          "title": "Sudan army accused of attacking South Sudan oil pipeline",
+          "source": "Radio Tamazuj",
+          "url": "https://www.radiotamazuj.org/en/news/article/sudan-army-accused-of-attacking-south-sudan-oil-pipeline",
+          "publishedAt": "2026-09-20T22:07:59.000Z"
+        },
+        {
+          "title": "Sudan: Six killed, dozens injured in Red Sea mine collapse",
+          "source": "Dabanga Sudan",
+          "url": "https://www.dabangasudan.org/en/all-news/article/sudan-six-killed-dozens-injured-in-red-sea-mine-collapse",
+          "publishedAt": "2026-09-20T11:33:00.000Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: english.news.cn",
+        "sourceUrl": "https://english.news.cn/africa/20260921/a8bfc026d46244e3bfe93ef1c1112757/c.html",
+        "occurredAt": "2026-09-21T00:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: aa.com.tr",
+        "sourceUrl": "https://aa.com.tr/en/middle-east/sudan-says-rsf-attack-repelled-in-blue-nile-state/4062644",
+        "occurredAt": "2026-09-20T23:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: aa.com.tr",
+        "sourceUrl": "https://aa.com.tr/en/middle-east/sudan-says-rsf-attack-repelled-in-blue-nile-state/4062644",
+        "occurredAt": "2026-09-20T23:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.dabangasudan.org",
+        "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/sudan-six-killed-dozens-injured-in-red-sea-mine-collapse",
+        "occurredAt": "2026-09-20T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 190 — in Sudan",
+        "summary": "source: www.dabangasudan.org",
+        "sourceUrl": "https://www.dabangasudan.org/en/all-news/article/sudan-six-killed-dozens-injured-in-red-sea-mine-collapse",
+        "occurredAt": "2026-09-20T17:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Sudan",
+        "summary": "source: www.newindianexpress.com",
+        "sourceUrl": "https://www.newindianexpress.com/world/2026/Sep/20/sudan-gold-mine-collapse-kills-10-injures-21",
+        "occurredAt": "2026-09-20T14:30:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Sudan",
+        "summary": "source: www.azernews.az",
+        "sourceUrl": "https://www.azernews.az/region/264134.html",
+        "occurredAt": "2026-09-19T21:00:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 192 — in Sudan",
+        "summary": "source: www.azernews.az",
+        "sourceUrl": "https://www.azernews.az/region/264134.html",
+        "occurredAt": "2026-09-19T21:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

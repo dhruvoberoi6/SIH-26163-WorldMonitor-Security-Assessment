@@ -1,0 +1,294 @@
+{
+  "dataset": "forecast-resolution-scorecard",
+  "record": {
+    "availability": "ok",
+    "freshness": "current",
+    "coverage": "measurable",
+    "headline": "current",
+    "failureCode": ""
+  },
+  "attemptedAt": "2026-09-21",
+  "capturedAt": "2026-09-21",
+  "generatedAt": "2026-09-20T06:02:08.731Z",
+  "measurementAgeHours": 23,
+  "staleAfterHours": 36,
+  "source": "docs/snapshots/crawlable-live-pulse-2026-09-21.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "scoreConvention": "Lower Brier and lower log score are better. The published delta is the market Brier minus the forecast Brier, and lower is better, so a negative delta means the market scored better.",
+  "headlineCohort": {
+    "scored": 200,
+    "excludedScored": 341,
+    "excludedOrigins": [
+      "bet_engine",
+      "state_derived"
+    ],
+    "definition": "every scored entry except those whose generationOrigin is listed in excludedOrigins; an absent origin is filed as unknown and is included"
+  },
+  "pooledPopulations": {
+    "calibration": "all-scored-entries",
+    "vsMarketSkill": "all-scored-entries",
+    "overall": "all-scored-entries"
+  },
+  "confidenceIntervals": {
+    "published": false,
+    "trackedIn": "https://github.com/koala73/worldmonitor/issues/7072"
+  },
+  "horizonProjections": {
+    "scored": false,
+    "trackedIn": "https://github.com/koala73/worldmonitor/issues/7075"
+  },
+  "scorecard": {
+    "schemaVersion": 1,
+    "generatedAt": 1789884128731,
+    "rollingWindowDays": 180,
+    "methodology": "Brier/log score over resolved YES/NO published forecast windows; VOID and pending entries are counted for coverage but excluded from accuracy math.",
+    "totals": {
+      "entries": 1058,
+      "resolved": 862,
+      "pending": 102,
+      "pendingJudge": 94,
+      "scored": 541,
+      "void": 321,
+      "voidRate": 0.37239,
+      "publicationCoverage": 0.511342
+    },
+    "overall": {
+      "count": 541,
+      "brier": 0.195059,
+      "logScore": 0.565376
+    },
+    "byDomain": [
+      {
+        "domain": "conflict",
+        "resolved": 41,
+        "scored": 12,
+        "void": 29,
+        "voidRate": 0.707317,
+        "brier": 0.27301,
+        "logScore": 0.730444
+      },
+      {
+        "domain": "cyber",
+        "resolved": 166,
+        "scored": 164,
+        "void": 2,
+        "voidRate": 0.012048,
+        "brier": 0.07708,
+        "logScore": 0.282825
+      },
+      {
+        "domain": "energy",
+        "resolved": 32,
+        "scored": 32,
+        "void": 0,
+        "voidRate": 0,
+        "brier": 0.246782,
+        "logScore": 0.70534
+      },
+      {
+        "domain": "geopolitical",
+        "resolved": 6,
+        "scored": 6,
+        "void": 0,
+        "voidRate": 0,
+        "brier": 0.241783,
+        "logScore": 0.644906
+      },
+      {
+        "domain": "infrastructure",
+        "resolved": 89,
+        "scored": 11,
+        "void": 78,
+        "voidRate": 0.876404,
+        "brier": 0.285995,
+        "logScore": 0.763885
+      },
+      {
+        "domain": "macro",
+        "resolved": 7,
+        "scored": 7,
+        "void": 0,
+        "voidRate": 0,
+        "brier": 0.279557,
+        "logScore": 0.753695
+      },
+      {
+        "domain": "market",
+        "resolved": 382,
+        "scored": 293,
+        "void": 89,
+        "voidRate": 0.232984,
+        "brier": 0.242911,
+        "logScore": 0.68107
+      },
+      {
+        "domain": "military",
+        "resolved": 23,
+        "scored": 6,
+        "void": 17,
+        "voidRate": 0.73913,
+        "brier": 0.26964,
+        "logScore": 0.731132
+      },
+      {
+        "domain": "political",
+        "resolved": 7,
+        "scored": 0,
+        "void": 7,
+        "voidRate": 1
+      },
+      {
+        "domain": "supply_chain",
+        "resolved": 109,
+        "scored": 10,
+        "void": 99,
+        "voidRate": 0.908257,
+        "brier": 0.236844,
+        "logScore": 0.666046
+      }
+    ],
+    "byGenerationOrigin": [
+      {
+        "generationOrigin": "bet_engine",
+        "resolved": 330,
+        "scored": 330,
+        "void": 0,
+        "voidRate": 0,
+        "brier": 0.242184,
+        "logScore": 0.680488
+      },
+      {
+        "generationOrigin": "legacy_detector",
+        "resolved": 402,
+        "scored": 196,
+        "void": 206,
+        "voidRate": 0.512438,
+        "brier": 0.111239,
+        "logScore": 0.361135
+      },
+      {
+        "generationOrigin": "state_derived",
+        "resolved": 97,
+        "scored": 11,
+        "void": 86,
+        "voidRate": 0.886598,
+        "brier": 0.240823,
+        "logScore": 0.675878
+      },
+      {
+        "generationOrigin": "unknown",
+        "resolved": 33,
+        "scored": 4,
+        "void": 29,
+        "voidRate": 0.878788,
+        "brier": 0.288611,
+        "logScore": 0.772562
+      }
+    ],
+    "calibration": [
+      {
+        "bucket": "0-10",
+        "minProbability": 0,
+        "maxProbability": 0.1,
+        "count": 40,
+        "predictedMean": 0.060425,
+        "realizedRate": 0,
+        "brier": 0.004521
+      },
+      {
+        "bucket": "10-20",
+        "minProbability": 0.1,
+        "maxProbability": 0.2,
+        "count": 67,
+        "predictedMean": 0.141701,
+        "realizedRate": 0.044776,
+        "brier": 0.054388
+      },
+      {
+        "bucket": "20-30",
+        "minProbability": 0.2,
+        "maxProbability": 0.3,
+        "count": 87,
+        "predictedMean": 0.25408,
+        "realizedRate": 0.321839,
+        "brier": 0.225481
+      },
+      {
+        "bucket": "30-40",
+        "minProbability": 0.3,
+        "maxProbability": 0.4,
+        "count": 184,
+        "predictedMean": 0.351759,
+        "realizedRate": 0.358696,
+        "brier": 0.229201
+      },
+      {
+        "bucket": "40-50",
+        "minProbability": 0.4,
+        "maxProbability": 0.5,
+        "count": 117,
+        "predictedMean": 0.412,
+        "realizedRate": 0.393162,
+        "brier": 0.237455
+      },
+      {
+        "bucket": "50-60",
+        "minProbability": 0.5,
+        "maxProbability": 0.6,
+        "count": 32,
+        "predictedMean": 0.530594,
+        "realizedRate": 0.25,
+        "brier": 0.267786
+      },
+      {
+        "bucket": "60-70",
+        "minProbability": 0.6,
+        "maxProbability": 0.7,
+        "count": 13,
+        "predictedMean": 0.639795,
+        "realizedRate": 0.461538,
+        "brier": 0.273534
+      },
+      {
+        "bucket": "70-80",
+        "minProbability": 0.7,
+        "maxProbability": 0.8,
+        "count": 0
+      },
+      {
+        "bucket": "80-90",
+        "minProbability": 0.8,
+        "maxProbability": 0.9,
+        "count": 0
+      },
+      {
+        "bucket": "90-100",
+        "minProbability": 0.9,
+        "maxProbability": 1,
+        "count": 1,
+        "predictedMean": 0.93,
+        "realizedRate": 1,
+        "brier": 0.0049
+      }
+    ],
+    "vsMarketSkill": {
+      "count": 89,
+      "forecastBrier": 0.149426,
+      "marketBrier": 0.072497,
+      "brierDelta": -0.076929
+    },
+    "degraded": false,
+    "stale": false,
+    "error": "",
+    "skill": {
+      "count": 200,
+      "brier": 0.114787,
+      "logScore": 0.369364,
+      "excludedScored": 341,
+      "excludedOrigins": [
+        "bet_engine",
+        "state_derived"
+      ]
+    }
+  }
+}

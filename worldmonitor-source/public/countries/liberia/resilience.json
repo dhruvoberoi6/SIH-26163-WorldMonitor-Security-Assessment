@@ -1,0 +1,100 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "LR",
+  "countryName": "Liberia",
+  "slug": "liberia",
+  "rank": 121,
+  "overallScore": 46.5,
+  "dimensionCoverage": 0.79,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Deluge Of Copper Arriving In US Leaves New Orleans With Logjam",
+        "source": "gCaptain",
+        "url": "https://gcaptain.com/deluge-of-copper-arriving-in-us-leaves-new-orleans-with-logjam/",
+        "publishedAt": "2026-09-20T14:11:09.000Z"
+      },
+      {
+        "title": "Liberia: Mass Prison Break Reported at Kakata Central Prison; Inmates Flee Into Nearby Communities",
+        "source": "frontpageafricaonline.com",
+        "url": "https://frontpageafricaonline.com/liberia-mass-prison-break-reported-at-kakata-central-prison-inmates-flee-into-nearby-communities/",
+        "publishedAt": "2026-09-20T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Liberia: More Than 100 Inmates Reportedly Escape Kakata Central Prison as Justice Ministry Confirms Jailbreak",
+        "source": "frontpageafricaonline.com",
+        "url": "https://frontpageafricaonline.com/liberia-more-than-100-inmates-reportedly-escape-kakata-central-prison-as-justice-ministry-confirms-jailbreak/",
+        "publishedAt": "2026-09-20T21:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Breaking News: Security Forces Hunt Kakata Prison Escapees - Liberia news The New Dawn Liberia, premier resource for latest news",
+        "source": "thenewdawnliberia.com",
+        "url": "https://www.thenewdawnliberia.com/security-forces-hunt-kakata-prison-escapees/",
+        "publishedAt": "2026-09-20T20:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Liberia launches PATHWAYs Framework, calls for global partnership on youth, peace, security, and development",
+        "source": "gnnliberia.com",
+        "url": "https://gnnliberia.com/liberia-launches-pathways-framework-calls-for-global-partnership-on-youth-peace-security-and-development/",
+        "publishedAt": "2026-09-20T11:30:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nA mass prison break was reported at Kakata Central Prison, with inmates fleeing into nearby communities. [2]\nMore than 100 inmates reportedly escaped Kakata Central Prison, as confirmed by the Justice Ministry. [3]\nSecurity forces are hunting the Kakata Prison escapees. [4]\nLiberia launched the PATHWAYs Framework and called for a global partnership on youth, peace, security, and development. [5]\n\nKEY RISKS\nThe ongoing hunt for the Kakata Prison escapees may involve risks to security forces and the public. [4]\n\nWATCH ITEMS\nThe search for the Kakata Prison escapees continues, with security forces actively hunting them. [4]",
+      "generatedAt": "2026-09-21T04:57:59.756Z",
+      "sources": [
+        {
+          "title": "Deluge Of Copper Arriving In US Leaves New Orleans With Logjam",
+          "source": "gCaptain",
+          "url": "https://gcaptain.com/deluge-of-copper-arriving-in-us-leaves-new-orleans-with-logjam/",
+          "publishedAt": "2026-09-20T14:11:09.000Z"
+        },
+        {
+          "title": "Liberia: Mass Prison Break Reported at Kakata Central Prison; Inmates Flee Into Nearby Communities",
+          "source": "frontpageafricaonline.com",
+          "url": "https://frontpageafricaonline.com/liberia-mass-prison-break-reported-at-kakata-central-prison-inmates-flee-into-nearby-communities/",
+          "publishedAt": "2026-09-20T21:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Liberia: More Than 100 Inmates Reportedly Escape Kakata Central Prison as Justice Ministry Confirms Jailbreak",
+          "source": "frontpageafricaonline.com",
+          "url": "https://frontpageafricaonline.com/liberia-more-than-100-inmates-reportedly-escape-kakata-central-prison-as-justice-ministry-confirms-jailbreak/",
+          "publishedAt": "2026-09-20T21:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Breaking News: Security Forces Hunt Kakata Prison Escapees - Liberia news The New Dawn Liberia, premier resource for latest news",
+          "source": "thenewdawnliberia.com",
+          "url": "https://www.thenewdawnliberia.com/security-forces-hunt-kakata-prison-escapees/",
+          "publishedAt": "2026-09-20T20:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Liberia launches PATHWAYs Framework, calls for global partnership on youth, peace, security, and development",
+          "source": "gnnliberia.com",
+          "url": "https://gnnliberia.com/liberia-launches-pathways-framework-calls-for-global-partnership-on-youth-peace-security-and-development/",
+          "publishedAt": "2026-09-20T11:30:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

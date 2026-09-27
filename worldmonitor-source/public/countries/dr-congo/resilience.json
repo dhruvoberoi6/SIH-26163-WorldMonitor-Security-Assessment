@@ -1,0 +1,94 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "CD",
+  "countryName": "DR Congo",
+  "slug": "dr-congo",
+  "rank": 157,
+  "overallScore": 38.2,
+  "dimensionCoverage": 0.83,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Ebola Spread Slows in Parts of DRC",
+        "source": "Human Progress",
+        "url": "https://humanprogress.org/ebola-spread-slows-in-parts-of-ituri-but-outbreak-persists/",
+        "publishedAt": "2026-09-18T22:26:13.000Z"
+      },
+      {
+        "title": "Ebola outbreak reaches new areas in Democratic Republic of Congo",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/ebola-outbreak-reaches-new-areas-in-democratic-republic-of-congo",
+        "publishedAt": "2026-09-19T09:59:20.000Z"
+      },
+      {
+        "title": "Women and girls pay high price in DR Congo Ebola outbreak",
+        "source": "UN News",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168368",
+        "publishedAt": "2026-09-18T12:00:00.000Z"
+      },
+      {
+        "title": "DR Congo says Ebola outbreak has passed its peak",
+        "source": "France 24 Africa",
+        "url": "https://www.france24.com/en/dr-congo-says-ebola-outbreak-has-passed-its-peak",
+        "publishedAt": "2026-09-17T13:36:09.000Z"
+      },
+      {
+        "title": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Haiti",
+        "source": "globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260918-unocha01.htm",
+        "publishedAt": "2026-09-19T10:15:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nEbola spread has slowed in parts of the DRC. [1]\n\nWHAT THIS MEANS FOR DR CONGO\nWomen and girls pay a high price in the DR Congo Ebola outbreak. [3]\n\nKEY RISKS\nThe Ebola outbreak reaches new areas in the Democratic Republic of Congo. [2]\n\nWATCH ITEMS\nThe Ebola outbreak has reached new areas in the Democratic Republic of Congo. [2]",
+      "generatedAt": "2026-09-21T04:54:48.266Z",
+      "sources": [
+        {
+          "title": "Ebola Spread Slows in Parts of DRC",
+          "source": "Human Progress",
+          "url": "https://humanprogress.org/ebola-spread-slows-in-parts-of-ituri-but-outbreak-persists/",
+          "publishedAt": "2026-09-18T22:26:13.000Z"
+        },
+        {
+          "title": "Ebola outbreak reaches new areas in Democratic Republic of Congo",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/ebola-outbreak-reaches-new-areas-in-democratic-republic-of-congo",
+          "publishedAt": "2026-09-19T09:59:20.000Z"
+        },
+        {
+          "title": "Women and girls pay high price in DR Congo Ebola outbreak",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168368",
+          "publishedAt": "2026-09-18T12:00:00.000Z"
+        },
+        {
+          "title": "DR Congo says Ebola outbreak has passed its peak",
+          "source": "France 24 Africa",
+          "url": "https://www.france24.com/en/dr-congo-says-ebola-outbreak-has-passed-its-peak",
+          "publishedAt": "2026-09-17T13:36:09.000Z"
+        },
+        {
+          "title": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Haiti",
+          "source": "globalsecurity.org",
+          "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260918-unocha01.htm",
+          "publishedAt": "2026-09-19T10:15:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

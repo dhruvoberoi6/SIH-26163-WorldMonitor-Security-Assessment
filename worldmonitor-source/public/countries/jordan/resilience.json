@@ -1,0 +1,96 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "JO",
+  "countryName": "Jordan",
+  "slug": "jordan",
+  "rank": 88,
+  "overallScore": 52.9,
+  "dimensionCoverage": 0.81,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "Israeli forces prevent 104 teachers from reaching schools in northern Jordan Valley - WAFA Agency",
+        "source": "WAFA English",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9helVzUUZPekJMNS04a1QtOXE3ODFBSXcyVmduMEJwUDllV2ppNko4WUpneFBwVUNyMXZKRVBaTzVVWlAzcmY5Mmd2N2laenYyeXRmS0lGUQ?oc=5",
+        "publishedAt": "2026-09-20T18:14:07.000Z"
+      },
+      {
+        "title": "Iraq and Jordan to join Trump-GCC meeting as US-Arab diplomacy intensifies",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/news/gulf/2026/09/21/iraq-and-jordan-to-join-trump-gcc-meeting-as-us-arab-diplomacy-intensifies/",
+        "publishedAt": "2026-09-21T01:51:20.000Z"
+      },
+      {
+        "title": "French far-right leaders Marine Le Pen and Jordan Bardella say they will not tolerate Russia trying to dictate France’s policies through threats and intimidation",
+        "source": "Meduza",
+        "url": "https://meduza.io/en/news/2026/09/20/french-far-right-leaders-marine-le-pen-and-jordan-bardella-say-they-will-not-tolerate-russia-trying-to-dictate-france-s-policies-through-threats-and-intimidation",
+        "publishedAt": "2026-09-19T22:50:13.000Z"
+      },
+      {
+        "title": "Jordan reports 119 drug cases in 8th week of anti-crystal campaign-Xinhua",
+        "source": "english.news.cn",
+        "url": "https://english.news.cn/20260921/af45662c6f244cea809d5064d482d432/c.html",
+        "publishedAt": "2026-09-21T00:30:00.000Z",
+        "origin": "country-index"
+      },
+      {
+        "title": "Jordan banks won't raise interest rates on existing individual loans — ABJ",
+        "source": "jordantimes.com",
+        "url": "https://jordantimes.com/news/local/jordan-banks-wont-raise-interest-rates-on-existing-individual-loans-abj",
+        "publishedAt": "2026-09-20T20:45:00.000Z",
+        "origin": "country-index"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nIsraeli forces prevented 104 teachers from reaching schools in the northern Jordan Valley. [1]\nJordan reported 119 drug cases in the 8th week of its anti-crystal campaign. [4]\n\nWHAT THIS MEANS FOR JORDAN\nIraq and Jordan are set to join the Trump-GCC meeting as US-Arab diplomacy intensifies. [2]\n\nWATCH ITEMS\nJordan banks will not raise interest rates on existing individual loans, according to the ABJ. [5]",
+      "generatedAt": "2026-09-21T04:57:24.109Z",
+      "sources": [
+        {
+          "title": "Israeli forces prevent 104 teachers from reaching schools in northern Jordan Valley - WAFA Agency",
+          "source": "WAFA English",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9helVzUUZPekJMNS04a1QtOXE3ODFBSXcyVmduMEJwUDllV2ppNko4WUpneFBwVUNyMXZKRVBaTzVVWlAzcmY5Mmd2N2laenYyeXRmS0lGUQ?oc=5",
+          "publishedAt": "2026-09-20T18:14:07.000Z"
+        },
+        {
+          "title": "Iraq and Jordan to join Trump-GCC meeting as US-Arab diplomacy intensifies",
+          "source": "The National",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/09/21/iraq-and-jordan-to-join-trump-gcc-meeting-as-us-arab-diplomacy-intensifies/",
+          "publishedAt": "2026-09-21T01:51:20.000Z"
+        },
+        {
+          "title": "French far-right leaders Marine Le Pen and Jordan Bardella say they will not tolerate Russia trying to dictate France’s policies through threats and intimidati...",
+          "source": "Meduza",
+          "url": "https://meduza.io/en/news/2026/09/20/french-far-right-leaders-marine-le-pen-and-jordan-bardella-say-they-will-not-tolerate-russia-trying-to-dictate-france-s-policies-through-threats-and-intimidation",
+          "publishedAt": "2026-09-19T22:50:13.000Z"
+        },
+        {
+          "title": "Jordan reports 119 drug cases in 8th week of anti-crystal campaign-Xinhua",
+          "source": "english.news.cn",
+          "url": "https://english.news.cn/20260921/af45662c6f244cea809d5064d482d432/c.html",
+          "publishedAt": "2026-09-21T00:30:00.000Z",
+          "origin": "country-index"
+        },
+        {
+          "title": "Jordan banks won't raise interest rates on existing individual loans — ABJ",
+          "source": "jordantimes.com",
+          "url": "https://jordantimes.com/news/local/jordan-banks-wont-raise-interest-rates-on-existing-individual-loans-abj",
+          "publishedAt": "2026-09-20T20:45:00.000Z",
+          "origin": "country-index"
+        }
+      ]
+    },
+    "timeline": [],
+    "timelineStatus": "available",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}

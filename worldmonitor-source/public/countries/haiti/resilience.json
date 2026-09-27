@@ -1,0 +1,156 @@
+{
+  "dataset": "country-resilience-snapshot",
+  "countryCode": "HT",
+  "countryName": "Haiti",
+  "slug": "haiti",
+  "rank": 150,
+  "overallScore": 40.5,
+  "dimensionCoverage": 0.72,
+  "confidence": "standard",
+  "level": "medium",
+  "sourceStatus": "ranked",
+  "headlineEligible": true,
+  "capturedAt": "2026-08-29",
+  "methodologyFormula": "pillar-combined-penalized-v1",
+  "rankedCount": 170,
+  "source": "docs/snapshots/resilience-ranking-2026-08-29.json",
+  "license": "https://www.worldmonitor.app/docs/terms",
+  "developments": {
+    "headlines": [
+      {
+        "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+        "source": "Guardian Caribbean",
+        "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+        "publishedAt": "2026-09-20T20:17:44.000Z"
+      },
+      {
+        "title": "Zapping Haiti of September 20, 2026",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48487-zapping-haiti-of-september-20-2026.html",
+        "publishedAt": "2026-09-20T15:29:53.000Z"
+      },
+      {
+        "title": "Delegation of 20 Haitian trainers visits the Haitian Embassy in Paris",
+        "source": "HaitiLibre English",
+        "url": "https://www.icihaiti.com/en/news-48486-delegation-of-20-haitian-trainers-visits-the-haitian-embassy-in-paris.html",
+        "publishedAt": "2026-09-20T15:13:37.000Z"
+      },
+      {
+        "title": "Haiti - Social : The Ministry of Social Affairs and Labor intends to strengthen social protection",
+        "source": "HaitiLibre English",
+        "url": "https://www.haitilibre.com/en/news-48485-haiti-social-the-ministry-of-social-affairs-and-labor-intends-to-strengthen-social-protection.html",
+        "publishedAt": "2026-09-20T14:52:08.000Z"
+      },
+      {
+        "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+        "publishedAt": "2026-09-20T20:31:15.000Z"
+      }
+    ],
+    "brief": {
+      "text": "SITUATION NOW\nMore than a dozen individuals have been arrested in connection with the 2021 assassination of the Haitian president. [1]\nThe Ministry of Social Affairs and Labor intends to strengthen social protection in Haiti. [4]\n\nWHAT THIS MEANS FOR HAITI\nThe arrests and extradition of eighteen suspects to the United States over the 2021 killing indicate ongoing international legal proceedings related to the assassination. [5]\n\nWATCH ITEMS\nThe status of the delegation of 20 Haitian trainers visiting the Haitian Embassy in Paris may signal future cooperation or training activities. [3]",
+      "generatedAt": "2026-09-21T04:56:46.312Z",
+      "sources": [
+        {
+          "title": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
+          "source": "Guardian Caribbean",
+          "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
+          "publishedAt": "2026-09-20T20:17:44.000Z"
+        },
+        {
+          "title": "Zapping Haiti of September 20, 2026",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48487-zapping-haiti-of-september-20-2026.html",
+          "publishedAt": "2026-09-20T15:29:53.000Z"
+        },
+        {
+          "title": "Delegation of 20 Haitian trainers visits the Haitian Embassy in Paris",
+          "source": "HaitiLibre English",
+          "url": "https://www.icihaiti.com/en/news-48486-delegation-of-20-haitian-trainers-visits-the-haitian-embassy-in-paris.html",
+          "publishedAt": "2026-09-20T15:13:37.000Z"
+        },
+        {
+          "title": "Haiti - Social : The Ministry of Social Affairs and Labor intends to strengthen social protection",
+          "source": "HaitiLibre English",
+          "url": "https://www.haitilibre.com/en/news-48485-haiti-social-the-ministry-of-social-affairs-and-labor-intends-to-strengthen-social-protection.html",
+          "publishedAt": "2026-09-20T14:52:08.000Z"
+        },
+        {
+          "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+          "publishedAt": "2026-09-20T20:31:15.000Z"
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "title": "GDELT 186 — in Haiti",
+        "summary": "source: www.bbc.com",
+        "sourceUrl": "https://www.bbc.com/news/articles/cvwyz2jr4r7eo",
+        "occurredAt": "2026-09-21T04:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 186 — in Haiti",
+        "summary": "source: www.bbc.co.uk",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwyz2jr4r7eo",
+        "occurredAt": "2026-09-21T04:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Haiti",
+        "summary": "source: www.scmp.com",
+        "sourceUrl": "https://www.scmp.com/news/world/united-states-canada/article/3368182/us-extradites-18-suspects-2021-killing-haitian-president",
+        "occurredAt": "2026-09-21T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Haiti",
+        "summary": "source: www.scmp.com",
+        "sourceUrl": "https://www.scmp.com/news/world/united-states-canada/article/3368182/us-extradites-18-suspects-2021-killing-haitian-president",
+        "occurredAt": "2026-09-21T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Haiti",
+        "summary": "source: www.scmp.com",
+        "sourceUrl": "https://www.scmp.com/news/world/united-states-canada/article/3368182/us-extradites-18-suspects-2021-killing-haitian-president",
+        "occurredAt": "2026-09-21T03:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Haiti",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/09/21/suspects-in-2021-killing-of-haitian-president-flown-to-us-to-face-trial",
+        "occurredAt": "2026-09-21T02:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Haiti",
+        "summary": "source: www.freemalaysiatoday.com",
+        "sourceUrl": "https://www.freemalaysiatoday.com/category/world/2026/09/21/suspects-in-2021-killing-of-haitian-president-flown-to-us-to-face-trial",
+        "occurredAt": "2026-09-21T02:45:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Haiti",
+        "summary": "source: www.staradvertiser.com",
+        "sourceUrl": "https://www.staradvertiser.com/2026/09/20/breaking-news/suspects-in-2021-killing-of-haitian-president-flown-to-u-s-to-face-trial/",
+        "occurredAt": "2026-09-21T02:15:00.000Z",
+        "domain": "conflict"
+      },
+      {
+        "title": "GDELT 193 — in Haiti",
+        "summary": "source: www.internazionale.it",
+        "sourceUrl": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/20/suspects-in-2021-killing-of-haitian-president-flown-to-u-s-to-face-trial",
+        "occurredAt": "2026-09-20T21:00:00.000Z",
+        "domain": "conflict"
+      }
+    ],
+    "timelineStatus": "partial",
+    "briefSkipped": null,
+    "capturedAt": "2026-09-21T04:51:57.097Z"
+  }
+}
